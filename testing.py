@@ -19,7 +19,7 @@ client = AzureOpenAI(
 messages = [
         {
             "role": "user",
-            "content": f"Question: "Who are you?""
+            "content": "Question: ‘Who are you?’"
         }
     ]
 
