@@ -1,0 +1,78 @@
+name: Debug Checks
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  debug:
+    runs-on: [self-hosted, gpu]
+    env:
+      # Adjust this path to match your actual runner setup
+      PRIVATE_DATA_ROOT: /home/runner/private-rag-data
+      EVAL_SCRIPTS_DIR: /home/runner/private-rag-data/eval_scripts
+      VENV_PATH: /home/runner/rag-venv
+
+    steps:
+      # 1. Clone student code
+      - name: Checkout student repository
+        uses: actions/checkout@v4
+
+      # 2. Activate persistent virtual environment (created once on runner)
+      - name: Activate persistent venv
+        run: |
+          if [ -d "$VENV_PATH" ]; then
+            source "$VENV_PATH/bin/activate"
+          else
+            echo "Persistent venv not found at $VENV_PATH" >&2
+            exit 1
+          fi
+
+      # 3. Fast dependency sync (only installs what's missing/changed)
+      - name: Sync dependencies (fast check)
+        run: |
+          pip install --upgrade pip --quiet
+          pip install -r requirements.txt --no-deps --quiet || true
+          # --no-deps avoids reinstalling transitive deps every time
+          # || true prevents job failure on minor pip warnings
+
+      # 4. Run debug tests from private location
+      - name: Run debug tests
+        id: debug_run
+        run: |
+          python "$EVAL_SCRIPTS_DIR/debug_tests.py" --output debug-result.json 2> debug-errors.log || true
+          # Capture exit code and output for reporting
+          echo "exit_code=$?" >> $GITHUB_OUTPUT
+          cat debug-result.json || echo '{}' > debug-result.json
+
+      # 5. Report results to GitHub Classroom
+      - name: Report to Classroom
+        if: always()
+        uses: classroom-resources/autograding-grading-reporter@v1
+        with:
+          runners: debug
+        env:
+          # Pass the result JSON or formatted string
+          DEBUG_RESULTS: ${{ steps.debug_run.outputs.result || steps.debug_run.outputs.stdout || 'No output' }}
+
+      # 6. Optional: Upload logs on failure (helpful for you to debug)
+      - name: Upload debug logs on failure
+        if: failure() || cancelled()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-logs-${{ github.run_id }}
+          path: |
+            debug-errors.log
+            debug-result.json
+          retention-days: 7
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python debug_tests.py
+      - name: Report
+        if: always()
+        uses: classroom-resources/autograding-grading-reporter@v1
+        with:
+          runners: debug

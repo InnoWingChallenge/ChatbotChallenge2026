@@ -1,0 +1,80 @@
+      - name: Load teacher questions and run RAG
+        id: rag
+        env:
+          TEACHER_QUESTIONS: ${{ secrets.TEACHER_QUESTIONS }}
+        run: |
+          python - << 'EOF'
+          import json
+          import traceback
+          from main import generate_rag_answers
+
+          # Load questions from the visible JSON file
+          try:
+              with open('questions.json', 'r') as f:
+                  questions = json.load(f)
+              print(f"✅ Loaded {len(questions)} questions from questions.json")
+          except FileNotFoundError:
+              raise FileNotFoundError("questions.json not found. Please make sure the file exists in the repository root.")
+
+          try:
+              answers = generate_rag_answers(questions)
+
+              # Save full results
+              results = {
+                  "status": "success",
+                  "questions": questions,
+                  "answers": answers
+              }
+              with open("rag_results.json", "w") as f:
+                  json.dump(results, f, indent=2)
+
+              with open("rag_status.txt", "w") as f:
+                  f.write("SUCCESS")
+
+              print("\n=== RAG Execution Successful ===")
+              for q, a in zip(questions, answers):
+                  print(f"Q: {q}")
+                  print(f"A: {a}")
+                  print("-" * 80)
+
+          except Exception as e:
+              error_msg = traceback.format_exc()
+
+              with open("rag_results.json", "w") as f:
+                  json.dump({"status": "error", "error": str(e)}, f, indent=2)
+
+              with open("rag_error.txt", "w") as f:
+                  f.write(error_msg)
+
+              with open("rag_status.txt", "w") as f:
+                  f.write("FAILED")
+
+              print("❌ RAG execution failed:")
+              print(error_msg)
+              raise
+          EOF
+
+      # Unified Feedback Comment (always posts)
+      - name: Post RAG Feedback to Student
+        if: always()
+        uses: peter-evans/commit-comment@v3
+        with:
+          body: |
+            ## RAG Autograding Result
+
+            ${{ steps.rag.outcome == 'success' && '✅ **Success**' || '❌ **Failed**' }}
+
+            Your `generate_rag_answers()` function was executed on the hidden teacher questions.
+
+            **Status**: ${{ steps.rag.outcome == 'success' && 'All questions processed successfully' || 'Execution failed' }}
+
+            ${{ steps.rag.outcome == 'failure' && format('
+            ### Error Details
+            ', readfile('rag_error.txt')) || '' }}
+
+            **Next steps:**
+            - Full detailed logs → Check the **Actions** tab (look for "Load teacher questions and run RAG")
+            - Results file → `rag_results.json` (contains your answers or error info)
+            - Fix & retry → Go to **Actions** → "Test Run" → "Run workflow"
+
+            You can trigger this again anytime.

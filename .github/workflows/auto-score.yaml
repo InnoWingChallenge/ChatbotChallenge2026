@@ -1,0 +1,21 @@
+name: Auto Score (Reference)
+
+on:
+  workflow_dispatch:
+    inputs:
+      notes:
+        description: 'Optional notes (model, changes...)'
+        required: false
+
+jobs:
+  score:
+    runs-on: [self-hosted, gpu] # Adjust to your runner labels
+    steps:
+      # checkout, setup, install
+      - run: python full_score.py --output results.json
+      - name: Report score
+        uses: classroom-resources/autograding-grading-reporter@v1
+        with:
+          runners: score
+        env:
+          SCORE_RESULTS: ${{ steps.score-step.outputs.result }}  # parse from JSON

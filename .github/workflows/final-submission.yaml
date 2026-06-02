@@ -1,0 +1,35 @@
+name: Final Submission (One-time)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type FINAL-SUBMIT to confirm (this is your only attempt)'
+        required: true
+
+jobs:
+  submit:
+    runs-on: [self-hosted, gpu]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check if already submitted
+        run: |
+          if [[ -f .submitted ]]; then
+            echo "Error: Final submission already done." >&2
+            exit 1
+          fi
+
+      - name: Run final RAG on hidden set
+        run: python generate_final_answers.py --output answers.json
+
+      - name: Mark as submitted
+        run: |
+          echo "Submitted at $(date)" > .submitted
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .submitted answers.json
+          git commit -m "Final submission - $(date)"
+          git push
+
+      - name: Confirmation
+        run: echo "Submission successful. No score shown. Instructor will review."
