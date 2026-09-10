@@ -1,0 +1,61 @@
+Home  About  Venues  Equipment  Funding  Programmes  Events  News  Contact  Harbour Innovation Centre  Faculty of Engineering
+
+Using the Centre
+
+This page collects everything a new user needs, in the order you will need it.
+
+Getting in
+
+The Kwok Building is open from 8am to 10pm on weekdays and from 9am to 6pm on
+Saturdays. Your student card opens the main door. The Centre occupies the first
+three floors: the Event Hall and machine room on the ground floor, the gallery,
+brainstorming area and office on the first, and both makerspaces and the print
+room on the second.
+
+Your first visit
+
+No registration is needed to use the open areas. Walk in, find a free desk in
+Makerspace B, and start. If you intend to use the print room or the machine room,
+book an induction first, because you will not be admitted without one.
+
+Inductions
+
+The print room induction takes about forty minutes and covers filament loading,
+bed levelling, the slicer settings the Centre expects, and what to do when a print
+fails. It runs on Tuesday and Thursday afternoons.
+
+The machine room induction is longer and runs monthly. It covers extraction, the
+material whitelist, emergency stops and the fire procedure. It is a condition of
+insurance, not a formality, and it cannot be shortened or taken remotely.
+
+Booking
+
+Both makerspaces are booked through the venue portal in two hour slots. Slots open
+fourteen days ahead and are released at 9am. Teams of three or more may book
+Makerspace A; individuals should use the drop-in desks in Makerspace B.
+
+Bookings not claimed within twenty minutes are released to whoever is waiting.
+
+Consumables and storage
+
+Common consumables are free for project work up to twenty dollars per team per
+term. Anything beyond that goes through the Funding Scheme. Filament is free for
+project work; resin is charged at cost.
+
+Projects may be stored in the lockers on the second floor for up to four weeks.
+Label them with a name and a date. Unlabelled items are cleared at the end of each
+term.
+
+Conduct
+
+Both makerspaces are shared. Clear your bench, return tools to the lockers, and do
+not leave a machine running unattended overnight unless the print job was started
+before 5pm and logged with a technician.
+
+Reporting problems
+
+Faults go to the technicians rather than to the office. There is a fault log by
+the door of each room. If a machine is unsafe, tag it and tell someone rather than
+leaving it for the next user to discover.
+
+Harbour Innovation Centre, Faculty of Engineering. Opening hours 9am to 9pm weekdays. Contact hic@example.edu. Accessibility  Privacy  Sitemap  Copyright 2025 Harbour Innovation Centre. All rights reserved.

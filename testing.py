@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 import os
-import chromadb
+# import chromadb
 from openai import AzureOpenAI
 
 load_dotenv()

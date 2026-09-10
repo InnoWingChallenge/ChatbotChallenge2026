@@ -1,0 +1,19 @@
+Home  About  Venues  Equipment  Funding  Programmes  Events  News  Contact  Harbour Innovation Centre  Faculty of Engineering
+
+3D Printers
+
+The Centre runs seven 3D printers, all in the print room on the second floor next
+to Makerspace A. Filament printing is free for project work. Resin printing is
+charged at cost.
+
+  Model            Type       Build volume     Count
+  Prusa MK4        FDM        250x210x220mm    4
+  Bambu X1C        FDM        256x256x256mm    2
+  Formlabs Form 4  Resin      200x125x210mm    1
+
+An induction is required before first use and takes about forty minutes. Book it
+through the equipment portal. Inductions run on Tuesday and Thursday afternoons.
+
+Print jobs longer than eight hours must be started before 5pm.
+
+Harbour Innovation Centre, Faculty of Engineering. Opening hours 9am to 9pm weekdays. Contact hic@example.edu. Accessibility  Privacy  Sitemap  Copyright 2025 Harbour Innovation Centre. All rights reserved.

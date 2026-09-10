@@ -3,6 +3,7 @@ import os
 from typing import List
 import chromadb
 from openai import AzureOpenAI
+import json
 
 # ====================== LOAD ENVIRONMENT ======================
 load_dotenv()
@@ -21,11 +22,13 @@ def rag_answer(question: str) -> str:
     """
     
     #Implement your chatbot logic here.
-    answer = ""
+    
+    answer = "testing"
     return answer
 
 # ====================== PUBLIC API FUNCTION ======================
 def generate_rag_answers(questions: List[str]) -> List[str]:
+
     """
     Input: List of questions (strings)
     Output: zip of (question, answer) pairs
@@ -38,6 +41,7 @@ def generate_rag_answers(questions: List[str]) -> List[str]:
         ])
         print(answers)
     """
+    # Do not modify the code below this line. This is the public API function that will be called by the frontend.
     answers = []
     for question in questions:
         print(f"🤖 Answering: {question[:80]}{'...' if len(question) > 80 else ''}")
