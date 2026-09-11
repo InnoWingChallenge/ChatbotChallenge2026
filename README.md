@@ -1,65 +1,60 @@
-# InnoWing Chatbot Challenge
-This is a testing repository.
+# InnoWing Chatbot Challenge 2026
 
-## 📦 Requirements
+Materials for the InnoWing Chatbot Challenge — building a retrieval-augmented
+(RAG) chatbot about the Tam Wing Fan Innovation Wing.
 
-### **General**
+## 👉 Start here: [`submission_repo/`](submission_repo/)
 
-*   Git
-*   A code editor (VS Code recommended)
+**Your bot lives in [`submission_repo/`](submission_repo/).** That folder is the
+scaffold you fork, build on, and submit. Everything else in this repository is
+supporting material.
 
-### **Python Setup**
+## Repository layout
 
-*   Python **3.9+**
-*   `pip` for dependency installation
+| Path | What it is |
+|---|---|
+| [`submission_repo/`](submission_repo/) | **The submission scaffold — start here.** `main.py` + `bot/` + `build/`. This is what you fork and submit. |
+| [`Labs/`](Labs/) | Workshop lab notebooks (`lab1`–`lab5`) with a sample corpus and prebuilt index for practice. Not your submission. |
+| [`Slides/`](Slides/) | Workshop decks: W0 (setup & rules), W1 (RAG pipeline), W2 (visual & physical data). |
+| [`deprecated/`](deprecated/) | Old monolithic prototype, kept for reference only. **Do not build against it.** |
 
-## 🚀 Getting Started
+## Getting started
 
-Clone the repository:
+Requirements: Git, Python **3.9+**, and a code editor (VS Code recommended).
 
-```bash
-git clone https://github.com/HKUGenAI/InnoWingChatbotChallenge-test.git
-cd InnoWingChatbotChallenge-test
-```
+1. **Fork** this repository, then clone your fork.
+2. Work inside [`submission_repo/`](submission_repo/):
 
-## 🐍 Python Setup
+   ```bash
+   cd submission_repo
+   python -m venv .venv
+   # macOS & Linux:
+   source .venv/bin/activate
+   # Windows:
+   .venv\Scripts\activate
 
-### 1. Create and activate a virtual environment
+   pip install -r requirements.txt
+   ```
 
-```bash
-# macOS & Linux
-python3 -m venv .venv
-source .venv/bin/activate
+3. Add your credentials:
 
-# Windows
-python -m venv .venv
-.venv\Scripts\activate
-```
+   ```bash
+   cp .env.example .env   # then fill in your key
+   python check_setup.py  # verify your setup before Workshop 1
+   ```
 
-### 2. Install dependencies
+4. Build your bot — edit `bot/answer.py` and the files under `build/`
+   (`main.py`, `bot/llm.py`, `bot/store.py` are given), build your index, then run:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   python main.py "your question"
+   ```
 
-### 3. Set environment variables
+   That is the same command the grader uses.
 
-```bash
-cp .env.example .env
-```
+## Workshops
 
-### 4. Run the chatbot
-
-```bash
-python api.py
-```
-
-You should see the reply to an example chat. Below are the details of the example messages:
-
-User: "Does Azure OpenAI support customer managed keys?"
-
-AI: "Yes, customer managed keys are supported by Azure OpenAI."
-
-User: "Do other Azure AI services support this too?"
-
-AI: ... (the answer you see)
+Work through the notebooks in [`Labs/`](Labs/) alongside the decks in
+[`Slides/`](Slides/). The labs are practice exercises and are **not** your
+submission — see [`Labs/Notebook_Guide.md`](Labs/Notebook_Guide.md) for how they
+map to the two workshops.

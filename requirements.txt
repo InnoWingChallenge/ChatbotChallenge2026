@@ -1,3 +1,14 @@
+# NOTE: This is NOT the dependency list for your bot.
+#
+# The authoritative requirements for the challenge live in
+#     submission_repo/requirements.txt
+# Install those to build and run your submission:
+#     cd submission_repo
+#     pip install -r requirements.txt
+#
+# The Labs have their own list too: Labs/requirements.txt
+#
+# The packages below only cover repo-level tooling / CI.
 python-dotenv
 openai
 chromadb
