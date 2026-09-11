@@ -1,19 +1,28 @@
 # Chatbot Challenge 2026: Notebook Guide
 
-Six notebooks. One is the bot you build and submit; five are the lab
-sessions run during the workshops.
+Five notebooks. These are lab exercises for the two workshops, not your
+submission.
 
-## `starter_template.ipynb` — start here
+## What you submit
 
-This is your bot. You return to it across both workshops, filling in one
-part at a time: scrape, index, describe images, answer, test, then export
-a submission-ready `trivia.py` from the final cell.
+Your bot is the `.py` package in your forked repository:
 
-The export matters. Codabench runs your bot as a command line program, so
-a notebook cannot be the submission. Part 6 writes `trivia.py` from the
-functions you defined, which means you never maintain the same code in
-two places. It also reads the API key from `AZURE_OPENAI_KEY` at runtime,
-so your key never ends up in the repository.
+```
+main.py              given, frozen, the entry point
+bot/
+  answer.py          you write this: rag_answer, rag_answer_batch
+  llm.py             given: the gateway client
+  store.py           given: the vector store wrapper
+build/
+  scrape.py          you write this: crawl and extract
+  index.py           you write this: chunk and index
+  images.py          you write this: describe and index images
+check_setup.py       given: run this before Workshop 1
+```
+
+Edit `bot/answer.py` and the files under `build/` directly. Run your bot
+with `python main.py "question"` from a terminal, the same command the
+grader uses.
 
 ## The lab notebooks
 
@@ -49,16 +58,16 @@ in three ways that matter:
   is the name someone gave the deployment when it was created. It may not
   match the model name at all.
 - **Every call needs an `api-version`.** It is pinned in the setup cell.
-- **This gateway routes by capability**, so chat and embeddings sit at
-  different URLs and each needs its own client. The setup cell builds
-  `chat_client` and `embed_client` for that reason.
+- **This gateway routes by capability**, so chat, vision and embeddings
+  sit at different URLs. The setup cell builds three separate clients
+  for this reason: `chat_client`, `vision_client`, `embed_client`.
 
 The setup cell already has the real values, so there is nothing to fill
 in. For reference:
 
 | | |
 |---|---|
-| Chat endpoint | `https://api-iw.azure-api.net/sig-shared-jpeast` |
+| Chat endpoint | `https://api-iw.azure-api.net/sig-shared-jpeast-increased` |
 | Embedding endpoint | `https://api-iw.azure-api.net/sig-embedding` |
 | API version | `2025-01-01-preview` |
 | Chat deployment | `gpt-4o-mini` |
@@ -68,21 +77,18 @@ in. For reference:
 Chat and vision are separate deployments. `describe_image` uses the
 vision one; everything else uses chat.
 
-### One client per deployment
-
 This gateway wants the **full path** as the endpoint: deployment,
-operation and api-version included. So the setup cell builds three
-clients rather than one, and each is bound to a single deployment.
+operation and api-version included, which is why one client only ever
+talks to one deployment:
 
 ```
-chat    .../sig-shared-jpeast/deployments/gpt-4o-mini/chat/completions?api-version=...
-vision  .../sig-shared-jpeast/deployments/gpt-5-mini/chat/completions?api-version=...
+chat    .../sig-shared-jpeast-increased/deployments/gpt-4o-mini/chat/completions?api-version=...
+vision  .../sig-shared-jpeast-increased/deployments/gpt-5-mini/chat/completions?api-version=...
 embed   .../sig-embedding/openai/deployments/text-embedding-3-small/embeddings?api-version=...
 ```
 
-The chat route has no `/openai` segment and the embedding route does.
-That asymmetry is real and was confirmed against the live gateway, so
-do not make them match.
+Notice the chat route has no `/openai` segment and the embedding route
+does. That is correct. Do not make them match.
 
 **Do not commit a notebook with a key visible in its output.** If you
 do, the key is rotated and your submission breaks. Clear outputs before
@@ -119,24 +125,26 @@ missing.
 - `sample_chroma/` — the sample corpus already indexed, for lab 1
 - `images/` — five Inno Wing photographs, for labs 3 and 4
 
-## How the template and the labs fit together
+## The labs and your submission are separate
 
-The labs use the sample corpus so everyone is looking at the same data
-during a session. The template uses the real Inno Wing sites, which is
-what you submit.
+The labs run entirely on the sample corpus, in their own `data/chroma`
+folder. Your submission runs on the real Inno Wing sites, in its own
+`data/chroma` folder, inside your forked repository. Nothing is shared
+between the two, and nothing needs to be copied from one to the other.
 
-Both write to `data/chroma`, collection `workshop`. If you run the
-template's Part 2 after lab 2, it rebuilds that index from the real
-sites, which is what you want. Labs 3, 4 and 5 then work against your
-real data rather than the sample.
+The labs teach you the technique. You then apply that technique for
+real when you write `build/scrape.py`, `build/index.py`,
+`build/images.py` and `bot/answer.py` in your own repository.
 
 A reasonable order:
 
 1. Before Workshop 1: nothing
 2. Workshop 1: labs 1 and 2, on the sample corpus
-3. Between the workshops: template Parts 1 and 2, on the real sites
-4. Workshop 2: labs 3, 4 and 5, against your own index
-5. Between Workshop 2 and 21 October: template Parts 3 to 6
+3. Between the workshops: write `build/scrape.py` and `build/index.py`
+   in your repository, against the real sites
+4. Workshop 2: labs 3, 4 and 5, on the sample corpus
+5. Between Workshop 2 and 21 October: write `build/images.py` and
+   `bot/answer.py` in your repository
 
 ## If chromadb raises KeyError: '_type'
 
@@ -152,7 +160,7 @@ rm -rf data/chroma sample_chroma      # Windows: rmdir /s data\chroma
 
 `sample_chroma/` comes from your organiser, so ask for a rebuild rather
 than rebuilding it yourself. `data/chroma` you rebuild by re-running
-lab 2 or the starter template.
+`build/index.py`.
 
 `requirements.txt` pins chromadb for this reason. Installing an
 unpinned version is the usual cause.
