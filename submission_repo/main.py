@@ -50,6 +50,5 @@ def main() -> None:
     for answer in answers:
         print("" if answer is None else str(answer))
 
-
 if __name__ == "__main__":
     main()

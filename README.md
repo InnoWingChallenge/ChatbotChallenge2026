@@ -16,7 +16,6 @@ supporting material.
 | [`submission_repo/`](submission_repo/) | **The submission scaffold — start here.** `main.py` + `bot/` + `build/`. This is what you fork and submit. |
 | [`Labs/`](Labs/) | Workshop lab notebooks (`lab1`–`lab5`) with a sample corpus and prebuilt index for practice. Not your submission. |
 | [`Slides/`](Slides/) | Workshop decks: W0 (setup & rules), W1 (RAG pipeline), W2 (visual & physical data). |
-| [`deprecated/`](deprecated/) | Old monolithic prototype, kept for reference only. **Do not build against it.** |
 
 ## Getting started
 
