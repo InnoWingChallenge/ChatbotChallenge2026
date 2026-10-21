@@ -1,0 +1,117 @@
+{
+  "title": "Benchtop flowmeter, pump block and pressure gauge on stained workbench",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the scene.",
+    "One vertical clear plastic flowmeter device mounted on a clear acrylic base is visible at left foreground; it has a black knob at its lower left and a floated indicator inside a vertical channel.",
+    "One metal square pump or block assembly with four visible hex bolts on its front face is centered in the image; a small black nozzle or fitting projects from its front face.",
+    "One small clear glass beaker (about 100–150 mL scale appearance) containing a transparent liquid sits directly beneath the pump/block on the work surface.",
+    "One round dial pressure gauge is visible to the right of the pump/block, attached to metal tubing and valve fittings.",
+    "At least one L-shaped metal valve assembly with a black plastic handwheel is connected to the pressure gauge via metal tubing.",
+    "One tall clear glass beaker is visible behind the pump/block, slightly to the right.",
+    "One plastic bottle with a blue screw cap and wrapped in crumpled aluminum foil is visible behind and to the right of the pressure gauge.",
+    "One adjustable open-end wrench or spanner is partially visible at the far right edge of the bench (cropped).",
+    "Multiple lengths of metal tubing and several compression fittings join the pump/block and gauge; these are visible on the bench surface."
+  ],
+  "visible_text": [
+    "Dwyer",
+    "GPH WATER",
+    "10",
+    "20",
+    "30",
+    "40"
+  ],
+  "spatial_relations": [
+    "The clear plastic flowmeter stands upright on the left front of the bench and is mounted on a clear acrylic base; it is left of the metal pump/block.",
+    "The metal pump/block is centered on the bench in the foreground with a small glass beaker placed directly under its front face.",
+    "The pressure gauge is positioned to the right of the pump/block and is connected by a short section of metal tubing to the pump assembly; the gauge face points roughly toward the camera.",
+    "A metal valve assembly with a black handwheel is inline with the pressure gauge and lies to the right of the gauge toward the bench edge.",
+    "A tall clear beaker sits behind the pump/block and slightly right of center, with the foil-wrapped bottle with blue cap behind and to the right of the gauge.",
+    "The partially visible wrench is at the far right foreground on the same benchtop surface as the pump and gauge."
+  ],
+  "colours_and_materials": [
+    "The flowmeter body is transparent clear plastic with black knob and a tan/brown internal float indicator visible in the channel.",
+    "The pump/block and tubing fittings are metallic silver, likely stainless or aluminium appearance.",
+    "The benchtop surface is a beige or light tan material with visible stains and dark spots.",
+    "The small beaker under the pump contains a clear, colourless liquid.",
+    "The bottle behind the gauge has a blue plastic screw cap and is wrapped in reflective silver-coloured aluminium foil.",
+    "The pressure gauge face is white with dark markings and a chrome or stainless metal bezel."
+  ],
+  "uncertainties": [
+    "Room name or number is not visible in the image; location is unknown from image.",
+    "Small text on the pressure gauge face and on some metal fittings is not legible in this image; exact gauge scale labels, units and any maker/model text on the gauge could not be transcribed.",
+    "Any brand or model labels on the metal pump/block are not legible from this perspective.",
+    "Scale numerals transcribed for the flowmeter ('10', '20', '30', '40') are visible but smaller graduation markings or unit text other than 'GPH WATER' could not be fully read.",
+    "The wrench at the right edge is partially cropped; its full type and length cannot be determined."
+  ],
+  "visual_facts": [
+    "No people are visible in the scene.",
+    "One vertical clear plastic flowmeter device mounted on a clear acrylic base is visible at left foreground; it has a black knob at its lower left and a floated indicator inside a vertical channel.",
+    "One metal square pump or block assembly with four visible hex bolts on its front face is centered in the image; a small black nozzle or fitting projects from its front face.",
+    "One small clear glass beaker (about 100–150 mL scale appearance) containing a transparent liquid sits directly beneath the pump/block on the work surface.",
+    "One round dial pressure gauge is visible to the right of the pump/block, attached to metal tubing and valve fittings.",
+    "At least one L-shaped metal valve assembly with a black plastic handwheel is connected to the pressure gauge via metal tubing.",
+    "One tall clear glass beaker is visible behind the pump/block, slightly to the right.",
+    "One plastic bottle with a blue screw cap and wrapped in crumpled aluminum foil is visible behind and to the right of the pressure gauge.",
+    "One adjustable open-end wrench or spanner is partially visible at the far right edge of the bench (cropped).",
+    "Multiple lengths of metal tubing and several compression fittings join the pump/block and gauge; these are visible on the bench surface.",
+    "The flowmeter body is transparent clear plastic with black knob and a tan/brown internal float indicator visible in the channel.",
+    "The pump/block and tubing fittings are metallic silver, likely stainless or aluminium appearance.",
+    "The benchtop surface is a beige or light tan material with visible stains and dark spots.",
+    "The small beaker under the pump contains a clear, colourless liquid.",
+    "The bottle behind the gauge has a blue plastic screw cap and is wrapped in reflective silver-coloured aluminium foil.",
+    "The pressure gauge face is white with dark markings and a chrome or stainless metal bezel."
+  ],
+  "id": "a9a48227d437cc7243bf1cb4",
+  "sha256": "b634532036bb13458dac5f0cdf2fe4736bc564b0d075dd56edc0e051c9d4d3fa",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:58:00.905491+00:00",
+  "input_resolution": [
+    2400,
+    1879
+  ],
+  "input_sha256": "c8d8260c4c11a7011213914d08c4ea10b8dda40b97ad2c5b30e9c5a1c02fc340",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauKrVogJNv7rVI2EfDbcmQENeumN",
+  "usage": {
+    "completion_tokens": 1049,
+    "prompt_tokens": 2093,
+    "total_tokens": 3142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1185,
+      "engine_ttlt_ms": 10334,
+      "pre_inference_ms": 334,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2069,
+      "service_ttlt_ms": 11214,
+      "user_visible_ttft_ms": 1735
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

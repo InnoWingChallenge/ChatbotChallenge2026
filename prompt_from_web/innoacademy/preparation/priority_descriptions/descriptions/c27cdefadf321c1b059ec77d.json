@@ -1,0 +1,112 @@
+{
+  "title": "Large robotic fish-like device on pool deck with 'BREED HKU' marking",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One large fish-shaped robotic device or hull assembly is visible lying on its side on the pool deck near the pool edge; the device occupies most of the image foreground and appears to be a single assembly.",
+    "One human arm and hand are visible at the top-right of the image, with the hand grasping the robot's tail; the arm/hand is cropped at the image edge.",
+    "One black mounting or bracket piece is visible attached to the underside of the device near its midsection.",
+    "One pair of articulated tail fins (two fin halves) is visible at the right end of the device; the fins are attached and splashing water into the pool.",
+    "One orange lifebuoy is visible hanging on the right-side railing in the background.",
+    "One orange starting block or seat-shaped object is visible at the far left edge of the image (partially visible and cropped).",
+    "A row of small triangular pennant flags is visible across the top of the image; nine pennants are individually visible.",
+    "Multiple small blue floating lane markers are visible in the pool at the right side; at least six individual blue floats can be counted along the lane rope.",
+    "Spectator seating (concrete or tiled stepped bleachers) is visible along the left side of the scene; the stepped seating is a continuous structure rather than discrete counted items."
+  ],
+  "visible_text": [
+    "BREED HKU",
+    "NO"
+  ],
+  "spatial_relations": [
+    "The robotic device lies on its side on the tiled pool deck, oriented roughly left-to-right across the image with its nose at the left and tail at the right.",
+    "The device's tail extends over the pool edge and the tail fins are above the pool water at the right side; the hand is holding the tail from above and slightly behind the fins.",
+    "The black mounting/bracket piece is attached beneath the device near the mid-to-rear section and sits between the device body and the tiled deck.",
+    "Concrete or tiled stepped spectator seating runs along the left side of the image behind the deck, parallel to the pool.",
+    "A row of triangular pennants hangs across the top of the image, spanning from left to right above the pool and device.",
+    "The pool lanes run from foreground to background on the right side of the image; lane ropes and blue lane floats lie on the water surface parallel to the pool edge."
+  ],
+  "colours_and_materials": [
+    "The robotic device hull appears off-white to pale beige and looks like a smooth, possibly plastic or composite surface with visible water droplets.",
+    "A black mounting/bracket is attached to the bottom/midsection of the device; the bracket has a matte finish.",
+    "The pool water is blue and reflective; lane ropes have yellow and blue colors visible in the right background.",
+    "The tiled pool deck is light beige with a textured, grid-like tile pattern.",
+    "Triangular pennant flags are multicolored (visible blue, green, red, yellow) and are suspended above the pool on a string.",
+    "Bleacher steps at left are pale stone or concrete in a light cream color; railings in the background appear dark green or black metal."
+  ],
+  "uncertainties": [
+    "Location is not indicated by any visible room name or number in the image; therefore the location is unknown from the image.",
+    "The small printed tag or sign floating near the tail splash in the pool is present but its text is not legible from this view.",
+    "The visible 'NO' text on the device is legible but context or complete label is not shown; it is located near the black bracket on the device's side.",
+    "Some objects are partially cropped (the human arm/hand at top-right and the orange object at the far left) so their full extent cannot be determined.",
+    "Exact identification of the device material (plastic, composite, or other) is uncertain and reported here as a visual appearance only.",
+    "Counts of lane marker floats and pennants are based on individually distinguishable elements visible in this frame; additional similar elements may exist outside the image."
+  ],
+  "visual_facts": [
+    "One large fish-shaped robotic device or hull assembly is visible lying on its side on the pool deck near the pool edge; the device occupies most of the image foreground and appears to be a single assembly.",
+    "One human arm and hand are visible at the top-right of the image, with the hand grasping the robot's tail; the arm/hand is cropped at the image edge.",
+    "One black mounting or bracket piece is visible attached to the underside of the device near its midsection.",
+    "One pair of articulated tail fins (two fin halves) is visible at the right end of the device; the fins are attached and splashing water into the pool.",
+    "One orange lifebuoy is visible hanging on the right-side railing in the background.",
+    "One orange starting block or seat-shaped object is visible at the far left edge of the image (partially visible and cropped).",
+    "A row of small triangular pennant flags is visible across the top of the image; nine pennants are individually visible.",
+    "Multiple small blue floating lane markers are visible in the pool at the right side; at least six individual blue floats can be counted along the lane rope.",
+    "Spectator seating (concrete or tiled stepped bleachers) is visible along the left side of the scene; the stepped seating is a continuous structure rather than discrete counted items.",
+    "The robotic device hull appears off-white to pale beige and looks like a smooth, possibly plastic or composite surface with visible water droplets.",
+    "A black mounting/bracket is attached to the bottom/midsection of the device; the bracket has a matte finish.",
+    "The pool water is blue and reflective; lane ropes have yellow and blue colors visible in the right background.",
+    "The tiled pool deck is light beige with a textured, grid-like tile pattern.",
+    "Triangular pennant flags are multicolored (visible blue, green, red, yellow) and are suspended above the pool on a string.",
+    "Bleacher steps at left are pale stone or concrete in a light cream color; railings in the background appear dark green or black metal."
+  ],
+  "id": "c27cdefadf321c1b059ec77d",
+  "sha256": "73517a7bd9c0bfa708134eeb33c791e50a5a610905785ef46dcfc1fbf6a67ee6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:19:41.871851+00:00",
+  "input_resolution": [
+    2400,
+    1100
+  ],
+  "input_sha256": "7acac9a453733212ba447c5e8f7b18c83bf60da453455cfcfc2c1fbc0a74508f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatjlCJKoFKp3KjEokMVtolkRlxLr",
+  "usage": {
+    "completion_tokens": 1236,
+    "prompt_tokens": 2727,
+    "total_tokens": 3963,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1294,
+      "engine_ttlt_ms": 10967,
+      "pre_inference_ms": 401,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2274,
+      "service_ttlt_ms": 11976,
+      "user_visible_ttft_ms": 1873
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

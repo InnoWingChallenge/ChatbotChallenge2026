@@ -1,0 +1,27 @@
+{
+  "id": "3f43407a2bcae6cbe652de67",
+  "sha256": "271620cf82a9b1889d1fccdff25211ec7180d2c95e5196ade71ade80c42518ec",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Group working with electronics kits around a table",
+  "visible_text": [
+    "Group 5"
+  ],
+  "visual_facts": [
+    "Several people sit around a light wood table, leaning over small components and printed instructions.",
+    "Open cardboard trays and clear plastic bags holding parts cover much of the table.",
+    "A large projection screen at the rear displays two instructional diagrams.",
+    "Benches and equipment are visible in the bright workshop behind the group."
+  ],
+  "spatial_relations": [
+    "The people face inward toward the shared table and kits.",
+    "The projection screen is behind the group.",
+    "Boxes and bags of components are spread across the table between the people."
+  ],
+  "uncertainties": [
+    "The small projected labels and components are not legible enough to identify specific parts."
+  ]
+}

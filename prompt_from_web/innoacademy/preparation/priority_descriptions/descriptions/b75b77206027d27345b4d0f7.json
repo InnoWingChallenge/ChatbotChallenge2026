@@ -1,0 +1,114 @@
+{
+  "title": "Audience watching presentation at Innovation Academy banner and large screen",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 13 people are visible in the photographed scene: a presenter standing at front right of the display, and at least 12 seated or standing audience members distributed across stepped seating on the left and bench seating in the centre and right. Several people are partially cropped or turned away from camera.",
+    "One presenter is standing in front of the large screen at the front-right of the scene holding a microphone (presenter is masked).",
+    "One large LED video wall / screen occupies the front centre of the image and is showing a map with overlaid text.",
+    "One roll-up banner stand is positioned to the right of the screen with readable printed branding.",
+    "One camera on a tripod is positioned between the audience and the presenter, slightly right of centre.",
+    "At least two laptops are visible: one on the lap of a seated person on the far left lower step and one on the lap of a person seated on the left bench; both are within the scene and not part of posters or screens.",
+    "Two long turquoise padded benches are visible in the foreground (centre and right); these are distinct pieces of seating furniture and both are mostly visible in the image.",
+    "Glass partition/wall panels are visible behind the left-side stepped seating, with small printed signs adhered to the glass.",
+    "One small square white sign with a circular pictogram is visible on the front face of the left-side stepped seating (near the seated person wearing a dark cap)."
+  ],
+  "visible_text": [
+    "Satellite (God's View)",
+    "6 Hours Revisit Interval",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "NOTICE"
+  ],
+  "spatial_relations": [
+    "The large LED screen is at the front centre of the image; the presenter stands slightly right of centre in front of the screen.",
+    "The roll-up banner stand is placed to the immediate right of the screen (from the viewer's perspective).",
+    "Audience seating occupies stepped tiers on the left and bench seating in the centre and right foreground; people seated on the benches face the screen and presenter.",
+    "A camera on a tripod stands between the front row of benches and the presenter, roughly central but slightly to the right.",
+    "Glass partition/walls run behind the left stepped seating area and separate that space from another room or corridor behind it.",
+    "Small signs are adhered to the glass partition near the centre-left of the image."
+  ],
+  "colours_and_materials": [
+    "Two long benches in the foreground have turquoise padded tops and light-coloured wooden bases.",
+    "The large display shows a predominantly purple/grey satellite map image with red and white overlaid text.",
+    "The roll-up banner is dark grey or black with bright yellow text for 'Innovation Academy' and lighter grey logos and lines.",
+    "Glass partition panels are transparent with metal or aluminium framing and white paper signs attached.",
+    "Flooring visible in the foreground appears to be grey carpet with a linear pattern."
+  ],
+  "uncertainties": [
+    "Location: no explicit room name or room number is visible in the image, so the specific room cannot be determined from this photograph.",
+    "People count: some people are partially occluded or cropped at the image edges; the reported count is a visible minimum (at least 13) and may not reflect total persons present.",
+    "Visible_text: portions of the bottom line of text on the large screen are partially cut off or small and not fully legible; only the prominent lines were transcribed.",
+    "Several small printed signs on the glass partition and a white sticker on stepped seating contain text that is unreadable at this resolution and were not transcribed.",
+    "Equipment labels and any small nameplates (for example on laptops or the camera) are not legible in the image; no brand or model names were transcribed beyond the large readable text on the banner and screen."
+  ],
+  "visual_facts": [
+    "At least 13 people are visible in the photographed scene: a presenter standing at front right of the display, and at least 12 seated or standing audience members distributed across stepped seating on the left and bench seating in the centre and right. Several people are partially cropped or turned away from camera.",
+    "One presenter is standing in front of the large screen at the front-right of the scene holding a microphone (presenter is masked).",
+    "One large LED video wall / screen occupies the front centre of the image and is showing a map with overlaid text.",
+    "One roll-up banner stand is positioned to the right of the screen with readable printed branding.",
+    "One camera on a tripod is positioned between the audience and the presenter, slightly right of centre.",
+    "At least two laptops are visible: one on the lap of a seated person on the far left lower step and one on the lap of a person seated on the left bench; both are within the scene and not part of posters or screens.",
+    "Two long turquoise padded benches are visible in the foreground (centre and right); these are distinct pieces of seating furniture and both are mostly visible in the image.",
+    "Glass partition/wall panels are visible behind the left-side stepped seating, with small printed signs adhered to the glass.",
+    "One small square white sign with a circular pictogram is visible on the front face of the left-side stepped seating (near the seated person wearing a dark cap).",
+    "Two long benches in the foreground have turquoise padded tops and light-coloured wooden bases.",
+    "The large display shows a predominantly purple/grey satellite map image with red and white overlaid text.",
+    "The roll-up banner is dark grey or black with bright yellow text for 'Innovation Academy' and lighter grey logos and lines.",
+    "Glass partition panels are transparent with metal or aluminium framing and white paper signs attached.",
+    "Flooring visible in the foreground appears to be grey carpet with a linear pattern."
+  ],
+  "id": "b75b77206027d27345b4d0f7",
+  "sha256": "e76bc26b1700e54d353b263dae87c2bcc600b4a997eeed89e44b3fd442e89b20",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:00:27.373791+00:00",
+  "input_resolution": [
+    2000,
+    1126
+  ],
+  "input_sha256": "c6fefa1f9025860a773336d302afded3eb4c8d47f0eec5e2431444b93bd104f1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauNCd1PwmVOYAQ4267wAr66iHBSk",
+  "usage": {
+    "completion_tokens": 1132,
+    "prompt_tokens": 2439,
+    "total_tokens": 3571,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1225,
+      "engine_ttlt_ms": 11591,
+      "pre_inference_ms": 522,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 2299,
+      "service_ttlt_ms": 12660,
+      "user_visible_ttft_ms": 1777
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

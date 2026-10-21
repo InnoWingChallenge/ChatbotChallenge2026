@@ -1,0 +1,116 @@
+{
+  "title": "HKU UAS recruitment poster showing a drone, controller and small wheeled robot",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two people are visible in the upper-right photographic panel; both are partially visible and wearing face masks (upper-right region).",
+    "One quadcopter-style rotorcraft is visible on a wooden bench in the central photographic panel; the aircraft is pictured whole and is not obscured.",
+    "One handheld radio/remote controller is visible on the same bench near the quadcopter (central photographic panel).",
+    "One small wheeled robot chassis with exposed electronics and two visible yellow wheels is on the same bench near the controller (central photographic panel).",
+    "One white square/rectangular dish or panel antenna (white plate) is placed on the bench next to the quadcopter (central photographic panel).",
+    "Multiple graphic elements are present and repeat across the poster: several bullet lists, map-like rendered aerial imagery in the lower-left, and three laptop/screen icons on the right; these are printed on the poster, not objects in the photographed scene.",
+    "A large logo with the text 'HKU UAS' and a stylized lion is printed in the upper-left region of the poster."
+  ],
+  "visible_text": [
+    "HKU UAS",
+    "STUDENT INTEREST GROUP FOCUSING ON UNMANNED AERIAL SYSTEM",
+    "ALWAYS LOOKING FOR PASSIONATE NEW MEMBERS.",
+    "Unmanned Aerial Vechicle",
+    "Unmanned Ground Vechicle",
+    "Ground Control Station",
+    "Air Drop",
+    "Autonomous Flight",
+    "Obstacle Avoidance",
+    "Object detection, Classification,",
+    "Localization",
+    "Mapping",
+    "Interested to join the team? Email us at < hkuuas@gmail.com >",
+    "HKU UAS"
+  ],
+  "spatial_relations": [
+    "A large 'HKU UAS' logo and heading occupy the upper-left area of the poster.",
+    "A rectangular photographic panel showing a quadcopter, a white dish antenna, a remote controller and a small wheeled robot sits across the central horizontal band, slightly left of center.",
+    "A smaller photographic panel with two masked people working is placed in the upper-right quadrant and overlaps the patterned background.",
+    "Bulleted lists occupy the left-mid area (starting under the central photo) and a second list of bullets appears on the right-middle area; laptop/screen icons are printed to the right of the right-hand list.",
+    "A map-like aerial rendering fills the lower-left corner beneath the left-hand bullet list, and patterned chevron/zigzag graphics form the full-page background behind all panels and text.",
+    "The email/contact line is centered along the bottom edge of the poster."
+  ],
+  "colours_and_materials": [
+    "The poster background uses a repeating chevron/zigzag pattern in teal, purple, green and dark blue tones.",
+    "The bench shown in the central photograph is brown wood (wooden slats).",
+    "The dish/panel antenna on the bench is white.",
+    "The quadcopter components visible are primarily black with exposed electronic parts; the small wheeled robot has visible yellow wheels and transparent/clear housing for electronics.",
+    "Photographic panels include natural colours (skin tones, clothing) and a blue sky in the upper-right photo."
+  ],
+  "uncertainties": [
+    "Small printed text at the very bottom center is partially legible and may read 'PIKTOCHART' but is too small to be certain from this image.",
+    "There may be additional small labels or model names on the drone, controller or robot electronics, but those labels are not legible at the image resolution provided.",
+    "Exact counts of people beyond the two partially visible in the top-right photographic panel cannot be determined; the upper-right panel may contain cropped or partially obscured persons outside the frame.",
+    "Some text fragments (for example punctuation or line breaks in the bulleted lists) might be subject to interpretation where line-wrapping occurs; the transcribed visible_text entries follow the readable line breaks as seen."
+  ],
+  "visual_facts": [
+    "Two people are visible in the upper-right photographic panel; both are partially visible and wearing face masks (upper-right region).",
+    "One quadcopter-style rotorcraft is visible on a wooden bench in the central photographic panel; the aircraft is pictured whole and is not obscured.",
+    "One handheld radio/remote controller is visible on the same bench near the quadcopter (central photographic panel).",
+    "One small wheeled robot chassis with exposed electronics and two visible yellow wheels is on the same bench near the controller (central photographic panel).",
+    "One white square/rectangular dish or panel antenna (white plate) is placed on the bench next to the quadcopter (central photographic panel).",
+    "Multiple graphic elements are present and repeat across the poster: several bullet lists, map-like rendered aerial imagery in the lower-left, and three laptop/screen icons on the right; these are printed on the poster, not objects in the photographed scene.",
+    "A large logo with the text 'HKU UAS' and a stylized lion is printed in the upper-left region of the poster.",
+    "The poster background uses a repeating chevron/zigzag pattern in teal, purple, green and dark blue tones.",
+    "The bench shown in the central photograph is brown wood (wooden slats).",
+    "The dish/panel antenna on the bench is white.",
+    "The quadcopter components visible are primarily black with exposed electronic parts; the small wheeled robot has visible yellow wheels and transparent/clear housing for electronics.",
+    "Photographic panels include natural colours (skin tones, clothing) and a blue sky in the upper-right photo."
+  ],
+  "id": "55be3a9295138e38dfce3a99",
+  "sha256": "6364dc5633d85a49c104b902e5d1d76ba958ad93371af87711be0bb9bf9d8375",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:10:42.170238+00:00",
+  "input_resolution": [
+    1668,
+    2400
+  ],
+  "input_sha256": "e6dcd1ed70c87ab4db38941faef9e948f9e4155e777322eb9318ea664e60cc4f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatb4IFv4AesAamXKvFPjWzNkQPLQ",
+  "usage": {
+    "completion_tokens": 1344,
+    "prompt_tokens": 2208,
+    "total_tokens": 3552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1141,
+      "engine_ttlt_ms": 9880,
+      "pre_inference_ms": 360,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2460,
+      "service_ttlt_ms": 11195,
+      "user_visible_ttft_ms": 2100
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

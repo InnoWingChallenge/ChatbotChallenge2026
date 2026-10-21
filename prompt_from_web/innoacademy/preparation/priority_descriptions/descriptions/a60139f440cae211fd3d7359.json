@@ -1,0 +1,117 @@
+{
+  "title": "Classroom or lab with projection screen, benches and students",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 8 people are visible in the photographed scene; they are seated or standing at benches across the room. Some people are partially turned away from the camera and one person (near center foreground) is standing and leaning against a bench.",
+    "One large projection screen is visible on the far wall showing a multi-image slide; the projected image is centered on the front wall beneath windows.",
+    "Two laptop screens or small monitors are visible on the long bench beneath the windows at the right side of the image (one clearly visible, one partially visible).",
+    "Multiple large benches/tables are visible: at least four distinct rectangular light-wood tables are shown in the foreground and midground.",
+    "Numerous stools are visible around the benches; at least 11 individual stools are clearly distinguishable in the image (some stools are partially cropped or behind tables).",
+    "A long bench or counter runs along the windowed wall at the rear with transparent vertical acrylic partitions or screens placed along it; multiple partitions are visible (at least 4 segments visible).",
+    "One freestanding whiteboard or glass board is mounted on the left wall of the room (near left edge of image).",
+    "One backpack is visible on the floor next to a seated person toward the right-center of the image.",
+    "One pump hand-sanitizer bottle sits on the near-right tabletop in the foreground.",
+    "Ceiling contains exposed ductwork, suspended light panels and hanging power/data drops (multiple fixtures across the ceiling)."
+  ],
+  "visible_text": [
+    "\"Types of simulator software\"",
+    "\"HKU R\" [on the back of the central standing person's shirt; additional smaller text and logos below are present but not fully legible]",
+    "On the near-right tabletop sanitizer bottle: [unreadable]",
+    "[additional small captions and thumbnails on the projected slide are visible but their text is unreadable]",
+    "[there is printed or logo text on the central standing person's shirt under \"HKU R\" but the smaller words are unreadable]"
+  ],
+  "spatial_relations": [
+    "The projection screen is placed on the front wall roughly centered horizontally beneath a row of tall windows; seated people face the screen.",
+    "Long tables/benches run roughly parallel to the projection screen; stools are placed around these benches on both near and far sides.",
+    "A long counter or bench runs directly under the windows at the rear of the room with transparent acrylic partitions standing on it; two laptops/monitors sit on that counter spaced apart.",
+    "The whiteboard or glass board is mounted on the left wall and is separate from the central bench area.",
+    "The person standing (with readable text on their back) is positioned near the center of the room, between a foreground table and the projection screen.",
+    "The sanitizer bottle is on the near-right corner of a foreground table, nearer to the camera than the seated people and benches."
+  ],
+  "colours_and_materials": [
+    "Tables and bench tops are a light wood colour with smooth surfaces.",
+    "Stools appear to have black metal legs and dark seats.",
+    "Floor is a smooth grey surface, likely polished concrete or similar material.",
+    "Ceiling shows exposed metallic ductwork and structural elements with white suspended ceiling panels and light fixtures.",
+    "Window frames appear to be a greenish or teal-painted metal.",
+    "Transparent acrylic or plexiglass partitions are clear and glossy along the rear counter beneath the windows."
+  ],
+  "uncertainties": [
+    "Exact person count is limited to those individually distinguishable in this view; additional people may be present outside the frame or obscured by others.",
+    "Several small texts (logos on the standing person's shirt, small captions and thumbnails on the projected slide, sanitizer label) are partially legible or too small to transcribe fully; I have preserved clearly readable fragments and marked the rest as [unreadable].",
+    "No explicit room name, room number, or signage identifying the space is legible in the image, so the location is recorded as unknown from the image.",
+    "The exact number of acrylic partition segments along the rear counter cannot be confirmed beyond the visible segments because of partial cropping and perspective.",
+    "I did not infer equipment types beyond visible features; for example, the presence of a projector is inferred from the projected image but no projector unit label or model text is legible in the photo.",
+    "The transcription \"HKU R\" on the shirt may be incomplete or partially obscured; additional words and logos on the shirt are present but unreadable."
+  ],
+  "visual_facts": [
+    "At least 8 people are visible in the photographed scene; they are seated or standing at benches across the room. Some people are partially turned away from the camera and one person (near center foreground) is standing and leaning against a bench.",
+    "One large projection screen is visible on the far wall showing a multi-image slide; the projected image is centered on the front wall beneath windows.",
+    "Two laptop screens or small monitors are visible on the long bench beneath the windows at the right side of the image (one clearly visible, one partially visible).",
+    "Multiple large benches/tables are visible: at least four distinct rectangular light-wood tables are shown in the foreground and midground.",
+    "Numerous stools are visible around the benches; at least 11 individual stools are clearly distinguishable in the image (some stools are partially cropped or behind tables).",
+    "A long bench or counter runs along the windowed wall at the rear with transparent vertical acrylic partitions or screens placed along it; multiple partitions are visible (at least 4 segments visible).",
+    "One freestanding whiteboard or glass board is mounted on the left wall of the room (near left edge of image).",
+    "One backpack is visible on the floor next to a seated person toward the right-center of the image.",
+    "One pump hand-sanitizer bottle sits on the near-right tabletop in the foreground.",
+    "Ceiling contains exposed ductwork, suspended light panels and hanging power/data drops (multiple fixtures across the ceiling).",
+    "Tables and bench tops are a light wood colour with smooth surfaces.",
+    "Stools appear to have black metal legs and dark seats.",
+    "Floor is a smooth grey surface, likely polished concrete or similar material.",
+    "Ceiling shows exposed metallic ductwork and structural elements with white suspended ceiling panels and light fixtures.",
+    "Window frames appear to be a greenish or teal-painted metal.",
+    "Transparent acrylic or plexiglass partitions are clear and glossy along the rear counter beneath the windows."
+  ],
+  "id": "a60139f440cae211fd3d7359",
+  "sha256": "2e6c5ad6bfc82806e9488e8c7c2629393ee404f6b3b9650677e592c1a36244ee",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:56:35.881303+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "40494f6ada9a7225340a51ac93795c8e84d279c0053d2958037a51e7fb2a43b7",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauJPy64tIoqWD9TlA0ADy1jOXIt0",
+  "usage": {
+    "completion_tokens": 1445,
+    "prompt_tokens": 2122,
+    "total_tokens": 3567,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1119,
+      "engine_ttlt_ms": 14969,
+      "pre_inference_ms": 346,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 2031,
+      "service_ttlt_ms": 15876,
+      "user_visible_ttft_ms": 1685
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

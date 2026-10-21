@@ -1,0 +1,114 @@
+{
+  "title": "Audience at Innovation Academy presentation facing large video wall",
+  "suitable": true,
+  "location": "Innovation Academy",
+  "objects_and_counts": [
+    "At least 28 people are visible in the photographed scene; this is a visible minimum because some people are partially obscured or cropped at the image edges.",
+    "One presenter at the front right, standing next to a small table and speaking into a microphone.",
+    "One large multi-panel video wall or large display array mounted on the right-side wall showing multiple aerial and plan images.",
+    "One vertical standing banner on the far right with legible heading text.",
+    "One brass-colored bell hanging from a hook near the right wall.",
+    "One small presenter table/desk at the stage area with a laptop or monitor on it and a microphone stand (both items partially visible).",
+    "Two high stools near the presenter area on the right.",
+    "Multiple modular seating blocks used by the audience; at least six distinct seating blocks (teal and blue) are visible in the central seating area.",
+    "One glass-walled room or meeting room with double doors at the rear-center of the scene.",
+    "One waste bin visible at the lower-left foreground next to a staircase or railing.",
+    "Several wall-mounted poster/panel displays on the left pegboard wall (at least two distinct posters visible)."
+  ],
+  "visible_text": [
+    "Innovation Academy",
+    "Faculty of Eng"
+  ],
+  "spatial_relations": [
+    "The presenter stands at the front right of the image facing left toward the seated and standing audience.",
+    "The large video wall occupies the right-side wall behind and slightly to the left of the presenter; the presenter is positioned immediately in front of the video wall area.",
+    "Audience members are arranged on modular seating blocks in the central floor area and along stepped seating to the left of the central area; several people are standing behind the seated rows and at the rear.",
+    "A glass-walled meeting room with double doors is situated behind the main audience area at the rear-center of the scene.",
+    "A vertical banner and two high stools are placed to the right of the presenter area against the right wall, with a hanging bell located between the banner and the presenter area.",
+    "Poster panels are mounted on a pegboard wall at the left foreground adjacent to a staircase and waste bin."
+  ],
+  "colours_and_materials": [
+    "Modular seating blocks are primarily teal and blue fabric or upholstered surfaces.",
+    "The floor in the presentation area appears light grey or beige carpet, while the foreground floor is a pale blue smooth surface.",
+    "The video wall has a predominantly dark (black) bezel/frame with bright, multicoloured imagery displayed.",
+    "Exposed ceiling ductwork and pipes are metallic/silver in colour; suspended flat light panels are visible.",
+    "The standing banner on the right is dark (black or charcoal) with yellow text or graphics and a lighter crest/logo area at top."
+  ],
+  "uncertainties": [
+    "Exact total number of people cannot be determined because several people are partially obscured, seated behind others, or cropped at image edges; the provided count is a visible minimum.",
+    "Text on the large video wall is partially legible but not fully clear; individual captions and detailed lines on the screen could not be reliably transcribed from this view.",
+    "Small signs or notices on the glass meeting room doors and on nearby walls are present but unreadable at this resolution; these are not transcribed.",
+    "The full line of text on the vertical banner is only partly legible; 'Faculty of Eng' is a visible fragment but remaining words are not fully readable.",
+    "Some items at the presenter table (for example, whether a laptop brand or model is present) cannot be confidently identified and are described only as a laptop or monitor as visible."
+  ],
+  "visual_facts": [
+    "Visible location text: Innovation Academy",
+    "At least 28 people are visible in the photographed scene; this is a visible minimum because some people are partially obscured or cropped at the image edges.",
+    "One presenter at the front right, standing next to a small table and speaking into a microphone.",
+    "One large multi-panel video wall or large display array mounted on the right-side wall showing multiple aerial and plan images.",
+    "One vertical standing banner on the far right with legible heading text.",
+    "One brass-colored bell hanging from a hook near the right wall.",
+    "One small presenter table/desk at the stage area with a laptop or monitor on it and a microphone stand (both items partially visible).",
+    "Two high stools near the presenter area on the right.",
+    "Multiple modular seating blocks used by the audience; at least six distinct seating blocks (teal and blue) are visible in the central seating area.",
+    "One glass-walled room or meeting room with double doors at the rear-center of the scene.",
+    "One waste bin visible at the lower-left foreground next to a staircase or railing.",
+    "Several wall-mounted poster/panel displays on the left pegboard wall (at least two distinct posters visible).",
+    "Modular seating blocks are primarily teal and blue fabric or upholstered surfaces.",
+    "The floor in the presentation area appears light grey or beige carpet, while the foreground floor is a pale blue smooth surface.",
+    "The video wall has a predominantly dark (black) bezel/frame with bright, multicoloured imagery displayed.",
+    "Exposed ceiling ductwork and pipes are metallic/silver in colour; suspended flat light panels are visible.",
+    "The standing banner on the right is dark (black or charcoal) with yellow text or graphics and a lighter crest/logo area at top."
+  ],
+  "id": "597ac231878559011f427789",
+  "sha256": "e23e5d9d5eff58835a3c3a31899fa215ff6a01545b8c038ebd0c02dcec084b52",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:40:38.356938+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "43ffbbb0daa9d3571e7fd406390cb8d8da3c5f8fa9d67a93e4877a8bdb38f20f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau42MmJ59NAs1OIdRWTN3sesLIZR",
+  "usage": {
+    "completion_tokens": 1328,
+    "prompt_tokens": 2266,
+    "total_tokens": 3594,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1190,
+      "engine_ttlt_ms": 9903,
+      "pre_inference_ms": 343,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2087,
+      "service_ttlt_ms": 10795,
+      "user_visible_ttft_ms": 1745
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

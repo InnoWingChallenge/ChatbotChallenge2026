@@ -1,0 +1,101 @@
+{
+  "title": "U-shaped padded frame with exposed electronics and two white base housings on pale floor",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "A U-shaped frame made from three padded cylindrical bars is visible; the padded bars are covered in a dark (black or very dark grey) fabric and form three connected segments (one across the top of the image, one along the right, one along the left front).",
+    "Three vertical chrome/metal cylindrical posts are visible where the padded bars connect to the bases and joints; one vertical post is at the right base, one at the left front corner joint, and one at the left rear connection point.",
+    "Two white plastic or painted housings (rectangular with rounded corners) sit on the floor and act as base units; one is on the right foreground and one is slightly left-rear of centre.",
+    "A visible cluster of exposed wiring, cable bundles and circuit boards is mounted on the left inner side of the frame; multiple individual wires are visible and a small mounted PCB or electronics module is visible near the top left corner joint.",
+    "One small exposed electronic board or sensor is visible at the top front joint of the U-shaped frame (mounted on or protruding from the padded cover at that joint).",
+    "Several wheeled folding chairs or stools are visible in the background (wheels and legs visible), and a cardboard box and other miscellaneous storage items are visible at the room perimeter."
+  ],
+  "visible_text": [
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The U-shaped padded frame occupies the central foreground and is oriented with the open side of the 'U' facing away from the viewer (top of image), while the closed side faces the bottom of the image.",
+    "The two white base housings rest on the floor at the two distal ends of the U-shape (one at the right foreground, one at the left-rear region inside the U), connected by the vertical chrome posts to the padded bars.",
+    "The exposed electronics and cable bundle are attached to and hang from the inner left side of the frame, below the left padded bar and adjacent to the left vertical post.",
+    "The small electronic board/sensor is mounted at the front corner joint where the left front vertical post meets the horizontal padded bars.",
+    "Background items (folding chairs with visible caster wheels and a cardboard box) are located near the top edge of the image behind the device, along the room perimeter."
+  ],
+  "colours_and_materials": [
+    "The padded bar covers are a dark colour (black or very dark grey) with a fabric texture visible at seams and a zip on the right padded segment.",
+    "Vertical posts and structural tubes appear to be chrome or polished metal (reflective silver).",
+    "The two base housings are smooth white plastic (or painted white material) with rounded edges.",
+    "Flooring is a pale mint-green or light blue-green smooth surface with scuff marks and small dark stains.",
+    "Exposed wires are multi-coloured (red, blue, white, black and others) and the visible circuit boards are green with standard electronic component colours."
+  ],
+  "uncertainties": [
+    "No explicit room name, room number or sign is legible in the image; location cannot be determined from the photo alone.",
+    "Text on the white base housings or any small labels is not readable at the present resolution; transcribed as [unreadable].",
+    "Exact total count of chairs or other background items cannot be determined reliably because parts are cropped and some chairs are only partially visible.",
+    "Some vertical posts and connections are partially obscured by padded covers and wiring; exact number of discrete mechanical joints and small components cannot be confirmed from this view.",
+    "The exact function or model of the exposed electronics, boards, and the device as a whole cannot be inferred from visible appearance and labels are not legible enough to provide names or model numbers."
+  ],
+  "visual_facts": [
+    "A U-shaped frame made from three padded cylindrical bars is visible; the padded bars are covered in a dark (black or very dark grey) fabric and form three connected segments (one across the top of the image, one along the right, one along the left front).",
+    "Three vertical chrome/metal cylindrical posts are visible where the padded bars connect to the bases and joints; one vertical post is at the right base, one at the left front corner joint, and one at the left rear connection point.",
+    "Two white plastic or painted housings (rectangular with rounded corners) sit on the floor and act as base units; one is on the right foreground and one is slightly left-rear of centre.",
+    "A visible cluster of exposed wiring, cable bundles and circuit boards is mounted on the left inner side of the frame; multiple individual wires are visible and a small mounted PCB or electronics module is visible near the top left corner joint.",
+    "One small exposed electronic board or sensor is visible at the top front joint of the U-shaped frame (mounted on or protruding from the padded cover at that joint).",
+    "Several wheeled folding chairs or stools are visible in the background (wheels and legs visible), and a cardboard box and other miscellaneous storage items are visible at the room perimeter.",
+    "The padded bar covers are a dark colour (black or very dark grey) with a fabric texture visible at seams and a zip on the right padded segment.",
+    "Vertical posts and structural tubes appear to be chrome or polished metal (reflective silver).",
+    "The two base housings are smooth white plastic (or painted white material) with rounded edges.",
+    "Flooring is a pale mint-green or light blue-green smooth surface with scuff marks and small dark stains.",
+    "Exposed wires are multi-coloured (red, blue, white, black and others) and the visible circuit boards are green with standard electronic component colours."
+  ],
+  "id": "a29c3bceb620d9dacc6e814f",
+  "sha256": "6263abf63352b2a02cd46f84e5ea1e0851ff81a04c5021ef339dce54d90843da",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:17:19.499979+00:00",
+  "input_resolution": [
+    1800,
+    2400
+  ],
+  "input_sha256": "49ac57ad0f82906d4f4bc9e0293b528f47a9d1c68c82b5cad7f820447c1851f5",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EathU9BVjePfelwgJSFGVFagJ6XDM",
+  "usage": {
+    "completion_tokens": 1041,
+    "prompt_tokens": 2122,
+    "total_tokens": 3163,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1091,
+      "engine_ttlt_ms": 9586,
+      "pre_inference_ms": 265,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1873,
+      "service_ttlt_ms": 10364,
+      "user_visible_ttft_ms": 1608
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

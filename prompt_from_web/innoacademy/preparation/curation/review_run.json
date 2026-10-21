@@ -1,0 +1,18 @@
+{
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "curation_version": "image-text-curation-v1",
+  "agents": [
+    "/root/curate_0",
+    "/root/curate_1",
+    "/root/curate_2"
+  ],
+  "method": "Semantic text review against supplied uncertainties, exact source-page text and top three lexical baseline candidates. Candidate similarity is not identity. No image re-verification. No model API calls from project.",
+  "inputs": {
+    "inputs.json": "6547f8574e0e406455ff922320d674dd3a0517ab2f868116b1776edac1df87f9",
+    "baseline_records.json": "6a92e83fcf01ac6bb88ba773f58b25eed9f5525f2dfd5b5f151a0f915de5a90b",
+    "packet-0.json": "d8f8bdf7d9cadffb0ca21ca42d0d4db0fdfebd9d759403dd439a8fb409c961aa",
+    "packet-1.json": "b70d2d24dec0cb2dad1ae629e7135d7edce5c3271f26afb31aabeeb210c99984",
+    "packet-2.json": "186a0854dc6eba417c42786d5efd2b6b7bdc3669d73b8b9ce45d8ff04cc8524a"
+  }
+}

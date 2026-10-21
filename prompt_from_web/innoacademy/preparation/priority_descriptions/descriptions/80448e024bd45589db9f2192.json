@@ -1,0 +1,113 @@
+{
+  "title": "Classroom presentation with projected slide, presenter and desktop PCs",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "People: one person standing at the front of the room holding a handheld microphone (presenter) visible near the center-left of the image; two seated people are visible from behind in the mid-to-right foreground (one wearing a hooded sweatshirt, one partially visible at right).",
+    "Projector and projection: one large projected screen showing a presentation occupying the front-center wall.",
+    "Whiteboard: one large whiteboard panel mounted on the front-left wall with handwriting on it.",
+    "Desktop computers/monitors: at least five individual desktop monitors are visible in the foreground and midground as distinct screens (some are partially cropped and some are obscured by other equipment); at least one computer tower with visible purple RGB lighting is visible in the mid-foreground.",
+    "Microphone: one handheld microphone is held by the presenter.",
+    "Signage: one partial tabletop or desk sign with legible text beginning 'Please Sign Your Name' is visible above a red arrow at the bottom-center of the image.",
+    "Wall camera or sensor: one small white camera or sensor device is mounted on the front-left wall above the whiteboard."
+  ],
+  "visible_text": [
+    "1. Rhythm-based Editing",
+    "1. Music type:",
+    "Jazz (relaxed) -> Classical (hyper)",
+    "2. Content:",
+    "Jazz -> Appearance (Brand name, water tank, drip tray)",
+    "Classical -> Operation (capsule, brewing, filling coffee, brewed coffee, boiling water)",
+    "Decide the music genre -> match with the content",
+    "The length of video -> Depend on the music you take",
+    "Please Sign Your Name",
+    "Speech.microsoft.com/Portal",
+    "https://shorturl.at/[unreadable]"
+  ],
+  "spatial_relations": [
+    "The presenter stands in front of the whiteboard area and slightly to the left of the projected screen; the projected screen is mounted on the front-center wall and occupies a large rectangular area.",
+    "The whiteboard is mounted on the front-left wall and contains green handwriting; a vertical pale green stripe on the wall is immediately to the left of the projection area.",
+    "Multiple desktop monitors and at least one PC tower occupy the foreground and form a low barrier between the camera viewpoint and the presenter/screen; one monitor with a bright white window is centrally located in the foreground and partly obscures the projected screen.",
+    "A person wearing a hooded sweatshirt sits at a workstation to the right of the projected screen (from the image viewpoint) with their back to the camera; another person is seated at the far right edge of the image, partially visible.",
+    "A small white camera or sensor is mounted high on the left wall above the whiteboard."
+  ],
+  "colours_and_materials": [
+    "Walls and whiteboard are predominantly white; there is a vertical pale green band on the front wall to the left of the projection area.",
+    "A rectangular panel or wall section to the right of the screen is dark blue.",
+    "Desktop computer cases and monitors are predominantly black; one computer tower shows purple/pink RGB lighting rings.",
+    "The projection screen shows a mostly white slide background with black and colored text (blue and red/orange accent text visible).",
+    "The presenter is wearing a light beige or cream-colored cardigan over a darker shirt and a green lanyard."
+  ],
+  "uncertainties": [
+    "Exact counts of desktop monitors and PC towers cannot be precisely determined because several monitors and towers are partially obscured by foreground equipment and each other; I report at least five distinct visible monitors.",
+    "Some small printed or handwritten text is partially obscured or too small to read clearly; for example the full short URL on the whiteboard is not fully legible and is reported as 'https://shorturl.at/[unreadable]'.",
+    "Slide text contains smaller bullets and sub-lines that are partly blurred by perspective and exposure; I transcribed the sections that are legible but some words or punctuation may be unreadable or partially obscured.",
+    "The handwritten whiteboard text is interpreted as 'Speech.microsoft.com/Portal' but legibility is limited and characters could differ.",
+    "I cannot determine any room number, official room name, or building identifier from the image; location is therefore listed as unknown from image."
+  ],
+  "visual_facts": [
+    "People: one person standing at the front of the room holding a handheld microphone (presenter) visible near the center-left of the image; two seated people are visible from behind in the mid-to-right foreground (one wearing a hooded sweatshirt, one partially visible at right).",
+    "Projector and projection: one large projected screen showing a presentation occupying the front-center wall.",
+    "Whiteboard: one large whiteboard panel mounted on the front-left wall with handwriting on it.",
+    "Desktop computers/monitors: at least five individual desktop monitors are visible in the foreground and midground as distinct screens (some are partially cropped and some are obscured by other equipment); at least one computer tower with visible purple RGB lighting is visible in the mid-foreground.",
+    "Microphone: one handheld microphone is held by the presenter.",
+    "Signage: one partial tabletop or desk sign with legible text beginning 'Please Sign Your Name' is visible above a red arrow at the bottom-center of the image.",
+    "Wall camera or sensor: one small white camera or sensor device is mounted on the front-left wall above the whiteboard.",
+    "Walls and whiteboard are predominantly white; there is a vertical pale green band on the front wall to the left of the projection area.",
+    "A rectangular panel or wall section to the right of the screen is dark blue.",
+    "Desktop computer cases and monitors are predominantly black; one computer tower shows purple/pink RGB lighting rings.",
+    "The projection screen shows a mostly white slide background with black and colored text (blue and red/orange accent text visible).",
+    "The presenter is wearing a light beige or cream-colored cardigan over a darker shirt and a green lanyard."
+  ],
+  "id": "80448e024bd45589db9f2192",
+  "sha256": "348d59a19fb9510bbd4ec04ec6c09201a03d156a1fa0c8b16e591f795c5051cd",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:50:18.352514+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "453a6558ea8fab86704a72bc07e213b13cb577b029f248ad9bb99fe3020ee496",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauDMcnWMjLtUWfQH3YGFsGQFZgfl",
+  "usage": {
+    "completion_tokens": 1331,
+    "prompt_tokens": 2266,
+    "total_tokens": 3597,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 932,
+      "engine_ttlt_ms": 13027,
+      "pre_inference_ms": 350,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 1725,
+      "service_ttlt_ms": 13815,
+      "user_visible_ttft_ms": 1375
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

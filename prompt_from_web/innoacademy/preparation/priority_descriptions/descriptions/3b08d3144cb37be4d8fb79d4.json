@@ -1,0 +1,94 @@
+{
+  "title": "Green cylindrical object with brown cap on white table, printed circular graphic at top",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One green cylindrical object is centered in the image on a white horizontal surface; the object appears to be a standalone assembly with a larger top and base and a narrower midsection.",
+    "A circular printed graphic or coaster is visible in the upper part of the image; it shows concentric rings and a logo-like element near its center.",
+    "A narrow vertical strip of beige or tan adhesive or tape is attached to the side of the green cylinder and is visible on the left side of the cylinder.",
+    "No people are visibly present in the photographed scene."
+  ],
+  "visible_text": [
+    "B"
+  ],
+  "spatial_relations": [
+    "The green cylindrical object is near the center of the image and sits on a white flat horizontal surface that fills most of the lower two-thirds of the frame.",
+    "The circular printed graphic is partially visible at the top edge of the image behind the green object; the printed graphic's center is towards the top-right quadrant of the image.",
+    "The beige/tan strip of adhesive hangs down the left side of the cylinder and partly covers the cylinder's lower midsection.",
+    "The photographed surface extends downward from the object to the bottom edge of the image with no other objects between the green cylinder and the bottom edge."
+  ],
+  "colours_and_materials": [
+    "The cylindrical object is predominantly green with a glossy finish consistent with painted metal or plastic; its top surface shows a brown, wet-looking material or residue.",
+    "The table or horizontal surface is white and smooth, likely a laminate or painted surface.",
+    "The circular printed graphic contains blue and white concentric rings with red accents and a red 'B' logo element; the printed graphic has a glossy printed-paper or laminated appearance.",
+    "There is a beige/tan adhesive strip on the cylinder that appears matte and slightly translucent."
+  ],
+  "uncertainties": [
+    "No room name or number is visible; location cannot be determined from the image.",
+    "The single legible text element is the letter 'B' within the circular printed graphic; other text on the graphic or on the green object is not clearly readable and is therefore not transcribed.",
+    "The function or exact type of the green cylindrical object is not determinable from appearance alone; it could be plastic or painted metal but material is uncertain.",
+    "The brown substance on the top of the cylinder could be residue, paint or another coating; its composition and state are not determined.",
+    "Any small labels or faint markings on the rim of the green object are not legible in this view and may contain additional text not captured here."
+  ],
+  "visual_facts": [
+    "One green cylindrical object is centered in the image on a white horizontal surface; the object appears to be a standalone assembly with a larger top and base and a narrower midsection.",
+    "A circular printed graphic or coaster is visible in the upper part of the image; it shows concentric rings and a logo-like element near its center.",
+    "A narrow vertical strip of beige or tan adhesive or tape is attached to the side of the green cylinder and is visible on the left side of the cylinder.",
+    "No people are visibly present in the photographed scene.",
+    "The cylindrical object is predominantly green with a glossy finish consistent with painted metal or plastic; its top surface shows a brown, wet-looking material or residue.",
+    "The table or horizontal surface is white and smooth, likely a laminate or painted surface.",
+    "The circular printed graphic contains blue and white concentric rings with red accents and a red 'B' logo element; the printed graphic has a glossy printed-paper or laminated appearance.",
+    "There is a beige/tan adhesive strip on the cylinder that appears matte and slightly translucent."
+  ],
+  "id": "3b08d3144cb37be4d8fb79d4",
+  "sha256": "e829e1e6e7f9dd3be293cda961f69451da22d85c74f04a7af41300cab3e7f638",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:09:15.441390+00:00",
+  "input_resolution": [
+    900,
+    1600
+  ],
+  "input_sha256": "66864382be5ecb906573dfbae8967041528814dd262bcd34d89608b55731bf17",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatZklMW0T9Tw3yssojkPEdNGpjMD",
+  "usage": {
+    "completion_tokens": 725,
+    "prompt_tokens": 2439,
+    "total_tokens": 3164,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1020,
+      "engine_ttlt_ms": 5902,
+      "pre_inference_ms": 283,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1849,
+      "service_ttlt_ms": 6727,
+      "user_visible_ttft_ms": 1566
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

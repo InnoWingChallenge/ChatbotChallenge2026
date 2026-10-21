@@ -1,0 +1,103 @@
+{
+  "title": "People assembling paper stacks at table with calendar reading 'JULY'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Three people are visible seated at a table; all three are adults and appear in the central horizontal band of the image (one at left, one center, one at right).",
+    "At least five distinct stacks of white folded sheets or cards are visible on the table: one small stack at the left foreground, one short stack immediately left of centre, one tall stack near centre-front, one small stack centre-right, and one small stack in front of the rightmost person. These stacks are individually distinguishable in the photographed scene.",
+    "A desktop tent calendar is visible upright on the table near the centre-right of the image.",
+    "One small plastic bottle with a purple cap is visible on the table near the rightmost person.",
+    "Two black high-backed chairs or chair backrests are visible: one at the far left behind the people and one at the near right foreground cropped by the image edge.",
+    "A vertical poster or fabric panel is visible on the right wall, partially in frame and showing a white line illustration on a dark background."
+  ],
+  "visible_text": [
+    "JULY"
+  ],
+  "spatial_relations": [
+    "The three people sit in a row across the table: one person at left, one person in the centre, and one person at right.",
+    "The tallest stack of white papers is positioned slightly left of the table centre and in front of the centre person; smaller stacks are arranged to the left and right of it on the same table surface.",
+    "The tent calendar is placed on the table in front of the right-half of the scene, between the tall centre stack and the rightmost person.",
+    "The purple-capped bottle sits on the table close to the rightmost person and slightly behind a small stack of papers.",
+    "Large windows form the background behind the seated people; the vertical poster/panel is mounted on or leaning against the right-side wall adjacent to the windows.",
+    "A black chair backrest is visible in the near right foreground, partially cropping the bottom-right corner of the image."
+  ],
+  "colours_and_materials": [
+    "The paper stacks are white.",
+    "The table surface appears to be a light brown wood or wood-like material.",
+    "The chairs and chair backrests visible are black and have a smooth appearance consistent with leather or faux-leather.",
+    "The tent calendar has a pale yellow or cream top border with darker printed decoration and a white calendar grid.",
+    "Clothing visible includes a dark green shirt at left, a dark blue top at centre, and a white top at right.",
+    "The window frames are light-coloured metal or painted material and there is green foliage visible outside the windows."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible in the image, so the precise location cannot be determined from the photograph.",
+    "Text on items other than the calendar heading 'JULY' is not legible in the provided image; for example, small printed days on the calendar and any labels on shirts or the poster are unreadable at this resolution.",
+    "The exact number of individual sheets within each paper stack cannot be determined; counts given refer to visually distinct stacks only.",
+    "The logo or text on the left person's shirt and any smaller labels on the poster or other objects are present but not readable; attempting to transcribe them would be unreliable."
+  ],
+  "visual_facts": [
+    "Three people are visible seated at a table; all three are adults and appear in the central horizontal band of the image (one at left, one center, one at right).",
+    "At least five distinct stacks of white folded sheets or cards are visible on the table: one small stack at the left foreground, one short stack immediately left of centre, one tall stack near centre-front, one small stack centre-right, and one small stack in front of the rightmost person. These stacks are individually distinguishable in the photographed scene.",
+    "A desktop tent calendar is visible upright on the table near the centre-right of the image.",
+    "One small plastic bottle with a purple cap is visible on the table near the rightmost person.",
+    "Two black high-backed chairs or chair backrests are visible: one at the far left behind the people and one at the near right foreground cropped by the image edge.",
+    "A vertical poster or fabric panel is visible on the right wall, partially in frame and showing a white line illustration on a dark background.",
+    "The paper stacks are white.",
+    "The table surface appears to be a light brown wood or wood-like material.",
+    "The chairs and chair backrests visible are black and have a smooth appearance consistent with leather or faux-leather.",
+    "The tent calendar has a pale yellow or cream top border with darker printed decoration and a white calendar grid.",
+    "Clothing visible includes a dark green shirt at left, a dark blue top at centre, and a white top at right.",
+    "The window frames are light-coloured metal or painted material and there is green foliage visible outside the windows."
+  ],
+  "id": "e931387c2f2f2abf29dd104b",
+  "sha256": "35aa6541ec261e80318446cddb994797fad0e7e6d82f9c252b9af1aebe8ba106",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:22:28.988263+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "8ca1f8d0324f9ade63d951d05821b8807538989ebc0c3b6140ac937ccf3c5515",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatmU2OSjwEnHyaBFF7ggCXXUPJ3b",
+  "usage": {
+    "completion_tokens": 1074,
+    "prompt_tokens": 2266,
+    "total_tokens": 3340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1118,
+      "engine_ttlt_ms": 9064,
+      "pre_inference_ms": 302,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1959,
+      "service_ttlt_ms": 9899,
+      "user_visible_ttft_ms": 1656
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

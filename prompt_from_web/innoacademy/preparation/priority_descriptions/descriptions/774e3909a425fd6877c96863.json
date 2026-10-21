@@ -1,0 +1,104 @@
+{
+  "title": "Group at central high table in a lab or workshop space",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Seven people are visible as distinct individuals in the photographed scene: one woman on the far left holding a handheld microphone; three people clustered at the near side of the central table (one seated and using a laptop, two standing and looking at devices/paper); two men standing on the right side of the table reading a sheet of paper; and one person visible through the glass partition in the background.",
+    "One laptop is visible on the central table and is being used by the seated person.",
+    "One upright monitor is visible on the central table near the right side of the image; it is mounted or standing on the table surface.",
+    "One telephone-like device or docking station is visible on the central table next to the monitor (the device has a handset-like shape and base).",
+    "One handheld microphone is visible and held by the woman on the left.",
+    "At least five high stools are visible around the central table: two on the left side (partially visible), three on the right side (all visible).",
+    "One suspended cable or microphone suspension is visible hanging from the ceiling above or near the central table (visible as a black cable hanging down).",
+    "Several additional tables and stools are visible in the background beyond the central table; exact counts for those background items cannot be determined reliably from this image crop."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A long rectangular high table occupies the center of the image with people standing and sitting around it.",
+    "The seated person is at the near side of the table (center-left of the image) operating the laptop; two standing people flank or stand behind that seated person.",
+    "The woman holding the handheld microphone stands left foreground of the image, separated from the central table by open floor space.",
+    "Two men on the right of the image stand beside the table reading a sheet of paper; the upright monitor and telephone-like device are between them and the seated person.",
+    "A glass partition or full-height glazed wall forms the background across the width of the image; another person is visible through that glass in a rear area.",
+    "Ceiling-mounted fixtures and exposed ductwork run above the table; a black cable or microphone suspension hangs down near the table centre."
+  ],
+  "colours_and_materials": [
+    "The central table has a light-coloured wooden tabletop with metallic or painted metal legs (light grey frame).",
+    "Stool seats appear to be dark brown wood with black metal frames.",
+    "The ceiling shows exposed metallic ductwork and piping with white rectangular light panels mounted between the ducts.",
+    "The walls and large glass partition are predominantly white and clear glass respectively, with white wall signage visible in the background.",
+    "Clothing colours visible include a grey sweater on the woman left, a dark suit jacket on one man, a yellow/khaki jacket on another person, and a dark navy/white jacket on the man at the right."
+  ],
+  "uncertainties": [
+    "No room name or room number is legible in the image; the exact location cannot be determined from the visible signage.",
+    "Several wall signs and small labels are visible in the background, but their text is not legible at this resolution or in this crop.",
+    "The exact identity and type of the telephone-like device or docking station on the table is not certain from appearance alone.",
+    "There may be additional hanging microphones or cables partially visible near the ceiling; only one distinct hanging cable is clearly visible and counted.",
+    "Background stools and tables beyond the central area are partially occluded and not counted precisely; counts given apply only to clearly visible, distinguishable items in the foreground."
+  ],
+  "visual_facts": [
+    "Seven people are visible as distinct individuals in the photographed scene: one woman on the far left holding a handheld microphone; three people clustered at the near side of the central table (one seated and using a laptop, two standing and looking at devices/paper); two men standing on the right side of the table reading a sheet of paper; and one person visible through the glass partition in the background.",
+    "One laptop is visible on the central table and is being used by the seated person.",
+    "One upright monitor is visible on the central table near the right side of the image; it is mounted or standing on the table surface.",
+    "One telephone-like device or docking station is visible on the central table next to the monitor (the device has a handset-like shape and base).",
+    "One handheld microphone is visible and held by the woman on the left.",
+    "At least five high stools are visible around the central table: two on the left side (partially visible), three on the right side (all visible).",
+    "One suspended cable or microphone suspension is visible hanging from the ceiling above or near the central table (visible as a black cable hanging down).",
+    "Several additional tables and stools are visible in the background beyond the central table; exact counts for those background items cannot be determined reliably from this image crop.",
+    "The central table has a light-coloured wooden tabletop with metallic or painted metal legs (light grey frame).",
+    "Stool seats appear to be dark brown wood with black metal frames.",
+    "The ceiling shows exposed metallic ductwork and piping with white rectangular light panels mounted between the ducts.",
+    "The walls and large glass partition are predominantly white and clear glass respectively, with white wall signage visible in the background.",
+    "Clothing colours visible include a grey sweater on the woman left, a dark suit jacket on one man, a yellow/khaki jacket on another person, and a dark navy/white jacket on the man at the right."
+  ],
+  "id": "774e3909a425fd6877c96863",
+  "sha256": "59c559cc408d72387a2ddf7f62373fecb2d77a9428d8c5da6d1e479eabfcf210",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:46:51.539153+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "8e15fd0b5bbe5137573e0a20509da4a0bedffbcd786682a734f2a749b1848cef",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauA3m9lEKQzppi3y3Cwv3MCW6HvV",
+  "usage": {
+    "completion_tokens": 1195,
+    "prompt_tokens": 2266,
+    "total_tokens": 3461,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1175,
+      "engine_ttlt_ms": 10415,
+      "pre_inference_ms": 420,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2702,
+      "service_ttlt_ms": 11937,
+      "user_visible_ttft_ms": 2282
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

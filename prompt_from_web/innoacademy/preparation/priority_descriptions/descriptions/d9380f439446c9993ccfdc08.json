@@ -1,0 +1,112 @@
+{
+  "title": "Table of cylindrical material samples and small containers",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One large cylindrical sample in the foreground at right with hand-written marking; the cylinder is not cropped.",
+    "One smaller cylindrical sample with a dark top is visible slightly left of centre in the midground; the cylinder is not cropped.",
+    "One small rectangular block at the right-rear area with partially visible marking; the block is partially cropped by the image right edge.",
+    "One transparent plastic jar with a white lid containing clear liquid and a small dark deposit at the bottom, located at the left foreground; the jar is not cropped.",
+    "At least three small beige or tan cylindrical containers with white lids are visible in the background (rear-left to midground); they are blurred and partially obscured, so individual identification is limited to the visible minimum of three.",
+    "One green plastic funnel- or mould-shaped object stands in the rear-mid area; it is not cropped.",
+    "All objects above are items present in the photographed scene; there are also printed or written markings on some objects and labels on some containers which are part of the scene but are blurred or partly unreadable."
+  ],
+  "visible_text": [
+    "AAS1",
+    "AAS",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "A large marbled cylinder marked \"AAS1\" sits in the foreground at the right of the image.",
+    "A smaller, darker-topped cylindrical sample is positioned slightly left of centre in the midground and is in front of the beige/tan containers in the background.",
+    "A transparent jar with a white lid and liquid is placed in the left foreground, separated from the marbled cylinder by empty table surface.",
+    "Three or more beige/tan, lidded cylindrical containers are arranged in the background behind the midground samples, roughly along a diagonal from left rear toward centre rear.",
+    "A green, funnel- or mould-shaped plastic object stands near the centre-rear of the scene behind the midground samples.",
+    "A rectangular block bearing partial marking \"AAS\" is located rear-right, partially behind the large marbled cylinder and partly cropped by the image edge."
+  ],
+  "colours_and_materials": [
+    "The large foreground cylinder has a marbled grey and white appearance with darker grey spots or inclusions.",
+    "The smaller midground cylinder shows a dark (near-black) top and a gradient of grey/white on the sides.",
+    "The rectangular block at rear-right appears grey with darker markings.",
+    "The transparent jar at left is clear plastic with a white lid and clear liquid inside, with a dark sediment at the bottom.",
+    "Several background containers are beige or tan with white lids and are blurred.",
+    "A green plastic funnel- or mould-shaped object is visible in the rear-mid area.",
+    "The table surface is a light beige or cream colour and appears smooth."
+  ],
+  "uncertainties": [
+    "Exact counts for the beige/tan lidded containers in the background are uncertain because they are blurred and partially obscured; a minimum of three distinct containers is visible.",
+    "Some printed labels on the beige/tan containers and a label on the green object are present but are blurred or too small to transcribe; these are recorded as [unreadable].",
+    "The rectangular block at the rear-right is partially cropped by the image edge, so its full marking and exact shape are not fully visible.",
+    "The visible text entries include exact readable transcriptions \"AAS1\" and \"AAS\"; other text in the image could not be reliably read and is reported as [unreadable]."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One large cylindrical sample in the foreground at right with hand-written marking; the cylinder is not cropped.",
+    "One smaller cylindrical sample with a dark top is visible slightly left of centre in the midground; the cylinder is not cropped.",
+    "One small rectangular block at the right-rear area with partially visible marking; the block is partially cropped by the image right edge.",
+    "One transparent plastic jar with a white lid containing clear liquid and a small dark deposit at the bottom, located at the left foreground; the jar is not cropped.",
+    "At least three small beige or tan cylindrical containers with white lids are visible in the background (rear-left to midground); they are blurred and partially obscured, so individual identification is limited to the visible minimum of three.",
+    "One green plastic funnel- or mould-shaped object stands in the rear-mid area; it is not cropped.",
+    "All objects above are items present in the photographed scene; there are also printed or written markings on some objects and labels on some containers which are part of the scene but are blurred or partly unreadable.",
+    "The large foreground cylinder has a marbled grey and white appearance with darker grey spots or inclusions.",
+    "The smaller midground cylinder shows a dark (near-black) top and a gradient of grey/white on the sides.",
+    "The rectangular block at rear-right appears grey with darker markings.",
+    "The transparent jar at left is clear plastic with a white lid and clear liquid inside, with a dark sediment at the bottom.",
+    "Several background containers are beige or tan with white lids and are blurred.",
+    "A green plastic funnel- or mould-shaped object is visible in the rear-mid area.",
+    "The table surface is a light beige or cream colour and appears smooth."
+  ],
+  "id": "d9380f439446c9993ccfdc08",
+  "sha256": "b065226679412817703a352f3fa8da209884ba8f56e0bfbe8ea91efad2566834",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:21:04.659086+00:00",
+  "input_resolution": [
+    1280,
+    853
+  ],
+  "input_sha256": "d035594150fae481fb11d820517f4f2333b29b5dad65b6923f5ea0c6ac9b9a47",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatl86ruVqV4Bm085mhTs2Y842RKU",
+  "usage": {
+    "completion_tokens": 1069,
+    "prompt_tokens": 2266,
+    "total_tokens": 3335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1025,
+      "engine_ttlt_ms": 9293,
+      "pre_inference_ms": 285,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1757,
+      "service_ttlt_ms": 10020,
+      "user_visible_ttft_ms": 1472
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

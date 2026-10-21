@@ -1,0 +1,4078 @@
+[
+  {
+    "id": "012956fee6fb6a69043fb88c",
+    "sha256": "a57af322fe3bf58f7ed7be6c72d7cc62aefb45437420ecdac21e3d0289f67996",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/a57af322fe3bf58f7ed7be6c72d7cc62aefb45437420ecdac21e3d0289f67996.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a57af322fe3bf58f7ed7be6c72d7cc62aefb45437420ecdac21e3d0289f67996.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/Detail-and-rule-of-games-pdf-頁面-2-1-2.png",
+    "source_ids": [
+      "012956fee6fb6a69043fb88c",
+      "7eb1f40e2f860ce132a31d41",
+      "d992584c671759826af7f066"
+    ],
+    "width": 1049,
+    "height": 878,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/cyborg/",
+        "page_title": "Project Cyborg",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:49.737481+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/gg2ez/",
+        "page_title": "The 1st Greater Bay Area drone competition",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:17.436432+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/gg2ez/detail-and-rule-of-games-pdf-%e9%a0%81%e9%9d%a2-2-1-3/",
+        "page_title": "Detail and rule of games pdf-頁面-2-1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3298,
+        "parent_post_id": 3159,
+        "published_at": "2019-07-02T09:42:46",
+        "retrieved_at": "2026-10-13T13:18:35.791830+00:00",
+        "discovery": "public_media"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/gg2ez/detail-and-rule-of-games-pdf-%e9%a0%81%e9%9d%a2-2-1-2/",
+        "page_title": "Detail and rule of games pdf-頁面-2-1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3296,
+        "parent_post_id": 3159,
+        "published_at": "2019-07-02T09:35:23",
+        "retrieved_at": "2026-10-13T13:18:35.792232+00:00",
+        "discovery": "public_media"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/gg2ez/detail-and-rule-of-games-pdf-%e9%a0%81%e9%9d%a2-2-1/",
+        "page_title": "Detail and rule of games pdf-頁面-2-1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3295,
+        "parent_post_id": 3159,
+        "published_at": "2019-07-02T09:33:31",
+        "retrieved_at": "2026-10-13T13:18:35.792689+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "060774c53b7d40b7f2a2bfbf",
+    "sha256": "2f37265174bc7baece448645ba67babcd707df2a969e5389d9547b0bf2540dfd",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/2f37265174bc7baece448645ba67babcd707df2a969e5389d9547b0bf2540dfd.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/2f37265174bc7baece448645ba67babcd707df2a969e5389d9547b0bf2540dfd.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/11/IMG_4464a.jpg",
+    "source_ids": [
+      "060774c53b7d40b7f2a2bfbf"
+    ],
+    "width": 1895,
+    "height": 1421,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_4464a/",
+        "page_title": "SpiderBot Workshop",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 41957,
+        "parent_post_id": null,
+        "published_at": "2023-11-02T03:18:51",
+        "retrieved_at": "2026-10-13T13:18:33.882854+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "097064d4ccea3c9ada16fa75",
+    "sha256": "f258d52244bddc8a9c4b968a5f3f4166eeeccb4a4948911daf9e9b414bfc296a",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/f258d52244bddc8a9c4b968a5f3f4166eeeccb4a4948911daf9e9b414bfc296a.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/f258d52244bddc8a9c4b968a5f3f4166eeeccb4a4948911daf9e9b414bfc296a.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/10/IMG_0999-scaled.jpg",
+    "source_ids": [
+      "097064d4ccea3c9ada16fa75"
+    ],
+    "width": 1920,
+    "height": 2560,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/photowall/img_0999/",
+        "page_title": "IMG_0999",
+        "alt": "",
+        "caption": "Acrylic laser cutting and engraving machine",
+        "nearby_text": "",
+        "media_id": 28431,
+        "parent_post_id": 28298,
+        "published_at": "2022-10-20T06:45:47",
+        "retrieved_at": "2026-10-13T13:18:34.305005+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "0bd0894bc32666fd06fda882",
+    "sha256": "029ff08557ad1ffa42d36140746090ab5bb97b7d92a65b310888b30ced9b1353",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/029ff08557ad1ffa42d36140746090ab5bb97b7d92a65b310888b30ced9b1353.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/029ff08557ad1ffa42d36140746090ab5bb97b7d92a65b310888b30ced9b1353.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/10/IMG_0995-scaled.jpg",
+    "source_ids": [
+      "0bd0894bc32666fd06fda882"
+    ],
+    "width": 1920,
+    "height": 2560,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/podcaststudio/",
+        "page_title": "Podcast Studio (Treasure Hunt)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:39.030050+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/photowall/img_0995/",
+        "page_title": "Podcast Studio (Treasure Hunt)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 28427,
+        "parent_post_id": 28298,
+        "published_at": "2022-10-20T06:45:29",
+        "retrieved_at": "2026-10-13T13:18:34.306508+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "111b7f7795c24e08c19e9d64",
+    "sha256": "f2f4474e282341a7b082ac06710f7172e028669e67fd0c9824e43971186002ad",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/f2f4474e282341a7b082ac06710f7172e028669e67fd0c9824e43971186002ad.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/f2f4474e282341a7b082ac06710f7172e028669e67fd0c9824e43971186002ad.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/H.jpg",
+    "source_ids": [
+      "111b7f7795c24e08c19e9d64"
+    ],
+    "width": 674,
+    "height": 321,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/safety/h/",
+        "page_title": "H",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3327,
+        "parent_post_id": 3243,
+        "published_at": "2019-07-10T09:49:13",
+        "retrieved_at": "2026-10-13T13:18:35.786626+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "1a08e97171bc6700904e3ea7",
+    "sha256": "0878989e6f0c89b72588d9a80ccfc39fd9ac29055579cb7cdd85ae755b4a42c5",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/0878989e6f0c89b72588d9a80ccfc39fd9ac29055579cb7cdd85ae755b4a42c5.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/0878989e6f0c89b72588d9a80ccfc39fd9ac29055579cb7cdd85ae755b4a42c5.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/2020_Nanofibrous-face-mask_2-1-768x432.jpg",
+    "source_ids": [
+      "1a08e97171bc6700904e3ea7"
+    ],
+    "width": 768,
+    "height": 432,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/enmsfilter/",
+        "page_title": "Electrospun reusable nanofibrous membrane filters for environmental applications",
+        "alt": "2020_Nanofibrous-face-mask_2",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:04.462032+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "1f37f58cf4e8e7dd089c1c2c",
+    "sha256": "0aceb0c49349f952c43ade0549ec67c61b0994cf2d0c82781c7a95778018453f",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/0aceb0c49349f952c43ade0549ec67c61b0994cf2d0c82781c7a95778018453f.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/0aceb0c49349f952c43ade0549ec67c61b0994cf2d0c82781c7a95778018453f.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/powder-fire-extinguisher.jpg",
+    "source_ids": [
+      "1f37f58cf4e8e7dd089c1c2c"
+    ],
+    "width": 690,
+    "height": 870,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/safety/powder-fire-extinguisher/",
+        "page_title": "powder fire extinguisher",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 4237,
+        "parent_post_id": 3243,
+        "published_at": "2019-08-27T06:47:59",
+        "retrieved_at": "2026-10-13T13:18:35.734429+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "26d2db022559c16e9dcdfdb3",
+    "sha256": "9a8fd91cb7d85558260f1470d914241435bc77955a4ced0cafdd354bb1d1ee01",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/9a8fd91cb7d85558260f1470d914241435bc77955a4ced0cafdd354bb1d1ee01.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/9a8fd91cb7d85558260f1470d914241435bc77955a4ced0cafdd354bb1d1ee01.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/10/IMG_1011-scaled.jpg",
+    "source_ids": [
+      "26d2db022559c16e9dcdfdb3"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/photowall/img_1011/",
+        "page_title": "Digital Learning Studio",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 28441,
+        "parent_post_id": 28298,
+        "published_at": "2022-10-20T06:46:30",
+        "retrieved_at": "2026-10-13T13:18:34.301006+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "291bffb50910dd653f33db8f",
+    "sha256": "16651aa1aeea685090cb138d1ab6d4233d65016bc78f222099e27043573a53ec",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/16651aa1aeea685090cb138d1ab6d4233d65016bc78f222099e27043573a53ec.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/16651aa1aeea685090cb138d1ab6d4233d65016bc78f222099e27043573a53ec.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/05/InnoShow_Poster_3035471210-Kai-Sum-Cheung-scaled.jpg",
+    "source_ids": [
+      "291bffb50910dd653f33db8f"
+    ],
+    "width": 1808,
+    "height": 2560,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/draw_robot_selfie_app/",
+        "page_title": "Drawing Robot and Selfie Smart Phone App",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:58.825439+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/draw_robot_selfie_app/innoshow_poster_3035471210-kai-sum-cheung/",
+        "page_title": "InnoShow_Poster_3035471210 – Kai Sum Cheung",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 12044,
+        "parent_post_id": 12040,
+        "published_at": "2021-05-18T03:31:16",
+        "retrieved_at": "2026-10-13T13:18:34.875158+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "2c2c0ed6b9109310b57f8b44",
+    "sha256": "ecca3a2683c916769e81a5ed4a8e83c14bd685698ceb04bd51542d625f01ee06",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/ecca3a2683c916769e81a5ed4a8e83c14bd685698ceb04bd51542d625f01ee06.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ecca3a2683c916769e81a5ed4a8e83c14bd685698ceb04bd51542d625f01ee06.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/IMG_0044.jpg",
+    "source_ids": [
+      "2c2c0ed6b9109310b57f8b44"
+    ],
+    "width": 1280,
+    "height": 853,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow3/photo/img_0044/",
+        "page_title": "IMG_0044",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9706,
+        "parent_post_id": 9685,
+        "published_at": "2020-11-28T04:08:19",
+        "retrieved_at": "2026-10-13T13:18:35.162968+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "2f774748c004a4db76115357",
+    "sha256": "dee8b9bcb8ecb4f4b91d670d45aaeee24f464f2236d119ad22b77c8ed6fbbca4",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/dee8b9bcb8ecb4f4b91d670d45aaeee24f464f2236d119ad22b77c8ed6fbbca4.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/dee8b9bcb8ecb4f4b91d670d45aaeee24f464f2236d119ad22b77c8ed6fbbca4.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/01/pexels-photo-132700.jpeg",
+    "source_ids": [
+      "2f774748c004a4db76115357"
+    ],
+    "width": 640,
+    "height": 426,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow1/pexels-photo-132700/",
+        "page_title": "pexels-photo-132700",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 356,
+        "parent_post_id": 9,
+        "published_at": "2019-01-17T10:14:31",
+        "retrieved_at": "2026-10-13T13:18:35.992168+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "33c062d6bd79faedd2250696",
+    "sha256": "1fa1d953c02065c10d05896b40ac3511b5148174dc3d24c6efc32cf3c88a3e84",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/1fa1d953c02065c10d05896b40ac3511b5148174dc3d24c6efc32cf3c88a3e84.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/1fa1d953c02065c10d05896b40ac3511b5148174dc3d24c6efc32cf3c88a3e84.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/12/38-20221130_InnoShow_S-524.jpg",
+    "source_ids": [
+      "33c062d6bd79faedd2250696"
+    ],
+    "width": 1334,
+    "height": 2000,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/38-20221130_innoshow_s-524/",
+        "page_title": "38-20221130_InnoShow_S (524)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 33819,
+        "parent_post_id": null,
+        "published_at": "2022-12-15T02:30:56",
+        "retrieved_at": "2026-10-13T13:18:34.195802+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "37330ef372f09984fb57e939",
+    "sha256": "37f2bdd1f823e850e1cba26974dcba9d7919b7138ce85863cc885e0110065d71",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/37f2bdd1f823e850e1cba26974dcba9d7919b7138ce85863cc885e0110065d71.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/37f2bdd1f823e850e1cba26974dcba9d7919b7138ce85863cc885e0110065d71.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/08/ultimaker.jpg",
+    "source_ids": [
+      "37330ef372f09984fb57e939"
+    ],
+    "width": 1500,
+    "height": 748,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ultimaker/",
+        "page_title": "ultimaker",
+        "alt": "",
+        "caption": "Ultimaker 3",
+        "nearby_text": "",
+        "media_id": 5737,
+        "parent_post_id": null,
+        "published_at": "2019-12-09T03:02:09",
+        "retrieved_at": "2026-10-13T13:18:35.527416+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "3b08d3144cb37be4d8fb79d4",
+    "sha256": "e829e1e6e7f9dd3be293cda961f69451da22d85c74f04a7af41300cab3e7f638",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/e829e1e6e7f9dd3be293cda961f69451da22d85c74f04a7af41300cab3e7f638.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/e829e1e6e7f9dd3be293cda961f69451da22d85c74f04a7af41300cab3e7f638.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Specimen-Casting-1-soil-material-for-reclamation.jpg",
+    "source_ids": [
+      "3b08d3144cb37be4d8fb79d4"
+    ],
+    "width": 900,
+    "height": 1600,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/soil-material-for-reclamation/specimen-casting-1-soil-material-for-reclamation/",
+        "page_title": "Specimen Casting 1 – soil material for reclamation",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6743,
+        "parent_post_id": 6720,
+        "published_at": "2020-06-18T06:03:29",
+        "retrieved_at": "2026-10-13T13:18:35.427465+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "4507ca49474a9bb233a34992",
+    "sha256": "f6de1a2d6f802689c364ccd75fdb823dfbbb971582839d9bf0703f52cbb9d79a",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/f6de1a2d6f802689c364ccd75fdb823dfbbb971582839d9bf0703f52cbb9d79a.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/f6de1a2d6f802689c364ccd75fdb823dfbbb971582839d9bf0703f52cbb9d79a.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/IMG_0375.jpg",
+    "source_ids": [
+      "4507ca49474a9bb233a34992"
+    ],
+    "width": 1024,
+    "height": 682,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/communication-enhancements-lsnqc/img_0375-2/",
+        "page_title": "IMG_0375",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 10006,
+        "parent_post_id": 9542,
+        "published_at": "2020-12-02T07:21:15",
+        "retrieved_at": "2026-10-13T13:18:35.147939+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "47ea8f70c91eae8f3b7ed0db",
+    "sha256": "71f01ecd35560840706f191d02d9602d053fe93f574fa21a0550adf3ce536a24",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/71f01ecd35560840706f191d02d9602d053fe93f574fa21a0550adf3ce536a24.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/71f01ecd35560840706f191d02d9602d053fe93f574fa21a0550adf3ce536a24.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/SM1.jpg",
+    "source_ids": [
+      "47ea8f70c91eae8f3b7ed0db"
+    ],
+    "width": 573,
+    "height": 573,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/safety/sm1/",
+        "page_title": "SM1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3329,
+        "parent_post_id": 3243,
+        "published_at": "2019-07-10T09:50:46",
+        "retrieved_at": "2026-10-13T13:18:35.785854+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "4bc8af7265e3c72930d9449c",
+    "sha256": "2ad315dc3118eef579a0de0412e1df31e945bd3b44bdc06f700a291b44afb63f",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/2ad315dc3118eef579a0de0412e1df31e945bd3b44bdc06f700a291b44afb63f.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/2ad315dc3118eef579a0de0412e1df31e945bd3b44bdc06f700a291b44afb63f.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Reusable-face-mask-filter_image-6-1024x768.jpg",
+    "source_ids": [
+      "4bc8af7265e3c72930d9449c"
+    ],
+    "width": 1024,
+    "height": 768,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/reusable-face-mask-filter/",
+        "page_title": "Nano-functionalized porous membrane filter for reusable face mask",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:57.737933+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "52b56bdfa95b8a60eccb8708",
+    "sha256": "2f37c473b0d0175a357d7b9c0f5232b8db244a1ebaba63df42ff0a9acdf58930",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/2f37c473b0d0175a357d7b9c0f5232b8db244a1ebaba63df42ff0a9acdf58930.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/2f37c473b0d0175a357d7b9c0f5232b8db244a1ebaba63df42ff0a9acdf58930.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/drills-scaled.jpg",
+    "source_ids": [
+      "52b56bdfa95b8a60eccb8708"
+    ],
+    "width": 2560,
+    "height": 1776,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/drills/",
+        "page_title": "drills",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 8563,
+        "parent_post_id": null,
+        "published_at": "2020-10-23T08:12:30",
+        "retrieved_at": "2026-10-13T13:18:35.315298+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "557023164eb6a36e4e24b846",
+    "sha256": "c3c99760eb17ec5bdcce82e0236946d35ea8f3f76186853f62396ad0d11094db",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/c3c99760eb17ec5bdcce82e0236946d35ea8f3f76186853f62396ad0d11094db.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/c3c99760eb17ec5bdcce82e0236946d35ea8f3f76186853f62396ad0d11094db.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/laser-cut.jpg",
+    "source_ids": [
+      "557023164eb6a36e4e24b846"
+    ],
+    "width": 1920,
+    "height": 1280,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/boris/laser-cut/",
+        "page_title": "laser cut",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 7816,
+        "parent_post_id": 7814,
+        "published_at": "2020-10-15T09:53:11",
+        "retrieved_at": "2026-10-13T13:18:35.329196+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "574ecf259d3aa8df0f185785",
+    "sha256": "66cb57255b3f1d5c5f8789d39743f39f14f3a26772c7002fa6024243114f6f09",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/66cb57255b3f1d5c5f8789d39743f39f14f3a26772c7002fa6024243114f6f09.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/66cb57255b3f1d5c5f8789d39743f39f14f3a26772c7002fa6024243114f6f09.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/IMG_0042.jpg",
+    "source_ids": [
+      "574ecf259d3aa8df0f185785"
+    ],
+    "width": 1024,
+    "height": 682,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sorbot/img_0042-2/",
+        "page_title": "IMG_0042",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 10011,
+        "parent_post_id": 9424,
+        "published_at": "2020-12-02T07:24:03",
+        "retrieved_at": "2026-10-13T13:18:35.145744+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "597e317e2c09fa3624ea920e",
+    "sha256": "a8aa7e295de78c75f97fff4cbbd50f5781a680e6f5ca67a9088978c33714e9ee",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/a8aa7e295de78c75f97fff4cbbd50f5781a680e6f5ca67a9088978c33714e9ee.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a8aa7e295de78c75f97fff4cbbd50f5781a680e6f5ca67a9088978c33714e9ee.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Specimen-Testing-1-soil-material-for-reclamation.jpg",
+    "source_ids": [
+      "597e317e2c09fa3624ea920e"
+    ],
+    "width": 1224,
+    "height": 1632,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/soil-material-for-reclamation/specimen-testing-1-soil-material-for-reclamation/",
+        "page_title": "Specimen Testing 1 – soil material for reclamation",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6753,
+        "parent_post_id": 6720,
+        "published_at": "2020-06-18T06:22:08",
+        "retrieved_at": "2026-10-13T13:18:35.425672+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "621cbc790fcb5ff34d4fb41c",
+    "sha256": "d1b1f1b7a3fa4a6a27e367124c9f1498c9aa5460019fd7b79e49174c0d758f0f",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/d1b1f1b7a3fa4a6a27e367124c9f1498c9aa5460019fd7b79e49174c0d758f0f.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/d1b1f1b7a3fa4a6a27e367124c9f1498c9aa5460019fd7b79e49174c0d758f0f.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/WhatsApp-Image-2020-10-08-at-18.24.41-Cheuk-Hei-Scott-Chow-1.jpeg",
+    "source_ids": [
+      "621cbc790fcb5ff34d4fb41c"
+    ],
+    "width": 1200,
+    "height": 1600,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow3/",
+        "page_title": "The 3nd Engineering Inno Show",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:49.636973+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/selfhealing-microencapsulation-granular-materials/",
+        "page_title": "Self‐healing, microencapsulation and granular materials",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:18.720209+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/selfhealing-microencapsulation-granular-materials/whatsapp-image-2020-10-08-at-18-24-41-cheuk-hei-scott-chow-2/",
+        "page_title": "WhatsApp Image 2020-10-08 at 18.24.41 – Cheuk Hei Scott Chow",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9446,
+        "parent_post_id": 9335,
+        "published_at": "2020-11-26T02:49:38",
+        "retrieved_at": "2026-10-13T13:18:35.246300+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "66109a5e75316d83b78fd070",
+    "sha256": "8745ab6ff050c5e81c680db0cc9364aaaeb7eb8d8d03e219d46d89c090e407b8",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/8745ab6ff050c5e81c680db0cc9364aaaeb7eb8d8d03e219d46d89c090e407b8.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/8745ab6ff050c5e81c680db0cc9364aaaeb7eb8d8d03e219d46d89c090e407b8.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/20201124_131400-scaled.jpg",
+    "source_ids": [
+      "66109a5e75316d83b78fd070"
+    ],
+    "width": 2560,
+    "height": 1151,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/schedule/20201124_131400/",
+        "page_title": "20201124_131400",
+        "alt": "",
+        "caption": "nasdgfasgeagsegasgeasg",
+        "nearby_text": "",
+        "media_id": 9205,
+        "parent_post_id": 9118,
+        "published_at": "2020-11-24T05:16:13",
+        "retrieved_at": "2026-10-13T13:18:35.276426+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "6d4525c8a907d6e2f34e5f1a",
+    "sha256": "bbea0bfaabe28a399fd10bbb14fb942c6c6c065757b023adba6f0b8811f2c8a6",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/bbea0bfaabe28a399fd10bbb14fb942c6c6c065757b023adba6f0b8811f2c8a6.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/bbea0bfaabe28a399fd10bbb14fb942c6c6c065757b023adba6f0b8811f2c8a6.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Soil-Testing-2-soil-material-for-reclamation.jpg",
+    "source_ids": [
+      "6d4525c8a907d6e2f34e5f1a"
+    ],
+    "width": 1060,
+    "height": 1885,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/soil-material-for-reclamation/soil-testing-2-soil-material-for-reclamation/",
+        "page_title": "Soil Testing 2 – soil material for reclamation",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6733,
+        "parent_post_id": 6720,
+        "published_at": "2020-06-18T05:19:37",
+        "retrieved_at": "2026-10-13T13:18:35.428612+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "6de6ad04d245da325634156f",
+    "sha256": "ea8a6e6e70c1cb0ff55b1b57088378ba73c09eaff225a5297a4009e3f7aee582",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/ea8a6e6e70c1cb0ff55b1b57088378ba73c09eaff225a5297a4009e3f7aee582.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ea8a6e6e70c1cb0ff55b1b57088378ba73c09eaff225a5297a4009e3f7aee582.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/26-aug_cosmic-rays-quantum-computers.jpg",
+    "source_ids": [
+      "6de6ad04d245da325634156f"
+    ],
+    "width": 778,
+    "height": 519,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow3/26-aug_cosmic-rays-quantum-computers/",
+        "page_title": "26-aug_cosmic-rays-quantum-computers",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 8937,
+        "parent_post_id": 8349,
+        "published_at": "2020-11-11T05:59:25",
+        "retrieved_at": "2026-10-13T13:18:35.290621+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "716f58dad2596fd76f047a77",
+    "sha256": "113a28f473b18f940a3283663d60e2469f8865103c5988f684182a819e28010c",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/113a28f473b18f940a3283663d60e2469f8865103c5988f684182a819e28010c.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/113a28f473b18f940a3283663d60e2469f8865103c5988f684182a819e28010c.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/10/DSE_0418-min-scaled.jpg",
+    "source_ids": [
+      "716f58dad2596fd76f047a77"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dse_0418-min/",
+        "page_title": "Japan Tour Photo 56",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 41627,
+        "parent_post_id": null,
+        "published_at": "2023-10-24T03:31:56",
+        "retrieved_at": "2026-10-13T13:18:33.900597+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "769bd6aa7edb209ecb8f3a90",
+    "sha256": "ef947c3db698b92a195abde8a225dfb5b85e3dbaac2b42c9c76c96f8a934aed4",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/ef947c3db698b92a195abde8a225dfb5b85e3dbaac2b42c9c76c96f8a934aed4.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ef947c3db698b92a195abde8a225dfb5b85e3dbaac2b42c9c76c96f8a934aed4.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/laser.jpg",
+    "source_ids": [
+      "769bd6aa7edb209ecb8f3a90"
+    ],
+    "width": 600,
+    "height": 600,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/equipment/",
+        "page_title": "Equipment/ facilities in Innovation Wing",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:06.218880+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/equipment/laser/",
+        "page_title": "laser",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9061,
+        "parent_post_id": 8002,
+        "published_at": "2020-11-20T10:11:04",
+        "retrieved_at": "2026-10-13T13:18:35.281811+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "7a676dd48af3b63b2c320b3b",
+    "sha256": "68cd40e6586dedcb9c1f923a56ea79d1c20ff3dceef766a8acfea454bee296f8",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/68cd40e6586dedcb9c1f923a56ea79d1c20ff3dceef766a8acfea454bee296f8.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/68cd40e6586dedcb9c1f923a56ea79d1c20ff3dceef766a8acfea454bee296f8.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/06/ENG04185-1.jpg",
+    "source_ids": [
+      "7a676dd48af3b63b2c320b3b"
+    ],
+    "width": 2000,
+    "height": 1126,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/eng04185-2/",
+        "page_title": "ENG04185",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 24014,
+        "parent_post_id": null,
+        "published_at": "2022-06-20T03:11:55",
+        "retrieved_at": "2026-10-13T13:18:34.465162+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "7c5aa0c7c03b5b0265215a55",
+    "sha256": "edc3eaae639aafd4ac6afe2dc03bb8c5919591923253556564dcabc7c4632a2d",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/edc3eaae639aafd4ac6afe2dc03bb8c5919591923253556564dcabc7c4632a2d.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/edc3eaae639aafd4ac6afe2dc03bb8c5919591923253556564dcabc7c4632a2d.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/Rigol-DM30582.jpg",
+    "source_ids": [
+      "7c5aa0c7c03b5b0265215a55"
+    ],
+    "width": 1024,
+    "height": 768,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/samuelli/rigol-dm30582/",
+        "page_title": "Rigol-DM30582",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 8726,
+        "parent_post_id": 7913,
+        "published_at": "2020-10-28T01:36:00",
+        "retrieved_at": "2026-10-13T13:18:35.308304+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "834d62e9275c8a45431eeb6a",
+    "sha256": "2dc28cbe1a854f88ccf45be72eb6b5842fea6340eae03041f73b9a7520cec1cb",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/2dc28cbe1a854f88ccf45be72eb6b5842fea6340eae03041f73b9a7520cec1cb.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/2dc28cbe1a854f88ccf45be72eb6b5842fea6340eae03041f73b9a7520cec1cb.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/pic2.png",
+    "source_ids": [
+      "834d62e9275c8a45431eeb6a"
+    ],
+    "width": 1136,
+    "height": 397,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/natalieleung/pic2/",
+        "page_title": "pic2",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 8994,
+        "parent_post_id": 7821,
+        "published_at": "2020-11-13T02:31:28",
+        "retrieved_at": "2026-10-13T13:18:35.284037+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "85fc1e22de3e0119f8d1efb8",
+    "sha256": "c29b77cb29c4e51370190065f36aa80e37272c4492fefece20200b59bda1aaa9",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/c29b77cb29c4e51370190065f36aa80e37272c4492fefece20200b59bda1aaa9.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/c29b77cb29c4e51370190065f36aa80e37272c4492fefece20200b59bda1aaa9.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/IMG_0148.jpg",
+    "source_ids": [
+      "85fc1e22de3e0119f8d1efb8"
+    ],
+    "width": 1280,
+    "height": 853,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow3/photo/img_0148/",
+        "page_title": "IMG_0148",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9722,
+        "parent_post_id": 9685,
+        "published_at": "2020-11-28T04:08:29",
+        "retrieved_at": "2026-10-13T13:18:35.096131+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "8af6e28463356f23385f2bb4",
+    "sha256": "8b3a7414b26ca90b6d086c4db957218aabce281ecf3b6720b14f18330e40da8d",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/8b3a7414b26ca90b6d086c4db957218aabce281ecf3b6720b14f18330e40da8d.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/8b3a7414b26ca90b6d086c4db957218aabce281ecf3b6720b14f18330e40da8d.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/IMG_0044-1.jpg",
+    "source_ids": [
+      "8af6e28463356f23385f2bb4"
+    ],
+    "width": 1024,
+    "height": 682,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sorbot/img_0044-2/",
+        "page_title": "IMG_0044",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 10013,
+        "parent_post_id": 9424,
+        "published_at": "2020-12-02T07:24:04",
+        "retrieved_at": "2026-10-13T13:18:35.144618+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "8ce1dab736ba85adfda744b6",
+    "sha256": "248e0a15b4281c521d753445b4dfd0ea67ae707fe62aaed871a99cc93feaa08a",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/248e0a15b4281c521d753445b4dfd0ea67ae707fe62aaed871a99cc93feaa08a.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/248e0a15b4281c521d753445b4dfd0ea67ae707fe62aaed871a99cc93feaa08a.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/fx-951_p.jpg",
+    "source_ids": [
+      "8ce1dab736ba85adfda744b6"
+    ],
+    "width": 578,
+    "height": 448,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/samuelli/fx-951_p/",
+        "page_title": "fx-951_p",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 8727,
+        "parent_post_id": 7913,
+        "published_at": "2020-10-28T01:37:30",
+        "retrieved_at": "2026-10-13T13:18:35.307771+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "91878841d8e81d5f9142e68e",
+    "sha256": "920d429a6f07736d80d7c70719b60f5ce7f14e793ee6a1d2718115492cc4b565",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/920d429a6f07736d80d7c70719b60f5ce7f14e793ee6a1d2718115492cc4b565.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/920d429a6f07736d80d7c70719b60f5ce7f14e793ee6a1d2718115492cc4b565.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2026/01/Pitch-2026-2048x1448.png",
+    "source_ids": [
+      "91878841d8e81d5f9142e68e"
+    ],
+    "width": 2048,
+    "height": 1448,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/pitching_2026/",
+        "page_title": "Pitching 2026",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:37.644240+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/workshop/",
+        "page_title": "Workshop",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:18:10.794311+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "93c42bc920974e32949b4f07",
+    "sha256": "741db0c051bd6ba23ab28de97b649cbaa9da3313b86ad93b7967f2202153eb24",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/741db0c051bd6ba23ab28de97b649cbaa9da3313b86ad93b7967f2202153eb24.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/741db0c051bd6ba23ab28de97b649cbaa9da3313b86ad93b7967f2202153eb24.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/wrenchs-and-hummers-scaled.jpg",
+    "source_ids": [
+      "93c42bc920974e32949b4f07"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/wrenchs-and-hummers/",
+        "page_title": "wrenchs and hummers",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 8555,
+        "parent_post_id": null,
+        "published_at": "2020-10-23T08:07:27",
+        "retrieved_at": "2026-10-13T13:18:35.317439+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "96f6658272b191cf9b9fa8cc",
+    "sha256": "6ee721d9a06ffcb6df61cafc1ef2ef107a5e0b124af7b83848f877a434b5fbf1",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/6ee721d9a06ffcb6df61cafc1ef2ef107a5e0b124af7b83848f877a434b5fbf1.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/6ee721d9a06ffcb6df61cafc1ef2ef107a5e0b124af7b83848f877a434b5fbf1.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/06/C0156-Team-1500.08.png",
+    "source_ids": [
+      "96f6658272b191cf9b9fa8cc"
+    ],
+    "width": 2215,
+    "height": 1238,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/c0156-team-1500-08/",
+        "page_title": "Inno Show 8 C0156-Team 15 Quantum",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 37993,
+        "parent_post_id": null,
+        "published_at": "2023-06-16T04:51:29",
+        "retrieved_at": "2026-10-13T13:18:34.015992+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "990b6924fc32a94f8019d974",
+    "sha256": "504796a256ca561751ccd1ce34fcb482b57f07abd68307eaa99ca18d14f5afa1",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/504796a256ca561751ccd1ce34fcb482b57f07abd68307eaa99ca18d14f5afa1.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/504796a256ca561751ccd1ce34fcb482b57f07abd68307eaa99ca18d14f5afa1.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/IMG_0043.jpg",
+    "source_ids": [
+      "990b6924fc32a94f8019d974"
+    ],
+    "width": 1024,
+    "height": 682,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sorbot/img_0043/",
+        "page_title": "IMG_0043",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 10012,
+        "parent_post_id": 9424,
+        "published_at": "2020-12-02T07:24:04",
+        "retrieved_at": "2026-10-13T13:18:35.145175+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "9dfb125994ad1959c06c923b",
+    "sha256": "5164660092b575162b4cfeb46abd49de31acef4147da2decb880be12238de6a6",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/5164660092b575162b4cfeb46abd49de31acef4147da2decb880be12238de6a6.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/5164660092b575162b4cfeb46abd49de31acef4147da2decb880be12238de6a6.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/ultimaker-cover-kit-5.jpg",
+    "source_ids": [
+      "9dfb125994ad1959c06c923b"
+    ],
+    "width": 578,
+    "height": 749,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/equipment/",
+        "page_title": "Equipment/ facilities in Innovation Wing",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:06.218880+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/equipment/ultimaker-cover-kit-5-2/",
+        "page_title": "ultimaker-cover-kit-5",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9073,
+        "parent_post_id": 8002,
+        "published_at": "2020-11-22T07:54:28",
+        "retrieved_at": "2026-10-13T13:18:35.279866+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "a439538915b57211c86053d9",
+    "sha256": "39a208d54e6af9d01b24a65ecd9bfcbe21b85c87e7274ade4828c765ab3b8474",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/39a208d54e6af9d01b24a65ecd9bfcbe21b85c87e7274ade4828c765ab3b8474.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/39a208d54e6af9d01b24a65ecd9bfcbe21b85c87e7274ade4828c765ab3b8474.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/10/IMG_1038-scaled.jpg",
+    "source_ids": [
+      "a439538915b57211c86053d9"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/lasercuttingroom/img_1038/",
+        "page_title": "Laser Cutting Room (Treasure Hunt)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 29703,
+        "parent_post_id": 29682,
+        "published_at": "2022-10-26T09:32:03",
+        "retrieved_at": "2026-10-13T13:18:34.445055+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "ae2b094c1fe08f52c8f6fc10",
+    "sha256": "7f339f352c51d5b33b05f3aeaf583a8b7166c6d0128c18263eac68e8746bd16b",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/7f339f352c51d5b33b05f3aeaf583a8b7166c6d0128c18263eac68e8746bd16b.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/7f339f352c51d5b33b05f3aeaf583a8b7166c6d0128c18263eac68e8746bd16b.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/11/28.-3DuPrint-HKU-3D-Print-Cloud-Submission-System-IMG-02.png",
+    "source_ids": [
+      "ae2b094c1fe08f52c8f6fc10"
+    ],
+    "width": 1179,
+    "height": 2556,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/28-3duprint-hku-3d-print-cloud-submission-system-img-02/",
+        "page_title": "28. 3DuPrint – HKU 3D Print Cloud Submission System (IMG 02)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 33531,
+        "parent_post_id": null,
+        "published_at": "2022-11-29T08:16:05",
+        "retrieved_at": "2026-10-13T13:18:34.223629+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "b35868d5f5bf0d3a4c963fe3",
+    "sha256": "b56028775e3f5c1364db75cc565611ac9672ac78ae00f949c0ec4dad62528133",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/b56028775e3f5c1364db75cc565611ac9672ac78ae00f949c0ec4dad62528133.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/b56028775e3f5c1364db75cc565611ac9672ac78ae00f949c0ec4dad62528133.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/electronic-benches.png",
+    "source_ids": [
+      "b35868d5f5bf0d3a4c963fe3"
+    ],
+    "width": 2042,
+    "height": 1446,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/equipment/",
+        "page_title": "Equipment/ facilities in Innovation Wing",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:06.218880+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/equipment/electronic-benches/",
+        "page_title": "electronic benches",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9074,
+        "parent_post_id": 8002,
+        "published_at": "2020-11-22T07:54:31",
+        "retrieved_at": "2026-10-13T13:18:35.279347+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "b84322664accde92b7d4f172",
+    "sha256": "5e02f6b9cc5641f46c5790675c977e82ae1a7d3806e9c30fc1aad2ed000646e0",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/5e02f6b9cc5641f46c5790675c977e82ae1a7d3806e9c30fc1aad2ed000646e0.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/5e02f6b9cc5641f46c5790675c977e82ae1a7d3806e9c30fc1aad2ed000646e0.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-20-at-1.50.07-AM-Chun-Wing-Edison-Pak.jpeg",
+    "source_ids": [
+      "b84322664accde92b7d4f172"
+    ],
+    "width": 768,
+    "height": 1024,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sus-cement/",
+        "page_title": "Performance of Sustainable Cement for Marine Construction",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:52.950209+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sus-cement/whatsapp-image-2020-11-20-at-1-50-07-am-chun-wing-edison-pak/",
+        "page_title": "WhatsApp Image 2020-11-20 at 1.50.07 AM – Chun Wing Edison Pak",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9361,
+        "parent_post_id": 9327,
+        "published_at": "2020-11-25T07:48:34",
+        "retrieved_at": "2026-10-13T13:18:35.255164+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "bd92122210acf4a7fc1e008c",
+    "sha256": "bbba034b27276504163374f39972a151692decbd6a703982b55477beacc4b01d",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/bbba034b27276504163374f39972a151692decbd6a703982b55477beacc4b01d.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/bbba034b27276504163374f39972a151692decbd6a703982b55477beacc4b01d.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/01/20231101017a.jpg",
+    "source_ids": [
+      "bd92122210acf4a7fc1e008c"
+    ],
+    "width": 2040,
+    "height": 1360,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20231101017a/",
+        "page_title": "IoT Smart Clock workshop",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 43257,
+        "parent_post_id": null,
+        "published_at": "2024-01-04T03:56:02",
+        "retrieved_at": "2026-10-13T13:18:33.868066+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "c27cdefadf321c1b059ec77d",
+    "sha256": "73517a7bd9c0bfa708134eeb33c791e50a5a610905785ef46dcfc1fbf6a67ee6",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/73517a7bd9c0bfa708134eeb33c791e50a5a610905785ef46dcfc1fbf6a67ee6.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/73517a7bd9c0bfa708134eeb33c791e50a5a610905785ef46dcfc1fbf6a67ee6.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/05/BREED-InnoShow-Cover-Photo-Simran-Avinash-scaled.jpg",
+    "source_ids": [
+      "c27cdefadf321c1b059ec77d"
+    ],
+    "width": 2560,
+    "height": 1173,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow4/",
+        "page_title": "The 4th Engineering Inno Show",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:53.784865+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/robofishbreed2021/breed-innoshow-cover-photo-simran-avinash/",
+        "page_title": "BREED InnoShow Cover Photo – Simran Avinash",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 12058,
+        "parent_post_id": 12056,
+        "published_at": "2021-05-18T04:34:06",
+        "retrieved_at": "2026-10-13T13:18:34.874162+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "c6d1f397236ae67dfc8cd970",
+    "sha256": "4c903764e9b6afcd3ffd7ea6e2cda7d76ce1cc3aa7110c2bc608aa8f1158a43b",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/4c903764e9b6afcd3ffd7ea6e2cda7d76ce1cc3aa7110c2bc608aa8f1158a43b.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/4c903764e9b6afcd3ffd7ea6e2cda7d76ce1cc3aa7110c2bc608aa8f1158a43b.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Specimen-Testing-4-soil-material-for-reclamation.jpg",
+    "source_ids": [
+      "c6d1f397236ae67dfc8cd970"
+    ],
+    "width": 1224,
+    "height": 1632,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/soil-material-for-reclamation/specimen-testing-4-soil-material-for-reclamation/",
+        "page_title": "Specimen Testing 4 – soil material for reclamation",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6756,
+        "parent_post_id": 6720,
+        "published_at": "2020-06-18T06:23:40",
+        "retrieved_at": "2026-10-13T13:18:35.423660+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "cedef8550e73dad8b6462c27",
+    "sha256": "351a8e3358889e40aad5736c989e4915e64dd39ee5679f448aa019b6881c60fd",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/351a8e3358889e40aad5736c989e4915e64dd39ee5679f448aa019b6881c60fd.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/351a8e3358889e40aad5736c989e4915e64dd39ee5679f448aa019b6881c60fd.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-19-at-10.37.54-AM-Chun-Wing-Edison-Pak.jpeg",
+    "source_ids": [
+      "cedef8550e73dad8b6462c27"
+    ],
+    "width": 768,
+    "height": 1024,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sus-cement/",
+        "page_title": "Performance of Sustainable Cement for Marine Construction",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:52.950209+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sus-cement/whatsapp-image-2020-11-19-at-10-37-54-am-chun-wing-edison-pak/",
+        "page_title": "WhatsApp Image 2020-11-19 at 10.37.54 AM – Chun Wing Edison Pak",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9365,
+        "parent_post_id": 9327,
+        "published_at": "2020-11-25T07:48:35",
+        "retrieved_at": "2026-10-13T13:18:35.252744+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "d96a6dde87288ee9f9666e9e",
+    "sha256": "45cbfe97ed9d6912938288f78ac23b42d94bb310e157d33bc5261ea9c2583ab6",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/45cbfe97ed9d6912938288f78ac23b42d94bb310e157d33bc5261ea9c2583ab6.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/45cbfe97ed9d6912938288f78ac23b42d94bb310e157d33bc5261ea9c2583ab6.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/05/InnoShow_CHEUNG-Tsz-Kwan-page-001-Tsz-Kwan-Cheung-1-scaled.jpg",
+    "source_ids": [
+      "d96a6dde87288ee9f9666e9e"
+    ],
+    "width": 1811,
+    "height": 2560,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/hyporheic_exchange/",
+        "page_title": "Impact of Different Factors on Hyporheic Exchange in a Meandering Pool-riffle Stream",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:33.839801+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/hyporheic_exchange/innoshow_cheung-tsz-kwan-page-001-tsz-kwan-cheung-2/",
+        "page_title": "InnoShow_CHEUNG Tsz Kwan-page-001 – Tsz Kwan Cheung",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 11694,
+        "parent_post_id": 11688,
+        "published_at": "2021-05-14T10:30:12",
+        "retrieved_at": "2026-10-13T13:18:34.950616+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "de6ee7450f2c2c7124d41c22",
+    "sha256": "b68bf02fdccc5acb5f8415e46108c36b05bfee325baff0e638cdf70dd2e18eb6",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/b68bf02fdccc5acb5f8415e46108c36b05bfee325baff0e638cdf70dd2e18eb6.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/b68bf02fdccc5acb5f8415e46108c36b05bfee325baff0e638cdf70dd2e18eb6.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Soil-Testing-3-soil-material-for-reclamation.jpg",
+    "source_ids": [
+      "de6ee7450f2c2c7124d41c22"
+    ],
+    "width": 1885,
+    "height": 1060,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/soil-material-for-reclamation/soil-testing-3-soil-material-for-reclamation/",
+        "page_title": "Soil Testing 3 – soil material for reclamation",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6734,
+        "parent_post_id": 6720,
+        "published_at": "2020-06-18T05:19:39",
+        "retrieved_at": "2026-10-13T13:18:35.428057+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "e931387c2f2f2abf29dd104b",
+    "sha256": "35aa6541ec261e80318446cddb994797fad0e7e6d82f9c252b9af1aebe8ba106",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/35aa6541ec261e80318446cddb994797fad0e7e6d82f9c252b9af1aebe8ba106.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/35aa6541ec261e80318446cddb994797fad0e7e6d82f9c252b9af1aebe8ba106.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/IBL2019/getting-ready.jpg",
+    "source_ids": [
+      "e931387c2f2f2abf29dd104b"
+    ],
+    "width": 3000,
+    "height": 2000,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/getting-ready/",
+        "page_title": "getting ready",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 5194,
+        "parent_post_id": null,
+        "published_at": "2019-09-24T13:33:06",
+        "retrieved_at": "2026-10-13T13:18:35.585601+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "f1b01342e96511843f2d4e92",
+    "sha256": "9e0399de0b175ef77066e9022254175033d300fa24c5b09375c68f06cb1703a3",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/9e0399de0b175ef77066e9022254175033d300fa24c5b09375c68f06cb1703a3.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/9e0399de0b175ef77066e9022254175033d300fa24c5b09375c68f06cb1703a3.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/15.-Investigation-on-the-feasibility-of-using-completely-decomposed-tuff-as-a-river-sand-substitute-for-concrete-production-UCS-Testing-1-Arthur-Hiu-Fai-Lam.jpeg",
+    "source_ids": [
+      "f1b01342e96511843f2d4e92"
+    ],
+    "width": 768,
+    "height": 1024,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/riversand-concrete/",
+        "page_title": "Investigation on the feasibility of using completely decomposed tuff as a river sand substitute for concrete production",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:59.237120+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/15-investigation-on-the-feasibility-of-using-completely-decomposed-tuff-as-a-river-sand-substitute-for-concrete-production-ucs-testing-1-arthur-hiu-fai-lam/",
+        "page_title": "15. Investigation on the feasibility of using completely decomposed tuff as a river sand substitute for concrete production (UCS Testing 1) – Arthur Hiu Fai Lam",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 21691,
+        "parent_post_id": null,
+        "published_at": "2022-05-24T05:57:29",
+        "retrieved_at": "2026-10-13T13:18:34.558946+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "f5458de03db4287b8c66de71",
+    "sha256": "0ac3671b67dd97ded8919d4c3be414df154e7e8a049c68d89a5c0d26eb7793f8",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/0ac3671b67dd97ded8919d4c3be414df154e7e8a049c68d89a5c0d26eb7793f8.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/0ac3671b67dd97ded8919d4c3be414df154e7e8a049c68d89a5c0d26eb7793f8.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/20201124_132329-2048x921.jpg",
+    "source_ids": [
+      "f5458de03db4287b8c66de71"
+    ],
+    "width": 2048,
+    "height": 921,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/schedule/",
+        "page_title": "Schedule and arrangement",
+        "alt": "",
+        "caption": "Entrance gate: Thermal camera installed for temperature screening before passing the entrance gate.",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:16.667399+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/schedule/",
+        "page_title": "Schedule and arrangement",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "Entrance gate: Thermal camera installed for temperature screening before passing the entrance gate.",
+        "retrieved_at": "2026-10-13T13:17:16.667399+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "f846ee5b9d33427041938909",
+    "sha256": "2b3b36d6086a6e8bb441dd20ececd56539bbaf047049681e574d161427646feb",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/2b3b36d6086a6e8bb441dd20ececd56539bbaf047049681e574d161427646feb.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/2b3b36d6086a6e8bb441dd20ececd56539bbaf047049681e574d161427646feb.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/03/Mech.jpg",
+    "source_ids": [
+      "f846ee5b9d33427041938909"
+    ],
+    "width": 1386,
+    "height": 1007,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/mech/",
+        "page_title": "Mech",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 971,
+        "parent_post_id": null,
+        "published_at": "2019-03-18T07:25:50",
+        "retrieved_at": "2026-10-13T13:18:35.928883+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "fb7e3a05a318849b79ca974b",
+    "sha256": "677e088c2025dcd51a8938246a0f92ebe01b280a52d135fe5ae358ab4e8b9161",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/677e088c2025dcd51a8938246a0f92ebe01b280a52d135fe5ae358ab4e8b9161.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/677e088c2025dcd51a8938246a0f92ebe01b280a52d135fe5ae358ab4e8b9161.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/05/Prototype2-Cover-Sin-Yan-Yim.jpg",
+    "source_ids": [
+      "fb7e3a05a318849b79ca974b"
+    ],
+    "width": 2363,
+    "height": 1338,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow4/",
+        "page_title": "The 4th Engineering Inno Show",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:53.784865+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/auto-chair-parking-sys2021/prototype2-cover-sin-yan-yim/",
+        "page_title": "Prototype2 Cover – Sin Yan Yim",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 11875,
+        "parent_post_id": 11873,
+        "published_at": "2021-05-17T04:40:32",
+        "retrieved_at": "2026-10-13T13:18:34.931226+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "fe2ed22568089fbbc34f95ac",
+    "sha256": "891741091672fcb9fbcaff6d58b31439c3e5d6e657a5189f480d23258c00576b",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/891741091672fcb9fbcaff6d58b31439c3e5d6e657a5189f480d23258c00576b.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/891741091672fcb9fbcaff6d58b31439c3e5d6e657a5189f480d23258c00576b.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/05/cover-photo-Ho-Yin-Wan.jpg",
+    "source_ids": [
+      "fe2ed22568089fbbc34f95ac"
+    ],
+    "width": 2160,
+    "height": 2160,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/game_design/cover-photo-ho-yin-wan/",
+        "page_title": "cover photo – Ho Yin Wan",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 12023,
+        "parent_post_id": 12021,
+        "published_at": "2021-05-18T03:21:13",
+        "retrieved_at": "2026-10-13T13:18:34.877502+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "ff046e7a6e0d3742d855eb09",
+    "sha256": "e73657ea4f4430b9019754a575952580b6c0e2291058b30f39d026d61cfe774e",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/e73657ea4f4430b9019754a575952580b6c0e2291058b30f39d026d61cfe774e.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/e73657ea4f4430b9019754a575952580b6c0e2291058b30f39d026d61cfe774e.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Reusable-face-mask-filter_image-6.jpg",
+    "source_ids": [
+      "ff046e7a6e0d3742d855eb09"
+    ],
+    "width": 3024,
+    "height": 4032,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/reusable-face-mask-filter_image-6/",
+        "page_title": "Reusable-face-mask-filter_image 6",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6833,
+        "parent_post_id": null,
+        "published_at": "2020-06-30T02:56:59",
+        "retrieved_at": "2026-10-13T13:18:35.416730+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "0397d0d90c4a2429d1069b9e",
+    "sha256": "ca2afeab2ffddae8c5f11a45505b5c30237e4f9365857f22d68725aca9a73230",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/ca2afeab2ffddae8c5f11a45505b5c30237e4f9365857f22d68725aca9a73230.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ca2afeab2ffddae8c5f11a45505b5c30237e4f9365857f22d68725aca9a73230.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Design-Build-Fly-2020-team-3-photo-1.jpg",
+    "source_ids": [
+      "0397d0d90c4a2429d1069b9e"
+    ],
+    "width": 1732,
+    "height": 1154,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dbf2team3/",
+        "page_title": "Design, Build & Fly Team 3 @ 2nd Inno Show",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:51.878717+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/schedule-app/",
+        "page_title": "Scheduling Application",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:16.115176+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dbf2team3/design-build-fly-2020-team-3-photo-1/",
+        "page_title": "Design, Build & Fly 2020 team 3 – photo 1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6506,
+        "parent_post_id": 6490,
+        "published_at": "2020-06-03T08:53:08",
+        "retrieved_at": "2026-10-13T13:18:35.439953+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "05f19540049a7c901232b374",
+    "sha256": "789330da57b0adaed9b02485d2d153e071d88ffba2cebe7bb53504e3a779d462",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/789330da57b0adaed9b02485d2d153e071d88ffba2cebe7bb53504e3a779d462.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/789330da57b0adaed9b02485d2d153e071d88ffba2cebe7bb53504e3a779d462.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Degn-using-BIM-The-Wave.png",
+    "source_ids": [
+      "05f19540049a7c901232b374"
+    ],
+    "width": 1920,
+    "height": 1017,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/busiman/degn-using-bim-the-wave/",
+        "page_title": "Degn using BIM – The Wave",
+        "alt": "",
+        "caption": "The Wave",
+        "nearby_text": "",
+        "media_id": 6880,
+        "parent_post_id": 6852,
+        "published_at": "2020-06-30T10:48:56",
+        "retrieved_at": "2026-10-13T13:18:35.409559+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "0838b6c8c70ef27dfaa4198b",
+    "sha256": "15e9be6a305fe5e8a94b8d251ef007a083d289fda6cf45c54ec054647795a52f",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/15e9be6a305fe5e8a94b8d251ef007a083d289fda6cf45c54ec054647795a52f.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/15e9be6a305fe5e8a94b8d251ef007a083d289fda6cf45c54ec054647795a52f.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/06/C0223-Team-600.10.png",
+    "source_ids": [
+      "0838b6c8c70ef27dfaa4198b"
+    ],
+    "width": 1652,
+    "height": 1246,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/c0223-team-600-10/",
+        "page_title": "Inno Show 8 C0223-Team 6(00.10)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 38014,
+        "parent_post_id": null,
+        "published_at": "2023-06-16T04:52:58",
+        "retrieved_at": "2026-10-13T13:18:34.006786+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "0db4c9946fd4b8677fc6b97d",
+    "sha256": "89cf91f95d2fba1ed166d8510957f3e9780223acd9084520c4ff4ccf165d72f3",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/89cf91f95d2fba1ed166d8510957f3e9780223acd9084520c4ff4ccf165d72f3.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/89cf91f95d2fba1ed166d8510957f3e9780223acd9084520c4ff4ccf165d72f3.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/09/outside_night.jpeg",
+    "source_ids": [
+      "0db4c9946fd4b8677fc6b97d"
+    ],
+    "width": 1600,
+    "height": 777,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/contact/outside_night/",
+        "page_title": "outside_night",
+        "alt": "",
+        "caption": "Innovation Wing (view from Lily pond)",
+        "nearby_text": "",
+        "media_id": 7320,
+        "parent_post_id": 7301,
+        "published_at": "2020-09-04T03:01:21",
+        "retrieved_at": "2026-10-13T13:18:35.348276+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "10888397a592dfe52f3f4a22",
+    "sha256": "c052ead7c110c097015119b62f04784983e25cc2e6acde88b49cab7875268ad1",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/c052ead7c110c097015119b62f04784983e25cc2e6acde88b49cab7875268ad1.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/c052ead7c110c097015119b62f04784983e25cc2e6acde88b49cab7875268ad1.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020-11-27InnoShow/IMG_0315.jpg",
+    "source_ids": [
+      "10888397a592dfe52f3f4a22"
+    ],
+    "width": 1280,
+    "height": 853,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0315/",
+        "page_title": "IMG_0315",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9640,
+        "parent_post_id": null,
+        "published_at": "2020-11-27T15:38:59",
+        "retrieved_at": "2026-10-13T13:18:35.191026+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "12e4132cfafdb2fc27f7b07c",
+    "sha256": "1630c595e184a5251b7d6450b4af7503b8b9988d3cc30da8624f7b55b71de0f1",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/1630c595e184a5251b7d6450b4af7503b8b9988d3cc30da8624f7b55b71de0f1.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/1630c595e184a5251b7d6450b4af7503b8b9988d3cc30da8624f7b55b71de0f1.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/robomaster/2019-9-5_Information_session/IMG_0419.jpg",
+    "source_ids": [
+      "12e4132cfafdb2fc27f7b07c"
+    ],
+    "width": 3264,
+    "height": 2448,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0419/",
+        "page_title": "IMG_0419",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 4673,
+        "parent_post_id": null,
+        "published_at": "2019-09-06T16:14:39",
+        "retrieved_at": "2026-10-13T13:18:35.683287+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "17a43000808565128021defd",
+    "sha256": "e658c6fbe94eeea3408b6201d15e1208ef87df1b4f4478aef219f5a7639e3589",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/e658c6fbe94eeea3408b6201d15e1208ef87df1b4f4478aef219f5a7639e3589.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/e658c6fbe94eeea3408b6201d15e1208ef87df1b4f4478aef219f5a7639e3589.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/10/DSE_0541-min-scaled.jpg",
+    "source_ids": [
+      "17a43000808565128021defd"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dse_0541-min/",
+        "page_title": "Japan Tour Photo 23",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 41594,
+        "parent_post_id": null,
+        "published_at": "2023-10-24T02:54:16",
+        "retrieved_at": "2026-10-13T13:18:33.915284+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "1e0fa96e902f115c78879920",
+    "sha256": "a7765c982acd2a13011067cc95f449178dce597c00861a4b859afc016dbf6f01",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/a7765c982acd2a13011067cc95f449178dce597c00861a4b859afc016dbf6f01.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a7765c982acd2a13011067cc95f449178dce597c00861a4b859afc016dbf6f01.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/09/20200926_114730-scaled.jpg",
+    "source_ids": [
+      "1e0fa96e902f115c78879920"
+    ],
+    "width": 2560,
+    "height": 1151,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/contact/20200926_114730/",
+        "page_title": "20200926_114730",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 7519,
+        "parent_post_id": 7301,
+        "published_at": "2020-09-26T04:04:06",
+        "retrieved_at": "2026-10-13T13:18:35.330782+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "1ee547cc69e7343fb0dcdca1",
+    "sha256": "f5fd1caf429b3136ab09bd785c833fd2dc47264359d224f66a5dcba0f4bdb94a",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/f5fd1caf429b3136ab09bd785c833fd2dc47264359d224f66a5dcba0f4bdb94a.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/f5fd1caf429b3136ab09bd785c833fd2dc47264359d224f66a5dcba0f4bdb94a.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/IBL2019/genome-big-data-1024x690.jpg",
+    "source_ids": [
+      "1ee547cc69e7343fb0dcdca1"
+    ],
+    "width": 1024,
+    "height": 690,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ibl/",
+        "page_title": "HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week",
+        "alt": "STEM+ Challenge @ Genome Data",
+        "caption": "STEM+ Challenge @ Genome Data",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:34.084580+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ibl/",
+        "page_title": "HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week",
+        "alt": "STEM+ Challenge @ Genome Data",
+        "caption": "",
+        "nearby_text": "STEM+ Challenge @ Genome Data",
+        "retrieved_at": "2026-10-13T13:15:34.084580+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "21e6f9f4478a6338283ddf53",
+    "sha256": "00592dc3a55ae1552a857ca011629fb665a5ae910ea52c652baca87400ebf365",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/00592dc3a55ae1552a857ca011629fb665a5ae910ea52c652baca87400ebf365.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/00592dc3a55ae1552a857ca011629fb665a5ae910ea52c652baca87400ebf365.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/01/20240125170-1-scaled.jpg",
+    "source_ids": [
+      "21e6f9f4478a6338283ddf53"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20240125170-2/",
+        "page_title": "20240125170",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 44156,
+        "parent_post_id": null,
+        "published_at": "2024-01-25T09:13:36",
+        "retrieved_at": "2026-10-13T13:18:33.849935+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "25b7b1fc5b89a486b22327f8",
+    "sha256": "5b8be32b73cb16e9a9a2a19778f818f21a6d04ca3509c56e51b79d4d61feaf31",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/5b8be32b73cb16e9a9a2a19778f818f21a6d04ca3509c56e51b79d4d61feaf31.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/5b8be32b73cb16e9a9a2a19778f818f21a6d04ca3509c56e51b79d4d61feaf31.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Degn-using-BIM-Singapore.jpg",
+    "source_ids": [
+      "25b7b1fc5b89a486b22327f8"
+    ],
+    "width": 1600,
+    "height": 1200,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/busiman/degn-using-bim-singapore/",
+        "page_title": "Degn using BIM – Singapore",
+        "alt": "",
+        "caption": "Attend international conference in Singapore",
+        "nearby_text": "",
+        "media_id": 6886,
+        "parent_post_id": 6852,
+        "published_at": "2020-06-30T10:52:12",
+        "retrieved_at": "2026-10-13T13:18:35.406062+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "26edc65adb5ebce62faa51af",
+    "sha256": "a93e3c8ef1026debfdb78c052d8d50b0a1df76e1328504e07556a39d4623a653",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/a93e3c8ef1026debfdb78c052d8d50b0a1df76e1328504e07556a39d4623a653.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a93e3c8ef1026debfdb78c052d8d50b0a1df76e1328504e07556a39d4623a653.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/07/Post-trip-image-8.jpeg",
+    "source_ids": [
+      "26edc65adb5ebce62faa51af"
+    ],
+    "width": 2016,
+    "height": 1134,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/post-trip-image-8/",
+        "page_title": "Australia Study Tour Post-trip image (8)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 49386,
+        "parent_post_id": null,
+        "published_at": "2024-07-29T06:24:28",
+        "retrieved_at": "2026-10-13T13:18:33.704121+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "2ae48f9f49387b5d0b5848e9",
+    "sha256": "da5a712e2d3a007349eb174acbb5c1a42c9736a7921e77778bae07f004d997d8",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/da5a712e2d3a007349eb174acbb5c1a42c9736a7921e77778bae07f004d997d8.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/da5a712e2d3a007349eb174acbb5c1a42c9736a7921e77778bae07f004d997d8.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/09/20230920031.jpg",
+    "source_ids": [
+      "2ae48f9f49387b5d0b5848e9"
+    ],
+    "width": 2000,
+    "height": 1334,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20230920031/",
+        "page_title": "20230920031",
+        "alt": "iGEM workshop",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 40613,
+        "parent_post_id": null,
+        "published_at": "2023-09-25T15:17:26",
+        "retrieved_at": "2026-10-13T13:18:33.948745+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "2eb302772ade2ac53e2847ec",
+    "sha256": "329ac52e4f7950edf53787df27bbfa4d671928a32eed0fed34d0a7288ef12423",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/329ac52e4f7950edf53787df27bbfa4d671928a32eed0fed34d0a7288ef12423.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/329ac52e4f7950edf53787df27bbfa4d671928a32eed0fed34d0a7288ef12423.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/10/24-20221005_Mr-Rex-Sham_Resized-24.jpg",
+    "source_ids": [
+      "2eb302772ade2ac53e2847ec"
+    ],
+    "width": 2000,
+    "height": 1126,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ledwall/",
+        "page_title": "LED Wall (Treasure Hunt)",
+        "alt": "To support various talks and events",
+        "caption": "To support various talks and events",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:08.604544+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ledwall/",
+        "page_title": "LED Wall (Treasure Hunt)",
+        "alt": "To support various talks and events",
+        "caption": "",
+        "nearby_text": "To support various talks and events",
+        "retrieved_at": "2026-10-13T13:16:08.604544+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/24-20221005_mr-rex-sham_resized-24/",
+        "page_title": "24-20221005_Mr Rex Sham_Resized (24)",
+        "alt": "",
+        "caption": "To support various talks and events",
+        "nearby_text": "",
+        "media_id": 28107,
+        "parent_post_id": null,
+        "published_at": "2022-10-06T06:15:38",
+        "retrieved_at": "2026-10-13T13:18:34.320516+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "33c11ea038381030593ef62a",
+    "sha256": "29e1483c970a1f197df3a8415918ac80b485aa5fc5eaa56c07e2fa1aa0cf0e42",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/29e1483c970a1f197df3a8415918ac80b485aa5fc5eaa56c07e2fa1aa0cf0e42.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/29e1483c970a1f197df3a8415918ac80b485aa5fc5eaa56c07e2fa1aa0cf0e42.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/09/20230920004.jpg",
+    "source_ids": [
+      "33c11ea038381030593ef62a"
+    ],
+    "width": 2000,
+    "height": 1334,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20230920004/",
+        "page_title": "20230920004",
+        "alt": "iGEM workshop",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 40619,
+        "parent_post_id": null,
+        "published_at": "2023-09-25T15:19:57",
+        "retrieved_at": "2026-10-13T13:18:33.945566+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "36be96b7612ca03cf0ce4bc9",
+    "sha256": "7f6b4706ae497f0f5a266d7cfb9c81ee30b9d6f89549a9d74bdcb67693d06992",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/7f6b4706ae497f0f5a266d7cfb9c81ee30b9d6f89549a9d74bdcb67693d06992.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/7f6b4706ae497f0f5a266d7cfb9c81ee30b9d6f89549a9d74bdcb67693d06992.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/07/WhatsApp-Image-2025-01-06-at-16.32.26_739b220c.jpg",
+    "source_ids": [
+      "36be96b7612ca03cf0ce4bc9"
+    ],
+    "width": 900,
+    "height": 1600,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/whatsapp-image-2025-01-06-at-16-32-26_739b220c/",
+        "page_title": "WhatsApp Image 2025-01-06 at 16.32.26_739b220c",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 54366,
+        "parent_post_id": null,
+        "published_at": "2025-07-23T07:03:36",
+        "retrieved_at": "2026-10-13T13:18:33.276255+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "38e647c9937c90a78f702c77",
+    "sha256": "a7e9217fd20a7e3fc84bfc67daa8089bc9dcab6b6d647b5a0ac7f346de73a58a",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/a7e9217fd20a7e3fc84bfc67daa8089bc9dcab6b6d647b5a0ac7f346de73a58a.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a7e9217fd20a7e3fc84bfc67daa8089bc9dcab6b6d647b5a0ac7f346de73a58a.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/10/R-20211027_Mindfulness-31.jpg",
+    "source_ids": [
+      "38e647c9937c90a78f702c77"
+    ],
+    "width": 2000,
+    "height": 1334,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/r-20211027_mindfulness-31/",
+        "page_title": "R-20211027_Mindfulness (31)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 13834,
+        "parent_post_id": null,
+        "published_at": "2021-10-28T03:34:07",
+        "retrieved_at": "2026-10-13T13:18:34.798185+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "40f2c6aa3f6613c2a2d70692",
+    "sha256": "3737ff12cca4c9962303bfff0a7747a602ab3917244e5aa026b3371a424cff64",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/3737ff12cca4c9962303bfff0a7747a602ab3917244e5aa026b3371a424cff64.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/3737ff12cca4c9962303bfff0a7747a602ab3917244e5aa026b3371a424cff64.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/09/direction_mtr_1-2048x922.jpg",
+    "source_ids": [
+      "40f2c6aa3f6613c2a2d70692"
+    ],
+    "width": 2048,
+    "height": 922,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/contact/",
+        "page_title": "Contact Us",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:48.106881+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "44919424a17677cb1f31be26",
+    "sha256": "9d06b5fb34a0a187f41bcbd8c93684d2e9ea2b7d6c0a4e343cc28a47efc1b9cb",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/9d06b5fb34a0a187f41bcbd8c93684d2e9ea2b7d6c0a4e343cc28a47efc1b9cb.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/9d06b5fb34a0a187f41bcbd8c93684d2e9ea2b7d6c0a4e343cc28a47efc1b9cb.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/01/20240125185-scaled.jpg",
+    "source_ids": [
+      "44919424a17677cb1f31be26"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20240125185/",
+        "page_title": "20240125185",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 44167,
+        "parent_post_id": null,
+        "published_at": "2024-01-25T09:25:18",
+        "retrieved_at": "2026-10-13T13:18:33.845980+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "49776b36e79b4b9e76ab02bd",
+    "sha256": "419bd4fe9211f2076735db76d0c4255bb6dde63b20795475e07b4bfc9119bc97",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/419bd4fe9211f2076735db76d0c4255bb6dde63b20795475e07b4bfc9119bc97.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/419bd4fe9211f2076735db76d0c4255bb6dde63b20795475e07b4bfc9119bc97.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/03/Prof.-KE-Jintao.jpg",
+    "source_ids": [
+      "49776b36e79b4b9e76ab02bd"
+    ],
+    "width": 400,
+    "height": 492,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow9/",
+        "page_title": "The 9th Engineering Inno Show",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:00.541409+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "4d7a39424b3372574b8abf60",
+    "sha256": "f102512d547ae4e6df19312e804e896f4751fcef80a2e3cd89fd5c72e02e4d8b",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/f102512d547ae4e6df19312e804e896f4751fcef80a2e3cd89fd5c72e02e4d8b.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/f102512d547ae4e6df19312e804e896f4751fcef80a2e3cd89fd5c72e02e4d8b.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/IMG_1470.jpg",
+    "source_ids": [
+      "4d7a39424b3372574b8abf60"
+    ],
+    "width": 4032,
+    "height": 3024,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/stmarks-visit/",
+        "page_title": "Welcome students from St. Mark’s School",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:44.350867+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/stmarks-visit/img_1470/",
+        "page_title": "IMG_1470",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3309,
+        "parent_post_id": 2966,
+        "published_at": "2019-07-10T07:46:59",
+        "retrieved_at": "2026-10-13T13:18:35.789384+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "51069301220ab5c174d0f28d",
+    "sha256": "c7745d616a78c829e2216af1dc95570c52ef2b1b89d38262ee0394d0452bd4bb",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/c7745d616a78c829e2216af1dc95570c52ef2b1b89d38262ee0394d0452bd4bb.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/c7745d616a78c829e2216af1dc95570c52ef2b1b89d38262ee0394d0452bd4bb.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Degn-using-BIM-cover-image.jpg",
+    "source_ids": [
+      "51069301220ab5c174d0f28d"
+    ],
+    "width": 3739,
+    "height": 2514,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow2/",
+        "page_title": "The 2nd Engineering Inno Show",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:50.245392+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/busiman/degn-using-bim-cover-image/",
+        "page_title": "Degn using BIM – cover image",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6854,
+        "parent_post_id": 6852,
+        "published_at": "2020-06-30T06:23:27",
+        "retrieved_at": "2026-10-13T13:18:35.413376+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "548e285f74c0cd6faea10075",
+    "sha256": "d704fc3201b1211e6eb77ebd1e3be8c7c9bb6702d30544f2366e970340f2f5ac",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/d704fc3201b1211e6eb77ebd1e3be8c7c9bb6702d30544f2366e970340f2f5ac.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/d704fc3201b1211e6eb77ebd1e3be8c7c9bb6702d30544f2366e970340f2f5ac.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/IBL2019/sound-science-1024x768.jpg",
+    "source_ids": [
+      "548e285f74c0cd6faea10075"
+    ],
+    "width": 1024,
+    "height": 768,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ibl/",
+        "page_title": "HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week",
+        "alt": "STEM+ Challenge @ Quantum Music",
+        "caption": "STEM+ Challenge @ Quantum Music",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:34.084580+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ibl/",
+        "page_title": "HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week",
+        "alt": "STEM+ Challenge @ Quantum Music",
+        "caption": "",
+        "nearby_text": "STEM+ Challenge @ Quantum Music",
+        "retrieved_at": "2026-10-13T13:15:34.084580+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ibl/",
+        "page_title": "HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week",
+        "alt": "STEM+ Challenge @ Quantum Music",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:34.084580+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "5920c92b75fb33cd9e28903f",
+    "sha256": "da05543cbe36c6b34546fcdce1c9e80e77c9b55b8ae5e39b9c8cda620ccc4df4",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/da05543cbe36c6b34546fcdce1c9e80e77c9b55b8ae5e39b9c8cda620ccc4df4.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/da05543cbe36c6b34546fcdce1c9e80e77c9b55b8ae5e39b9c8cda620ccc4df4.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/GGCS2019/u20190612_145103.jpg",
+    "source_ids": [
+      "5920c92b75fb33cd9e28903f"
+    ],
+    "width": 4032,
+    "height": 3024,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/clearbot2019/",
+        "page_title": "ClearBot 2019: Decentralized Robot Swarms to Clean our Oceans",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:43.653533+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/u20190612_145103/",
+        "page_title": "u20190612_145103",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 4896,
+        "parent_post_id": null,
+        "published_at": "2019-09-14T16:21:53",
+        "retrieved_at": "2026-10-13T13:18:35.642406+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "5aa0152e76e16920fd9399ef",
+    "sha256": "ab97598fe109006d003e5b6c708a9beb0ab5aba23c13c84c0d646fa7f7494ed8",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/ab97598fe109006d003e5b6c708a9beb0ab5aba23c13c84c0d646fa7f7494ed8.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ab97598fe109006d003e5b6c708a9beb0ab5aba23c13c84c0d646fa7f7494ed8.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/05/IMG_8914-scaled.jpg",
+    "source_ids": [
+      "5aa0152e76e16920fd9399ef"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/hyporheic_exchange/img_8914/",
+        "page_title": "IMG_8914",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 11696,
+        "parent_post_id": 11688,
+        "published_at": "2021-05-14T10:34:37",
+        "retrieved_at": "2026-10-13T13:18:34.949273+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "5e4958b5e7085fa7074a8ca2",
+    "sha256": "2e87bc9f40d4d40cb7b0b69b55cce9ea46794d78baf1c7a7a44b62df547ab0ea",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/2e87bc9f40d4d40cb7b0b69b55cce9ea46794d78baf1c7a7a44b62df547ab0ea.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/2e87bc9f40d4d40cb7b0b69b55cce9ea46794d78baf1c7a7a44b62df547ab0ea.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/12/workingshop_training.jpg-2048x1536.jpg",
+    "source_ids": [
+      "5e4958b5e7085fa7074a8ca2"
+    ],
+    "width": 2048,
+    "height": 1536,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/robomaster2020-competition/",
+        "page_title": "RoboMaster 2020 Robotics Competition",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:05.133470+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "5f02b0d56118dcc5a8ed7db2",
+    "sha256": "205afcc5d22f184157b3b7592f12f5581ffb2625717eb44b40284adf8df8bc96",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/205afcc5d22f184157b3b7592f12f5581ffb2625717eb44b40284adf8df8bc96.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/205afcc5d22f184157b3b7592f12f5581ffb2625717eb44b40284adf8df8bc96.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/IBL2019/regional-champions.jpg",
+    "source_ids": [
+      "5f02b0d56118dcc5a8ed7db2"
+    ],
+    "width": 3000,
+    "height": 2000,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/regional-champions/",
+        "page_title": "regional champions",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 5167,
+        "parent_post_id": null,
+        "published_at": "2019-09-24T13:32:06",
+        "retrieved_at": "2026-10-13T13:18:35.601438+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "6164668516445bd777265c2d",
+    "sha256": "60d2a4b837506fa285c35bc55dcb1f5ece0df4aac9eee686790b168d910738a1",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/60d2a4b837506fa285c35bc55dcb1f5ece0df4aac9eee686790b168d910738a1.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/60d2a4b837506fa285c35bc55dcb1f5ece0df4aac9eee686790b168d910738a1.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/04/Screenshot-2019-04-22-at-10.23.42-PM-RACHAIKA-VERMA-1.png",
+    "source_ids": [
+      "6164668516445bd777265c2d"
+    ],
+    "width": 1004,
+    "height": 598,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/projectid13/",
+        "page_title": "The Library: A stealth game",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:41.620593+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/projectid13/screenshot-2019-04-22-at-10-23-42-pm-rachaika-verma-2/",
+        "page_title": "Screenshot 2019-04-22 at 10.23.42 PM – RACHAIKA VERMA",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 2038,
+        "parent_post_id": 2018,
+        "published_at": "2019-04-25T08:15:11",
+        "retrieved_at": "2026-10-13T13:18:35.948410+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "654995fe002e2aec3196c502",
+    "sha256": "e9d89f8255094b73774fabdcd1051fe3ce216d7b5411747ab10dbed0b3d9a5a9",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/e9d89f8255094b73774fabdcd1051fe3ce216d7b5411747ab10dbed0b3d9a5a9.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/e9d89f8255094b73774fabdcd1051fe3ce216d7b5411747ab10dbed0b3d9a5a9.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/10/DSE_0566-min-scaled.jpg",
+    "source_ids": [
+      "654995fe002e2aec3196c502"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dse_0566-min/",
+        "page_title": "Japan Tour Photo 26",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 41597,
+        "parent_post_id": null,
+        "published_at": "2023-10-24T02:54:31",
+        "retrieved_at": "2026-10-13T13:18:33.913890+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "6974c7836169530d6dd5cd98",
+    "sha256": "fb21e7eb37e5fb677a26a3dcd550136ba1d4ea32cd40a50089d92870c77e839c",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/fb21e7eb37e5fb677a26a3dcd550136ba1d4ea32cd40a50089d92870c77e839c.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/fb21e7eb37e5fb677a26a3dcd550136ba1d4ea32cd40a50089d92870c77e839c.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Design-Build-Fly-2020-team-3-photo-6.jpg",
+    "source_ids": [
+      "6974c7836169530d6dd5cd98"
+    ],
+    "width": 1224,
+    "height": 1632,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dbf2team3/",
+        "page_title": "Design, Build & Fly Team 3 @ 2nd Inno Show",
+        "alt": "Design, Build & Fly 2020 team 3 - photo 6",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:51.878717+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dbf2team3/design-build-fly-2020-team-3-photo-6/",
+        "page_title": "Design, Build & Fly 2020 team 3 – photo 6",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6502,
+        "parent_post_id": 6490,
+        "published_at": "2020-06-03T08:53:01",
+        "retrieved_at": "2026-10-13T13:18:35.442492+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "6a73ed885b60f94af42d672e",
+    "sha256": "4464450d2af1bcd1cf5ab6af74bffd9e8f00e93585c6aaac6be869d625825afa",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/4464450d2af1bcd1cf5ab6af74bffd9e8f00e93585c6aaac6be869d625825afa.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/4464450d2af1bcd1cf5ab6af74bffd9e8f00e93585c6aaac6be869d625825afa.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/01/IMG_0344a.jpg",
+    "source_ids": [
+      "6a73ed885b60f94af42d672e"
+    ],
+    "width": 2520,
+    "height": 1680,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0344a/",
+        "page_title": "IMG_0344a",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 44000,
+        "parent_post_id": null,
+        "published_at": "2024-01-23T11:41:30",
+        "retrieved_at": "2026-10-13T13:18:33.854943+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "6b33cb9130eb2a1c8ce75be4",
+    "sha256": "bfdbd3559f106f49832fd5d52981f23d94a50f4df6953066437b744e0dceb318",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/bfdbd3559f106f49832fd5d52981f23d94a50f4df6953066437b744e0dceb318.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/bfdbd3559f106f49832fd5d52981f23d94a50f4df6953066437b744e0dceb318.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/10/DSE_0562-min-scaled.jpg",
+    "source_ids": [
+      "6b33cb9130eb2a1c8ce75be4"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dse_0562-min/",
+        "page_title": "Japan Tour Photo 24",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 41595,
+        "parent_post_id": null,
+        "published_at": "2023-10-24T02:54:21",
+        "retrieved_at": "2026-10-13T13:18:33.914649+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "7001384b5faf738a4b048d0a",
+    "sha256": "c7f5e2a49e2052d5c20bc43d139fbfeaf6147d47483d4173eac0f426884c50a0",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/c7f5e2a49e2052d5c20bc43d139fbfeaf6147d47483d4173eac0f426884c50a0.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/c7f5e2a49e2052d5c20bc43d139fbfeaf6147d47483d4173eac0f426884c50a0.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/10/11-20221005_Mr-Rex-Sham_Resized-11.jpg",
+    "source_ids": [
+      "7001384b5faf738a4b048d0a"
+    ],
+    "width": 2000,
+    "height": 1126,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/11-20221005_mr-rex-sham_resized-11/",
+        "page_title": "11-20221005_Mr Rex Sham_Resized (11)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 28103,
+        "parent_post_id": null,
+        "published_at": "2022-10-06T06:15:34",
+        "retrieved_at": "2026-10-13T13:18:34.321929+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "710853b1d23a80d2cce959c1",
+    "sha256": "e2202dbe96a0614585f2dc55cbbeda2ef9c06f522216db9b3179de60c5e5e933",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/e2202dbe96a0614585f2dc55cbbeda2ef9c06f522216db9b3179de60c5e5e933.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/e2202dbe96a0614585f2dc55cbbeda2ef9c06f522216db9b3179de60c5e5e933.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020-11-27InnoShow/IMG_0271.jpg",
+    "source_ids": [
+      "710853b1d23a80d2cce959c1"
+    ],
+    "width": 1280,
+    "height": 853,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0271/",
+        "page_title": "IMG_0271",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9634,
+        "parent_post_id": null,
+        "published_at": "2020-11-27T15:38:57",
+        "retrieved_at": "2026-10-13T13:18:35.194404+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "77738fdb47f8048334f7b526",
+    "sha256": "9b59631e89af63f81783a8a4f5d09b5ee6f8d3e5defcd1632b315013884f0c07",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/9b59631e89af63f81783a8a4f5d09b5ee6f8d3e5defcd1632b315013884f0c07.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/9b59631e89af63f81783a8a4f5d09b5ee6f8d3e5defcd1632b315013884f0c07.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020-11-27InnoShow/IMG_0313.jpg",
+    "source_ids": [
+      "77738fdb47f8048334f7b526"
+    ],
+    "width": 1280,
+    "height": 853,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0313/",
+        "page_title": "IMG_0313",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9639,
+        "parent_post_id": null,
+        "published_at": "2020-11-27T15:38:59",
+        "retrieved_at": "2026-10-13T13:18:35.191552+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "7a4cef0376aab7deab4ca014",
+    "sha256": "e4d2729b17bba74ce0bbfeddfeeab626d8993b0d795d50591d7f885e3a912174",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/e4d2729b17bba74ce0bbfeddfeeab626d8993b0d795d50591d7f885e3a912174.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/e4d2729b17bba74ce0bbfeddfeeab626d8993b0d795d50591d7f885e3a912174.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020-11-27InnoShow/IMG_0377.jpg",
+    "source_ids": [
+      "7a4cef0376aab7deab4ca014"
+    ],
+    "width": 1280,
+    "height": 853,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0377/",
+        "page_title": "IMG_0377",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9657,
+        "parent_post_id": null,
+        "published_at": "2020-11-27T15:39:02",
+        "retrieved_at": "2026-10-13T13:18:35.181415+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "7d336bd4a65ab67b98d9b87e",
+    "sha256": "9706ac687dd4add121bf50b7004755a99b918005b4c109027ff79fefbed3e626",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/9706ac687dd4add121bf50b7004755a99b918005b4c109027ff79fefbed3e626.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/9706ac687dd4add121bf50b7004755a99b918005b4c109027ff79fefbed3e626.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/10/IMG_1019-scaled.jpg",
+    "source_ids": [
+      "7d336bd4a65ab67b98d9b87e"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/photowall/img_1019/",
+        "page_title": "Administration Office (Treasure Hunt))",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 28448,
+        "parent_post_id": 28298,
+        "published_at": "2022-10-20T06:47:02",
+        "retrieved_at": "2026-10-13T13:18:34.447689+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "7f12411e2d3e4e6dc16cb766",
+    "sha256": "c7842d0f76593a5bbfd993533f1c033b7e7bc7e4722cfb1fca46ca787177e0e7",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/c7842d0f76593a5bbfd993533f1c033b7e7bc7e4722cfb1fca46ca787177e0e7.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/c7842d0f76593a5bbfd993533f1c033b7e7bc7e4722cfb1fca46ca787177e0e7.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/02/DSC_2009-Large.jpg",
+    "source_ids": [
+      "7f12411e2d3e4e6dc16cb766"
+    ],
+    "width": 1620,
+    "height": 1080,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dsc_2009-large/",
+        "page_title": "DSC_2009 (Large)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 52919,
+        "parent_post_id": null,
+        "published_at": "2025-02-28T09:21:19",
+        "retrieved_at": "2026-10-13T13:18:33.415578+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "7ff93cb45113b9f4435d7b94",
+    "sha256": "a9e51b9c534fe460b79bc3466f5b83896b6fb5af2512b8c3fe9d295fb983e647",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/a9e51b9c534fe460b79bc3466f5b83896b6fb5af2512b8c3fe9d295fb983e647.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a9e51b9c534fe460b79bc3466f5b83896b6fb5af2512b8c3fe9d295fb983e647.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/04/Velocity-Fever-2nd-Runner-Up-scaled.jpeg",
+    "source_ids": [
+      "7ff93cb45113b9f4435d7b94"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/racingsim02/",
+        "page_title": "Velocity Fever: InnoWing Virtual Lap Time Challenge [HUK Racing] (Linked with Server)",
+        "alt": "",
+        "caption": "2nd Runner Up goes to Gary Kok!",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:55.146153+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/racingsim02/",
+        "page_title": "Velocity Fever: InnoWing Virtual Lap Time Challenge [HUK Racing] (Linked with Server)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "2nd Runner Up goes to Gary Kok!",
+        "retrieved_at": "2026-10-13T13:16:55.146153+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/racingsim2025/",
+        "page_title": "Velocity Fever: InnoWing Virtual Lap Time Challenge [HUK Racing] 2025",
+        "alt": "",
+        "caption": "2nd Runner Up goes to Gary Kok!",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:55.376241+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/racingsim2025/",
+        "page_title": "Velocity Fever: InnoWing Virtual Lap Time Challenge [HUK Racing] 2025",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "2nd Runner Up goes to Gary Kok!",
+        "retrieved_at": "2026-10-13T13:16:55.376241+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/racingsim2025_1/",
+        "page_title": "Velocity Fever: InnoWing Virtual Lap Time Challenge [HUK Racing] 2025 – Rerun",
+        "alt": "",
+        "caption": "2nd Runner Up goes to Gary Kok!",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:55.581252+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/racingsim2025_1/",
+        "page_title": "Velocity Fever: InnoWing Virtual Lap Time Challenge [HUK Racing] 2025 – Rerun",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "2nd Runner Up goes to Gary Kok!",
+        "retrieved_at": "2026-10-13T13:16:55.581252+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/racingsim02/velocity-fever-2nd-runner-up/",
+        "page_title": "Velocity Fever – 2nd Runner Up",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 46568,
+        "parent_post_id": 45832,
+        "published_at": "2024-04-16T14:26:33",
+        "retrieved_at": "2026-10-13T13:18:33.804114+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "80448e024bd45589db9f2192",
+    "sha256": "348d59a19fb9510bbd4ec04ec6c09201a03d156a1fa0c8b16e591f795c5051cd",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/348d59a19fb9510bbd4ec04ec6c09201a03d156a1fa0c8b16e591f795c5051cd.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/348d59a19fb9510bbd4ec04ec6c09201a03d156a1fa0c8b16e591f795c5051cd.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/01/IMG_0346a-scaled.jpg",
+    "source_ids": [
+      "80448e024bd45589db9f2192"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0346a/",
+        "page_title": "IMG_0346a",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 44001,
+        "parent_post_id": null,
+        "published_at": "2024-01-23T11:41:32",
+        "retrieved_at": "2026-10-13T13:18:33.854439+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "821f5410923841293de691d5",
+    "sha256": "1d53d6e8909507a1a292e929d6cae38f7cc58a018bf6409ce79ca868848b7809",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/1d53d6e8909507a1a292e929d6cae38f7cc58a018bf6409ce79ca868848b7809.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/1d53d6e8909507a1a292e929d6cae38f7cc58a018bf6409ce79ca868848b7809.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/09/20230831009.jpg",
+    "source_ids": [
+      "821f5410923841293de691d5"
+    ],
+    "width": 2000,
+    "height": 1334,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20230831009/",
+        "page_title": "20230831009",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 39133,
+        "parent_post_id": null,
+        "published_at": "2023-09-03T16:51:14",
+        "retrieved_at": "2026-10-13T13:18:33.989956+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "84a263af84c882f237da361d",
+    "sha256": "36f5af4aa440746ba6c4876c28f790ac69f9a3a606bb9cf0406ab6fce79caa81",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/36f5af4aa440746ba6c4876c28f790ac69f9a3a606bb9cf0406ab6fce79caa81.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/36f5af4aa440746ba6c4876c28f790ac69f9a3a606bb9cf0406ab6fce79caa81.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Degn-using-BIM-Sequence-1-768x367.jpg",
+    "source_ids": [
+      "84a263af84c882f237da361d"
+    ],
+    "width": 768,
+    "height": 367,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/busiman/",
+        "page_title": "BuslMan – Innovative Design Using Building Information Modelling",
+        "alt": "Sequence",
+        "caption": "Sequence",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:38.254038+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/busiman/",
+        "page_title": "BuslMan – Innovative Design Using Building Information Modelling",
+        "alt": "Sequence",
+        "caption": "",
+        "nearby_text": "Sequence",
+        "retrieved_at": "2026-10-13T13:14:38.254038+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "8a066dfd7728142d1b67da97",
+    "sha256": "0f6712c31c872f3ea0533d553943735f604c748b730a547f830acbcc1ad497a3",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/0f6712c31c872f3ea0533d553943735f604c748b730a547f830acbcc1ad497a3.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/0f6712c31c872f3ea0533d553943735f604c748b730a547f830acbcc1ad497a3.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/robomaster/2019-9-5_Information_session/IMG_0408.jpg",
+    "source_ids": [
+      "8a066dfd7728142d1b67da97"
+    ],
+    "width": 3264,
+    "height": 2448,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0408/",
+        "page_title": "IMG_0408",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 4684,
+        "parent_post_id": null,
+        "published_at": "2019-09-06T16:14:59",
+        "retrieved_at": "2026-10-13T13:18:35.676740+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "8f5f00819fb47b667323c514",
+    "sha256": "369309fc6d64d6d077457878d22f346cf619477442e9a53d51555183320345b2",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/369309fc6d64d6d077457878d22f346cf619477442e9a53d51555183320345b2.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/369309fc6d64d6d077457878d22f346cf619477442e9a53d51555183320345b2.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/08/IMG_20220806_095706-scaled.jpg",
+    "source_ids": [
+      "8f5f00819fb47b667323c514"
+    ],
+    "width": 2560,
+    "height": 1915,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/hkur/img_20220806_095706/",
+        "page_title": "Racing 4",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 25457,
+        "parent_post_id": 4048,
+        "published_at": "2022-08-09T02:36:38",
+        "retrieved_at": "2026-10-13T13:18:34.383275+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "910c06f2043e4f22f1a87246",
+    "sha256": "deeba5e02391d45b8e66926594ef5d26a736fe950c71d9b5103cbffbee4de07e",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/deeba5e02391d45b8e66926594ef5d26a736fe950c71d9b5103cbffbee4de07e.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/deeba5e02391d45b8e66926594ef5d26a736fe950c71d9b5103cbffbee4de07e.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/09/20230920014.jpg",
+    "source_ids": [
+      "910c06f2043e4f22f1a87246"
+    ],
+    "width": 2000,
+    "height": 1334,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20230920014/",
+        "page_title": "20230920014",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 40602,
+        "parent_post_id": null,
+        "published_at": "2023-09-25T15:13:30",
+        "retrieved_at": "2026-10-13T13:18:33.950586+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "97b7b6918095cb96708bed5d",
+    "sha256": "864b1afe912c5635f6bd0ae547fcbb76f61343f1bfcf90b02698fad063aa9bcb",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/864b1afe912c5635f6bd0ae547fcbb76f61343f1bfcf90b02698fad063aa9bcb.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/864b1afe912c5635f6bd0ae547fcbb76f61343f1bfcf90b02698fad063aa9bcb.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/10/DSE_0787-scaled.jpg",
+    "source_ids": [
+      "97b7b6918095cb96708bed5d"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dse_0787/",
+        "page_title": "Japan Tour Photo 79",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 41697,
+        "parent_post_id": null,
+        "published_at": "2023-10-24T03:38:15",
+        "retrieved_at": "2026-10-13T13:18:33.890908+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "9bf2e3ea377fe3e85975500f",
+    "sha256": "3f82e2d0c4f3841751dfda7a24d29c44c9637d2f9ce845deb08d598afa059762",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/3f82e2d0c4f3841751dfda7a24d29c44c9637d2f9ce845deb08d598afa059762.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/3f82e2d0c4f3841751dfda7a24d29c44c9637d2f9ce845deb08d598afa059762.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/20210203InauguralInnoSharing/20210203HKU4235.jpg",
+    "source_ids": [
+      "9bf2e3ea377fe3e85975500f"
+    ],
+    "width": 1600,
+    "height": 1068,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20210203hku4235/",
+        "page_title": "20210203HKU4235",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 11142,
+        "parent_post_id": null,
+        "published_at": "2021-03-09T06:39:07",
+        "retrieved_at": "2026-10-13T13:18:35.026280+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "a057fe9a8924a5e4637bf7a1",
+    "sha256": "76f4c6dacd38ec508c9c67486d10592dd223f5d0938d402db5b3a8fc7b65c5f1",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/76f4c6dacd38ec508c9c67486d10592dd223f5d0938d402db5b3a8fc7b65c5f1.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/76f4c6dacd38ec508c9c67486d10592dd223f5d0938d402db5b3a8fc7b65c5f1.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/07/SUV-3.jpg",
+    "source_ids": [
+      "a057fe9a8924a5e4637bf7a1"
+    ],
+    "width": 1920,
+    "height": 1088,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/suv-3/",
+        "page_title": "SUV 3",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 54528,
+        "parent_post_id": null,
+        "published_at": "2025-07-28T02:37:03",
+        "retrieved_at": "2026-10-13T13:18:33.243627+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "a0e980fd48661ba66d90829e",
+    "sha256": "3a1cedda0ba43dabe0981532584c2c469a5891ffe7a3efa8643528aa86f1ac1b",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/3a1cedda0ba43dabe0981532584c2c469a5891ffe7a3efa8643528aa86f1ac1b.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/3a1cedda0ba43dabe0981532584c2c469a5891ffe7a3efa8643528aa86f1ac1b.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/IMG_1534-3.jpg",
+    "source_ids": [
+      "a0e980fd48661ba66d90829e"
+    ],
+    "width": 3914,
+    "height": 2278,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ktslcgss-visit/",
+        "page_title": "Welcome students from the Kowloon Technical School and the Lung Cheung Government Secondary School",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:06.379259+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ktslcgss-visit/img_1534-3/",
+        "page_title": "IMG_1534 (3)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3374,
+        "parent_post_id": 2880,
+        "published_at": "2019-07-18T08:05:03",
+        "retrieved_at": "2026-10-13T13:18:35.778596+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "a60139f440cae211fd3d7359",
+    "sha256": "2e6c5ad6bfc82806e9488e8c7c2629393ee404f6b3b9650677e592c1a36244ee",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/2e6c5ad6bfc82806e9488e8c7c2629393ee404f6b3b9650677e592c1a36244ee.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/2e6c5ad6bfc82806e9488e8c7c2629393ee404f6b3b9650677e592c1a36244ee.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/07/20220629_143242-scaled.jpg",
+    "source_ids": [
+      "a60139f440cae211fd3d7359"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20220629_143242/",
+        "page_title": "20220629_143242",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 24795,
+        "parent_post_id": null,
+        "published_at": "2022-07-27T05:21:25",
+        "retrieved_at": "2026-10-13T13:18:34.390963+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "a9561d963fbe8900665ed009",
+    "sha256": "ca4daaa21bdc73dc1d4411244aaf6b6677da472df1c9e26e59358ebee17e7ef6",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/ca4daaa21bdc73dc1d4411244aaf6b6677da472df1c9e26e59358ebee17e7ef6.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ca4daaa21bdc73dc1d4411244aaf6b6677da472df1c9e26e59358ebee17e7ef6.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/09/20230118035.jpg",
+    "source_ids": [
+      "a9561d963fbe8900665ed009"
+    ],
+    "width": 2000,
+    "height": 1500,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20230118035/",
+        "page_title": "20230118035",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 39269,
+        "parent_post_id": null,
+        "published_at": "2023-09-04T16:51:54",
+        "retrieved_at": "2026-10-13T13:18:33.963153+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "a9980c7224e39ab119b3ef90",
+    "sha256": "bd21c6e66efe6eaa4fb1ea75d75af31e1caf31ee9c7504b0b001b9854d325374",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/bd21c6e66efe6eaa4fb1ea75d75af31e1caf31ee9c7504b0b001b9854d325374.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/bd21c6e66efe6eaa4fb1ea75d75af31e1caf31ee9c7504b0b001b9854d325374.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/10/IMG20231016080254-scaled.jpg",
+    "source_ids": [
+      "a9980c7224e39ab119b3ef90"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img20231016080254/",
+        "page_title": "Japan Tour Photo 83",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 41701,
+        "parent_post_id": null,
+        "published_at": "2023-10-24T03:38:31",
+        "retrieved_at": "2026-10-13T13:18:33.889322+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "aa509151a8a23cd738cb6a3e",
+    "sha256": "57cafcc82b07f7352fbbff8f64c01b2d7a9b4e6c8ad085e81b4724e6cd28f385",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/57cafcc82b07f7352fbbff8f64c01b2d7a9b4e6c8ad085e81b4724e6cd28f385.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/57cafcc82b07f7352fbbff8f64c01b2d7a9b4e6c8ad085e81b4724e6cd28f385.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/IBL2019/opening-in-Thailand-1024x683.jpg",
+    "source_ids": [
+      "aa509151a8a23cd738cb6a3e"
+    ],
+    "width": 1024,
+    "height": 683,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ibl/",
+        "page_title": "HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:34.084580+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "b02da49b0ea532f8b6eec20c",
+    "sha256": "869f899ce27658bd2d4250c97aa6771195675f019e3cfe1fc0261bfafe14731d",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/869f899ce27658bd2d4250c97aa6771195675f019e3cfe1fc0261bfafe14731d.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/869f899ce27658bd2d4250c97aa6771195675f019e3cfe1fc0261bfafe14731d.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/InnoWing-1.jpg",
+    "source_ids": [
+      "b02da49b0ea532f8b6eec20c"
+    ],
+    "width": 2598,
+    "height": 1337,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/asee2019/innowing-2/",
+        "page_title": "InnoWing",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3080,
+        "parent_post_id": 2960,
+        "published_at": "2019-06-18T20:21:27",
+        "retrieved_at": "2026-10-13T13:18:35.828917+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "b434072bac69594f2bc39c58",
+    "sha256": "7af70f6fa90d450629d3d1a4c476bbf491fee6a6c8614aa8145eb9018931b108",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/7af70f6fa90d450629d3d1a4c476bbf491fee6a6c8614aa8145eb9018931b108.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/7af70f6fa90d450629d3d1a4c476bbf491fee6a6c8614aa8145eb9018931b108.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/11/14.-Innowing-Metaverse-Cover-Image.jpeg",
+    "source_ids": [
+      "b434072bac69594f2bc39c58"
+    ],
+    "width": 1274,
+    "height": 641,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow7/",
+        "page_title": "The 7th Engineering Inno Show",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:55.823151+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innometaverse/14-innowing-metaverse-cover-image/",
+        "page_title": "14. Innowing Metaverse (Cover Image)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 32223,
+        "parent_post_id": 32221,
+        "published_at": "2022-11-23T03:30:39",
+        "retrieved_at": "2026-10-13T13:18:34.293522+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "b6e91227732121fbc7a1ac1a",
+    "sha256": "a48b0a925df45636ee0136e61723f0fd1e11b84cd13e464a774fa6e11a8e4dbf",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/a48b0a925df45636ee0136e61723f0fd1e11b84cd13e464a774fa6e11a8e4dbf.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a48b0a925df45636ee0136e61723f0fd1e11b84cd13e464a774fa6e11a8e4dbf.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/02/20250212032-scaled.jpg",
+    "source_ids": [
+      "b6e91227732121fbc7a1ac1a"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20250212032/",
+        "page_title": "20250212032",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 52262,
+        "parent_post_id": null,
+        "published_at": "2025-02-13T03:07:52",
+        "retrieved_at": "2026-10-13T13:18:33.439178+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "b92d618555d7b47260e7273c",
+    "sha256": "6e779232212c8ac76cfd802dc3d5f2ae2061402ed8163aec06dd171ed0910ec0",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/6e779232212c8ac76cfd802dc3d5f2ae2061402ed8163aec06dd171ed0910ec0.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/6e779232212c8ac76cfd802dc3d5f2ae2061402ed8163aec06dd171ed0910ec0.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/robomaster/2019-9-5_Information_session/IMG_0419-768x576.jpg",
+    "source_ids": [
+      "b92d618555d7b47260e7273c"
+    ],
+    "width": 768,
+    "height": 576,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/robomaster/",
+        "page_title": "RoboMaster – HerKules",
+        "alt": "IMG_0419",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:02.608849+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "baaf60bcd718d1a128a1a159",
+    "sha256": "23f5d360bf4016024459312d520218a2504489d9fa665adb5da102dfd0e45fd1",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/23f5d360bf4016024459312d520218a2504489d9fa665adb5da102dfd0e45fd1.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/23f5d360bf4016024459312d520218a2504489d9fa665adb5da102dfd0e45fd1.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/IMG_1461.jpg",
+    "source_ids": [
+      "baaf60bcd718d1a128a1a159"
+    ],
+    "width": 4032,
+    "height": 3024,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/stmarks-visit/",
+        "page_title": "Welcome students from St. Mark’s School",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:44.350867+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/stmarks-visit/img_1461/",
+        "page_title": "IMG_1461",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3311,
+        "parent_post_id": 2966,
+        "published_at": "2019-07-10T07:47:09",
+        "retrieved_at": "2026-10-13T13:18:35.788510+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "bd618abe377e21474db1b35b",
+    "sha256": "7148c99982eb988b8e26d5dab889909f3537bdb2ba3057ce794b34412bcef58f",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/7148c99982eb988b8e26d5dab889909f3537bdb2ba3057ce794b34412bcef58f.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/7148c99982eb988b8e26d5dab889909f3537bdb2ba3057ce794b34412bcef58f.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/IMG_1532-1.jpg",
+    "source_ids": [
+      "bd618abe377e21474db1b35b"
+    ],
+    "width": 3986,
+    "height": 2534,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ktslcgss-visit/",
+        "page_title": "Welcome students from the Kowloon Technical School and the Lung Cheung Government Secondary School",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:16:06.379259+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ktslcgss-visit/img_1532-1/",
+        "page_title": "IMG_1532 (1)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3369,
+        "parent_post_id": 2880,
+        "published_at": "2019-07-18T08:00:11",
+        "retrieved_at": "2026-10-13T13:18:35.778893+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "c0edf6a6c1229d8d6889c441",
+    "sha256": "b172e55fd31a2d2f2089456a40277096976803ba88c741ed88ec25e58074820e",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/b172e55fd31a2d2f2089456a40277096976803ba88c741ed88ec25e58074820e.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/b172e55fd31a2d2f2089456a40277096976803ba88c741ed88ec25e58074820e.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/02/DSC_2017-Large.jpg",
+    "source_ids": [
+      "c0edf6a6c1229d8d6889c441"
+    ],
+    "width": 1620,
+    "height": 1080,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dsc_2017-large/",
+        "page_title": "DSC_2017 (Large)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 52923,
+        "parent_post_id": null,
+        "published_at": "2025-02-28T09:21:25",
+        "retrieved_at": "2026-10-13T13:18:33.413447+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "c4674f83a0d6d1109249b9ea",
+    "sha256": "6541a8abc00ef0d6bd1b634f6ffe24ae34df98118b217419b8de4854e4c8121f",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/6541a8abc00ef0d6bd1b634f6ffe24ae34df98118b217419b8de4854e4c8121f.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/6541a8abc00ef0d6bd1b634f6ffe24ae34df98118b217419b8de4854e4c8121f.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020-11-27InnoShow/IMG_0352.jpg",
+    "source_ids": [
+      "c4674f83a0d6d1109249b9ea"
+    ],
+    "width": 1280,
+    "height": 853,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0352/",
+        "page_title": "IMG_0352",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9647,
+        "parent_post_id": null,
+        "published_at": "2020-11-27T15:39:00",
+        "retrieved_at": "2026-10-13T13:18:35.187162+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "c8a95164e3760ad01f39ec41",
+    "sha256": "7e18106f5f9a50e880b417afaae523e7923360338a6eeff404d66e4d86ffc46a",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/7e18106f5f9a50e880b417afaae523e7923360338a6eeff404d66e4d86ffc46a.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/7e18106f5f9a50e880b417afaae523e7923360338a6eeff404d66e4d86ffc46a.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/IMG_0367.jpg",
+    "source_ids": [
+      "c8a95164e3760ad01f39ec41"
+    ],
+    "width": 682,
+    "height": 1024,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow3/photo/img_0367/",
+        "page_title": "IMG_0367",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 9748,
+        "parent_post_id": 9685,
+        "published_at": "2020-11-28T04:08:44",
+        "retrieved_at": "2026-10-13T13:18:35.085414+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "ccbb6651a183e99e3280e496",
+    "sha256": "ebfe484c88bf0a1f0a7e04ecf9ea32231f60707ffac38e974a0c359a27a15d5a",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/ebfe484c88bf0a1f0a7e04ecf9ea32231f60707ffac38e974a0c359a27a15d5a.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ebfe484c88bf0a1f0a7e04ecf9ea32231f60707ffac38e974a0c359a27a15d5a.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/09/outside_day-768x346.jpg",
+    "source_ids": [
+      "ccbb6651a183e99e3280e496"
+    ],
+    "width": 768,
+    "height": 346,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/contact/",
+        "page_title": "Contact Us",
+        "alt": "Innovation Wing (view from Lily pond)",
+        "caption": "Innovation Wing (view from Lily pond)",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:48.106881+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/contact/",
+        "page_title": "Contact Us",
+        "alt": "Innovation Wing (view from Lily pond)",
+        "caption": "",
+        "nearby_text": "Innovation Wing (view from Lily pond)",
+        "retrieved_at": "2026-10-13T13:14:48.106881+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "ce6b8c62ec8183855bafb4a4",
+    "sha256": "b13b46a76a76d6399cd67b80405b4bda7201fb7219adb499d3ce5aaf953dc7ec",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/b13b46a76a76d6399cd67b80405b4bda7201fb7219adb499d3ce5aaf953dc7ec.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/b13b46a76a76d6399cd67b80405b4bda7201fb7219adb499d3ce5aaf953dc7ec.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/IBL2019/health-1024x683.jpg",
+    "source_ids": [
+      "ce6b8c62ec8183855bafb4a4"
+    ],
+    "width": 1024,
+    "height": 683,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ibl/",
+        "page_title": "HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week",
+        "alt": "STEM+ Challenge @ Health Innovation",
+        "caption": "STEM+ Challenge @ Health Innovation",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:34.084580+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ibl/",
+        "page_title": "HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week",
+        "alt": "STEM+ Challenge @ Health Innovation",
+        "caption": "",
+        "nearby_text": "STEM+ Challenge @ Health Innovation",
+        "retrieved_at": "2026-10-13T13:15:34.084580+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "d05ec70f3f5380d850b326d0",
+    "sha256": "daeb97f3a2706540e8f649ecec7106c08e004460bf6cf4d101c372fd24257477",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/daeb97f3a2706540e8f649ecec7106c08e004460bf6cf4d101c372fd24257477.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/daeb97f3a2706540e8f649ecec7106c08e004460bf6cf4d101c372fd24257477.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Degn-using-BIM-The-Wave-768x407.png",
+    "source_ids": [
+      "d05ec70f3f5380d850b326d0"
+    ],
+    "width": 768,
+    "height": 407,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/busiman/",
+        "page_title": "BuslMan – Innovative Design Using Building Information Modelling",
+        "alt": "The Wave",
+        "caption": "The Wave",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:38.254038+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/busiman/",
+        "page_title": "BuslMan – Innovative Design Using Building Information Modelling",
+        "alt": "The Wave",
+        "caption": "",
+        "nearby_text": "The Wave",
+        "retrieved_at": "2026-10-13T13:14:38.254038+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "d1981205345659e58fdab3b5",
+    "sha256": "b52137ec5e23842a41730c2bdf26078756c9ef08639cb7591630beb8a1d2d7e6",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/b52137ec5e23842a41730c2bdf26078756c9ef08639cb7591630beb8a1d2d7e6.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/b52137ec5e23842a41730c2bdf26078756c9ef08639cb7591630beb8a1d2d7e6.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2026/02/1.jpg",
+    "source_ids": [
+      "d1981205345659e58fdab3b5"
+    ],
+    "width": 480,
+    "height": 640,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/workshop/build-and-bloom-your-own-mechanical-flower/",
+        "page_title": "Build and Bloom: Your Own Mechanical Flower",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:18:12.342732+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/workshop/re-run-build-and-bloom-your-own-mechanical-flower/",
+        "page_title": "Re-run: Build and Bloom: Your Own Mechanical Flower",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:18:13.824189+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/workshop/build-and-bloom-your-own-mechanical-flower/1-9/",
+        "page_title": "1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 56701,
+        "parent_post_id": 56528,
+        "published_at": "2026-02-12T07:09:47",
+        "retrieved_at": "2026-10-13T13:18:33.353976+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "d4897a3fcbf10d900d168097",
+    "sha256": "12e2d01152b3bd3c28ddc1149ca1bd7bce3b5dded5d340bc7da0dc59e1cf79ed",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/12e2d01152b3bd3c28ddc1149ca1bd7bce3b5dded5d340bc7da0dc59e1cf79ed.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/12e2d01152b3bd3c28ddc1149ca1bd7bce3b5dded5d340bc7da0dc59e1cf79ed.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/IBL2019/sound-science.jpg",
+    "source_ids": [
+      "d4897a3fcbf10d900d168097"
+    ],
+    "width": 2823,
+    "height": 2117,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sound-science/",
+        "page_title": "sound & science",
+        "alt": "",
+        "caption": "STEM+ Challenge @ Quantum Music",
+        "nearby_text": "",
+        "media_id": 5171,
+        "parent_post_id": null,
+        "published_at": "2019-09-24T13:32:20",
+        "retrieved_at": "2026-10-13T13:18:35.598101+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "de7bc913814f51fb72293eba",
+    "sha256": "615053ca52350db4be285a5208bb0cb79cea9c481a292b6845598afbd2f9abef",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/615053ca52350db4be285a5208bb0cb79cea9c481a292b6845598afbd2f9abef.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/615053ca52350db4be285a5208bb0cb79cea9c481a292b6845598afbd2f9abef.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/03/03-IMG_7050.jpg",
+    "source_ids": [
+      "de7bc913814f51fb72293eba"
+    ],
+    "width": 2000,
+    "height": 1500,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/03-img_7050/",
+        "page_title": "03-IMG_7050",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 35775,
+        "parent_post_id": null,
+        "published_at": "2023-03-14T01:51:19",
+        "retrieved_at": "2026-10-13T13:18:34.163450+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "df8a8df4695eeaa110e62b73",
+    "sha256": "473f1fa8f48ffaa3c48b54d16da96b9ca258de2b752603df4b35078696d4b251",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/473f1fa8f48ffaa3c48b54d16da96b9ca258de2b752603df4b35078696d4b251.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/473f1fa8f48ffaa3c48b54d16da96b9ca258de2b752603df4b35078696d4b251.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/02/Pokfulam-02-scaled.jpg",
+    "source_ids": [
+      "df8a8df4695eeaa110e62b73"
+    ],
+    "width": 1623,
+    "height": 2560,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/20230306_fieldtrip/pokfulam-02/",
+        "page_title": "Pokfulam 02 field trip Archaeology",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 35237,
+        "parent_post_id": 35235,
+        "published_at": "2023-02-21T09:31:49",
+        "retrieved_at": "2026-10-13T13:18:34.235601+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "e24ec592bd0ce6bc46e9a0b6",
+    "sha256": "3ada80b9078bc837e34ac00d1c86b0b24cf7d49641554629a5e5e95dc26b425c",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/3ada80b9078bc837e34ac00d1c86b0b24cf7d49641554629a5e5e95dc26b425c.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/3ada80b9078bc837e34ac00d1c86b0b24cf7d49641554629a5e5e95dc26b425c.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/12/frontpage-innowing.jpg",
+    "source_ids": [
+      "e24ec592bd0ce6bc46e9a0b6"
+    ],
+    "width": 2560,
+    "height": 1316,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innowing/frontpage-innowing/",
+        "page_title": "frontpage innowing",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 5792,
+        "parent_post_id": 1287,
+        "published_at": "2019-12-18T10:52:25",
+        "retrieved_at": "2026-10-13T13:18:35.524004+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "e8a4b8162ec7e39eeb946848",
+    "sha256": "b3893fc092aca0b3f2b16b3c2f988256f79beadbc8eefac6a2df75f223006113",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/b3893fc092aca0b3f2b16b3c2f988256f79beadbc8eefac6a2df75f223006113.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/b3893fc092aca0b3f2b16b3c2f988256f79beadbc8eefac6a2df75f223006113.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/05/26-20210504_InnoShow-149-1-768x512.jpg",
+    "source_ids": [
+      "e8a4b8162ec7e39eeb946848"
+    ],
+    "width": 768,
+    "height": 512,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innoshow5/notes-to-showcasing-team-innoshow5/",
+        "page_title": "Notes to showcasing team",
+        "alt": "26-20210504_InnoShow (149)",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:54.142143+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "ec2634f96469ac54f7cceffe",
+    "sha256": "0439f56cff99ae692caaa26f77d58713e801efa1d5da48bc65fe1acd7437f2de",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/0439f56cff99ae692caaa26f77d58713e801efa1d5da48bc65fe1acd7437f2de.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/0439f56cff99ae692caaa26f77d58713e801efa1d5da48bc65fe1acd7437f2de.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Degn-using-BIM-cover-image-1024x689.jpg",
+    "source_ids": [
+      "ec2634f96469ac54f7cceffe"
+    ],
+    "width": 1024,
+    "height": 689,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/busiman/",
+        "page_title": "BuslMan – Innovative Design Using Building Information Modelling",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:38.254038+00:00",
+        "discovery": "page_reference"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "f2e2d0812a22c94c337b6173",
+    "sha256": "2cd83d90a50a84b9ac7176bec715c670f8ac6c8b4b39b31ad7af942b39f63672",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/2cd83d90a50a84b9ac7176bec715c670f8ac6c8b4b39b31ad7af942b39f63672.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/2cd83d90a50a84b9ac7176bec715c670f8ac6c8b4b39b31ad7af942b39f63672.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/dreamlabinside.jpg",
+    "source_ids": [
+      "f2e2d0812a22c94c337b6173"
+    ],
+    "width": 6000,
+    "height": 2500,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/ktslcgss-visit/dreamlabinside/",
+        "page_title": "dreamlabinside",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 2881,
+        "parent_post_id": 2880,
+        "published_at": "2019-06-05T07:20:43",
+        "retrieved_at": "2026-10-13T13:18:35.831387+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "f35fbd297440aa42a1e08344",
+    "sha256": "febcf4e2bc8c983b52d325cec3951578f91c6985ed58f7668b519abf1b2a60ac",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/febcf4e2bc8c983b52d325cec3951578f91c6985ed58f7668b519abf1b2a60ac.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/febcf4e2bc8c983b52d325cec3951578f91c6985ed58f7668b519abf1b2a60ac.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/robomaster/2019-9-5_Information_session/IMG_0326.jpg",
+    "source_ids": [
+      "f35fbd297440aa42a1e08344"
+    ],
+    "width": 3264,
+    "height": 2448,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/img_0326/",
+        "page_title": "IMG_0326",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 4693,
+        "parent_post_id": null,
+        "published_at": "2019-09-06T16:15:11",
+        "retrieved_at": "2026-10-13T13:18:35.671718+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "f4e4f8efd7e34151a5c1336a",
+    "sha256": "208296e03396a980562307c79ee455b5a9935ff15394c9b1fb3bd8d98e848827",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/208296e03396a980562307c79ee455b5a9935ff15394c9b1fb3bd8d98e848827.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/208296e03396a980562307c79ee455b5a9935ff15394c9b1fb3bd8d98e848827.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/12/DreamChamber2-scaled.jpg",
+    "source_ids": [
+      "f4e4f8efd7e34151a5c1336a"
+    ],
+    "width": 2560,
+    "height": 1151,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innowing/dreamchamber2/",
+        "page_title": "DreamChamber2",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 10169,
+        "parent_post_id": 1287,
+        "published_at": "2020-12-08T10:35:34",
+        "retrieved_at": "2026-10-13T13:18:35.119789+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "fa5677d3e97a541969fc8fb7",
+    "sha256": "ee72932c1a72591280981cb32a5291bef954dcfc038deb01f2317e56938b0e2b",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/ee72932c1a72591280981cb32a5291bef954dcfc038deb01f2317e56938b0e2b.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ee72932c1a72591280981cb32a5291bef954dcfc038deb01f2317e56938b0e2b.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/10/DSE_0564-min-scaled.jpg",
+    "source_ids": [
+      "fa5677d3e97a541969fc8fb7"
+    ],
+    "width": 2560,
+    "height": 1707,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dse_0564-min/",
+        "page_title": "Japan Tour Photo 25",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 41596,
+        "parent_post_id": null,
+        "published_at": "2023-10-24T02:54:26",
+        "retrieved_at": "2026-10-13T13:18:33.914275+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "fda88d1d61da3587141673b0",
+    "sha256": "3426f06ecdcc137b1b184df82b52fe4c9062f042f77dab80bb979090c4db9738",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/3426f06ecdcc137b1b184df82b52fe4c9062f042f77dab80bb979090c4db9738.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/3426f06ecdcc137b1b184df82b52fe4c9062f042f77dab80bb979090c4db9738.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/10/IMG_0998-scaled.jpg",
+    "source_ids": [
+      "fda88d1d61da3587141673b0"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/photowall/img_0998/",
+        "page_title": "Design Build and Fly (DBF) (Treasure Hunt)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 28430,
+        "parent_post_id": 28298,
+        "published_at": "2022-10-20T06:45:43",
+        "retrieved_at": "2026-10-13T13:18:34.305306+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  }
+]

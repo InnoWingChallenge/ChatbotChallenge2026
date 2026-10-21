@@ -1,0 +1,117 @@
+{
+  "title": "Presenter at a projected slide with laptop and headset on table",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One standing presenter holding one handheld microphone (visible center-right; presenter is uncropped).",
+    "At least two audience members visible as partially cropped heads in the foreground (one left foreground cropped, one right foreground cropped).",
+    "One large projected screen or monitor displaying slide content (left two-thirds of image).",
+    "One laptop with a visible Apple logo placed on a table in front of the presenter (silver laptop, partially visible).",
+    "One pair of headphones or headset placed on the right side of the table (cropped but visually distinct).",
+    "One small rectangular adapter or dongle on the table near the headset (right side of table, partially visible)."
+  ],
+  "visible_text": [
+    "Real-time comparison of",
+    "actual vs. planned progress",
+    "Identification of bo",
+    "and delays",
+    "Earned Value Manag",
+    "(EVM) for cost and sch",
+    "performance",
+    "Real-time data c",
+    "sensors, drones, c",
+    "3D visualization an",
+    "of the site, structur",
+    "equipment",
+    "Data analytics a",
+    "insights for d",
+    "Collabor"
+  ],
+  "spatial_relations": [
+    "The projected slide occupies the left two-thirds of the image; the presenter stands immediately to the right of the slide, overlapping its right edge.",
+    "The laptop sits on a table in front of the presenter and slightly to the camera's right; the Apple logo faces the camera.",
+    "The headset and a small rectangular device are on the right end of the same table, to the presenter's right.",
+    "Two audience heads are in the foreground, between the camera and the table; one is left-foreground and cropped, the other is right-foreground and cropped, partially blocking the view of the laptop and table.",
+    "The background wall to the far right is a solid darker surface, forming a vertical plane behind the presenter and table."
+  ],
+  "colours_and_materials": [
+    "Projection area / slide background is white with black text.",
+    "Presenter wears a light grey textured jacket, a dark navy sweater or pullover, and a white collared shirt.",
+    "Laptop appears silver metallic with a black Apple logo.",
+    "Table surface is white.",
+    "Background wall on the right is a dark grey matte surface.",
+    "Headset appears black; the small rectangular device near it is dark-coloured."
+  ],
+  "uncertainties": [
+    "No visible room name or number; location is unknown from the image.",
+    "Several lines of slide text are cut off or partially obscured; transcriptions preserve the visible fragments (e.g., 'Identification of bo', 'Real-time data c', 'sensors, drones, c', 'Earned Value Manag', 'sch'). The full original words cannot be confirmed from this image.",
+    "The object identified as a 'pair of headphones or headset' is partially cropped and could be another small device; identification is based on visible shape and cords but is not certain.",
+    "The small rectangular device near the headset is visually distinct but its function or exact identity (adapter, dongle, external drive) cannot be determined from the image.",
+    "Counts reflect only individually distinguishable visible items in this photograph and do not imply total room inventory."
+  ],
+  "visual_facts": [
+    "One standing presenter holding one handheld microphone (visible center-right; presenter is uncropped).",
+    "At least two audience members visible as partially cropped heads in the foreground (one left foreground cropped, one right foreground cropped).",
+    "One large projected screen or monitor displaying slide content (left two-thirds of image).",
+    "One laptop with a visible Apple logo placed on a table in front of the presenter (silver laptop, partially visible).",
+    "One pair of headphones or headset placed on the right side of the table (cropped but visually distinct).",
+    "One small rectangular adapter or dongle on the table near the headset (right side of table, partially visible).",
+    "Projection area / slide background is white with black text.",
+    "Presenter wears a light grey textured jacket, a dark navy sweater or pullover, and a white collared shirt.",
+    "Laptop appears silver metallic with a black Apple logo.",
+    "Table surface is white.",
+    "Background wall on the right is a dark grey matte surface.",
+    "Headset appears black; the small rectangular device near it is dark-coloured."
+  ],
+  "id": "b6e91227732121fbc7a1ac1a",
+  "sha256": "a48b0a925df45636ee0136e61723f0fd1e11b84cd13e464a774fa6e11a8e4dbf",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:00:13.351613+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "2371847178510e4cf49df10689e15925c8709b2ad0134f069e179229fb312428",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauMzXhoNZaKAEQpM9OXEi5kvx6ha",
+  "usage": {
+    "completion_tokens": 1194,
+    "prompt_tokens": 2266,
+    "total_tokens": 3460,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 347,
+      "engine_ttlt_ms": 10674,
+      "pre_inference_ms": 304,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 830,
+      "service_ttlt_ms": 11136,
+      "user_visible_ttft_ms": 526
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

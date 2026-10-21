@@ -1,0 +1,110 @@
+{
+  "title": "Classroom with projection screens, presenter and students at central work tables",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Six people are visible in the photographed scene: three seated at the central table (one facing a laptop, one with a white jacket, one speaking into a handheld microphone), two seated with their backs to the camera at the left table (one wearing a light backpack), and one seated at the right end of the central/right table using a tablet or similar device.",
+    "Two large projection screens are visible on the far wall showing the same slide content (left screen and right screen).",
+    "Two ceiling-mounted projectors are visible above the central aisle (one near center-left ceiling and one near center-right ceiling).",
+    "Three long light-wood work tables are visible in the scene: one at left foreground, one central table where most people are seated, and one at the right where a person is seated. Each table has metal legs.",
+    "At least nine individual stools are visible and distinguishable in the image: two under the left table foreground, four around/under the central table, and three at the right area. Some stools are partially occluded by people and tables.",
+    "Two laptops or laptop-sized devices are visible on the central table (one directly in front of the speaker and one used by a seated person).",
+    "One handheld microphone is visible in use by the person near the center table who appears to be speaking.",
+    "One backpack is visible on the back of a seated person (light-coloured, on the left side).",
+    "Several cables and a visible bottle or tumbler are on the central table near the seated users; exact counts of cables are not determined due to overlap."
+  ],
+  "visible_text": [
+    "Importance of Proposal Writing",
+    "[unreadable]",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "Two large projection screens are mounted on the far wall; a tall window bank with vertical window sections and visible plants outside runs between and to the sides of the screens.",
+    "The central light-wood work table runs roughly horizontally across the mid-image and is the primary activity area; people sit around both its near and far sides.",
+    "A second long table is visible in the left foreground running parallel to the central table; a third long table is visible on the right running parallel as well.",
+    "Ceiling-mounted projectors and exposed ducting are aligned above the central aisle between tables; the projectors are located roughly above the central table area.",
+    "Stools are placed under and around the tables; some are tucked under table overhangs while others are positioned for seated users."
+  ],
+  "colours_and_materials": [
+    "Work surfaces are light wood with pale beige tones and white or light grey metal legs.",
+    "Stool seats are dark brown (possibly wood or dark leather) with black metal frames.",
+    "The ceiling shows exposed metal ducting and piping in silver/grey with recessed rectangular white light panels.",
+    "Flooring is a smooth grey surface (likely polished concrete or epoxy) with a matte finish.",
+    "Windows show green foliage outside, adding visible green colour beyond the glass."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is legible in the image; location is unknown from the image.",
+    "Multiple blocks of small body text appear on the projected slides but are not legible at the resolution provided; these are marked as [unreadable].",
+    "Some stools and objects are partially occluded by people or tables, so the exact total count of stools and cables may be higher than the visible minimum stated.",
+    "An unreadable white square label is present on the backpack; the text on that label cannot be transcribed from this view.",
+    "The device at the right end appears to be a tablet or laptop-sized device but its exact type or brand is not legible and is therefore not identified."
+  ],
+  "visual_facts": [
+    "Six people are visible in the photographed scene: three seated at the central table (one facing a laptop, one with a white jacket, one speaking into a handheld microphone), two seated with their backs to the camera at the left table (one wearing a light backpack), and one seated at the right end of the central/right table using a tablet or similar device.",
+    "Two large projection screens are visible on the far wall showing the same slide content (left screen and right screen).",
+    "Two ceiling-mounted projectors are visible above the central aisle (one near center-left ceiling and one near center-right ceiling).",
+    "Three long light-wood work tables are visible in the scene: one at left foreground, one central table where most people are seated, and one at the right where a person is seated. Each table has metal legs.",
+    "At least nine individual stools are visible and distinguishable in the image: two under the left table foreground, four around/under the central table, and three at the right area. Some stools are partially occluded by people and tables.",
+    "Two laptops or laptop-sized devices are visible on the central table (one directly in front of the speaker and one used by a seated person).",
+    "One handheld microphone is visible in use by the person near the center table who appears to be speaking.",
+    "One backpack is visible on the back of a seated person (light-coloured, on the left side).",
+    "Several cables and a visible bottle or tumbler are on the central table near the seated users; exact counts of cables are not determined due to overlap.",
+    "Work surfaces are light wood with pale beige tones and white or light grey metal legs.",
+    "Stool seats are dark brown (possibly wood or dark leather) with black metal frames.",
+    "The ceiling shows exposed metal ducting and piping in silver/grey with recessed rectangular white light panels.",
+    "Flooring is a smooth grey surface (likely polished concrete or epoxy) with a matte finish.",
+    "Windows show green foliage outside, adding visible green colour beyond the glass."
+  ],
+  "id": "21e6f9f4478a6338283ddf53",
+  "sha256": "00592dc3a55ae1552a857ca011629fb665a5ae910ea52c652baca87400ebf365",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:31:37.236879+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "e063ab640d6acb81adbeeaa7d4d88d7ae9b42660196cf65e944c56cd76a24602",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatvJrqUpxZUIofQSkmUVokXSTeQG",
+  "usage": {
+    "completion_tokens": 1239,
+    "prompt_tokens": 2266,
+    "total_tokens": 3505,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1126,
+      "engine_ttlt_ms": 10166,
+      "pre_inference_ms": 492,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2072,
+      "service_ttlt_ms": 11107,
+      "user_visible_ttft_ms": 1581
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

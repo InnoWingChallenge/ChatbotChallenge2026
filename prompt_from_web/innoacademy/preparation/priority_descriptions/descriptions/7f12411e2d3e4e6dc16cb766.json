@@ -1,0 +1,107 @@
+{
+  "title": "Tiered seating area with 'ENGINEERING INNOVATION' wall sign and audience",
+  "suitable": true,
+  "location": "ENGINEERING INNOVATION",
+  "objects_and_counts": [
+    "At least 21 people are visible in the photographed scene; individuals are seated on the tiered steps, on cube seats in the foreground, and standing at the rear. (The exact total may be higher because some people at the rear are partially obscured.)",
+    "Seating: multiple modular upholstered cube seats are visible in the foreground; at least 6 distinct blue cube seats are individually visible and not fully overlapped by people.",
+    "Tiered bench seating: a stepped seating structure with multiple levels is visible across the mid and background; individual stepped platforms are occupied by seated people and at least three long turquoise upholstered bench segments are visible on the right side.",
+    "Backpacks and bags: at least 5 backpacks or bags are visible near seated people (examples: one black backpack on the floor left foreground, one bag on the step near the centre).",
+    "Laptops: at least 2 laptops are visible being used by seated people on the upper steps (one with a blue cover held by a person toward the rear right, another in use by a different person nearby).",
+    "A freestanding water or beverage dispenser is visible on the left wall with two dispensing taps and a yellow bottle placed beside it.",
+    "A glass partition or door is visible on the right side with printed signage applied to it (sign text not fully legible)."
+  ],
+  "visible_text": [
+    "ENGINEERING",
+    "INNOVATION",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "A large angled wall panel with the words 'ENGINEERING' over 'INNOVATION' is mounted on the upper central background; people are seated on tiers directly below and in front of that panel.",
+    "Modular blue cube seats occupy the foreground and are arranged in rows leading toward the tiered steps; people seated on cubes face toward the right and center of the image.",
+    "Tiered seating runs from left to right across the middle of the scene, with several people seated on each step level; the higher steps are toward the rear center of the image where a small group sits with laptops.",
+    "A long turquoise bench composed of multiple supported segments runs along the right foreground to midground, parallel to the tiered steps.",
+    "A glass partition or door is located at the right rear adjacent to the stepped seating; the glass has at least one printed sign and a darker rectangular panel visible through it.",
+    "The beverage dispenser is mounted on the left wall behind standing and seated people, next to a short illuminated wall section."
+  ],
+  "colours_and_materials": [
+    "The wall sign panels are shades of blue (darker blue and lighter blue) with white lettering for 'ENGINEERING' and 'INNOVATION'.",
+    "Foregound cube seats are upholstered in various blue tones (medium to darker blue); the long bench segments on the right are turquoise/aqua upholstered.",
+    "Tiered seating platforms appear to be light grey upholstered cushions on top of pale wood or laminate risers.",
+    "Flooring is a light grey carpet with linear patterning.",
+    "A glass partition or door with metal framing is visible on the right; the beverage dispenser on the left appears to be white or light-coloured plastic/metal."
+  ],
+  "uncertainties": [
+    "Exact people count is uncertain because some individuals at the rear and edges are partially obscured; I report 'at least 21' visible people rather than a definitive total.",
+    "Several small printed signs on the glass partition and near the beverage dispenser are not legible in the image; I have transcribed them as '[unreadable]'.",
+    "The text visible on the wall is clear for 'ENGINEERING' and 'INNOVATION' but any smaller captions or labels on or around that display are unreadable from this image.",
+    "I cannot confirm a room number or formal room name beyond the visible wall text; the location field uses only the visible wording 'ENGINEERING INNOVATION' and does not imply affiliation with any particular building or wing.",
+    "Counts of modular seating units and bags are minimum visible counts; overlapping or out-of-frame items may increase totals."
+  ],
+  "visual_facts": [
+    "Visible location text: ENGINEERING INNOVATION",
+    "At least 21 people are visible in the photographed scene; individuals are seated on the tiered steps, on cube seats in the foreground, and standing at the rear. (The exact total may be higher because some people at the rear are partially obscured.)",
+    "Seating: multiple modular upholstered cube seats are visible in the foreground; at least 6 distinct blue cube seats are individually visible and not fully overlapped by people.",
+    "Tiered bench seating: a stepped seating structure with multiple levels is visible across the mid and background; individual stepped platforms are occupied by seated people and at least three long turquoise upholstered bench segments are visible on the right side.",
+    "Backpacks and bags: at least 5 backpacks or bags are visible near seated people (examples: one black backpack on the floor left foreground, one bag on the step near the centre).",
+    "Laptops: at least 2 laptops are visible being used by seated people on the upper steps (one with a blue cover held by a person toward the rear right, another in use by a different person nearby).",
+    "A freestanding water or beverage dispenser is visible on the left wall with two dispensing taps and a yellow bottle placed beside it.",
+    "A glass partition or door is visible on the right side with printed signage applied to it (sign text not fully legible).",
+    "The wall sign panels are shades of blue (darker blue and lighter blue) with white lettering for 'ENGINEERING' and 'INNOVATION'.",
+    "Foregound cube seats are upholstered in various blue tones (medium to darker blue); the long bench segments on the right are turquoise/aqua upholstered.",
+    "Tiered seating platforms appear to be light grey upholstered cushions on top of pale wood or laminate risers.",
+    "Flooring is a light grey carpet with linear patterning.",
+    "A glass partition or door with metal framing is visible on the right; the beverage dispenser on the left appears to be white or light-coloured plastic/metal."
+  ],
+  "id": "7f12411e2d3e4e6dc16cb766",
+  "sha256": "c7842d0f76593a5bbfd993533f1c033b7e7bc7e4722cfb1fca46ca787177e0e7",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:49:00.217567+00:00",
+  "input_resolution": [
+    1620,
+    1080
+  ],
+  "input_sha256": "11fdc0b991b3cad0775b2314c76d999afc0b2a64a02f6a5042bf9654c9a78c04",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauC9oteTzlj5flrHoOFPBDwZqpmQ",
+  "usage": {
+    "completion_tokens": 1240,
+    "prompt_tokens": 2237,
+    "total_tokens": 3477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 390,
+      "engine_ttlt_ms": 9299,
+      "pre_inference_ms": 389,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 983,
+      "service_ttlt_ms": 9887,
+      "user_visible_ttft_ms": 594
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

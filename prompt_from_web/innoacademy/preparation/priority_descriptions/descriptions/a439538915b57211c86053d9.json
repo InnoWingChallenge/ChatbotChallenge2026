@@ -1,0 +1,109 @@
+{
+  "title": "Row of bench machines and workstations with LaserPro signage",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "At least five large freestanding equipment cabinets/machines are visible in a single row along the wall (from right edge toward left): a blue-and-white GCC-branded machine at the right foreground, a white tall cabinet immediately to its left, a blue GCC machine with a clear lid/cover further left, a white tall unit left of that, and a beige/tan tall unit at the far left. These five distinct housings are individually visible; overlap and partial cropping prevent confirming if additional similar units extend beyond the image edges.",
+    "Two desktop computer monitors are visible on the bench between the blue GCC machine (center-left) and the white tall cabinet (center-right).",
+    "Two desktop keyboards and two mice are visible on the bench below the two monitors.",
+    "Two swivel chairs (light grey plastic seats with black five-star caster bases) are positioned at the bench in front of the two monitors.",
+    "Three vertically routed flexible exhaust/vent ducts (grey ribbed hoses) run from near the machines up toward the ceiling, visible behind the row of equipment.",
+    "Three wall-mounted grey electrical/connector boxes are visible on the wall above the bench to the right of the monitors.",
+    "Multiple small printed labels and stickers appear on machine panels and lids, but most are partially obscured or too small to read in detail."
+  ],
+  "visible_text": [
+    "LaserPro Spirit",
+    "Main Power",
+    "GCC",
+    "CE",
+    "SpiritLS"
+  ],
+  "spatial_relations": [
+    "The equipment and cabinets form a linear row placed against the right-side wall, extending from the right foreground toward the left background.",
+    "A bench workspace with two monitors, two keyboards and two mice sits between the two central machines: the blue GCC machine (center-left) and the white tall cabinet (center-right).",
+    "Two light-grey swivel chairs are positioned in front of the bench, one in front of each monitor and keyboard pair.",
+    "Three flexible grey ducts rise from the area behind the machines and run upward toward the ceiling; they are spaced roughly along the row of equipment and appear attached behind or near individual machines.",
+    "Three grey wall-mounted boxes are located on the wall immediately above the bench to the right of the monitors; a printed sign reading 'LaserPro Spirit Main Power' is mounted near those boxes with downward-pointing arrows."
+  ],
+  "colours_and_materials": [
+    "The floor is a pale mint/very light green smooth surface (likely vinyl or painted concrete).",
+    "Several machines have blue panels (medium blue) combined with white or light-grey housings; the GCC-branded machines are predominantly blue and white.",
+    "The tall cabinets to the left are beige/tan and white respectively, with smooth painted metal surfaces.",
+    "The bench surface appears white and the two chairs are light grey plastic seats with black metal/plastic caster bases.",
+    "The flexible exhaust ducts are grey and ribbed, suggesting a plastic or corrugated material."
+  ],
+  "uncertainties": [
+    "Exact model names and small label text on the machine panels and lids are mostly unreadable at this resolution; only the larger readable text has been transcribed.",
+    "The leftmost beige/tan and adjacent white tall units are partially obscured and cropped by the image edge, so their full counts and identities beyond the visible housings cannot be confirmed.",
+    "Some small stickers and labels visible on machine lids and panels are too small or angled to transcribe; their contents are therefore not included.",
+    "The precise function or type of each visible machine (e.g., exact equipment categories) cannot be determined from appearance alone and has not been inferred.",
+    "The reading 'SpiritLS' and the GCC logos are reasonably legible, but adjacent smaller characters or numbers that might form full model identifiers are not readable; those possible fragments were not completed."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "At least five large freestanding equipment cabinets/machines are visible in a single row along the wall (from right edge toward left): a blue-and-white GCC-branded machine at the right foreground, a white tall cabinet immediately to its left, a blue GCC machine with a clear lid/cover further left, a white tall unit left of that, and a beige/tan tall unit at the far left. These five distinct housings are individually visible; overlap and partial cropping prevent confirming if additional similar units extend beyond the image edges.",
+    "Two desktop computer monitors are visible on the bench between the blue GCC machine (center-left) and the white tall cabinet (center-right).",
+    "Two desktop keyboards and two mice are visible on the bench below the two monitors.",
+    "Two swivel chairs (light grey plastic seats with black five-star caster bases) are positioned at the bench in front of the two monitors.",
+    "Three vertically routed flexible exhaust/vent ducts (grey ribbed hoses) run from near the machines up toward the ceiling, visible behind the row of equipment.",
+    "Three wall-mounted grey electrical/connector boxes are visible on the wall above the bench to the right of the monitors.",
+    "Multiple small printed labels and stickers appear on machine panels and lids, but most are partially obscured or too small to read in detail.",
+    "The floor is a pale mint/very light green smooth surface (likely vinyl or painted concrete).",
+    "Several machines have blue panels (medium blue) combined with white or light-grey housings; the GCC-branded machines are predominantly blue and white.",
+    "The tall cabinets to the left are beige/tan and white respectively, with smooth painted metal surfaces.",
+    "The bench surface appears white and the two chairs are light grey plastic seats with black metal/plastic caster bases.",
+    "The flexible exhaust ducts are grey and ribbed, suggesting a plastic or corrugated material."
+  ],
+  "id": "a439538915b57211c86053d9",
+  "sha256": "39a208d54e6af9d01b24a65ecd9bfcbe21b85c87e7274ade4828c765ab3b8474",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:17:32.024948+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "3d8c01e711058e2c0fb7eee23af440e72e33905486e0672877bbb0c814dcaccf",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EathgnVOLtoG7zbVfVNHQ6Pr6SwQW",
+  "usage": {
+    "completion_tokens": 1184,
+    "prompt_tokens": 2122,
+    "total_tokens": 3306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 936,
+      "engine_ttlt_ms": 10331,
+      "pre_inference_ms": 315,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1806,
+      "service_ttlt_ms": 11194,
+      "user_visible_ttft_ms": 1491
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

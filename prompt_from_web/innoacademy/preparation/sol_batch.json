@@ -1,0 +1,283 @@
+[
+  {
+    "status": "recovered",
+    "id": "3024e716705c54d7605f5e98",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/04/01.-Design-Build-and-Fly-Team-2023-Poster.png",
+    "local_path": "submission_repo/data/web_academy/recovered/6b7d12b6aeab589cbb6eefd21d35e801a86cd9a5910f5fe30b5867e61a601416.png",
+    "sha256": "6b7d12b6aeab589cbb6eefd21d35e801a86cd9a5910f5fe30b5867e61a601416",
+    "previous_sha256": "6b7d12b6aeab589cbb6eefd21d35e801a86cd9a5910f5fe30b5867e61a601416",
+    "content_changed": false,
+    "bytes": 27198089,
+    "content_type": "image/png",
+    "retrieved_at": "2026-10-17T09:09:01.801983+00:00",
+    "source_id": "3024e716705c54d7605f5e98",
+    "source_type": "web_image",
+    "dhash": "8d092bf3a036c3c4",
+    "width": 3508,
+    "height": 4967,
+    "priority_reasons": [
+      "poster",
+      "sign"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/01-design-build-and-fly-team-2023-poster/",
+      "https://innoacademy.engg.hku.hk/dbf8/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/3024e716705c54d7605f5e98.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "f73173354e5f6a8b418c9a70",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/04.-Design-and-Build-an-Intraocular-Pressure-Controllable-Gadget-Poster-King-Ting-CHEUNG.png",
+    "local_path": "submission_repo/data/web_academy/recovered/f439f9e96baca2cab5d2f599cd74e58534833cc1ec9d01e81daa51bbc5c5015d.png",
+    "sha256": "f439f9e96baca2cab5d2f599cd74e58534833cc1ec9d01e81daa51bbc5c5015d",
+    "previous_sha256": "f439f9e96baca2cab5d2f599cd74e58534833cc1ec9d01e81daa51bbc5c5015d",
+    "content_changed": false,
+    "bytes": 25472238,
+    "content_type": "image/png",
+    "retrieved_at": "2026-10-17T09:09:03.986910+00:00",
+    "source_id": "f73173354e5f6a8b418c9a70",
+    "source_type": "web_image",
+    "dhash": "4c6c2c440141c3b3",
+    "width": 3508,
+    "height": 4967,
+    "priority_reasons": [
+      "poster",
+      "sign"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/controllable-gadget/",
+      "https://innoacademy.engg.hku.hk/controllable-gadget/04-design-and-build-an-intraocular-pressure-controllable-gadget-poster-king-ting-cheung/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/f73173354e5f6a8b418c9a70.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "3197741a8a0745ab07406f6b",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/11/29.-Robota-A1-Poster.png",
+    "local_path": "submission_repo/data/web_academy/recovered/5c31c0287fa689214c4b057dd3e32b4a6c8b33aaf7f9f27df4f4c517158294d1.png",
+    "sha256": "5c31c0287fa689214c4b057dd3e32b4a6c8b33aaf7f9f27df4f4c517158294d1",
+    "previous_sha256": "5c31c0287fa689214c4b057dd3e32b4a6c8b33aaf7f9f27df4f4c517158294d1",
+    "content_changed": false,
+    "bytes": 1439152,
+    "content_type": "image/png",
+    "retrieved_at": "2026-10-17T09:09:05.629182+00:00",
+    "source_id": "3197741a8a0745ab07406f6b",
+    "source_type": "web_image",
+    "dhash": "4b2b2f1e3673e5fd",
+    "width": 1587,
+    "height": 2245,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/robota/",
+      "https://innoacademy.engg.hku.hk/robota/29-robota-a1-poster/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/3197741a8a0745ab07406f6b.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "75a2bf1d64da73c23786b0f2",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2026/02/Robotarmchallengeposter_v5b.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/6c54392b82f94e5360ecac6ba7092b304f4ecdfb0d24726fe5df813fd6f87012.jpg",
+    "sha256": "6c54392b82f94e5360ecac6ba7092b304f4ecdfb0d24726fe5df813fd6f87012",
+    "previous_sha256": "6c54392b82f94e5360ecac6ba7092b304f4ecdfb0d24726fe5df813fd6f87012",
+    "content_changed": false,
+    "bytes": 157577,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:05.739721+00:00",
+    "source_id": "75a2bf1d64da73c23786b0f2",
+    "source_type": "web_image",
+    "dhash": "8b88666d08439bbe",
+    "width": 720,
+    "height": 1040,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/home/robotarmchallengeposter_v5b/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/75a2bf1d64da73c23786b0f2.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "83865e84cfae48a6dd2c2cd9",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2026/02/robotarmchallenge_workshop_poster.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/1d77d9111d84262d666075aa06a8d4ecaa3f57177671ee7dca945b50c0de2bfd.jpg",
+    "sha256": "1d77d9111d84262d666075aa06a8d4ecaa3f57177671ee7dca945b50c0de2bfd",
+    "previous_sha256": "1d77d9111d84262d666075aa06a8d4ecaa3f57177671ee7dca945b50c0de2bfd",
+    "content_changed": false,
+    "bytes": 135460,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:06.494158+00:00",
+    "source_id": "83865e84cfae48a6dd2c2cd9",
+    "source_type": "web_image",
+    "dhash": "8fc8726940a1afae",
+    "width": 720,
+    "height": 1040,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/workshop/",
+      "https://innoacademy.engg.hku.hk/workshop/robotarmchallenge_workshop_poster/"
+    ],
+    "near_duplicate_candidates": [
+      "dc005dc717ff0b279110df1c"
+    ],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/83865e84cfae48a6dd2c2cd9.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "8f4f08ec97bb128ebb2c9448",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/09.-BREED-HKUs-quadruped-robot-DoggiE-Poster-Cheuk-Yin-Bryan-LAM-1.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/846ee4ba8c790724d056a68ec7673d9b8e0dcdf34ad08648f85d3ba89d28bf0e.jpg",
+    "sha256": "846ee4ba8c790724d056a68ec7673d9b8e0dcdf34ad08648f85d3ba89d28bf0e",
+    "previous_sha256": "846ee4ba8c790724d056a68ec7673d9b8e0dcdf34ad08648f85d3ba89d28bf0e",
+    "content_changed": false,
+    "bytes": 10394346,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:08.923122+00:00",
+    "source_id": "8f4f08ec97bb128ebb2c9448",
+    "source_type": "web_image",
+    "dhash": "8e94d4f2ea78696f",
+    "width": 10603,
+    "height": 14999,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/doggiebreed2022/",
+      "https://innoacademy.engg.hku.hk/doggiebreed2022/s-quadruped-robot-doggie-poster-cheuk-yin-bryan-lam-2/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/8f4f08ec97bb128ebb2c9448.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "dce95cf4211dc0ebcb0bdd96",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/01/Resized-Poster-for-Unleashing-the-Power-of-AI-and-Robots.png",
+    "local_path": "submission_repo/data/web_academy/recovered/6daff5abbb67dece14f0991d692a0837003aba2027c03ee9f192365a458dfd4d.png",
+    "sha256": "6daff5abbb67dece14f0991d692a0837003aba2027c03ee9f192365a458dfd4d",
+    "previous_sha256": "6daff5abbb67dece14f0991d692a0837003aba2027c03ee9f192365a458dfd4d",
+    "content_changed": false,
+    "bytes": 1434574,
+    "content_type": "image/png",
+    "retrieved_at": "2026-10-17T09:09:10.685166+00:00",
+    "source_id": "dce95cf4211dc0ebcb0bdd96",
+    "source_type": "web_image",
+    "dhash": "3d9898f1929a9a85",
+    "width": 2193,
+    "height": 1645,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/aismartrobot01/",
+      "https://innoacademy.engg.hku.hk/aismartrobot01/resized-poster-for-unleashing-the-power-of-ai-and-robots/",
+      "https://innoacademy.engg.hku.hk/workshop/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/dce95cf4211dc0ebcb0bdd96.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "1caf4c932d22c001584dcee3",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/03/Poster-of-Inno-Show-Call-for-Project-V2-Resize.png",
+    "local_path": "submission_repo/data/web_academy/recovered/8324a9b2e2c6a45156d989d39acc404e5adff5ec2eb33d33416be0da4f20002b.png",
+    "sha256": "8324a9b2e2c6a45156d989d39acc404e5adff5ec2eb33d33416be0da4f20002b",
+    "previous_sha256": "8324a9b2e2c6a45156d989d39acc404e5adff5ec2eb33d33416be0da4f20002b",
+    "content_changed": false,
+    "bytes": 1940452,
+    "content_type": "image/png",
+    "retrieved_at": "2026-10-17T09:09:10.887347+00:00",
+    "source_id": "1caf4c932d22c001584dcee3",
+    "source_type": "web_image",
+    "dhash": "72372723312d3e64",
+    "width": 1347,
+    "height": 952,
+    "priority_reasons": [
+      "poster",
+      "project"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/innoshow9/poster-of-inno-show-call-for-project-v2-resize/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/1caf4c932d22c001584dcee3.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "0450fb0141500e55757e98e7",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/04/COMP3329_InnoShow_Poster-RACHAIKA-VERMA.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/fd7890d697b3839d12e6a7343a6908eee31d15648e711cd98540b13323e8d7c5.jpg",
+    "sha256": "fd7890d697b3839d12e6a7343a6908eee31d15648e711cd98540b13323e8d7c5",
+    "previous_sha256": "fd7890d697b3839d12e6a7343a6908eee31d15648e711cd98540b13323e8d7c5",
+    "content_changed": false,
+    "bytes": 1298072,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:13.750728+00:00",
+    "source_id": "0450fb0141500e55757e98e7",
+    "source_type": "web_image",
+    "dhash": "c4d2328cb1b2b6b2",
+    "width": 7164,
+    "height": 6912,
+    "priority_reasons": [
+      "poster",
+      "innoshow"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/projectid13/",
+      "https://innoacademy.engg.hku.hk/projectid13/comp3329_innoshow_poster-rachaika-verma/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/0450fb0141500e55757e98e7.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "204f6b406f14c74f78571aac",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/04/POSTER_INNOSHOW-Shoyu-Kaneko-2.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/fa4958eca14155469a61ac200144a3b13d1b40915c9886587943fd9e4525d4ce.jpg",
+    "sha256": "fa4958eca14155469a61ac200144a3b13d1b40915c9886587943fd9e4525d4ce",
+    "previous_sha256": "fa4958eca14155469a61ac200144a3b13d1b40915c9886587943fd9e4525d4ce",
+    "content_changed": false,
+    "bytes": 299581,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:14.253626+00:00",
+    "source_id": "204f6b406f14c74f78571aac",
+    "source_type": "web_image",
+    "dhash": "1911d9d55591d9d5",
+    "width": 1406,
+    "height": 1422,
+    "priority_reasons": [
+      "poster",
+      "innoshow"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/toggle/",
+      "https://innoacademy.engg.hku.hk/toggle/poster_innoshow-shoyu-kaneko-2/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/204f6b406f14c74f78571aac.jpg"
+  }
+]

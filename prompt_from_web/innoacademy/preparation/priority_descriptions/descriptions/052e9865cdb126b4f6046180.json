@@ -1,0 +1,108 @@
+{
+  "title": "Large staged group photo in auditorium with projected event backdrop",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "A large group of people standing on the stage in front of the projection screen; at least 50 individual people are visibly distinguishable in the photographed scene (exact total cannot be determined because of overlap and partial occlusion).",
+    "One grand piano located on the right side of the stage (visible and complete).",
+    "Two floor stage monitors (black) visible at the front edge of the stage (one left-of-center, one right-of-center).",
+    "At least two microphone stands positioned near the front-center of the stage (one with a microphone visible).",
+    "A seated ensemble of musicians holding wooden, vertical-pipe or xylophone-like instruments on the far right of the stage; at least eight seated musicians are visible there.",
+    "A group of percussion or traditional instruments and musicians on the far left of the stage; at least four people and multiple instruments are visible in that left stage area.",
+    "A large projection screen or backdrop covering the rear of the stage with logos and event text displayed across it.",
+    "Two people near the right-front area operating or standing by the microphone area and music stands (distinct from the seated ensemble)."
+  ],
+  "visible_text": [
+    "Global Inclusive Leadership Program 2019 STEM+ Leadership Week",
+    "China & Thailand 2019",
+    "B.GRIMM",
+    "SINCE 1376",
+    "7th"
+  ],
+  "spatial_relations": [
+    "A large projection backdrop fills the entire rear of the stage; the group of standing people is arranged across the central portion of the stage in front of that backdrop.",
+    "The grand piano sits to the right-rear of the standing group (stage right from the viewer's perspective), with seated musicians holding wooden instruments further right of the piano.",
+    "Percussion instruments and additional musicians occupy the far left-rear area of the stage behind and to the left of the standing group.",
+    "Two black floor monitors are positioned on the front edge of the stage, one near the left-front and one near the right-front relative to the viewer, in front of the standing performers.",
+    "Microphone stands are near the center-front of the standing group, between the front edge of the stage and the backdrop group."
+  ],
+  "colours_and_materials": [
+    "The stage floor is wood-coloured, appearing as varnished light-to-medium brown hardwood.",
+    "The backdrop/projection shows warm, multicoloured bokeh effects with dominant gold, green and pink tones.",
+    "The grand piano and stage monitors are black and have a matte-to-semi-gloss finish.",
+    "Many participants wear dark-coloured (navy or black) shirts and some wear white tops; seated musicians on the right wear blue uniforms or skirts."
+  ],
+  "uncertainties": [
+    "Exact count of people is uncertain due to overlap and partial occlusion; the quoted 'at least 50' is a visible minimum not a precise total.",
+    "Several small logos and lines of text on the backdrop are not legible at this resolution; only the larger headings and a few words could be transcribed reliably.",
+    "The transcription 'SINCE 1376' is taken from the visible characters on the image; the middle digit(s) are small and could be misread (commonly '1876' on similar logos), so this text is uncertain.",
+    "The single visible printed fragment '7th' near the lower-right of the backdrop is partial and the rest of that line (e.g., month or context) is not legible.",
+    "The exact identity or type of the wooden instruments held by the seated musicians (right side) is not fully determinable from the image; they are described by visible appearance only.",
+    "No room name or number is visible anywhere in the image, so the location is unknown from the image."
+  ],
+  "visual_facts": [
+    "A large group of people standing on the stage in front of the projection screen; at least 50 individual people are visibly distinguishable in the photographed scene (exact total cannot be determined because of overlap and partial occlusion).",
+    "One grand piano located on the right side of the stage (visible and complete).",
+    "Two floor stage monitors (black) visible at the front edge of the stage (one left-of-center, one right-of-center).",
+    "At least two microphone stands positioned near the front-center of the stage (one with a microphone visible).",
+    "A seated ensemble of musicians holding wooden, vertical-pipe or xylophone-like instruments on the far right of the stage; at least eight seated musicians are visible there.",
+    "A group of percussion or traditional instruments and musicians on the far left of the stage; at least four people and multiple instruments are visible in that left stage area.",
+    "A large projection screen or backdrop covering the rear of the stage with logos and event text displayed across it.",
+    "Two people near the right-front area operating or standing by the microphone area and music stands (distinct from the seated ensemble).",
+    "The stage floor is wood-coloured, appearing as varnished light-to-medium brown hardwood.",
+    "The backdrop/projection shows warm, multicoloured bokeh effects with dominant gold, green and pink tones.",
+    "The grand piano and stage monitors are black and have a matte-to-semi-gloss finish.",
+    "Many participants wear dark-coloured (navy or black) shirts and some wear white tops; seated musicians on the right wear blue uniforms or skirts."
+  ],
+  "id": "052e9865cdb126b4f6046180",
+  "sha256": "ccfbe824716aba861cd1405be7aa3dd65f122e1adb125b8d6dd3d3a3c8569c9f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:26:09.984421+00:00",
+  "input_resolution": [
+    1024,
+    578
+  ],
+  "input_sha256": "99c1376f580e310ae8fdf59de877f6a30faaa4d8b49bd2fbbe163791f14b30f9",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatq1B0pTq37MVB9mxHuspsHmICM2",
+  "usage": {
+    "completion_tokens": 1295,
+    "prompt_tokens": 1930,
+    "total_tokens": 3225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 732,
+      "engine_ttlt_ms": 11194,
+      "pre_inference_ms": 103,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1371,
+      "service_ttlt_ms": 11828,
+      "user_visible_ttft_ms": 1268
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

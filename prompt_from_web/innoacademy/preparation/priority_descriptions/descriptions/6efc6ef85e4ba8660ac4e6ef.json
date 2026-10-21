@@ -1,0 +1,111 @@
+{
+  "title": "Poster for Game Dev Gathering (InnoWing 1, HKU)",
+  "suitable": true,
+  "location": "InnoWing 1, HKU",
+  "objects_and_counts": [
+    "No people are visible in the image; the image is a printed or digital poster, not a photographed room interior.",
+    "One visible QR code located near the lower centre-right of the poster; the QR code appears uncropped and fully visible.",
+    "One rectangular logo at the top-right containing the words 'Innovation Academy' and smaller text beneath it; the logo is fully visible.",
+    "One stylised emblem/logo at the bottom-right area containing the words 'FIRESIDE FRIDAYS' and a small graphic; the emblem/logo is fully visible.",
+    "Repeated textual elements presented as headings and banners (large headline text, a dark horizontal banner with white repeating phrases) are present but are part of the poster graphic rather than separate physical objects."
+  ],
+  "visible_text": [
+    "Fireside Fridays:",
+    "HKU Hobbyist Game Developer Gatherings",
+    "GAME DEV",
+    "GATHERING",
+    "Nov 28th 7-9PM, InnoWing 1, HKU",
+    "BRING YOUR PROJECTS / BRING YOUR FRIENDS / BRING",
+    "YOUR GAME / BRING YOUR IDEA / BRING YOUR PASSION",
+    "+ Sharing from Lefinno & JH:",
+    "How to participate in a Game Jam!",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "FIRESIDE FRIDAYS"
+  ],
+  "spatial_relations": [
+    "The largest headline text 'GAME DEV GATHERING' occupies the central upper half of the poster across two stacked lines, with 'GAME DEV' above 'GATHERING'.",
+    "Directly below the headline and spanning the width of the poster is the line 'Nov 28th 7-9PM, InnoWing 1, HKU'.",
+    "A dark horizontal banner with white text runs across the poster beneath the date line; the banner contains multiple repeated 'BRING YOUR ...' phrases separated by slashes and wraps across two visible lines where the second line continues the sequence.",
+    "Lower-left area of the poster contains the smaller block '+ Sharing from Lefinno & JH: How to participate in a Game Jam!'.",
+    "Lower-centre-right area contains a fully visible QR code square, immediately left of the bottom-right emblem/logo that reads 'FIRESIDE FRIDAYS'.",
+    "Top-right corner contains a small rectangular 'Innovation Academy' logo box with the additional line 'Faculty of Engineering, HKU' beneath the logo title."
+  ],
+  "colours_and_materials": [
+    "The poster background is a solid bright orange colour.",
+    "The large headline 'GAME DEV GATHERING' is black with a yellow drop-shadow effect that gives a layered look.",
+    "The date line 'Nov 28th 7-9PM, InnoWing 1, HKU' is white text on the orange background.",
+    "The repeating 'BRING YOUR ...' banner is dark teal or navy with white uppercase text.",
+    "The 'Innovation Academy' logo box in the top-right has a dark teal background with lighter green and white text inside; the bottom-right 'FIRESIDE FRIDAYS' emblem is white on the orange background."
+  ],
+  "uncertainties": [
+    "Small text elements and any fine print adjacent to the 'FIRESIDE FRIDAYS' emblem include tiny characters (possibly Chinese) that are not legible at the image resolution; these are not transcribed.",
+    "The precise styling or any additional small labels within the 'Innovation Academy' rectangle beyond the visible lines 'Innovation Academy' and 'Faculty of Engineering, HKU' may contain finer details that are not readable.",
+    "The dark horizontal banner is split across lines; line breaks are represented as seen but exact punctuation and any trailing words at the line edges might be partially obscured by the crop.",
+    "As this is a poster image, counts and items are limited to graphic elements; no physical room fixtures or equipment are visible to provide facility-level evidence beyond the printed location name."
+  ],
+  "visual_facts": [
+    "Visible location text: InnoWing 1, HKU",
+    "No people are visible in the image; the image is a printed or digital poster, not a photographed room interior.",
+    "One visible QR code located near the lower centre-right of the poster; the QR code appears uncropped and fully visible.",
+    "One rectangular logo at the top-right containing the words 'Innovation Academy' and smaller text beneath it; the logo is fully visible.",
+    "One stylised emblem/logo at the bottom-right area containing the words 'FIRESIDE FRIDAYS' and a small graphic; the emblem/logo is fully visible.",
+    "Repeated textual elements presented as headings and banners (large headline text, a dark horizontal banner with white repeating phrases) are present but are part of the poster graphic rather than separate physical objects.",
+    "The poster background is a solid bright orange colour.",
+    "The large headline 'GAME DEV GATHERING' is black with a yellow drop-shadow effect that gives a layered look.",
+    "The date line 'Nov 28th 7-9PM, InnoWing 1, HKU' is white text on the orange background.",
+    "The repeating 'BRING YOUR ...' banner is dark teal or navy with white uppercase text.",
+    "The 'Innovation Academy' logo box in the top-right has a dark teal background with lighter green and white text inside; the bottom-right 'FIRESIDE FRIDAYS' emblem is white on the orange background."
+  ],
+  "id": "6efc6ef85e4ba8660ac4e6ef",
+  "sha256": "2826ec752f9b579ebade8301945a19cb67af03c1d1a7736fea85768c08c27015",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:12:51.760735+00:00",
+  "input_resolution": [
+    2048,
+    1448
+  ],
+  "input_sha256": "71fd87c373f77d94baf9b4ab67b151aeb5f43cf719ae0b2cc64fbd54eb313e8f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatdAwYXpqL0PsbFKleuWHvafvkkZ",
+  "usage": {
+    "completion_tokens": 1283,
+    "prompt_tokens": 2180,
+    "total_tokens": 3463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 963,
+      "engine_ttlt_ms": 9816,
+      "pre_inference_ms": 378,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1809,
+      "service_ttlt_ms": 10657,
+      "user_visible_ttft_ms": 1431
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

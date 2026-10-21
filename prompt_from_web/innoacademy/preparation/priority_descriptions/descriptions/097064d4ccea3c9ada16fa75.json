@@ -1,0 +1,112 @@
+{
+  "title": "GCC LaserPro FMC-280 laser machine with green-lit work chamber",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One large freestanding laser machine occupies the center of the image; the machine has visible brand and model markings.",
+    "One rectangular viewing window with green illumination is centered on the upper half of the machine; the window has two black horizontal handles visible at its bottom edge.",
+    "One circular red emergency stop button is visible on the machine's right-side control column, directly under a small red sign.",
+    "One electronic control panel with a small LCD and several pushbuttons is located to the right of the viewing window on the machine's right column.",
+    "One hanging identification/tag (blue with text/logo) is attached to the right-side column beneath the control panel.",
+    "One tall gas cylinder is partially visible and cropped at the left edge of the image; the top portion of the cylinder is visible.",
+    "One open cardboard box is visible at the bottom left corner; objects inside the box are partially obscured/cropped and not individually countable.",
+    "One metal or composite table/workbench is partially visible and cropped at the right edge of the image."
+  ],
+  "visible_text": [
+    "PLEASE CLEAN MACHINE AFTER EACH USE",
+    "FMC-280",
+    "GCC LaserPro",
+    "SmartSEAL Technology",
+    "EMERGENCY STOP",
+    "Emergency Stop Button",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The laser machine fills the central area of the image, with its viewing window in the upper center of the machine face.",
+    "The control column with the emergency stop button and control panel is on the machine's right side (image right).",
+    "A tall gas cylinder stands immediately to the left of the machine and is partially cropped by the left image edge.",
+    "An open cardboard box sits on the floor at the front-left corner of the frame, adjacent to the left side of the machine base.",
+    "A portion of a table or workbench is visible and cropped at the right edge of the image, positioned next to the right side of the machine."
+  ],
+  "colours_and_materials": [
+    "The machine cabinet is mainly a beige/off-white outer shell with brown/copper colored front panels and doors on the lower half.",
+    "The machine's viewing window area is brightly lit with green interior illumination (likely from the work chamber light), causing a green tint inside the chamber.",
+    "The emergency stop button is red with a yellow circular backing plate.",
+    "The tall gas cylinder at left appears dark (black or dark grey) metal.",
+    "The cardboard box at lower left is brown corrugated cardboard; the visible floor is a pale green or grey smooth surface."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible in the image; the exact location is therefore unknown from the image.",
+    "Several small labels and the control panel text are not legible at this image resolution; those items are listed as [unreadable].",
+    "The hanging blue tag has small text that cannot be reliably transcribed from the image.",
+    "The printed red sign above the emergency stop button reads 'EMERGENCY STOP' clearly, but smaller adjacent captions are not legible.",
+    "The presence of this machine in 'HKU Innovation Academy' or 'Tam Wing Fan Innovation Wing' cannot be confirmed from the image alone and must not be inferred."
+  ],
+  "visual_facts": [
+    "One large freestanding laser machine occupies the center of the image; the machine has visible brand and model markings.",
+    "One rectangular viewing window with green illumination is centered on the upper half of the machine; the window has two black horizontal handles visible at its bottom edge.",
+    "One circular red emergency stop button is visible on the machine's right-side control column, directly under a small red sign.",
+    "One electronic control panel with a small LCD and several pushbuttons is located to the right of the viewing window on the machine's right column.",
+    "One hanging identification/tag (blue with text/logo) is attached to the right-side column beneath the control panel.",
+    "One tall gas cylinder is partially visible and cropped at the left edge of the image; the top portion of the cylinder is visible.",
+    "One open cardboard box is visible at the bottom left corner; objects inside the box are partially obscured/cropped and not individually countable.",
+    "One metal or composite table/workbench is partially visible and cropped at the right edge of the image.",
+    "The machine cabinet is mainly a beige/off-white outer shell with brown/copper colored front panels and doors on the lower half.",
+    "The machine's viewing window area is brightly lit with green interior illumination (likely from the work chamber light), causing a green tint inside the chamber.",
+    "The emergency stop button is red with a yellow circular backing plate.",
+    "The tall gas cylinder at left appears dark (black or dark grey) metal.",
+    "The cardboard box at lower left is brown corrugated cardboard; the visible floor is a pale green or grey smooth surface."
+  ],
+  "id": "097064d4ccea3c9ada16fa75",
+  "sha256": "f258d52244bddc8a9c4b968a5f3f4166eeeccb4a4948911daf9e9b414bfc296a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v2",
+  "prompt_sha256": "cb5d61d139511c0145f38a535795e8addd920085f0b8dc94794a2386890ed28d",
+  "viewed": true,
+  "described_at": "2026-10-20T01:58:42.316307+00:00",
+  "input_resolution": [
+    1800,
+    2400
+  ],
+  "input_sha256": "601d8c7ef4a9d4bd379f7e224ad227a32573249df123329cd9b6a7cfc4d27b76",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatPTgBuK6Sklharx5ovsaNh3K1pU",
+  "usage": {
+    "completion_tokens": 1075,
+    "prompt_tokens": 1600,
+    "total_tokens": 2675,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1238,
+      "engine_ttlt_ms": 10034,
+      "pre_inference_ms": 293,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2050,
+      "service_ttlt_ms": 10840,
+      "user_visible_ttft_ms": 1757
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/cb5d61d139511c0145f38a535795e8addd920085f0b8dc94794a2386890ed28d.txt"
+}

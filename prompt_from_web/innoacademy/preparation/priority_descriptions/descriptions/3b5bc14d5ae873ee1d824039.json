@@ -1,0 +1,115 @@
+{
+  "title": "Entrance signage and interior seating at a Communication Center",
+  "suitable": true,
+  "location": "Communication Center",
+  "objects_and_counts": [
+    "One tall vertical freestanding sign/pillar is visible in the left-central foreground against the glass (dark/black panel with white text and icons).",
+    "Three white or light-coloured chairs are visible in the right foreground inside the building; all three are mostly unobscured and show backs and legs.",
+    "One glass façade or large glass window/door is visible immediately to the right of the vertical sign, carrying circular decal elements and text.",
+    "One brochure or literature rack (appears to be a multi-tier metal stand with printed material) is visible behind the chairs, leaning slightly and partially reflected in the glass.",
+    "One chain-link fence is visible outside on the left side of the image, with attached light-coloured fabric or mesh and green panels at its base.",
+    "One set of circular decal elements arranged in rows on the glass (forming the words 'COMMUNICATION' and 'CENTER') is visible; these are printed on the glass, not freestanding objects.",
+    "One small circular information icon (a lowercase 'i' inside a circle) is visible near the top of the vertical sign.",
+    "Additional interior objects such as shelving or stacked items are visible beyond the glass but are partially obscured and not counted individually."
+  ],
+  "visible_text": [
+    "i",
+    "UTokyo",
+    "The University of Tokyo",
+    "Communication Center",
+    "コミュニケーションセンター",
+    "Communication Center",
+    "インフォメーション",
+    "Information",
+    "オフィシャルショップ",
+    "Official Shop",
+    "COMMUNICATION",
+    "CENTER"
+  ],
+  "spatial_relations": [
+    "The tall vertical sign/pillar stands immediately in front of the glass façade; it occupies the left-central foreground and partially occludes what is behind it.",
+    "To the right of the vertical sign is the glass wall/entrance with circular decal elements spelling 'COMMUNICATION' and 'CENTER' across its surface.",
+    "The three light-coloured chairs are placed inside the building directly in front of the glass, aligned left-to-right in the right foreground of the image.",
+    "The brochure/literature rack is located behind and slightly to the left of the chairs, nearer the glass and partially reflected in that glass.",
+    "Outside the building to the far left of the image is a chain-link fence with attached fabric/mesh and green panels at the bottom showing tree silhouettes."
+  ],
+  "colours_and_materials": [
+    "The vertical sign/pillar appears to be a dark or black matte panel with white printed text and icons.",
+    "The chairs are white or light-coloured fabric or plastic with light-coloured legs (exact material uncertain).",
+    "The façade is glass and reflective, showing interior reflections and circular white decal elements.",
+    "The chain-link fence is metallic (grey), with light-coloured fabric/mesh attached and green lower panels bearing darker tree silhouettes."
+  ],
+  "uncertainties": [
+    "Some smaller printed posters and text behind the glass and on the bookshelf/rack are partially visible but their text is unreadable at this resolution; those items are not transcribed.",
+    "The exact material of the chairs (fabric, leatherette or plastic) cannot be determined from the image.",
+    "The word 'UTokyo' is transcribed as seen on the sign; stylisation or precise capitalization beyond visible characters is preserved but could be part of a logo.",
+    "There may be additional chairs or objects out of frame or cropped; counts given (three chairs, one rack, one sign) are limited to clearly visible, individually distinguishable items in this image.",
+    "Some circular decal characters on the glass are partially occluded by reflections; transcription included the clearly legible grouped words 'COMMUNICATION' and 'CENTER' but individual letters affected by reflection were judged from overall arrangement."
+  ],
+  "visual_facts": [
+    "Visible location text: Communication Center",
+    "One tall vertical freestanding sign/pillar is visible in the left-central foreground against the glass (dark/black panel with white text and icons).",
+    "Three white or light-coloured chairs are visible in the right foreground inside the building; all three are mostly unobscured and show backs and legs.",
+    "One glass façade or large glass window/door is visible immediately to the right of the vertical sign, carrying circular decal elements and text.",
+    "One brochure or literature rack (appears to be a multi-tier metal stand with printed material) is visible behind the chairs, leaning slightly and partially reflected in the glass.",
+    "One chain-link fence is visible outside on the left side of the image, with attached light-coloured fabric or mesh and green panels at its base.",
+    "One set of circular decal elements arranged in rows on the glass (forming the words 'COMMUNICATION' and 'CENTER') is visible; these are printed on the glass, not freestanding objects.",
+    "One small circular information icon (a lowercase 'i' inside a circle) is visible near the top of the vertical sign.",
+    "Additional interior objects such as shelving or stacked items are visible beyond the glass but are partially obscured and not counted individually.",
+    "The vertical sign/pillar appears to be a dark or black matte panel with white printed text and icons.",
+    "The chairs are white or light-coloured fabric or plastic with light-coloured legs (exact material uncertain).",
+    "The façade is glass and reflective, showing interior reflections and circular white decal elements.",
+    "The chain-link fence is metallic (grey), with light-coloured fabric/mesh attached and green lower panels bearing darker tree silhouettes."
+  ],
+  "id": "3b5bc14d5ae873ee1d824039",
+  "sha256": "5cc3bd33eeaffa29094937f30a8d3c53fbb86daeadc9087464eca2d10ea550c9",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:36:10.175695+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "71db43b86e6cfa25a482bbe16359bd54248d56b22820de292dba2a844db4c8c0",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatziIEEuQDvsTvM9lWcolG5ZZZxm",
+  "usage": {
+    "completion_tokens": 1230,
+    "prompt_tokens": 2266,
+    "total_tokens": 3496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1165,
+      "engine_ttlt_ms": 10940,
+      "pre_inference_ms": 344,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1983,
+      "service_ttlt_ms": 11752,
+      "user_visible_ttft_ms": 1639
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Presentation in a room with large screen and Innovation Academy banner",
+  "suitable": true,
+  "location": "Innovation Academy",
+  "objects_and_counts": [
+    "People: At least seven distinct people are visible in the photographed scene. Two standing presenters are at the far left region (both shown full-body, one in a grey tank top and skirt, one in a black top and red pants). One standing presenter is at the right region in front of a banner (full-body). At least four seated or partially visible audience members are in the foreground and right foreground (seated, heads and upper bodies visible); one audience member near center-front has a visibly balding head. Exact total may be higher because some seated people are partially cropped by the image edge.",
+    "Large wall display: One large, wall-mounted digital presentation screen is visible centrally.",
+    "Small display/monitor: One smaller monitor or video-feeds is mounted to the right side of the large screen (showing a small video tile with a person's face).",
+    "Mobile podium/stand: One white mobile computer podium or standing desk with an attached monitor is visible to the right of the large screen, near the standing presenter.",
+    "Banner stand: One freestanding vertical banner is visible to the right of the podium, bearing the heading 'Innovation Academy' and other text.",
+    "Seating/bench: One long light-blue cushioned bench or low seating element spans the foreground area parallel to the large screen.",
+    "Backpack: One black Adidas backpack rests on the foreground bench (visible logo).",
+    "Bell: One brass-coloured bell is wall-mounted at the right edge of the scene (hung by a hook).",
+    "Posters: At least two printed posters or framed items are mounted on the right wall near the bell (multiple small posters visible).",
+    "Reflective glass: A glass wall or mirror is present at the far left reflecting the large screen and presenters (one reflected image of the main screen is visible)."
+  ],
+  "visible_text": [
+    "Benefits for Innowing and HKU",
+    "Environmental",
+    "Improved Recycling rates (esp. 3D printing materials & metal)",
+    "Reduced landfill waste",
+    "Lower carbon footprint",
+    "Social",
+    "Increased environmental awareness",
+    "Community engagement in sustainability efforts",
+    "Educational opportunities for students",
+    "Institutional",
+    "Cost savings through efficient waste management",
+    "Enhanced campus aesthetics",
+    "Improved reputation as sustainability leaders",
+    "Research opportunities in waste management and AI",
+    "Innovation Academy",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "Adidas"
+  ],
+  "spatial_relations": [
+    "The large digital presentation screen occupies the central wall area and is the dominant visual element in the middle of the image.",
+    "Two presenters stand to the left of the large screen, near a reflective glass or mirror; their reflections of the screen are visible in that glass area to the left.",
+    "A standing presenter is positioned to the immediate right of the large screen and slightly in front of a vertical banner that reads 'Innovation Academy'; a white mobile podium/desk with a monitor is between that presenter and the large screen.",
+    "Audience members are seated in the foreground facing the large screen; a long light-blue bench runs horizontally across the foreground between the audience and the camera.",
+    "A brass-coloured bell hangs on the right wall above and slightly behind the standing presenter and the banner; small posters are mounted on the same right-side wall near the bell.",
+    "The small monitor showing a video tile is mounted to the right edge of the large screen, partially overlapping the screen area."
+  ],
+  "colours_and_materials": [
+    "The large presentation screen background is predominantly bright blue with white and pastel-coloured content panels.",
+    "A long bench in the foreground is light blue with a pale wooden base or cubby visible beneath it.",
+    "The vertical 'Innovation Academy' banner is dark (appears black or very dark grey) with 'Innovation Academy' printed in yellow text and smaller light text beneath.",
+    "The ceiling structure includes exposed metallic HVAC ducting (silver) and a pale mint/teal painted beam or soffit above the screen area.",
+    "Carpet on the floor is grey with subtle striping; wall surfaces are pale (white or off-white).",
+    "The backpack on the bench is black with a white Adidas logo; the bell is brass-coloured and metallic."
+  ],
+  "uncertainties": [
+    "Location: 'Innovation Academy' is visible on the banner and has been copied as the visible location text; no formal room number or other room name is visible, so the exact room identifier beyond the banner text is unknown from the image.",
+    "People counts: At least seven people are visible, but some seated individuals are partially cropped or obscured by others so a precise count for the whole room cannot be determined from this single view.",
+    "Text legibility: Some smaller lines of text on the banner, posters on the right wall, and smaller bullet details on the large screen are partially legible but may contain omissions; the transcriptions include only the clearly readable phrases. Several small lines on the banner and posters are unreadable at this image resolution.",
+    "Equipment identification: The white mobile podium/stand and small monitor are described by appearance only; no manufacturer or model nameplate is legible in the image.",
+    "Reflection: The left-side glass shows a reflection of the large screen and presenters; reflected text is not separately transcribed beyond the main screen text already listed.",
+    "Although 'THE UNIVERSITY OF HONG KONG' and 'Faculty of Engineering' appear on the banner, this transcription is limited to visible text in the image and does not establish building-level location or access permissions."
+  ],
+  "visual_facts": [
+    "Visible location text: Innovation Academy",
+    "People: At least seven distinct people are visible in the photographed scene. Two standing presenters are at the far left region (both shown full-body, one in a grey tank top and skirt, one in a black top and red pants). One standing presenter is at the right region in front of a banner (full-body). At least four seated or partially visible audience members are in the foreground and right foreground (seated, heads and upper bodies visible); one audience member near center-front has a visibly balding head. Exact total may be higher because some seated people are partially cropped by the image edge.",
+    "Large wall display: One large, wall-mounted digital presentation screen is visible centrally.",
+    "Small display/monitor: One smaller monitor or video-feeds is mounted to the right side of the large screen (showing a small video tile with a person's face).",
+    "Mobile podium/stand: One white mobile computer podium or standing desk with an attached monitor is visible to the right of the large screen, near the standing presenter.",
+    "Banner stand: One freestanding vertical banner is visible to the right of the podium, bearing the heading 'Innovation Academy' and other text.",
+    "Seating/bench: One long light-blue cushioned bench or low seating element spans the foreground area parallel to the large screen.",
+    "Backpack: One black Adidas backpack rests on the foreground bench (visible logo).",
+    "Bell: One brass-coloured bell is wall-mounted at the right edge of the scene (hung by a hook).",
+    "Posters: At least two printed posters or framed items are mounted on the right wall near the bell (multiple small posters visible).",
+    "Reflective glass: A glass wall or mirror is present at the far left reflecting the large screen and presenters (one reflected image of the main screen is visible).",
+    "The large presentation screen background is predominantly bright blue with white and pastel-coloured content panels.",
+    "A long bench in the foreground is light blue with a pale wooden base or cubby visible beneath it.",
+    "The vertical 'Innovation Academy' banner is dark (appears black or very dark grey) with 'Innovation Academy' printed in yellow text and smaller light text beneath.",
+    "The ceiling structure includes exposed metallic HVAC ducting (silver) and a pale mint/teal painted beam or soffit above the screen area.",
+    "Carpet on the floor is grey with subtle striping; wall surfaces are pale (white or off-white).",
+    "The backpack on the bench is black with a white Adidas logo; the bell is brass-coloured and metallic."
+  ],
+  "id": "8045c574ed101ff14db5cb81",
+  "sha256": "aee3033946306e202cbd65be8414a664a23adb0f2d15fa0e041cc062c0780fd9",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:50:34.234214+00:00",
+  "input_resolution": [
+    2016,
+    1134
+  ],
+  "input_sha256": "8903f7d8bb4da699e18ab8508a46ed17355680ee14765b96c6e62374d45a5974",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauDbmPS6mKCpwhXGuNcM15MF4UjL",
+  "usage": {
+    "completion_tokens": 1801,
+    "prompt_tokens": 2439,
+    "total_tokens": 4240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1144,
+      "engine_ttlt_ms": 13761,
+      "pre_inference_ms": 355,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2040,
+      "service_ttlt_ms": 14651,
+      "user_visible_ttft_ms": 1685
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Large multi-panel experimental rig with five vertical filter panels in a workshop",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Five large vertically mounted rectangular panel assemblies are visible along the front face of the metal frame; each panel assembly has a grid of narrow vertical strips (the panels are contiguous across the front).",
+    "One rectangular metal frame structure encloses the top and sides of the panels (frame visible across the top and down the sides).",
+    "One small two-step stool/bench is visible on the right foreground in front of the frame (bench appears partly worn/dusty).",
+    "One vertical ladder is visible in the mid-background, rising behind the frame toward the ceiling.",
+    "A stack of three blue rectangular boxes or cabinets sits on the left side of the image (stacked vertically).",
+    "Two cylindrical vertical vessels or assemblies with visible flange/valve connections are visible at the left foreground near the base of the frame.",
+    "Multiple clear flexible tubes and hoses are visible exiting from the bottom of the panels and running along the floor and frame (individual tube count not determined due to overlap; at least several separate tubes are visible).",
+    "Several small electrical or control components are mounted on the top of the frame and around the panels (exact count and labels not legible).",
+    "A curved yellow corrugated hose or duct is visible in the right background, attached to equipment behind the frame.",
+    "A curtain or hanging partition is visible in the background behind the left side of the rig."
+  ],
+  "visible_text": [
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The five vertical panel assemblies are mounted side-by-side across the front horizontal span of the rectangular metal frame, with narrow vertical separators between some panels.",
+    "The metal frame forms a raised rectangular cage above and around the panels; the top horizontal members run left-to-right across the image.",
+    "The two cylindrical vessels with flange/valve connections are positioned at the left front corner of the frame, adjacent to the leftmost panel assembly.",
+    "The stack of three blue boxes is located to the left rear of the frame, behind the cylindrical vessels and near the curtain/hanging partition.",
+    "The small two-step stool sits on the floor in front of the rightmost portion of the frame, slightly inset from the front edge of the panels.",
+    "Clear flexible tubes emerge from the bottom edges of the panels and route downward and rearward underneath the frame and toward the right side of the image.",
+    "A vertical ladder stands behind the frame closer to the center-rear of the scene; other workshop fixtures and cabinets are behind and around the rig."
+  ],
+  "colours_and_materials": [
+    "The rectangular metal frame is primarily rust-coloured/orange-brown (perforated metal strut sections).",
+    "The five panel faces have a yellowish vertical strip pattern on a pale backing (yellow strips alternating with pale/cream areas).",
+    "The floor is blue, with a black textured mat under and in front of the frame on the right side.",
+    "The two vertical cylindrical vessels at left are grey/metallic with red valve handles.",
+    "The three stacked boxes at left are blue with darker edges.",
+    "A large corrugated hose in the right background is yellow."
+  ],
+  "uncertainties": [
+    "No readable alphanumeric room name, number, equipment nameplate or label could be confidently transcribed from the image; therefore the visible_text field contains only [unreadable].",
+    "Small printed signs and labels are visible in the scene (for example a triangular caution sign in the background and small markings along the top edges of panels) but their text is not legible at this resolution from the provided image.",
+    "Individual counts of small tubes, wires and discrete control components cannot be determined reliably because many are overlapped, bundled or partially obscured.",
+    "The identification of panel function, specific equipment types, brand names or model numbers cannot be made from visible appearance and no legible nameplates were found.",
+    "If a closer crop of the small signs or nameplates were provided, legible transcriptions might be possible."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Five large vertically mounted rectangular panel assemblies are visible along the front face of the metal frame; each panel assembly has a grid of narrow vertical strips (the panels are contiguous across the front).",
+    "One rectangular metal frame structure encloses the top and sides of the panels (frame visible across the top and down the sides).",
+    "One small two-step stool/bench is visible on the right foreground in front of the frame (bench appears partly worn/dusty).",
+    "One vertical ladder is visible in the mid-background, rising behind the frame toward the ceiling.",
+    "A stack of three blue rectangular boxes or cabinets sits on the left side of the image (stacked vertically).",
+    "Two cylindrical vertical vessels or assemblies with visible flange/valve connections are visible at the left foreground near the base of the frame.",
+    "Multiple clear flexible tubes and hoses are visible exiting from the bottom of the panels and running along the floor and frame (individual tube count not determined due to overlap; at least several separate tubes are visible).",
+    "Several small electrical or control components are mounted on the top of the frame and around the panels (exact count and labels not legible).",
+    "A curved yellow corrugated hose or duct is visible in the right background, attached to equipment behind the frame.",
+    "A curtain or hanging partition is visible in the background behind the left side of the rig.",
+    "The rectangular metal frame is primarily rust-coloured/orange-brown (perforated metal strut sections).",
+    "The five panel faces have a yellowish vertical strip pattern on a pale backing (yellow strips alternating with pale/cream areas).",
+    "The floor is blue, with a black textured mat under and in front of the frame on the right side.",
+    "The two vertical cylindrical vessels at left are grey/metallic with red valve handles.",
+    "The three stacked boxes at left are blue with darker edges.",
+    "A large corrugated hose in the right background is yellow."
+  ],
+  "id": "969505c85eceb6e380f75c96",
+  "sha256": "08144b38d6296dbfe73ced695b8798dbdeb403ccdf3b01b7ebe57d2bf52a0558",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:53:55.204874+00:00",
+  "input_resolution": [
+    2048,
+    1536
+  ],
+  "input_sha256": "459da97036d1c6398155153433e4d0d76bcd4f1dcc309a9c0fa6f67976491139",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauGuVjIjsiK7UOn5FH3f2pY1AST4",
+  "usage": {
+    "completion_tokens": 1162,
+    "prompt_tokens": 2122,
+    "total_tokens": 3284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1139,
+      "engine_ttlt_ms": 8957,
+      "pre_inference_ms": 434,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2149,
+      "service_ttlt_ms": 9962,
+      "user_visible_ttft_ms": 1715
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

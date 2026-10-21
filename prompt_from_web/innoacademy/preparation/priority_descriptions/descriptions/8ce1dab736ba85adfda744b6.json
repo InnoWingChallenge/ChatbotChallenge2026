@@ -1,0 +1,105 @@
+{
+  "title": "Soldering station with iron, stand, sponge and hand tools",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One central electronic control unit with a front panel and a cable outlet is visible and appears as a single assembly.",
+    "One wired soldering iron (handpiece) is present at the right edge of the composition, connected by a cable to the control unit; the iron is largely visible and not cropped.",
+    "One metal stand/holder for the soldering iron is visible at the left of the control unit; the stand includes a yellow cradle piece.",
+    "One round cleaning sponge or brass-scrap receptacle in a circular dish (green material visible) is seated at the base of the stand.",
+    "One flat black paddle-shaped tool (looks like a plastic spatula or soldering aid) is visible in the foreground, fully shown.",
+    "One small blue, key-shaped plastic tool is visible in front of the control unit.",
+    "No people are visible in the image.",
+    "No posters, printed pages or other scene-wide equipment (benches, power strips, chairs) are visible in the photographed scene."
+  ],
+  "visible_text": [
+    "350",
+    "DOWN",
+    "UP",
+    "UNLOCK"
+  ],
+  "spatial_relations": [
+    "The electronic control unit is placed centrally in the image with its front panel facing forward.",
+    "The soldering iron (handpiece) is positioned to the right of the control unit and is visually connected by a cable that runs from the front lower port of the control unit to the iron.",
+    "The metal stand/holder sits to the left of the control unit; the circular sponge/dish is integrated at the base of the stand and is immediately adjacent to the left side of the control unit.",
+    "The flat black paddle-shaped tool lies in the foreground in front of the control unit and toward the lower left quadrant of the image.",
+    "The small blue key-shaped tool sits on the surface in front of the control unit, between the control unit and the black paddle-shaped tool but closer to the control unit."
+  ],
+  "colours_and_materials": [
+    "The control unit is primarily blue with a bright yellow front panel and a small red numeric display.",
+    "The soldering iron handpiece has a blue and yellow plastic grip with a metallic tip.",
+    "The stand is blue metal with a yellow cradle piece; the sponge/dish contains green cleaning material.",
+    "The small paddle-shaped tool is black and appears to be plastic; the small key-shaped tool is solid blue plastic."
+  ],
+  "uncertainties": [
+    "Some small printed labels on the control unit and soldering iron are partially legible or too small to read clearly in the image; model or brand names are not transcribed because the full text is not unambiguously readable.",
+    "The transcribed words 'DOWN', 'UP', 'UNLOCK' and the numeric '350' are visible on the control panel area but their exact surrounding text or labels (e.g., whether they are button labels, headings or part of a longer label) cannot be fully determined from the image.",
+    "Material identifications (metal, plastic) are visual assessments based on appearance and not confirmed by labels.",
+    "There may be additional small labels on the underside or rear of items that are not visible in this image."
+  ],
+  "visual_facts": [
+    "One central electronic control unit with a front panel and a cable outlet is visible and appears as a single assembly.",
+    "One wired soldering iron (handpiece) is present at the right edge of the composition, connected by a cable to the control unit; the iron is largely visible and not cropped.",
+    "One metal stand/holder for the soldering iron is visible at the left of the control unit; the stand includes a yellow cradle piece.",
+    "One round cleaning sponge or brass-scrap receptacle in a circular dish (green material visible) is seated at the base of the stand.",
+    "One flat black paddle-shaped tool (looks like a plastic spatula or soldering aid) is visible in the foreground, fully shown.",
+    "One small blue, key-shaped plastic tool is visible in front of the control unit.",
+    "No people are visible in the image.",
+    "No posters, printed pages or other scene-wide equipment (benches, power strips, chairs) are visible in the photographed scene.",
+    "The control unit is primarily blue with a bright yellow front panel and a small red numeric display.",
+    "The soldering iron handpiece has a blue and yellow plastic grip with a metallic tip.",
+    "The stand is blue metal with a yellow cradle piece; the sponge/dish contains green cleaning material.",
+    "The small paddle-shaped tool is black and appears to be plastic; the small key-shaped tool is solid blue plastic."
+  ],
+  "id": "8ce1dab736ba85adfda744b6",
+  "sha256": "248e0a15b4281c521d753445b4dfd0ea67ae707fe62aaed871a99cc93feaa08a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:15:25.317468+00:00",
+  "input_resolution": [
+    578,
+    448
+  ],
+  "input_sha256": "8590d5d2605386c1b42386f657359b7505ec349e91e862fdd28d7c879c7f45c3",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatfhkL5MjWNMAJChZNXxipfYsxZp",
+  "usage": {
+    "completion_tokens": 920,
+    "prompt_tokens": 1520,
+    "total_tokens": 2440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 275,
+      "engine_ttlt_ms": 5863,
+      "pre_inference_ms": 109,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1396,
+      "service_ttlt_ms": 6978,
+      "user_visible_ttft_ms": 1287
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

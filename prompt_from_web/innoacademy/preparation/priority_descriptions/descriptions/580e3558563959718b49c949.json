@@ -1,0 +1,116 @@
+{
+  "title": "Person holding winner sign and prototype in front of InnoShow banners",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One adult person is visible, standing front center, wearing a surgical-style face mask and light-coloured shirt; the person's face is partially obscured by the mask.",
+    "The person is holding a white, fish- or drone-shaped physical prototype with visible internal electronics mounted in an open compartment; the prototype is held across the person's torso with both hands.",
+    "One handheld cutout sign is visible; the sign has a multi-colour header reading WINNER and additional text and graphics beneath it and is held by the person.",
+    "Two tall vertical pull-up banners are visible behind the person: one at the left background and one at the right background.",
+    "Three lower cabinet/locker doors with perforated fronts and horizontal handles are visible along the bottom of the image; each cabinet door has a padlock or lock device attached.",
+    "One small square sticker or label is visible on the left side of the white prototype (near the person's left hand); the sticker's detailed text or logo is not legible at full resolution."
+  ],
+  "visible_text": [
+    "WINNER",
+    "InnoShow Away",
+    "ENGINEERING",
+    "INNOSHOW",
+    "LET THE SEEDS OF CREATIVE MINDS GERMINATE AND THRIVE",
+    "TALENT",
+    "(RE)INVENTION",
+    "RESEARCH",
+    "KNOWLEDGE",
+    "NARRATIVE",
+    "FEEDBACK",
+    "INNOVATE",
+    "STIMULATING",
+    "MULTI-DISCIPLINARY",
+    "KNOWLEDGE",
+    "RESEARCH"
+  ],
+  "spatial_relations": [
+    "The person stands centrally in the image, slightly in front of and overlapping the two vertical banners.",
+    "The handheld WINNER sign and the white prototype are positioned across the person's torso and abdomen, with the sign's top portion visible above the prototype.",
+    "The left tall banner is immediately behind the person's left shoulder; the right tall banner is behind the person's right shoulder and shows the vertical word INNOSHOW and ENGINEERING arranged top-to-bottom.",
+    "The three perforated cabinet doors run horizontally along the bottom of the scene and form the foreground base beneath the person.",
+    "The small square sticker on the prototype is on the left side of the prototype relative to the image (the person's right hand side)."
+  ],
+  "colours_and_materials": [
+    "The two pull-up banners are predominantly white with green plant/seed graphics; the right banner has large vertical black text for INNOSHOW and ENGINEERING.",
+    "The handheld WINNER sign uses multi-coloured letters for WINNER (each letter a different bright colour) and includes a crown graphic with yellow and red elements.",
+    "The person wears a light blue disposable surgical-style face mask and a light-coloured (pale grey or off-white) long-sleeve shirt and beige trousers.",
+    "The prototype held by the person is white (appears to be foam or plastic) with visible metallic or plastic electronic components in an open compartment and small black fasteners.",
+    "The lower cabinets are light grey or off-white with perforated metal fronts and dark locks or padlocks."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is visible in the image; location is therefore unknown from image.",
+    "The handheld sign text 'InnoShow Away' is partly ambiguous — the second word may be 'Award' or 'Away'; I transcribed what is visually legible as 'InnoShow Away'.",
+    "The small square sticker or label on the left side of the prototype is not legible at this image resolution; its exact text or logo cannot be read.",
+    "Some background repeated words (for example RESEARCH and KNOWLEDGE) appear multiple times and some instances are partially obscured or faint; all clearly legible instances have been transcribed but faint or cut fragments may be missing.",
+    "There may be additional small labels or text on the prototype or cabinets that are too small or partially obscured to transcribe accurately from this image."
+  ],
+  "visual_facts": [
+    "One adult person is visible, standing front center, wearing a surgical-style face mask and light-coloured shirt; the person's face is partially obscured by the mask.",
+    "The person is holding a white, fish- or drone-shaped physical prototype with visible internal electronics mounted in an open compartment; the prototype is held across the person's torso with both hands.",
+    "One handheld cutout sign is visible; the sign has a multi-colour header reading WINNER and additional text and graphics beneath it and is held by the person.",
+    "Two tall vertical pull-up banners are visible behind the person: one at the left background and one at the right background.",
+    "Three lower cabinet/locker doors with perforated fronts and horizontal handles are visible along the bottom of the image; each cabinet door has a padlock or lock device attached.",
+    "One small square sticker or label is visible on the left side of the white prototype (near the person's left hand); the sticker's detailed text or logo is not legible at full resolution.",
+    "The two pull-up banners are predominantly white with green plant/seed graphics; the right banner has large vertical black text for INNOSHOW and ENGINEERING.",
+    "The handheld WINNER sign uses multi-coloured letters for WINNER (each letter a different bright colour) and includes a crown graphic with yellow and red elements.",
+    "The person wears a light blue disposable surgical-style face mask and a light-coloured (pale grey or off-white) long-sleeve shirt and beige trousers.",
+    "The prototype held by the person is white (appears to be foam or plastic) with visible metallic or plastic electronic components in an open compartment and small black fasteners.",
+    "The lower cabinets are light grey or off-white with perforated metal fronts and dark locks or padlocks."
+  ],
+  "id": "580e3558563959718b49c949",
+  "sha256": "5c20ccb1e5f7e1b9062c32bcffe10678461feec78f4043624cdc8bd3dd1c3d9b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:11:05.192388+00:00",
+  "input_resolution": [
+    682,
+    1024
+  ],
+  "input_sha256": "c64f447de9157307bea5f23e3bc78b794c8c985773554b3d827fb6763af44368",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatbTFeOCW0UJqqV0xsMT2Tw1ww1e",
+  "usage": {
+    "completion_tokens": 1286,
+    "prompt_tokens": 2045,
+    "total_tokens": 3331,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 556,
+      "engine_ttlt_ms": 8428,
+      "pre_inference_ms": 114,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1725,
+      "service_ttlt_ms": 9593,
+      "user_visible_ttft_ms": 1611
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

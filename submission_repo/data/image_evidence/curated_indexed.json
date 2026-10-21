@@ -1,0 +1,11 @@
+{
+  "completed_at": "20261020T115722991919Z",
+  "new_chunks": 140,
+  "merged_image_chunks": 368,
+  "embedding_deployment": "text-embedding-3-small",
+  "embedding_config_sha256": "ea6bcbb7c71580d6866e8263fab9eeb4ed00afe4ca1f7cfaef789c05ebbce2b6",
+  "release_sha256": "d0b3017d50a1d14bfea118a30bf31fc94536ec8b38275b29a71c5d9294402a74",
+  "records_sha256": "357509d5647fd3ae55ead6089d8d2bc716f0164f0c98c2da0b4585f16eb43e6d",
+  "backup": "D:\\Project\\Innowing_Project\\ChatbotChallenge2026-image\\submission_repo\\data\\image_evidence\\curated_backups\\20261020T115722991919Z",
+  "status": "complete"
+}

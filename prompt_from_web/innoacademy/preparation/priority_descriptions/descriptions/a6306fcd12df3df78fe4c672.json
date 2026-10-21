@@ -1,0 +1,91 @@
+{
+  "title": "Close-up of panel labelled 'AIR FILTERS' with two pink plastic caps",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Two small round pink objects with slotted/grille surfaces are visible near the top-left quadrant of the image; both appear fully visible and are not obviously occluded.",
+    "One rectangular green label or sticker with white uppercase text reading 'AIR FILTERS' is visible across the lower right portion of the image and is applied to a flat beige surface.",
+    "A flat beige panel or surface is visible and forms the background for the label and the pink round objects; the panel appears continuous across the image."
+  ],
+  "visible_text": [
+    "AIR FILTERS"
+  ],
+  "spatial_relations": [
+    "The green rectangular label with the text 'AIR FILTERS' runs diagonally from lower left toward the upper right of the visible area and occupies the lower-right portion of the image.",
+    "The two pink round gridded/slotted objects are located above and to the left of the green label; one pink object is closer to the top center edge and the other is directly below it, forming a roughly vertical pair.",
+    "The beige flat panel is the immediate background for both the green label and the two pink objects; the label sits on top of the panel while the pink objects sit on the panel away from the label."
+  ],
+  "colours_and_materials": [
+    "The background surface is beige and appears to be a smooth flat panel (material not certain; could be painted metal or plastic).",
+    "The label is green with white uppercase lettering for the text 'AIR FILTERS'.",
+    "The two small round objects are bright pink and appear to be made of plastic (identification of material is uncertain)."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; the location cannot be determined from the image alone.",
+    "The exact function or assembly that the label and pink items belong to is not fully observable; 'AIR FILTERS' is a visible label but does not by itself identify the broader equipment.",
+    "The beige panel material is not certain from the photo and could be painted metal, plastic, or another smooth material.",
+    "There may be additional text, labels or components outside the frame or cropped by the image; only the visible text 'AIR FILTERS' could be read.",
+    "It is unclear whether the pink round objects are fasteners, caps, indicators or part of a detachable component; their precise identity is not determined from appearance alone."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Two small round pink objects with slotted/grille surfaces are visible near the top-left quadrant of the image; both appear fully visible and are not obviously occluded.",
+    "One rectangular green label or sticker with white uppercase text reading 'AIR FILTERS' is visible across the lower right portion of the image and is applied to a flat beige surface.",
+    "A flat beige panel or surface is visible and forms the background for the label and the pink round objects; the panel appears continuous across the image.",
+    "The background surface is beige and appears to be a smooth flat panel (material not certain; could be painted metal or plastic).",
+    "The label is green with white uppercase lettering for the text 'AIR FILTERS'.",
+    "The two small round objects are bright pink and appear to be made of plastic (identification of material is uncertain)."
+  ],
+  "id": "a6306fcd12df3df78fe4c672",
+  "sha256": "ba980798d47f04d5e895ad7a80c30dff2969b222c3e823807d34e65d7b6510c1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:17:40.667189+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "f5be18a8bca12941a995b32a3d116da4b8a98e927b5e7ba24f09349fe26e08b9",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EathsxHtikwi7TA5kqWu5GN8Uw1NM",
+  "usage": {
+    "completion_tokens": 698,
+    "prompt_tokens": 2045,
+    "total_tokens": 2743,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 10,
+      "engine_ttft_ms": 376,
+      "engine_ttlt_ms": 7151,
+      "pre_inference_ms": 147,
+      "service_tbt_ms": 10,
+      "service_ttft_ms": 1091,
+      "service_ttlt_ms": 7844,
+      "user_visible_ttft_ms": 944
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Classroom or lab meeting with 'DREAMLab' sign and rows of orange chairs",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One wall sign with the word \"DREAMLab\" is visible on the back wall above the seated audience.",
+    "One person standing at the front left of the room addressing the group (presenter).",
+    "A seated audience composed of many people; at least 28 individual people can be distinguished in the photographed scene (seated and standing near the back).",
+    "Three computer monitors are visible on a counter along the left wall (each monitor distinct and positioned side-by-side).",
+    "One yellow folding table is positioned near the front left of the room in front of the presenter; it is supported on black folding legs.",
+    "Multiple orange molded plastic chairs are visible in use by the audience; at least 15 full orange chairs are individually visible in the central and foreground areas (additional chairs are partially visible towards the back and right).",
+    "One black backpack is visible on the floor behind the front row of chairs, and at least one other bag is visible near the foreground left area.",
+    "A glass partition with horizontal frosted stripes runs along the right side of the room separating the seating area from another space.",
+    "A doorway is visible at the back center of the room with two people standing in or just beyond it (these two are distinct from seated audience members).",
+    "At least one laptop or small screen device is in use by a person seated in the front left of the image (device display facing away from camera).",
+    "Wall-mounted items: a small round/no-smoking style sign or similar symbol is visible on the back wall near the doorway; a red wall-mounted object (possibly a fire alarm or extinguisher cabinet) is visible on the right side near the doorway."
+  ],
+  "visible_text": [
+    "DREAMLab"
+  ],
+  "spatial_relations": [
+    "The presenter stands at the front left of the image facing the audience; the presenter is to the left of the yellow folding table and the bank of monitors.",
+    "Rows of orange chairs face the front left where the presenter and monitors are located; chairs are arranged in multiple staggered rows across the foreground and midground.",
+    "The glass partition with horizontal frosted stripes runs along the entire right-hand side of the room and is parallel to the rows of chairs; behind that partition there appear to be additional objects or shelving but details are obscured by the frosting.",
+    "The 'DREAMLab' sign is on the back wall roughly centered above seated people and to the left of a doorway that is in the back-center of the image.",
+    "Three monitors sit side-by-side on a counter along the left wall, adjacent to the presenter and yellow table.",
+    "A doorway is located at the back-center of the room; two standing people are positioned in or just beyond that doorway, behind the seated audience."
+  ],
+  "colours_and_materials": [
+    "The chairs are bright orange molded plastic with visible cutouts in the backrests.",
+    "The carpet is a medium-dark grey, low-pile commercial style.",
+    "The back wall behind the audience is painted a pale green or mint colour where the 'DREAMLab' sign is mounted.",
+    "The glass partition on the right has horizontal frosted stripes; the glass appears transparent in the alternating bands.",
+    "Ceiling components (ductwork and pipes) are white or light-coloured; lighting fixtures are fluorescent-style tubes."
+  ],
+  "uncertainties": [
+    "Exact room name or room number is not visible; although the word 'DREAMLab' appears on the back wall, no formal room identifier or number is legible, so location is listed as unknown from the image.",
+    "Counts of people and chairs are minimums based on individually distinguishable individuals and visible chair fronts; additional people and chairs are partly obscured or cropped at the image edges, so total room occupancy cannot be determined from this single view.",
+    "Several small signs, labels and screen text are present but not legible at this resolution (for example, small printed notices on the back wall, content on the monitors, and text on some clothing); these unreadable items were not transcribed.",
+    "Some wearable text (e.g., on T-shirts) is partially legible in places but not complete enough to provide exact, reliable transcriptions, so those texts are omitted from visible_text except for the clear 'DREAMLab' sign.",
+    "Objects behind the glass partition and small labels on equipment may contain additional identifying text or detail but are obscured by frosted stripes and distance; those details are not readable in this image."
+  ],
+  "visual_facts": [
+    "One wall sign with the word \"DREAMLab\" is visible on the back wall above the seated audience.",
+    "One person standing at the front left of the room addressing the group (presenter).",
+    "A seated audience composed of many people; at least 28 individual people can be distinguished in the photographed scene (seated and standing near the back).",
+    "Three computer monitors are visible on a counter along the left wall (each monitor distinct and positioned side-by-side).",
+    "One yellow folding table is positioned near the front left of the room in front of the presenter; it is supported on black folding legs.",
+    "Multiple orange molded plastic chairs are visible in use by the audience; at least 15 full orange chairs are individually visible in the central and foreground areas (additional chairs are partially visible towards the back and right).",
+    "One black backpack is visible on the floor behind the front row of chairs, and at least one other bag is visible near the foreground left area.",
+    "A glass partition with horizontal frosted stripes runs along the right side of the room separating the seating area from another space.",
+    "A doorway is visible at the back center of the room with two people standing in or just beyond it (these two are distinct from seated audience members).",
+    "At least one laptop or small screen device is in use by a person seated in the front left of the image (device display facing away from camera).",
+    "Wall-mounted items: a small round/no-smoking style sign or similar symbol is visible on the back wall near the doorway; a red wall-mounted object (possibly a fire alarm or extinguisher cabinet) is visible on the right side near the doorway.",
+    "The chairs are bright orange molded plastic with visible cutouts in the backrests.",
+    "The carpet is a medium-dark grey, low-pile commercial style.",
+    "The back wall behind the audience is painted a pale green or mint colour where the 'DREAMLab' sign is mounted.",
+    "The glass partition on the right has horizontal frosted stripes; the glass appears transparent in the alternating bands.",
+    "Ceiling components (ductwork and pipes) are white or light-coloured; lighting fixtures are fluorescent-style tubes."
+  ],
+  "id": "607b4e2fbeb7156065dd07ae",
+  "sha256": "195c900023eabcf3a8f90639c7f1a27ddbae9be14b9782f8af35085cbbb4bc59",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:42:14.005860+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "5c43e580d4a2febf92153966913c7cf6904c2f73889b2c5bd79c7e83db8a7f05",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau5aw7QH0dW5cOZIOsoXHWkR6xto",
+  "usage": {
+    "completion_tokens": 1386,
+    "prompt_tokens": 2122,
+    "total_tokens": 3508,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 393,
+      "engine_ttlt_ms": 10248,
+      "pre_inference_ms": 361,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 973,
+      "service_ttlt_ms": 10823,
+      "user_visible_ttft_ms": 611
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

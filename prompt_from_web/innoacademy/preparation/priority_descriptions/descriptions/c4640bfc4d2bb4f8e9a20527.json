@@ -1,0 +1,103 @@
+{
+  "title": "Students surrounding a numbered robot in a lab space",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 9 people (appearing to be students in school uniform) are visible standing in a semi-circle in the mid and background; the leftmost person is partially cropped at the image edge and several people are partially obscured by others.",
+    "One person in the right-central foreground (wearing a dark sweater over a white shirt) is holding a white hand controller or remote device with both hands; the controller is fully visible in their hands.",
+    "One mobile robot platform is visible on the carpeted floor in the central foreground; the robot assembly is complete and includes an illuminated horizontal light bar and front panel with a numeric label.",
+    "Two workbenches/tables with yellow tabletops have visible tabletop equipment and small items: the right-side table shows a keyboard and several small parts in plastic packaging; the left-side table edge shows stacked flat items and a plastic-wrapped bundle.",
+    "One open cardboard box is visible on the floor to the right of the right-side table; packaging material is visible inside or beside this box.",
+    "At least one backpack is visible (worn by or behind people) and at least one blue drawstring bag is visible being held by a student at right; both are partially obscured.",
+    "One tripod-like stand or camera support is visible behind the standing students near the center background, partially obscured by people."
+  ],
+  "visible_text": [
+    "3",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The robot is positioned on the floor in the central foreground of the image, facing toward the camera.",
+    "A semi-circle of students stands behind the robot across the mid-ground, forming a viewer group around the device.",
+    "A yellow-topped table is visible at the left edge of the image with stacked items on it; a second yellow-topped table is visible at the right edge with a keyboard and small packed parts on top.",
+    "The open cardboard box is on the floor to the right of the right-side table and adjacent to the table leg.",
+    "The student holding the white controller stands to the right of the robot (image center-right) and slightly in front of the other students.",
+    "A tripod or similar stand is located behind the students near the center background, partially visible between two people."
+  ],
+  "colours_and_materials": [
+    "The robot appears primarily black with visible red wiring and small illuminated lights (red and a long yellow/green illuminated bar across its front).",
+    "Tables have yellow tabletops and black legs; the floor covering is a dark grey/blue carpet.",
+    "Students wear white shirts and grey trousers; one student wears a black/dark sweater over their shirt.",
+    "A brown cardboard box with packing material is visible to the right of the right-hand table; some clear plastic packaging is present on the tabletops."
+  ],
+  "uncertainties": [
+    "Exact count of people: several individuals are partially cropped or obscured, so the precise number of people present cannot be determined beyond 'at least 9'.",
+    "Many small text elements on clothing badges, bags and packaging are present but not legible; these are transcribed as [unreadable].",
+    "No explicit room name or room number sign is visible in the image; the location cannot be determined from the photo alone.",
+    "The identity, model or specification of the robot, controller, keyboard and other equipment cannot be determined from appearance; only visible labels (the '3') are transcribed.",
+    "Some objects (for example items on the left table and contents of the box) are partially obscured or cropped and their full extent or count cannot be reliably established."
+  ],
+  "visual_facts": [
+    "At least 9 people (appearing to be students in school uniform) are visible standing in a semi-circle in the mid and background; the leftmost person is partially cropped at the image edge and several people are partially obscured by others.",
+    "One person in the right-central foreground (wearing a dark sweater over a white shirt) is holding a white hand controller or remote device with both hands; the controller is fully visible in their hands.",
+    "One mobile robot platform is visible on the carpeted floor in the central foreground; the robot assembly is complete and includes an illuminated horizontal light bar and front panel with a numeric label.",
+    "Two workbenches/tables with yellow tabletops have visible tabletop equipment and small items: the right-side table shows a keyboard and several small parts in plastic packaging; the left-side table edge shows stacked flat items and a plastic-wrapped bundle.",
+    "One open cardboard box is visible on the floor to the right of the right-side table; packaging material is visible inside or beside this box.",
+    "At least one backpack is visible (worn by or behind people) and at least one blue drawstring bag is visible being held by a student at right; both are partially obscured.",
+    "One tripod-like stand or camera support is visible behind the standing students near the center background, partially obscured by people.",
+    "The robot appears primarily black with visible red wiring and small illuminated lights (red and a long yellow/green illuminated bar across its front).",
+    "Tables have yellow tabletops and black legs; the floor covering is a dark grey/blue carpet.",
+    "Students wear white shirts and grey trousers; one student wears a black/dark sweater over their shirt.",
+    "A brown cardboard box with packing material is visible to the right of the right-hand table; some clear plastic packaging is present on the tabletops."
+  ],
+  "id": "c4640bfc4d2bb4f8e9a20527",
+  "sha256": "4c83f1aa8d8489d9701601d19f9ffb4aeb60cd903dc37d390d8175982f359316",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:03:23.574966+00:00",
+  "input_resolution": [
+    1800,
+    2400
+  ],
+  "input_sha256": "c800d07c7cda702d46ab1d82446aaa894bb111019209044e898294eef7c10adb",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauQ557Y9j14wbdlMvxtr3ivvzkn2",
+  "usage": {
+    "completion_tokens": 1004,
+    "prompt_tokens": 2122,
+    "total_tokens": 3126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1103,
+      "engine_ttlt_ms": 9029,
+      "pre_inference_ms": 340,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1903,
+      "service_ttlt_ms": 9825,
+      "user_visible_ttft_ms": 1563
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

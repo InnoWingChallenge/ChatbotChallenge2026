@@ -1,0 +1,102 @@
+{
+  "title": "Laboratory bench with glassware, microscope, keyboard and gloved person",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One person is visible on the right side of the image; the person is wearing disposable gloves, a face mask and safety glasses. The person's head and upper torso are partially cropped by the image edge.",
+    "At least one clear glass volumetric flask is held by the person's right hand (upper right image region); the flask is upright and contains a small amount of clear liquid.",
+    "The person's left hand (lower center-right region) holds one clear glass test tube containing a blue liquid; the test tube is held vertically and is fully visible.",
+    "A keyboard is visible on the bench in front of the person (lower center region); the keyboard is white and largely unobscured.",
+    "A microscope is visible toward the rear center of the bench (center background); the instrument is partially obscured by foreground glassware and by depth of field blur.",
+    "A rack of small test tubes (rear right region) contains multiple small tubes with blue liquid; six small tubes are individually distinguishable in the rack.",
+    "A petri dish is visible on the bench surface at lower left; it is empty or contains a transparent substance (appearance is clear).",
+    "Multiple clear glass vessels (round-bottom flasks, Erlenmeyer-type flasks and bottles) are arranged across the rear of the bench (left to center background); at least nine separate glass vessels are individually distinguishable, some partially cropped or overlapping.",
+    "Several additional small clear glass beakers or jars are visible near the left-to-center foreground among the clustered glassware; at least three smaller containers are individually distinguishable among them."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The person occupies the right side of the image and faces the bench toward the left; the two hands are near the center and right-center of the image holding glassware.",
+    "A white keyboard lies flat on the bench in the lower center portion of the image, positioned between the cluster of glassware (background left/center) and the person (right).",
+    "A microscope is located behind the keyboard, toward the rear center of the bench, partially obscured by foreground glass vessels.",
+    "A rack of small test tubes with blue liquid is positioned behind and slightly to the right of the microscope, in the center-right background.",
+    "A line or cluster of clear glass flasks and bottles extends along the rear of the bench from left toward center, forming a backdrop behind the keyboard and microscope."
+  ],
+  "colours_and_materials": [
+    "Most laboratory glassware is clear/transparent glass showing clear or blue liquids.",
+    "The person wears white disposable gloves and a light blue lab coat; a white face mask and clear safety glasses are visible.",
+    "The keyboard is white; the bench surface appears white or light-coloured.",
+    "The microscope has metallic and black components with a reflective surface; the test tubes in the rack contain a blue liquid that contrasts with the clear liquids in other vessels."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; location cannot be determined from the image.",
+    "Counts of glass vessels are reported as visible minima because overlap, partial cropping and depth-of-field blur make a complete count uncertain; more vessels may be present behind or outside the frame.",
+    "Text on any labels, equipment nameplates or small markings is not legible in the image; therefore no textual transcriptions are possible.",
+    "The identification of specific flask types (for example exact model of volumetric or Erlenmeyer) is uncertain from appearance alone and has not been assumed."
+  ],
+  "visual_facts": [
+    "One person is visible on the right side of the image; the person is wearing disposable gloves, a face mask and safety glasses. The person's head and upper torso are partially cropped by the image edge.",
+    "At least one clear glass volumetric flask is held by the person's right hand (upper right image region); the flask is upright and contains a small amount of clear liquid.",
+    "The person's left hand (lower center-right region) holds one clear glass test tube containing a blue liquid; the test tube is held vertically and is fully visible.",
+    "A keyboard is visible on the bench in front of the person (lower center region); the keyboard is white and largely unobscured.",
+    "A microscope is visible toward the rear center of the bench (center background); the instrument is partially obscured by foreground glassware and by depth of field blur.",
+    "A rack of small test tubes (rear right region) contains multiple small tubes with blue liquid; six small tubes are individually distinguishable in the rack.",
+    "A petri dish is visible on the bench surface at lower left; it is empty or contains a transparent substance (appearance is clear).",
+    "Multiple clear glass vessels (round-bottom flasks, Erlenmeyer-type flasks and bottles) are arranged across the rear of the bench (left to center background); at least nine separate glass vessels are individually distinguishable, some partially cropped or overlapping.",
+    "Several additional small clear glass beakers or jars are visible near the left-to-center foreground among the clustered glassware; at least three smaller containers are individually distinguishable among them.",
+    "Most laboratory glassware is clear/transparent glass showing clear or blue liquids.",
+    "The person wears white disposable gloves and a light blue lab coat; a white face mask and clear safety glasses are visible.",
+    "The keyboard is white; the bench surface appears white or light-coloured.",
+    "The microscope has metallic and black components with a reflective surface; the test tubes in the rack contain a blue liquid that contrasts with the clear liquids in other vessels."
+  ],
+  "id": "c49c7219941aa5258d51d0fa",
+  "sha256": "2f39229644f0bf6c3856db75c0988fce8f7e6be015d0327c7c485bde0dc1aa58",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:20:02.533478+00:00",
+  "input_resolution": [
+    2400,
+    1350
+  ],
+  "input_sha256": "800aac7f4f723e0d7ee1717c9eed5ec6ae1ac2fb7ec60758a4e5fd6f616060f1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatk8DWeGPDRrID6oooGfxrbTP29b",
+  "usage": {
+    "completion_tokens": 1055,
+    "prompt_tokens": 2439,
+    "total_tokens": 3494,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1161,
+      "engine_ttlt_ms": 7984,
+      "pre_inference_ms": 390,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2113,
+      "service_ttlt_ms": 8927,
+      "user_visible_ttft_ms": 1723
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

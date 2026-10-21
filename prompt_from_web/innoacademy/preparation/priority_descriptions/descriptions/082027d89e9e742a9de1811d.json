@@ -1,0 +1,33 @@
+{
+  "id": "082027d89e9e742a9de1811d",
+  "sha256": "7252c569964a4cc1eb446267fa167876484c04db9c05b651b9a279da2ac938ff",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Close-up of connected green circuit boards",
+  "visible_text": [
+    "DIGITAL",
+    "COMMUNICATION",
+    "GND",
+    "RX3",
+    "TX3",
+    "SCL",
+    "SDA"
+  ],
+  "visual_facts": [
+    "Several green printed circuit boards overlap at an angle, with dense traces and surface-mounted components.",
+    "Two prominent square black integrated circuits sit on separate boards.",
+    "White multi-pin connectors along the upper board edges hold pale ribbon wires with red markings.",
+    "A small blue-and-white rectangular module is attached by wires at the lower left."
+  ],
+  "spatial_relations": [
+    "The two main boards overlap diagonally in the center.",
+    "Ribbon wires arc upward from connectors on the boards.",
+    "The small blue module sits to the lower left of the boards."
+  ],
+  "uncertainties": [
+    "The board labels are only partly legible; the circuit functions and exact board models cannot be confirmed."
+  ]
+}

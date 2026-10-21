@@ -1,0 +1,122 @@
+{
+  "title": "Presentation area with large screen, banner and Tam Wing Fan Innovation Wing signage",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Five visible people are present: one standing person near the right front of the screen holding a handheld device, three people seated together on the long bench in the centre foreground with their backs to the camera, and one person seated at the right end of the bench facing the screen. (No names or identities are provided in the image.)",
+    "One large projected screen or display at the left of the image occupying most of the left half of the scene, showing a drone image and presentation text.",
+    "One freestanding vertical banner located to the right of the screen (behind the standing person).",
+    "One wall sign reading 'Tam Wing Fan Innovation Wing' with an attached bell mounted on the right wall above two chairs.",
+    "Three identical grey visitor chairs arranged against the right wall beneath the Tam Wing Fan sign (two directly visible; a third is partially visible behind a monitor stand).",
+    "One wheeled monitor/TV on a rolling stand on the far right of the image.",
+    "One small square upholstered ottoman (blue/grey) on the floor in front of the chairs on the right.",
+    "A long bench with blue cushioned seating composed of multiple joined segments running across the foreground; at least two joined cushion segments are clearly visible where people are seated.",
+    "One grey backpack placed on the left portion of the bench in the foreground.",
+    "One small laptop or thin device is visible on the right bench segment near the seated person on the far right (partially visible)."
+  ],
+  "visible_text": [
+    "ection 6:",
+    "ight Practice",
+    "章節6：飛行練習",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "Faculty of Engineering",
+    "Tam Wing Fan",
+    "Innovation Wing",
+    "FACULTY OF ENGINEERING",
+    "We'll be making a motion detector but there is no because this is a telephone."
+  ],
+  "spatial_relations": [
+    "The large projected screen fills the left half of the image and faces the seating area in the foreground.",
+    "Three people sit along the central section of the long blue bench with their backs to the camera; they are centrally positioned relative to the screen.",
+    "A standing person is to the right-front of the screen (from the viewer's perspective) and appears to be demonstrating or photographing something toward the screen while standing between the screen and the vertical banner.",
+    "The vertical 'Innovation Academy' banner is positioned behind the standing person, roughly between the screen and the right wall.",
+    "On the right wall above two chairs is the 'Tam Wing Fan Innovation Wing' sign with a bell; the three grey chairs are arranged beneath that sign and adjacent to the wheeled monitor on the far right.",
+    "The long bench runs parallel to the screen across the foreground; the grey backpack sits on the left portion of that bench and a person is seated at the right end of the bench facing the screen.",
+    "The wheeled monitor on a stand is located near the far-right edge of the room, slightly forward of the chairs against the wall."
+  ],
+  "colours_and_materials": [
+    "Bench cushions are blue and appear to be fabric upholstered.",
+    "Bench supports or frames appear to be light-coloured wood or wood-like material.",
+    "Floor covering is a light-grey, striped carpet.",
+    "The large screen frame or bezel is black and displays a high-contrast image of a white drone on a dark background.",
+    "Visitor chairs against the right wall are grey with a matte finish (material uncertain, likely plastic or upholstered).",
+    "The vertical banner has a dark background with green and white text ('Innovation Academy' with green accents)."
+  ],
+  "uncertainties": [
+    "The leftmost large-screen text appears cropped; the visible fragments are transcribed as 'ection 6:' and 'ight Practice' because the initial letters are out of frame and not fully legible.",
+    "The small Chinese line of text beneath the presentation image is transcribed as '章節6：飛行練習' but parts are small and could be partially obscured—confidence moderate.",
+    "The full white t-shirt text on the back of the central seated person is small and partly unclear; the transcription 'We'll be making a motion detector but there is no because this is a telephone.' preserves visible words but some words may be misread or missing.",
+    "A small purple sign on the wall near the 'Tam Wing Fan' sign is visible but its text is unreadable at this resolution; it is not transcribed.",
+    "Some objects (for example the laptop on the right bench segment and the partially visible third chair) are partially occluded; counts reflect only clearly visible items and do not claim full room inventory."
+  ],
+  "visual_facts": [
+    "Five visible people are present: one standing person near the right front of the screen holding a handheld device, three people seated together on the long bench in the centre foreground with their backs to the camera, and one person seated at the right end of the bench facing the screen. (No names or identities are provided in the image.)",
+    "One large projected screen or display at the left of the image occupying most of the left half of the scene, showing a drone image and presentation text.",
+    "One freestanding vertical banner located to the right of the screen (behind the standing person).",
+    "One wall sign reading 'Tam Wing Fan Innovation Wing' with an attached bell mounted on the right wall above two chairs.",
+    "Three identical grey visitor chairs arranged against the right wall beneath the Tam Wing Fan sign (two directly visible; a third is partially visible behind a monitor stand).",
+    "One wheeled monitor/TV on a rolling stand on the far right of the image.",
+    "One small square upholstered ottoman (blue/grey) on the floor in front of the chairs on the right.",
+    "A long bench with blue cushioned seating composed of multiple joined segments running across the foreground; at least two joined cushion segments are clearly visible where people are seated.",
+    "One grey backpack placed on the left portion of the bench in the foreground.",
+    "One small laptop or thin device is visible on the right bench segment near the seated person on the far right (partially visible).",
+    "Bench cushions are blue and appear to be fabric upholstered.",
+    "Bench supports or frames appear to be light-coloured wood or wood-like material.",
+    "Floor covering is a light-grey, striped carpet.",
+    "The large screen frame or bezel is black and displays a high-contrast image of a white drone on a dark background.",
+    "Visitor chairs against the right wall are grey with a matte finish (material uncertain, likely plastic or upholstered).",
+    "The vertical banner has a dark background with green and white text ('Innovation Academy' with green accents)."
+  ],
+  "id": "07c2b7e7fb2fe3a73c831ae6",
+  "sha256": "48b85c30d7391f84d056eed56a42bcb1c835891a16d6e14e12bf401bec19870c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:26:51.181112+00:00",
+  "input_resolution": [
+    1506,
+    1001
+  ],
+  "input_sha256": "21b0e438e62f83fb2c0a04b3ea4cbf80b91128ff76991d311c10b5c191b00024",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatqfvbWpenQKbcQtI3eMWUCIJBX7",
+  "usage": {
+    "completion_tokens": 1618,
+    "prompt_tokens": 2266,
+    "total_tokens": 3884,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1174,
+      "engine_ttlt_ms": 12040,
+      "pre_inference_ms": 417,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2157,
+      "service_ttlt_ms": 13018,
+      "user_visible_ttft_ms": 1740
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Walkway showing HKU Station sign and temporary screening table",
+  "suitable": true,
+  "location": "香港大學站 HKU Station",
+  "objects_and_counts": [
+    "One large overhead station sign reading both Chinese and English suspended centrally above the walkway.",
+    "One partially visible person cropped at the far left edge of the image (only torso/arm visible).",
+    "Two small rectangular folding tables with wooden tops and black metal tripod legs: one at left foreground and one at right foreground next to a sign stand.",
+    "One freestanding sign/notice mounted on a metal post at the right foreground, positioned on the right-hand table.",
+    "Multiple vertical steel/metal columns supporting the canopy along both sides of the walkway; at least 11 full columns are visible on the left side and at least 6 on the right side within the image frame (some columns are cropped at image edges).",
+    "Multiple waist-high metal balustrades/panels lining both sides of the walkway (a continuous run, many repeated panels visible; exact total cannot be determined because panels continue outside the frame).",
+    "One raised tactile guidance strip running down the centre of the walkway floor.",
+    "One high-rise building façade visible through the right side windows with repeated blue-tinted panels and external cross-braces.",
+    "Multiple overhead ceiling panels and linear recessed lights along the walkway ceiling."
+  ],
+  "visible_text": [
+    "香港大學站 HKU Station",
+    "列車",
+    "FB",
+    "C",
+    "HKU",
+    "HKU",
+    "HKU",
+    "HKU",
+    "HKU",
+    "HKU",
+    "Temperature Screening Machine Testing in Progress",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The large bilingual station sign hangs centrally from the ceiling above the walkway, roughly mid-image horizontally and nearer the far end of the corridor than the foreground.",
+    "The walkway runs from the foreground toward a darker exit or gate area at the far center of the image; the tactile guidance strip runs down the middle of the floor aligning with this direction.",
+    "Vertical columns are arranged in two parallel lines along the left and right sides of the walkway; glass panels and balustrades sit between these columns and the external windows.",
+    "The two small folding tables are placed near the front of the image: one at the left edge and one at the right edge; the right table is adjacent to the freestanding sign on a post.",
+    "The blue-tinted external building façade is visible through the windows on the right side of the walkway and is outside the balustrade line."
+  ],
+  "colours_and_materials": [
+    "Ceiling panels are pale beige or off-white with recessed linear light fittings.",
+    "Vertical columns and balustrade frames are painted or finished in a muted teal/gray metal colour.",
+    "Balustrade panels appear to be frosted or translucent glass with metal top rails.",
+    "Tables have light to medium brown wooden tops with black metal legs.",
+    "External building façade visible at right is blue-tinted glass with pale blue structural star-shaped connectors."
+  ],
+  "uncertainties": [
+    "Some small overhead signs near the far exit contain Chinese characters and symbols; only '列車' is clearly legible, other characters on those signs are not fully readable from this resolution.",
+    "The central pillar-mounted sign in the distance shows 'FB' and 'C' but accompanying smaller text is unreadable.",
+    "The freestanding notice's lower lines include small Chinese text that are not legible; I transcribed the top English line as 'Temperature Screening Machine Testing in Progress' but portions of the sign may be misread or incomplete.",
+    "Exact counts of repeated balustrade panels and columns cannot be determined because the structure continues beyond the image edges and some elements are cropped.",
+    "The person at the left edge is cropped and not identifiable; only part of their torso/arm is visible.",
+    "Some repeated 'HKU' markings on the right-hand strap/railing are shown multiple times; I listed 'HKU' repeated entries but did not attempt to infer total strap length or full repeated count beyond visible instances."
+  ],
+  "visual_facts": [
+    "Visible location text: 香港大學站 HKU Station",
+    "One large overhead station sign reading both Chinese and English suspended centrally above the walkway.",
+    "One partially visible person cropped at the far left edge of the image (only torso/arm visible).",
+    "Two small rectangular folding tables with wooden tops and black metal tripod legs: one at left foreground and one at right foreground next to a sign stand.",
+    "One freestanding sign/notice mounted on a metal post at the right foreground, positioned on the right-hand table.",
+    "Multiple vertical steel/metal columns supporting the canopy along both sides of the walkway; at least 11 full columns are visible on the left side and at least 6 on the right side within the image frame (some columns are cropped at image edges).",
+    "Multiple waist-high metal balustrades/panels lining both sides of the walkway (a continuous run, many repeated panels visible; exact total cannot be determined because panels continue outside the frame).",
+    "One raised tactile guidance strip running down the centre of the walkway floor.",
+    "One high-rise building façade visible through the right side windows with repeated blue-tinted panels and external cross-braces.",
+    "Multiple overhead ceiling panels and linear recessed lights along the walkway ceiling.",
+    "Ceiling panels are pale beige or off-white with recessed linear light fittings.",
+    "Vertical columns and balustrade frames are painted or finished in a muted teal/gray metal colour.",
+    "Balustrade panels appear to be frosted or translucent glass with metal top rails.",
+    "Tables have light to medium brown wooden tops with black metal legs.",
+    "External building façade visible at right is blue-tinted glass with pale blue structural star-shaped connectors."
+  ],
+  "id": "5ea4fff24920e9392ecb041b",
+  "sha256": "db3b315102446a3e9f43fd78ee7a59c3c587ee442c7aab1df8fd48bcd792f680",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:41:52.534235+00:00",
+  "input_resolution": [
+    2400,
+    1081
+  ],
+  "input_sha256": "d2595199b08c7e435bb9be79d214550936d8f666382998a442ce4f68f1b11ad6",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau5FemkZEgSaASCYPiT7KRQXWH0F",
+  "usage": {
+    "completion_tokens": 1150,
+    "prompt_tokens": 2756,
+    "total_tokens": 3906,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1264,
+      "engine_ttlt_ms": 10168,
+      "pre_inference_ms": 505,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2349,
+      "service_ttlt_ms": 11247,
+      "user_visible_ttft_ms": 1845
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

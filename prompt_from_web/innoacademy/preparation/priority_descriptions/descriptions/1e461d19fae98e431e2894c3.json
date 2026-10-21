@@ -1,0 +1,117 @@
+{
+  "title": "Group photo in DREAMLab with visible lab signage and first aid box",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "Fourteen distinct people are visible in the photographed scene (a mix of students and one adult/teacher standing at the left front); none appear to be only printed on posters or screens.",
+    "At least two office swivel chairs are visible at the left foreground (one near the left edge, one behind it).",
+    "A glass whiteboard or glazed wall with writing/drawings is visible along the back wall behind the group (one continuous panel).",
+    "Two framed certificates or plaques are mounted or standing on a shelf behind the group, below the DREAMLab sign (two distinct frames visible).",
+    "One red wall-mounted first aid box is visible on the right wall (labelled and wall-mounted).",
+    "One wheeled hand trolley / dolly is visible on the right side near the first aid box (single trolley).",
+    "One ceiling-mounted rectangular air conditioning cassette unit is visible near the centre top of the image (one cassette).",
+    "Multiple overhead rectangular light fixtures are visible in the ceiling; at least four distinct fixtures can be seen.",
+    "At least three blue drawstring bags are visible being held by students in the front and right of the group (three visible bags).",
+    "A table or workbench is visible in the lower right foreground with various small metal components and cylindrical objects on it (one table with multiple items; individual small items are not counted)."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "THE UNIVERSITY OF HONG KONG",
+    "FIRST AID",
+    "FIRST AID BOX",
+    "Please keep tidy"
+  ],
+  "spatial_relations": [
+    "The DREAMLab sign and the glass whiteboard panel are on the back wall directly behind the group; the sign is upper-left on that back wall area.",
+    "The group of people is arranged centrally in the image, standing in front of the back wall and partially covering the framed certificates on the shelf.",
+    "The adult/teacher figure stands at the front left of the group (viewer left) with students filling the center and right foreground.",
+    "The red first aid box is mounted on the right wall, to the right of the group and above the wheeled trolley, near the image right edge.",
+    "The ceiling air-conditioning cassette is near the top centre of the image, with rectangular light fixtures aligned across the ceiling around it.",
+    "A table or bench with metal parts is positioned in the lower right foreground of the image, in front of where several students stand."
+  ],
+  "colours_and_materials": [
+    "The DREAMLab sign uses yellow for the 'DREAM' letters and darker (likely black) for 'Lab'; the back wall/glass panel is pale green or light-coloured glass.",
+    "Most students wear blue dresses or uniforms with grey sweaters for some; the adult wears a dark blue shirt.",
+    "The first aid box is red plastic mounted on a white wall panel.",
+    "The ceiling unit appears off-white or beige; overhead light fixtures are white.",
+    "The floor covering appears to be dark grey carpet; the visible table/workbench surface is light wood or laminated yellowish wood.",
+    "The trolley appears to have black metal framing and a black handle."
+  ],
+  "uncertainties": [
+    "The exact count of people is estimated at 14 from visible, unobscured persons; partial occlusions could hide additional people but none are clearly visible.",
+    "Smaller text around the DREAMLab sign and on the framed certificates is not fully legible; only 'DREAMLab' and 'THE UNIVERSITY OF HONG KONG' are clearly readable.",
+    "Additional small labels, model names or equipment nameplates on the table items or near the whiteboard are present but not legible in this image.",
+    "Some overhead light fixtures are partially out of frame so the total number in the room cannot be determined from this image alone.",
+    "The material identifications (e.g., plastic vs. metal for small objects on the table) are based on visible appearance and are not confirmed by readable labels."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "Fourteen distinct people are visible in the photographed scene (a mix of students and one adult/teacher standing at the left front); none appear to be only printed on posters or screens.",
+    "At least two office swivel chairs are visible at the left foreground (one near the left edge, one behind it).",
+    "A glass whiteboard or glazed wall with writing/drawings is visible along the back wall behind the group (one continuous panel).",
+    "Two framed certificates or plaques are mounted or standing on a shelf behind the group, below the DREAMLab sign (two distinct frames visible).",
+    "One red wall-mounted first aid box is visible on the right wall (labelled and wall-mounted).",
+    "One wheeled hand trolley / dolly is visible on the right side near the first aid box (single trolley).",
+    "One ceiling-mounted rectangular air conditioning cassette unit is visible near the centre top of the image (one cassette).",
+    "Multiple overhead rectangular light fixtures are visible in the ceiling; at least four distinct fixtures can be seen.",
+    "At least three blue drawstring bags are visible being held by students in the front and right of the group (three visible bags).",
+    "A table or workbench is visible in the lower right foreground with various small metal components and cylindrical objects on it (one table with multiple items; individual small items are not counted).",
+    "The DREAMLab sign uses yellow for the 'DREAM' letters and darker (likely black) for 'Lab'; the back wall/glass panel is pale green or light-coloured glass.",
+    "Most students wear blue dresses or uniforms with grey sweaters for some; the adult wears a dark blue shirt.",
+    "The first aid box is red plastic mounted on a white wall panel.",
+    "The ceiling unit appears off-white or beige; overhead light fixtures are white.",
+    "The floor covering appears to be dark grey carpet; the visible table/workbench surface is light wood or laminated yellowish wood.",
+    "The trolley appears to have black metal framing and a black handle."
+  ],
+  "id": "1e461d19fae98e431e2894c3",
+  "sha256": "98b38f55144162e854da598f6ca4a550efe2e928a9310a008efb4acfbf114d01",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:30:31.352668+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "a470948e513f03ffb3a07a1258c84533d5408ca30f12601d1f212818d333904b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatuEYzf3vtXX46i8sNmIgFGw9DaA",
+  "usage": {
+    "completion_tokens": 1217,
+    "prompt_tokens": 2122,
+    "total_tokens": 3339,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1145,
+      "engine_ttlt_ms": 11704,
+      "pre_inference_ms": 375,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1988,
+      "service_ttlt_ms": 12538,
+      "user_visible_ttft_ms": 1613
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

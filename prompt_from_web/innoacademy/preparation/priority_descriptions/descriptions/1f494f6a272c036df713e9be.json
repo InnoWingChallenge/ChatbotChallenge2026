@@ -1,0 +1,111 @@
+{
+  "title": "Group of students in a lab space with a work table and a red-and-white model device",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "18 people in the photographed scene are visible and individually distinguishable (mixed ages; all facing the camera).",
+    "One rectangular yellow table at right foreground holds a large red-and-white assembled model device (partially obscured by other items) and various small parts and tools.",
+    "One grey padded office chair is visible in the immediate foreground, partly cropped at the bottom edge of the image.",
+    "At least two blue drawstring bags with white printed text are visible being held by people in the front row (one held by the person fourth from left and one held by the person sixth from left).",
+    "At least six backpacks are visible worn by people in the group or placed on their shoulders (distributed across left, center and right of the group).",
+    "One red wall-mounted 'FIRST AID' box is visible on a column at the right background.",
+    "A glass or acrylic wall panel with large uppercase letters is visible on the left background (letters partly cropped).",
+    "A framed sign or certificate is visible on the back wall behind the group, partially obscured by people.",
+    "A basket or container with small components and a transparent plastic bottle are on the yellow table near the right edge of the image."
+  ],
+  "visible_text": [
+    "REAML",
+    "FIRST AID",
+    "The University of Hong Kong",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The group of people occupies the central and left portions of the image, standing in close rows; most are centered in front of a glass wall panel.",
+    "The yellow work table is at the right foreground and holds a large red-and-white model device and assorted parts; the table is directly in front of several people standing at the right of the group.",
+    "A grey padded chair is in the foreground between the camera and the yellow table, slightly left of the table's center.",
+    "A column with a red 'FIRST AID' box is immediately behind and to the right of the standing group.",
+    "A framed sign or certificate stands on or against the glass wall behind the group, positioned roughly behind the central figures.",
+    "Large letters on the glass wall are behind the left portion of the group; the letters are cropped at the top and left edges."
+  ],
+  "colours_and_materials": [
+    "Most people wear white short-sleeve shirts and dark trousers, suggesting a uniform appearance.",
+    "The work table surface is yellow (matte finish) and holds a red-and-white model with both glossy and matte painted surfaces.",
+    "The chair visible in the foreground is grey fabric or upholstered material with a darker plastic or metal base (base not fully visible).",
+    "The column background where the first aid box is mounted is light-coloured with a black-and-yellow hazard stripe near the top; the first aid box is red with white lettering.",
+    "The glass or acrylic wall panel behind the group is light green/teal tinted and reflective."
+  ],
+  "uncertainties": [
+    "The exact room name or number is not visible in the image; large letters on the glass wall read 'REAML' but may be a cropped portion of a longer name (for example a leading letter may be outside the frame).",
+    "The transcription 'The University of Hong Kong' on the blue drawstring bag is partially legible but some smaller words beneath it are unreadable and were therefore omitted or marked [unreadable].",
+    "Some small labels, logos on shirts and backpack text are present but not fully legible at this resolution; where text cannot be read confidently it is not transcribed.",
+    "The count of 18 people is based on individually distinguishable heads/bodies visible in this single frame; occlusion and cropping mean additional people could be present outside the visible area.",
+    "The large red-and-white object on the table is described as a model device because its exact type or specification cannot be determined from the image; smaller items and tools on the table are not fully identifiable."
+  ],
+  "visual_facts": [
+    "18 people in the photographed scene are visible and individually distinguishable (mixed ages; all facing the camera).",
+    "One rectangular yellow table at right foreground holds a large red-and-white assembled model device (partially obscured by other items) and various small parts and tools.",
+    "One grey padded office chair is visible in the immediate foreground, partly cropped at the bottom edge of the image.",
+    "At least two blue drawstring bags with white printed text are visible being held by people in the front row (one held by the person fourth from left and one held by the person sixth from left).",
+    "At least six backpacks are visible worn by people in the group or placed on their shoulders (distributed across left, center and right of the group).",
+    "One red wall-mounted 'FIRST AID' box is visible on a column at the right background.",
+    "A glass or acrylic wall panel with large uppercase letters is visible on the left background (letters partly cropped).",
+    "A framed sign or certificate is visible on the back wall behind the group, partially obscured by people.",
+    "A basket or container with small components and a transparent plastic bottle are on the yellow table near the right edge of the image.",
+    "Most people wear white short-sleeve shirts and dark trousers, suggesting a uniform appearance.",
+    "The work table surface is yellow (matte finish) and holds a red-and-white model with both glossy and matte painted surfaces.",
+    "The chair visible in the foreground is grey fabric or upholstered material with a darker plastic or metal base (base not fully visible).",
+    "The column background where the first aid box is mounted is light-coloured with a black-and-yellow hazard stripe near the top; the first aid box is red with white lettering.",
+    "The glass or acrylic wall panel behind the group is light green/teal tinted and reflective."
+  ],
+  "id": "1f494f6a272c036df713e9be",
+  "sha256": "50a426573df616411e173eb3a93e3bf6301d9aaa8bd08eb688403a4812035741",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:31:12.832360+00:00",
+  "input_resolution": [
+    2400,
+    1493
+  ],
+  "input_sha256": "433d0e03ba2ba0e3ad93699362c9db433e0ade7dce37f08417b2bf264ea4e93e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatut0fxNE1U3TLvuyqzAIbxOyIWo",
+  "usage": {
+    "completion_tokens": 1405,
+    "prompt_tokens": 2324,
+    "total_tokens": 3729,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1153,
+      "engine_ttlt_ms": 12442,
+      "pre_inference_ms": 371,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2088,
+      "service_ttlt_ms": 13372,
+      "user_visible_ttft_ms": 1717
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Table with hygiene sign, dispenser basket and stools in a workshop-style room",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One freestanding clear acrylic sign holder is on the nearest table, containing a printed green-and-white poster.",
+    "One white plastic basket sits to the right of the acrylic sign holder on the same table; inside the basket are two visible bottles: one pump dispenser bottle and one trigger-spray bottle.",
+    "One clear vertical acrylic sneeze-guard panel is visible rising from the near table and running roughly front-to-back across the table surface; its left mounting foot is visible on the table edge.",
+    "Multiple high tables are visible arranged in rows across the room; at least six separate table surfaces are visible from foreground to background.",
+    "Multiple round-top stools are visible around the tables; stools appear at multiple tables and in multiple rows. The total number of stools in the room cannot be precisely determined from the image due to overlap and cropping."
+  ],
+  "visible_text": [
+    "PLEASE STAY VIGILANT",
+    "MAXIMUM",
+    "4 PEOPLE",
+    "AT ONE TIME",
+    "Max 4",
+    "1.5m",
+    "1.5m",
+    "KEEP 1.5M SOCIAL DISTANCING",
+    "PLEASE WEAR A FACE MASK",
+    "CLEAN YOUR WORKPLACE AFTER USE",
+    "THANK YOU",
+    "procuro"
+  ],
+  "spatial_relations": [
+    "The clear acrylic sign holder with the green poster is positioned near the center-front of the nearest table.",
+    "The white plastic basket with two bottles is placed immediately to the right of the acrylic sign holder on the same table.",
+    "A clear vertical acrylic sneeze-guard panel stands between this foreground table and the tables behind it, with its left mounting foot visible on the table surface near the image left edge.",
+    "High tables are arranged in rows extending from the foreground to the background; stools are placed around the sides of these tables, typically one or more stools per table edge.",
+    "Windows run along the far wall behind the rear tables, and storage cubbies or lockers appear under the windowed bench area at the rear of the room."
+  ],
+  "colours_and_materials": [
+    "Table tops are a light beige color with a smooth finish.",
+    "Stools have dark (near-black) round seats with darker metal legs.",
+    "The printed poster in the acrylic holder has a light green background with darker green panels and black text/icons.",
+    "The basket is white plastic with a perforated pattern; the pump dispenser bottle is clear with a black pump; the spray bottle is clear with a black trigger.",
+    "The sneeze-guard is clear acrylic (transparent)."
+  ],
+  "uncertainties": [
+    "No room name or number is legible in the image; the specific location is unknown from the image.",
+    "The exact total count of stools and tables in the room cannot be determined precisely from this single view due to overlapping objects and cropping at the image edges.",
+    "Some small or distant text on background signs, labels or posters is not legible from this view and was not transcribed.",
+    "Parts of labels on equipment or small printed lines on the poster are partially obscured or too small to read; where text could not be read it was not included beyond the clearly legible items.",
+    "The material identification (for example, whether table tops are laminate or another material) is descriptive and not confirmed by a visible material label."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One freestanding clear acrylic sign holder is on the nearest table, containing a printed green-and-white poster.",
+    "One white plastic basket sits to the right of the acrylic sign holder on the same table; inside the basket are two visible bottles: one pump dispenser bottle and one trigger-spray bottle.",
+    "One clear vertical acrylic sneeze-guard panel is visible rising from the near table and running roughly front-to-back across the table surface; its left mounting foot is visible on the table edge.",
+    "Multiple high tables are visible arranged in rows across the room; at least six separate table surfaces are visible from foreground to background.",
+    "Multiple round-top stools are visible around the tables; stools appear at multiple tables and in multiple rows. The total number of stools in the room cannot be precisely determined from the image due to overlap and cropping.",
+    "Table tops are a light beige color with a smooth finish.",
+    "Stools have dark (near-black) round seats with darker metal legs.",
+    "The printed poster in the acrylic holder has a light green background with darker green panels and black text/icons.",
+    "The basket is white plastic with a perforated pattern; the pump dispenser bottle is clear with a black pump; the spray bottle is clear with a black trigger.",
+    "The sneeze-guard is clear acrylic (transparent)."
+  ],
+  "id": "b37617ac17b989c2ee12fa81",
+  "sha256": "5265af842804ff74dbb07059c35c8fdde3b4fa60c6b87b808ed856e49c4f4e6d",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:59:25.966834+00:00",
+  "input_resolution": [
+    2048,
+    921
+  ],
+  "input_sha256": "49c0ceb072306e801892a7977ba936d6dafbb7e53ec53026abdd909c0a284728",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauMFjYlS4vS9Vmq1kgSnueLnqg1j",
+  "usage": {
+    "completion_tokens": 1092,
+    "prompt_tokens": 2756,
+    "total_tokens": 3848,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1246,
+      "engine_ttlt_ms": 9380,
+      "pre_inference_ms": 355,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2162,
+      "service_ttlt_ms": 10291,
+      "user_visible_ttft_ms": 1807
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "entity_id": "org_tam_wing_fan_innovation_wing",
+    "entity_type": "organisation",
+    "canonical_name": "Tam Wing Fan Innovation Wing",
+    "aliases": [
+      "Innovation Wing",
+      "InnoWing"
+    ]
+  },
+  {
+    "entity_id": "org_hku_faculty_of_engineering",
+    "entity_type": "organisation",
+    "canonical_name": "HKU Faculty of Engineering",
+    "aliases": [
+      "Faculty of Engineering"
+    ]
+  },
+  {
+    "entity_id": "term_additive_manufacturing",
+    "entity_type": "term",
+    "canonical_name": "additive manufacturing",
+    "aliases": [
+      "3D printing",
+      "three-dimensional printing"
+    ]
+  },
+  {
+    "entity_id": "funding_scheme_2025_26_second_round",
+    "entity_type": "funding_round",
+    "canonical_name": "Funding Scheme 2025-26 second round",
+    "aliases": [
+      "second round of the Funding Scheme in 2025-26"
+    ],
+    "academic_year": "2025-26"
+  },
+  {
+    "entity_id": "equipment_acrylic_laser_cutter",
+    "entity_type": "equipment_type",
+    "canonical_name": "Acrylic laser cutting and engraving machine",
+    "aliases": [
+      "laser cutter",
+      "laser cutting machine"
+    ]
+  },
+  {
+    "entity_id": "material_pvc",
+    "entity_type": "material",
+    "canonical_name": "PVC",
+    "aliases": [
+      "polyvinyl chloride"
+    ]
+  },
+  {
+    "entity_id": "material_teflon",
+    "entity_type": "material",
+    "canonical_name": "Teflon",
+    "aliases": [
+      "PTFE"
+    ]
+  }
+]

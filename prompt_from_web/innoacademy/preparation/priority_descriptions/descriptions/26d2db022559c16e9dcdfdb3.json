@@ -1,0 +1,104 @@
+{
+  "title": "Computer lab with projector screen and multiple desktop monitors",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least four people are visible sitting at workstations: one near the left-center wearing a mask, one near the central back row, one at the far right wall row, and one seated at a central table; all are partially or fully visible and not identified by name.",
+    "At least eleven distinct desktop monitors are visible across foreground tables and the wall-facing workstations; counts are given as a minimum because some monitors are partially obscured by other screens or people.",
+    "One ceiling-mounted projector is visible near the center-top of the image projecting to a pull-down screen on the front wall.",
+    "One large projection screen is visible on the front wall showing a projected image.",
+    "Multiple office chairs are visible: at least seven distinct chairs with visible seat backs in red, blue, grey and black are present; some chairs are partially cropped by the image edge.",
+    "Several white rectangular tables are visible: at least five tables arranged as clusters and along the walls are present.",
+    "One plastic bottle (likely a hand sanitizer or drink) is visible on a foreground table near the left side of the image.",
+    "One white basket or organizer with small items is visible on the right-side table near a monitor."
+  ],
+  "visible_text": [
+    "Digital learning studio"
+  ],
+  "spatial_relations": [
+    "A projection screen is mounted on the front wall; the ceiling-mounted projector is aligned roughly centered above the central floor area to project onto that screen.",
+    "Rows of wall-facing workstations run along the right side and rear walls of the room; a line of monitors and PCs sit on a long counter beneath the wall panels.",
+    "Clustered tables occupy the central floor area with monitors placed on them; chairs are positioned around these central tables facing various monitors.",
+    "The projection screen is on the wall opposite the camera viewpoint; the long bank of wall-facing workstations runs perpendicular to the camera's right-hand edge.",
+    "The ceiling tiles and recessed lighting form a grid above the room; the projector is mounted between two light panels."
+  ],
+  "colours_and_materials": [
+    "Wall panels include white, teal (pale green-blue), and darker blue rectangular sections mounted on a mostly white wall.",
+    "Chairs have solid coloured plastic backs in red, blue, grey and black.",
+    "Tables are white with light-coloured metal or plastic legs.",
+    "Floor covering appears to be grey carpet.",
+    "The projection screen is white; the ceiling is white with white recessed light panels."
+  ],
+  "uncertainties": [
+    "The exact total number of desktop monitors and chairs in the entire room cannot be determined from this single image because some monitors and chairs are partially obscured or cropped at the image edges; the provided monitor and chair counts are minimum visible counts.",
+    "Small labels, stickers and any model/brand text on monitors, PCs, the projector, the bottle, or the white basket are not legible at this resolution and were not transcribed.",
+    "Text visible on the projected image beyond the heading 'Digital learning studio' is unreadable and therefore not transcribed.",
+    "No room number or official room name sign is visible in the image; location is therefore 'unknown from image'."
+  ],
+  "visual_facts": [
+    "At least four people are visible sitting at workstations: one near the left-center wearing a mask, one near the central back row, one at the far right wall row, and one seated at a central table; all are partially or fully visible and not identified by name.",
+    "At least eleven distinct desktop monitors are visible across foreground tables and the wall-facing workstations; counts are given as a minimum because some monitors are partially obscured by other screens or people.",
+    "One ceiling-mounted projector is visible near the center-top of the image projecting to a pull-down screen on the front wall.",
+    "One large projection screen is visible on the front wall showing a projected image.",
+    "Multiple office chairs are visible: at least seven distinct chairs with visible seat backs in red, blue, grey and black are present; some chairs are partially cropped by the image edge.",
+    "Several white rectangular tables are visible: at least five tables arranged as clusters and along the walls are present.",
+    "One plastic bottle (likely a hand sanitizer or drink) is visible on a foreground table near the left side of the image.",
+    "One white basket or organizer with small items is visible on the right-side table near a monitor.",
+    "Wall panels include white, teal (pale green-blue), and darker blue rectangular sections mounted on a mostly white wall.",
+    "Chairs have solid coloured plastic backs in red, blue, grey and black.",
+    "Tables are white with light-coloured metal or plastic legs.",
+    "Floor covering appears to be grey carpet.",
+    "The projection screen is white; the ceiling is white with white recessed light panels."
+  ],
+  "id": "26d2db022559c16e9dcdfdb3",
+  "sha256": "9a8fd91cb7d85558260f1470d914241435bc77955a4ced0cafdd354bb1d1ee01",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:07:41.438220+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "79ee4b0161a32a2e3c9a2ef6301c5fd74f39e2fed4b31d091c5775f586e542a5",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatYBBL5NNPVpJqIfeoCThC0OSuSE",
+  "usage": {
+    "completion_tokens": 1038,
+    "prompt_tokens": 2122,
+    "total_tokens": 3160,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1140,
+      "engine_ttlt_ms": 8064,
+      "pre_inference_ms": 942,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2742,
+      "service_ttlt_ms": 9640,
+      "user_visible_ttft_ms": 1800
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Group in front of wall sign reading Global Inclusive Leadership Centre",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "15 people are visible in the photographed scene, standing in a single row across the middle of the image; a few individuals at the far left and far right are close to the image edges but not clearly cropped.",
+    "A large three-dimensional wall sign composed of separate characters/letters is mounted on the wall behind the group and spans much of the image width.",
+    "A full-height window or glazed panel is visible at the right edge of the scene.",
+    "A doorway or open entrance is visible at the left edge of the scene.",
+    "The floor is tiled and visible across the foreground.",
+    "Several items of clothing with printed text or logos are visible on people (see visible_text)."
+  ],
+  "visible_text": [
+    "国际客领中心",
+    "Global Inclusive Leadership Centre",
+    "UPS OAR [unreadable]",
+    "ATHLETICS"
+  ],
+  "spatial_relations": [
+    "The large wall sign (Chinese characters above, English text below) is centrally mounted on the back wall and is directly behind the standing group; people are positioned immediately in front of and partially obscuring the lower portion of the sign.",
+    "The group extends from near the left edge of the image to the right edge, forming a roughly straight horizontal line across the middle of the image.",
+    "The doorway/opening is at the left side of the image behind the leftmost people; the glazed window or panel is at the right side of the image behind the rightmost people.",
+    "The tiled floor occupies the foreground and the wall with the sign forms the midground; there is no visible furniture between the group and the wall sign."
+  ],
+  "colours_and_materials": [
+    "The back wall is painted grey and the mounted sign letters are white with a three-dimensional appearance.",
+    "The floor tiles are light grey and have a glossy finish reflective enough to show faint reflections of feet.",
+    "Clothing colours across the group include black, white, yellow, green, blue, orange and striped garments; one person near center-left wears green-and-white patterned trousers.",
+    "The window at the right shows a bright exterior or daylight through clear glass."
+  ],
+  "uncertainties": [
+    "The exact Chinese text on the wall sign is transcribed as '国际客领中心' based on legibility in the image; small differences in characters could exist but this is the visible form.",
+    "Several pieces of text on clothing and small logos are partially obscured or not fully legible; 'UPS OAR [unreadable]' represents a partly unreadable front-shirt text visible on one person but with missing letters.",
+    "The small circular logo or writing on the blue T-shirt of the person giving a thumbs-up is not fully legible and therefore not transcribed.",
+    "The white cap worn by a person near the left has a small mark or logo that is unreadable.",
+    "Location is listed as 'unknown from image' because no explicit room name or room number is visible that identifies a formal room within a building."
+  ],
+  "visual_facts": [
+    "15 people are visible in the photographed scene, standing in a single row across the middle of the image; a few individuals at the far left and far right are close to the image edges but not clearly cropped.",
+    "A large three-dimensional wall sign composed of separate characters/letters is mounted on the wall behind the group and spans much of the image width.",
+    "A full-height window or glazed panel is visible at the right edge of the scene.",
+    "A doorway or open entrance is visible at the left edge of the scene.",
+    "The floor is tiled and visible across the foreground.",
+    "Several items of clothing with printed text or logos are visible on people (see visible_text).",
+    "The back wall is painted grey and the mounted sign letters are white with a three-dimensional appearance.",
+    "The floor tiles are light grey and have a glossy finish reflective enough to show faint reflections of feet.",
+    "Clothing colours across the group include black, white, yellow, green, blue, orange and striped garments; one person near center-left wears green-and-white patterned trousers.",
+    "The window at the right shows a bright exterior or daylight through clear glass."
+  ],
+  "id": "6b2cc172e2122906d7ca7183",
+  "sha256": "ae8ebd7d357c3ef31c0746300f48d9b6570631f8775b3eada866b0bd9eb3a149",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:44:54.260069+00:00",
+  "input_resolution": [
+    1024,
+    683
+  ],
+  "input_sha256": "090a3af373a050e454730368286e88651d7a5d2ed392db9139125d5faf26f2b2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau8Ch6rsmN10hSULbKCzzeIxLVY8",
+  "usage": {
+    "completion_tokens": 1130,
+    "prompt_tokens": 2045,
+    "total_tokens": 3175,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 570,
+      "engine_ttlt_ms": 8440,
+      "pre_inference_ms": 129,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1226,
+      "service_ttlt_ms": 9091,
+      "user_visible_ttft_ms": 1097
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

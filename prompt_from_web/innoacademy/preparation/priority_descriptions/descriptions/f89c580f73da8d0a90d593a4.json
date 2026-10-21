@@ -1,0 +1,94 @@
+{
+  "title": "Extrusion nozzle depositing translucent amber rings on a metal build plate",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One extrusion nozzle or dispensing tip is visible, attached to a machine head in the upper right region of the image; the nozzle is partially cropped by the top edge.",
+    "One machine head or print head assembly is visible, primarily in the upper right quadrant; only part of the assembly is shown.",
+    "One flat rectangular metallic build plate or work surface occupies the central and lower parts of the image.",
+    "One printed object composed of six interlocking circular/loop elements (appearing as a flower-like pattern) is being deposited on the build plate in the center of the image; the printed material appears continuous and all six loops are visible.",
+    "No visible labels, control panels, or distinct pieces of ancillary equipment (e.g., control boxes, gauges) can be reliably counted in the visible frame."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The extrusion nozzle is positioned above the build plate and is in the act of depositing material onto the plate; the nozzle tip is near the center-right of the printed flower-like pattern.",
+    "The printed six-loop object lies flat on the metallic build plate, centered in the lower-middle area of the image.",
+    "The machine head (connected to the nozzle) is located toward the upper right relative to the printed object; the head overhangs the build plate from that direction.",
+    "The build plate fills most of the foreground and middle ground; the background is out of focus with no distinguishable room features."
+  ],
+  "colours_and_materials": [
+    "The build plate appears metallic and silver-gray with a reflective, brushed or smooth metal texture.",
+    "The dispensed material is a translucent amber or yellowish-orange colour and has a glossy, gel-like appearance.",
+    "The print head assembly components visible are black and dark gray; the nozzle tip is lighter in colour, possibly metal or plastic."
+  ],
+  "uncertainties": [
+    "No room name, number, sign, or other location identifier is legible in the image; location cannot be determined from the image alone.",
+    "The printed material's exact composition is not identifiable from appearance alone (e.g. biogel, resin, filament) and is described only by visible appearance.",
+    "Any small labels or text on the machine head or nozzle are not legible in the current image; a closer crop would be needed to transcribe equipment nameplates or model numbers.",
+    "The top portion of the nozzle/machine head is cropped by the image edge, so the full assembly is not visible.",
+    "Background elements are out of focus and do not provide reliable additional equipment or room layout information."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One extrusion nozzle or dispensing tip is visible, attached to a machine head in the upper right region of the image; the nozzle is partially cropped by the top edge.",
+    "One machine head or print head assembly is visible, primarily in the upper right quadrant; only part of the assembly is shown.",
+    "One flat rectangular metallic build plate or work surface occupies the central and lower parts of the image.",
+    "One printed object composed of six interlocking circular/loop elements (appearing as a flower-like pattern) is being deposited on the build plate in the center of the image; the printed material appears continuous and all six loops are visible.",
+    "No visible labels, control panels, or distinct pieces of ancillary equipment (e.g., control boxes, gauges) can be reliably counted in the visible frame.",
+    "The build plate appears metallic and silver-gray with a reflective, brushed or smooth metal texture.",
+    "The dispensed material is a translucent amber or yellowish-orange colour and has a glossy, gel-like appearance.",
+    "The print head assembly components visible are black and dark gray; the nozzle tip is lighter in colour, possibly metal or plastic."
+  ],
+  "id": "f89c580f73da8d0a90d593a4",
+  "sha256": "a389c32606a05c5cfb5093fc8928c0680938ff48ed2f36d5b4d0a415a34a88a8",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:24:15.320349+00:00",
+  "input_resolution": [
+    628,
+    402
+  ],
+  "input_sha256": "dff045b14f23444d17f8fed81db441ca2705ab117fa3cc5a7f5652a0272a0fba",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatoFQYZK5d88VDpB29RwsCPP4UYb",
+  "usage": {
+    "completion_tokens": 737,
+    "prompt_tokens": 1512,
+    "total_tokens": 2249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 277,
+      "engine_ttlt_ms": 6360,
+      "pre_inference_ms": 132,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 948,
+      "service_ttlt_ms": 7026,
+      "user_visible_ttft_ms": 815
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

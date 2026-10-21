@@ -1,0 +1,108 @@
+{
+  "title": "Classroom/lab with projection screens, benches and seated participants",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 11 people are visible in the photographed scene: multiple seated people facing the front projection (concentrated across the central and left tables; several are partially obscured by table edges) and two people standing at the right edge of the image. Exact headcount beyond 11 cannot be determined with certainty due to partial occlusion.",
+    "Two large projected slide images are visible on vertical screens or walls at the front-left and front-center of the room; both show slide content.",
+    "At least one ceiling-mounted projector is visible suspended near the centre of the ceiling above the room; additional ceiling-mounted hardware and cabling are visible across the ceiling.",
+    "At least four large rectangular high workbenches or tables with light-coloured wooden tops and white metal frames are visible in the foreground and midground (one foremost table, one center table, one left table where people sit, and one long table to the right).",
+    "Multiple round stools are visible around the benches; at least 13 individual stools are distinguishable in the foreground and midground (some stools are partially obscured).",
+    "Several desktop monitors are visible: two monitors on the window ledge under the windows (left-mid background) and at least one monitor on the equipment bench at the far-right background.",
+    "A bench or work area along the far-right background holds several desktop machines and apparatus (multiple units visible) and several small items; these devices are partly obscured and not individually identifiable from the image.",
+    "Three or more yellow ceiling-mounted cable reels or hose reels are visible attached to the exposed ceiling infrastructure.",
+    "A single tall white cylindrical bottle or container sits on the centre foreground table."
+  ],
+  "visible_text": [
+    "Core training",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "Two projection screens with slide content are positioned at the front of the room: one at the front-left and one slightly right of centre; seated participants face these screens.",
+    "A row of large windows runs along the left-mid background, located behind some of the seated participants and to the left of the front projection area.",
+    "Workbenches/tables occupy the foreground and midground in roughly parallel rows; stools are positioned around these benches.",
+    "An equipment bench or service counter runs along the far-right background behind the rows of tables; desktop machines and monitors sit on that bench.",
+    "Ceiling-mounted fixtures (projector(s), cable reels and exposed ducting) run along the ceiling above the tables, with hanging cables and lights distributed roughly evenly across the room."
+  ],
+  "colours_and_materials": [
+    "Workbench tops are light-coloured wood or wood-like laminate and rest on white metal frames.",
+    "Floor is a smooth medium-grey surface (appears to be painted concrete or vinyl).",
+    "Stools have dark-coloured (black or very dark grey) round seats and thin metal legs.",
+    "Window frames appear green and the outside foliage visible through the windows is green.",
+    "Ceiling shows exposed metallic ductwork and structural elements with silver/metallic finish; several yellow cable reels are attached to the ceiling."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible in the image; location therefore cannot be determined from the photograph.",
+    "The exact readable slide text is limited; 'Core training' is legible on a slide but other slide and small label text is mostly unreadable and transcribed as [unreadable].",
+    "Counts of people and stools are minimum visible counts; partial occlusions and overlapping stools/people limit confident exact totals.",
+    "The bench equipment in the far-right background is visible but individual device types (for example, whether any are 3D printers or other specific machines) cannot be reliably identified from this image.",
+    "There may be additional ceiling-mounted projectors or hardware outside the frame or obscured; only the visible projector(s) and reels are reported."
+  ],
+  "visual_facts": [
+    "At least 11 people are visible in the photographed scene: multiple seated people facing the front projection (concentrated across the central and left tables; several are partially obscured by table edges) and two people standing at the right edge of the image. Exact headcount beyond 11 cannot be determined with certainty due to partial occlusion.",
+    "Two large projected slide images are visible on vertical screens or walls at the front-left and front-center of the room; both show slide content.",
+    "At least one ceiling-mounted projector is visible suspended near the centre of the ceiling above the room; additional ceiling-mounted hardware and cabling are visible across the ceiling.",
+    "At least four large rectangular high workbenches or tables with light-coloured wooden tops and white metal frames are visible in the foreground and midground (one foremost table, one center table, one left table where people sit, and one long table to the right).",
+    "Multiple round stools are visible around the benches; at least 13 individual stools are distinguishable in the foreground and midground (some stools are partially obscured).",
+    "Several desktop monitors are visible: two monitors on the window ledge under the windows (left-mid background) and at least one monitor on the equipment bench at the far-right background.",
+    "A bench or work area along the far-right background holds several desktop machines and apparatus (multiple units visible) and several small items; these devices are partly obscured and not individually identifiable from the image.",
+    "Three or more yellow ceiling-mounted cable reels or hose reels are visible attached to the exposed ceiling infrastructure.",
+    "A single tall white cylindrical bottle or container sits on the centre foreground table.",
+    "Workbench tops are light-coloured wood or wood-like laminate and rest on white metal frames.",
+    "Floor is a smooth medium-grey surface (appears to be painted concrete or vinyl).",
+    "Stools have dark-coloured (black or very dark grey) round seats and thin metal legs.",
+    "Window frames appear green and the outside foliage visible through the windows is green.",
+    "Ceiling shows exposed metallic ductwork and structural elements with silver/metallic finish; several yellow cable reels are attached to the ceiling."
+  ],
+  "id": "369c0b1f26c03bc21cc1526a",
+  "sha256": "f6ebdcd1ff0fd7ae96ccb78c5c7fb6b787ce17a8731d58184b732f366d73b8cc",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:35:08.788906+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "3ad1c43eca7cd0083577109cced0a260e75eb4cb89bd2074687c5e187e30c7a4",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatyj7LNkZdoSS4pL6WbI07TGuYy6",
+  "usage": {
+    "completion_tokens": 1321,
+    "prompt_tokens": 2122,
+    "total_tokens": 3443,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1136,
+      "engine_ttlt_ms": 10324,
+      "pre_inference_ms": 302,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1948,
+      "service_ttlt_ms": 11131,
+      "user_visible_ttft_ms": 1647
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

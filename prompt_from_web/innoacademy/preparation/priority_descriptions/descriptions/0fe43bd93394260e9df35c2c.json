@@ -1,0 +1,113 @@
+{
+  "title": "Storage area with large decorative lion/dragon heads hung in bamboo scaffold",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One large black, red and pink decorative lion/dragon head is suspended near the top center-right of the image; its mouth and one eye are clearly visible and the head is mostly unobscured.",
+    "At least seven smaller decorative lion/dragon heads are mounted on the left wall in two vertical rows on bamboo shelving; several of these smaller heads are partially cropped or partially obscured by shelving.",
+    "Two cardboard boxes with a visible blue logo and the word \"Quaker\" are on the table at lower left; a larger unbranded cardboard box is visible in the lower right foreground and is partially cropped.",
+    "One long table or bench covered with newspapers runs across the lower central area of the image and supports boxes and small items.",
+    "A bamboo scaffold / frame structure comprising many vertical and horizontal bamboo poles forms the ceiling and walls and is a dominant fixed structure in the scene.",
+    "Two plastic tarps are visible: one blue tarp folded or draped toward the mid-right background and one black tarp covering objects at lower right.",
+    "At least three carved stone or concrete statue-like objects are visible in the middle-right background, two of which appear to be seated figures; these are partially obscured by scaffolding.",
+    "One small red lamp or lantern is visible on a surface near the center of the image, slightly left of the large suspended head.",
+    "Stacks or piles of newspapers or printed sheets cover parts of the table and the top of the foreground cardboard box."
+  ],
+  "visible_text": [
+    "Quaker"
+  ],
+  "spatial_relations": [
+    "A dense bamboo scaffold frames the whole scene: vertical and horizontal bamboo poles form a wall at the left and a ceiling grid above.",
+    "The large black/red decorative head is suspended from the upper central-to-right area of the scaffold, hanging above the table and near the front of the image.",
+    "The smaller decorative heads are attached to or resting on bamboo shelving against the left wall, arranged vertically in roughly two rows.",
+    "The table covered with newspapers runs horizontally across the lower central portion of the image; the two labelled \"Quaker\" boxes sit on this table toward the left side of the frame.",
+    "The larger unbranded cardboard box occupies the lower right foreground and partially obscures the right edge of the table and some newspapers.",
+    "Stone or concrete figures sit beyond the table toward the mid-right background, behind bamboo poles and partly obscured by the scaffold and tarps.",
+    "A blue tarp is located behind and slightly to the right of the central table, closer to the background; a black tarp covers objects at the immediate right edge of the frame."
+  ],
+  "colours_and_materials": [
+    "Many structural elements are tan-colored bamboo poles with a natural, smooth wood-like texture.",
+    "The large suspended head is principally black with bright red and pink interior mouth areas, white teeth, and decorative red, green and yellow painted motifs.",
+    "The smaller heads on the left are predominantly red, orange, green and metallic-coloured with painted decorations and some fur or fringe elements in darker tones.",
+    "The cardboard boxes are brown corrugated cardboard with blue printed logos/graphics.",
+    "The statues appear grey and look like stone or concrete (material inferred from texture and colour but not confirmed).",
+    "Newspapers and printed sheets on the table are white/grey with multicolored print; a blue plastic tarp and a black plastic tarp are also visible."
+  ],
+  "uncertainties": [
+    "No explicit room name, room number or sign is legible in the image; location cannot be determined from the photograph.",
+    "The exact number of smaller decorative heads on the left wall is partly obscured by overlap and shelving; the statement gives a visible minimum of at least seven but the true count could be higher.",
+    "Only the word \"Quaker\" on the cardboard boxes is clearly legible; other smaller printed lines or labels on those boxes and on newspapers are not readable at this resolution and are therefore not transcribed.",
+    "Material identifications for the statues (stone or concrete) and for the bamboo (natural bamboo) are based on visible texture and colour but cannot be confirmed from the image alone.",
+    "Some objects near the rear of the space are partially hidden by scaffolding and tarps, so counts and identifications for items beyond the scaffold (for example, additional boxes or tools) may be incomplete."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One large black, red and pink decorative lion/dragon head is suspended near the top center-right of the image; its mouth and one eye are clearly visible and the head is mostly unobscured.",
+    "At least seven smaller decorative lion/dragon heads are mounted on the left wall in two vertical rows on bamboo shelving; several of these smaller heads are partially cropped or partially obscured by shelving.",
+    "Two cardboard boxes with a visible blue logo and the word \"Quaker\" are on the table at lower left; a larger unbranded cardboard box is visible in the lower right foreground and is partially cropped.",
+    "One long table or bench covered with newspapers runs across the lower central area of the image and supports boxes and small items.",
+    "A bamboo scaffold / frame structure comprising many vertical and horizontal bamboo poles forms the ceiling and walls and is a dominant fixed structure in the scene.",
+    "Two plastic tarps are visible: one blue tarp folded or draped toward the mid-right background and one black tarp covering objects at lower right.",
+    "At least three carved stone or concrete statue-like objects are visible in the middle-right background, two of which appear to be seated figures; these are partially obscured by scaffolding.",
+    "One small red lamp or lantern is visible on a surface near the center of the image, slightly left of the large suspended head.",
+    "Stacks or piles of newspapers or printed sheets cover parts of the table and the top of the foreground cardboard box.",
+    "Many structural elements are tan-colored bamboo poles with a natural, smooth wood-like texture.",
+    "The large suspended head is principally black with bright red and pink interior mouth areas, white teeth, and decorative red, green and yellow painted motifs.",
+    "The smaller heads on the left are predominantly red, orange, green and metallic-coloured with painted decorations and some fur or fringe elements in darker tones.",
+    "The cardboard boxes are brown corrugated cardboard with blue printed logos/graphics.",
+    "The statues appear grey and look like stone or concrete (material inferred from texture and colour but not confirmed).",
+    "Newspapers and printed sheets on the table are white/grey with multicolored print; a blue plastic tarp and a black plastic tarp are also visible."
+  ],
+  "id": "0fe43bd93394260e9df35c2c",
+  "sha256": "a1d796900231a5aaa2a6f67234f448fea0452fbc50fe249aa76e1973b926043c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:28:08.189995+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "ff7f474f2dd713cd661bba7d6b95c789af7e1e601d7f387528c4e4d8c436a24b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatrxPrd2PJBYUBT14QQgl627KWKH",
+  "usage": {
+    "completion_tokens": 1297,
+    "prompt_tokens": 2122,
+    "total_tokens": 3419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1153,
+      "engine_ttlt_ms": 8875,
+      "pre_inference_ms": 373,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2095,
+      "service_ttlt_ms": 9808,
+      "user_visible_ttft_ms": 1722
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

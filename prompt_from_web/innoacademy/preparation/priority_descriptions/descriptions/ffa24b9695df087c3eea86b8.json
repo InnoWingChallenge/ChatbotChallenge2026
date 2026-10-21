@@ -1,0 +1,98 @@
+{
+  "title": "Laptop screen showing a double-slit diagram on a white slide",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One laptop is visible (screen and bezel visible; model marking visible on bezel).",
+    "One slide or document image is shown on the laptop screen containing a schematic diagram (double-slit style) and caption.",
+    "No people are visible in the photographed scene.",
+    "Visible smudges and fingerprints appear on the laptop screen surface, primarily at upper and right edges.",
+    "One small logo/text 'Lenovo' is visible on the lower-left portion of the laptop bezel and one marking 'L470' is visible on the lower-right portion of the bezel."
+  ],
+  "visible_text": [
+    "ELECTRON GUN",
+    "WALL",
+    "DETECTOR",
+    "BACKSTOP",
+    "Figure 2: Double-slit experiment demonstrating superposition of trajectories.",
+    "Lenovo",
+    "L470"
+  ],
+  "spatial_relations": [
+    "The white slide with the schematic is displayed centrally on the laptop screen with a wide black border (the screen's inactive area) around it.",
+    "The schematic on the slide shows an electron gun at left, a wall and backstop in the middle, detector indicated to the right of the slits, and plots to the far right in the slide artwork.",
+    "The laptop bezel surrounds the screen; the 'Lenovo' text is on the lower-left bezel and 'L470' is on the lower-right bezel.",
+    "Smudges/fingerprints are concentrated near the upper-central and upper-right portions of the screen outside the white slide area."
+  ],
+  "colours_and_materials": [
+    "The slide background displayed on the screen is white with black line art and black text.",
+    "The laptop bezel is grey; the screen border/active area around the slide appears black.",
+    "Fingerprints/smudges are visible as darker glossy marks on the screen surface, suggesting a glass display."
+  ],
+  "uncertainties": [
+    "Several smaller labels and formula text within the schematic (for example axis labels, small formulae near the right-hand plots, and small legible letters beside plotted curves) are too small or blurred to transcribe precisely; these are not included in visible_text.",
+    "Parts of the schematic text near the right-hand graph appear as short labels (e.g. 'A1' / 'A2' and formula fragments) but are not fully legible; I have transcribed only the clearly readable words.",
+    "The presence of any additional equipment or objects outside the visible laptop frame (such as a keyboard, table, room signage) cannot be determined from this image."
+  ],
+  "visual_facts": [
+    "One laptop is visible (screen and bezel visible; model marking visible on bezel).",
+    "One slide or document image is shown on the laptop screen containing a schematic diagram (double-slit style) and caption.",
+    "No people are visible in the photographed scene.",
+    "Visible smudges and fingerprints appear on the laptop screen surface, primarily at upper and right edges.",
+    "One small logo/text 'Lenovo' is visible on the lower-left portion of the laptop bezel and one marking 'L470' is visible on the lower-right portion of the bezel.",
+    "The slide background displayed on the screen is white with black line art and black text.",
+    "The laptop bezel is grey; the screen border/active area around the slide appears black.",
+    "Fingerprints/smudges are visible as darker glossy marks on the screen surface, suggesting a glass display."
+  ],
+  "id": "ffa24b9695df087c3eea86b8",
+  "sha256": "18f1ef53392ea3bf8e0ec11a827fd72c2d2cfd9c4dbc7fdb93abe3e3cc6fc5ce",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:25:57.196520+00:00",
+  "input_resolution": [
+    1280,
+    853
+  ],
+  "input_sha256": "59e0d656e23b8a168470af366c81f514648c8983044fb042b21696f3b26b0f6b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatpr8Bqtf6qym0t3MP8ZfVWdMcLC",
+  "usage": {
+    "completion_tokens": 911,
+    "prompt_tokens": 2266,
+    "total_tokens": 3177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 974,
+      "engine_ttlt_ms": 7803,
+      "pre_inference_ms": 231,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2292,
+      "service_ttlt_ms": 9116,
+      "user_visible_ttft_ms": 2061
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

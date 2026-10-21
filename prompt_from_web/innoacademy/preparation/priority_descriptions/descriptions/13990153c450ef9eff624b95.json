@@ -1,0 +1,31 @@
+{
+  "id": "13990153c450ef9eff624b95",
+  "sha256": "8218a17c9349f1fee8f391bc34df252325fafc871ce2b216dcbd3b20164c393e",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Open-frame single-seat race car in a workshop",
+  "visible_text": [
+    "CONTENT MANAGER",
+    "FORMULA & GT FOLDABLE COCKPIT",
+    "MARKS & SPENCER",
+    "Hoosier"
+  ],
+  "visual_facts": [
+    "An open tubular metal frame chassis with a single black racing seat occupies the center foreground.",
+    "The vehicle has wide black tires, exposed suspension and other mechanical parts, and a light blue block covering the front.",
+    "Two wide monitors are mounted behind the vehicle, with a computer interface visible on the left screen.",
+    "A bright red multi-drawer tool chest stands at the right; boxes and workshop items line the left side.",
+    "A shop vacuum and stools are positioned around the vehicle."
+  ],
+  "spatial_relations": [
+    "The vehicle is centered in front of the monitor workstation.",
+    "The red tool chest is at the rear right of the vehicle.",
+    "A shop vacuum and stools stand near the vehicle on the right."
+  ],
+  "uncertainties": [
+    "The exact vehicle model and the purpose of the front blue covering are not identifiable from this view."
+  ]
+}

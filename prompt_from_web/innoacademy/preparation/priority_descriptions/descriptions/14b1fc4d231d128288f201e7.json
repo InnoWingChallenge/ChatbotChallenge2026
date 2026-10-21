@@ -1,0 +1,110 @@
+{
+  "title": "Group demonstration in a poster-backed lab space",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Seven people are visible and individually distinguishable in the photographed scene: six facing the demonstrator and one demonstrator at right holding an object. All seven faces are visible; none are identified by name in the image.",
+    "One person (right foreground) holds a small clear rectangular container (appears to be glass or clear plastic) in their left hand and a smartphone in their right hand, presenting the item to the group.",
+    "One person (rightmost, behind the demonstrator) holds a smartphone or small camera up toward the demonstrator; the device is partially visible and is being used to record or photograph.",
+    "One tall equipment cabinet or large machine is visible against the rear left wall (one unit), partially cropped by the left edge of the image.",
+    "Two wall posters or mounted information boards are visible on the rear/right wall: one large poster with multiple panels at far right and one narrower poster centered on the rear wall.",
+    "One high stool or chair is visible near the right table area (one stool), partially behind the demonstrator.",
+    "One small tabletop or counter at the right side of the image holds at least one clear plastic water bottle (one bottle visible) and a small electronic device or box (one), plus other small items partially obscured.",
+    "One lanyard badge is visible worn by the second person from left (one visible lanyard and badge)."
+  ],
+  "visible_text": [
+    "Quantum Demonstrator",
+    "CDGFSS",
+    "Est. 1987",
+    "STEM Education for",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The demonstrator stands at the right foreground facing left toward the group while holding a clear container and a smartphone; one other person to the demonstrator's immediate right/rear is holding up a smartphone/camera toward the demonstrator.",
+    "Five people form a roughly semicircular grouping to the left and center of the image, standing close together and facing the demonstrator; their feet are on the pale floor, and they are positioned in front of a recessed equipment cabinet against the rear wall.",
+    "A large multi-panel poster is mounted on the rear right wall above the right-side counter; a narrower poster is mounted on the rear center wall between the cabinet and the larger poster.",
+    "The counter/table on the right runs parallel to the rear wall and sits immediately below the large poster; the stool is positioned in front of that counter.",
+    "The large equipment cabinet is situated against the rear left wall behind the semicircle of people and to the left of the narrow poster."
+  ],
+  "colours_and_materials": [
+    "Floor is a pale mint-green or very light green colour with a smooth appearance.",
+    "Rear and side walls are light grey panels, matte in appearance.",
+    "Large poster panels have prominent blue and white colours; the narrow poster has a white background with darker headings.",
+    "The demonstrator wears a light grey long-sleeve shirt; the person holding the lanyard wears a black jacket with a light-coloured hood lining.",
+    "The clear container held by the demonstrator appears transparent (glass or clear plastic)."
+  ],
+  "uncertainties": [
+    "Location is not labeled in the visible portion of the image; no room name or number is legible, so the precise room is unknown from the image.",
+    "The exact wording of several pieces of text is partially obscured or too small to read; examples include the full heading of the narrow rear poster (transcribed as \"STEM Education for\" with following text unreadable) and the full heading of the large right poster (transcribed as \"Quantum Demonstrator\"; additional words after that are unreadable).",
+    "The text on the dark sweatshirt/hoodie worn by the person near center-left is partly legible as \"CDGFSS\" and a smaller line as \"Est. 1987\"; characters could be misread due to font and image resolution.",
+    "Small labels, equipment nameplates or brand logos on the large machine at the rear left and on the small device on the right counter are not legible in this view and thus were not transcribed.",
+    "Counts for small or partially obscured items on the right counter (besides the clearly visible water bottle and a small box/device) cannot be determined due to occlusion and image resolution.",
+    "Some text fragments at the top of the right poster and on smaller labels are unreadable; these have been marked as [unreadable] rather than guessed."
+  ],
+  "visual_facts": [
+    "Seven people are visible and individually distinguishable in the photographed scene: six facing the demonstrator and one demonstrator at right holding an object. All seven faces are visible; none are identified by name in the image.",
+    "One person (right foreground) holds a small clear rectangular container (appears to be glass or clear plastic) in their left hand and a smartphone in their right hand, presenting the item to the group.",
+    "One person (rightmost, behind the demonstrator) holds a smartphone or small camera up toward the demonstrator; the device is partially visible and is being used to record or photograph.",
+    "One tall equipment cabinet or large machine is visible against the rear left wall (one unit), partially cropped by the left edge of the image.",
+    "Two wall posters or mounted information boards are visible on the rear/right wall: one large poster with multiple panels at far right and one narrower poster centered on the rear wall.",
+    "One high stool or chair is visible near the right table area (one stool), partially behind the demonstrator.",
+    "One small tabletop or counter at the right side of the image holds at least one clear plastic water bottle (one bottle visible) and a small electronic device or box (one), plus other small items partially obscured.",
+    "One lanyard badge is visible worn by the second person from left (one visible lanyard and badge).",
+    "Floor is a pale mint-green or very light green colour with a smooth appearance.",
+    "Rear and side walls are light grey panels, matte in appearance.",
+    "Large poster panels have prominent blue and white colours; the narrow poster has a white background with darker headings.",
+    "The demonstrator wears a light grey long-sleeve shirt; the person holding the lanyard wears a black jacket with a light-coloured hood lining.",
+    "The clear container held by the demonstrator appears transparent (glass or clear plastic)."
+  ],
+  "id": "14b1fc4d231d128288f201e7",
+  "sha256": "3588520e66cad1508d83518672316a0428299fd55be7b5e2438aa9fee15ff6ba",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:04:21.773096+00:00",
+  "input_resolution": [
+    2096,
+    1572
+  ],
+  "input_sha256": "d008eb60100e9b3aa233df6a630ec2454a7bf2c846d470960f04b2a8e3b4148a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatUucIZvTpW1InHXof1KUpPg5g6j",
+  "usage": {
+    "completion_tokens": 1439,
+    "prompt_tokens": 2122,
+    "total_tokens": 3561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1149,
+      "engine_ttlt_ms": 11685,
+      "pre_inference_ms": 319,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1933,
+      "service_ttlt_ms": 12465,
+      "user_visible_ttft_ms": 1615
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

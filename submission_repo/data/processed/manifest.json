@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-23T06:59:11.970181+00:00",
+  "inputs": {
+    "pages": {
+      "path": "pages.json",
+      "sha256": "1d18b7b8779332cf94bfb0bde82d2c8598dd9b68efd41a689a34a9c1273b0c05"
+    },
+    "images": {
+      "path": "images.json",
+      "sha256": "8e2ea8cbe45030deac748fb1f99913a2d084cbb6a5161c1ebc38c4f6dc064171"
+    }
+  },
+  "outputs": [
+    "documents.json",
+    "images.json",
+    "image_queue.json",
+    "review_pages.json",
+    "report.json",
+    "SCHEMA.md"
+  ]
+}

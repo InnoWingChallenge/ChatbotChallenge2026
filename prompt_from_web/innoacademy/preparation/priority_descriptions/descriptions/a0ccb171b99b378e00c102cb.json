@@ -1,0 +1,97 @@
+{
+  "title": "Handheld rotary tool (DREMEL) and accessory kit on white background",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One handheld rotary tool is visible, shown horizontally near the top of the image; the body is fully visible and the tool has a sanding drum or cylindrical accessory attached to its left end.",
+    "One clear rectangular plastic box or lid is visible at the right side of the image, partially separated from accessories.",
+    "One black plastic accessory holder or guard is visible in the foreground near centre-right.",
+    "One small metal wrench- shaped tool is visible near the black plastic piece.",
+    "Multiple small accessory pieces are visible scattered in the foreground (discs, drums, stones, mandrels and shanks). At least 12 distinct small accessories can be individually distinguished in the foreground area, though some are partially overlapping."
+  ],
+  "visible_text": [
+    "DREMEL",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The rotary tool is placed horizontally across the upper portion of the image with its working end (sanding drum) to the left and the thicker black rear end to the right.",
+    "Accessories are arranged primarily in the lower right and lower centre of the image, separated from the tool by a clear area of white background.",
+    "The clear rectangular plastic box is positioned to the right of the tool's rear end and to the right of the accessory cluster.",
+    "The black plastic accessory holder is located in front of and slightly left of the clear plastic box, with the small wrench immediately to its right."
+  ],
+  "colours_and_materials": [
+    "The rotary tool body is silver/grey with blue accent markings and a black rear end; finish appears to be plastic and molded polymer for the body and a rubberised or textured black area at the rear.",
+    "The sanding drums and abrasive accessories are various shades of brown and orange, consistent with abrasive stone or sanding material.",
+    "Accessory shanks and small metallic parts are silver-coloured metal.",
+    "The accessory holder is black plastic and the rectangular box is clear or translucent plastic."
+  ],
+  "uncertainties": [
+    "The image does not show any room signage or location identifier; location is unknown from image.",
+    "The small text near the DREMEL logo (model number or other) is not legible; only 'DREMEL' can be reliably read and other characters are unreadable.",
+    "Exact identification and exact count of all small accessories is limited by partial overlap and some pieces being partially obscured; I report at least 12 distinct small accessories that can be individually distinguished.",
+    "I have not assumed any equipment specifications, model numbers, or brand details beyond the legible 'DREMEL' text.",
+    "Because this is a product-style image on a white background, it does not show any room layout, fixed facilities or installed equipment; therefore it is not suitable as evidence for a physical lab location or facility layout."
+  ],
+  "visual_facts": [
+    "One handheld rotary tool is visible, shown horizontally near the top of the image; the body is fully visible and the tool has a sanding drum or cylindrical accessory attached to its left end.",
+    "One clear rectangular plastic box or lid is visible at the right side of the image, partially separated from accessories.",
+    "One black plastic accessory holder or guard is visible in the foreground near centre-right.",
+    "One small metal wrench- shaped tool is visible near the black plastic piece.",
+    "Multiple small accessory pieces are visible scattered in the foreground (discs, drums, stones, mandrels and shanks). At least 12 distinct small accessories can be individually distinguished in the foreground area, though some are partially overlapping.",
+    "The rotary tool body is silver/grey with blue accent markings and a black rear end; finish appears to be plastic and molded polymer for the body and a rubberised or textured black area at the rear.",
+    "The sanding drums and abrasive accessories are various shades of brown and orange, consistent with abrasive stone or sanding material.",
+    "Accessory shanks and small metallic parts are silver-coloured metal.",
+    "The accessory holder is black plastic and the rectangular box is clear or translucent plastic."
+  ],
+  "id": "a0ccb171b99b378e00c102cb",
+  "sha256": "069c7d456e3826c85390e0e57d68983cabfcd223109498329e7c385aeec1cefb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:55:44.581245+00:00",
+  "input_resolution": [
+    466,
+    279
+  ],
+  "input_sha256": "0c79f4669bef6a720f306482e55242da3d6061f5a0665318010813e0a770cb44",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauIhWEUiUVrmxOT15kdtaqcGAH6s",
+  "usage": {
+    "completion_tokens": 1029,
+    "prompt_tokens": 1362,
+    "total_tokens": 2391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 71,
+      "engine_ttlt_ms": 8484,
+      "pre_inference_ms": 105,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 257,
+      "service_ttlt_ms": 8666,
+      "user_visible_ttft_ms": 152
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

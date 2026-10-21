@@ -1,0 +1,241 @@
+[
+  {
+    "id": "006fdcdaf41f29d76780517c",
+    "sha256": "8a4ad3bb49728d2afa5e34f77934297c36cad77cef64d80ee74e3b694e6b5519",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/8a4ad3bb49728d2afa5e34f77934297c36cad77cef64d80ee74e3b694e6b5519.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/8a4ad3bb49728d2afa5e34f77934297c36cad77cef64d80ee74e3b694e6b5519.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/12/IMG_20190822_010953-01-Utkarsh-Goel-1.jpeg",
+    "source_ids": [
+      "006fdcdaf41f29d76780517c"
+    ],
+    "width": 433,
+    "height": 577,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sls/",
+        "page_title": "Smart Laundry System",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:30.652306+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sls/img_20190822_010953-01-utkarsh-goel-1/",
+        "page_title": "IMG_20190822_010953-01 – Utkarsh Goel (1)",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 5686,
+        "parent_post_id": 5672,
+        "published_at": "2019-12-04T08:40:57",
+        "retrieved_at": "2026-10-13T13:18:35.529687+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "012956fee6fb6a69043fb88c",
+    "sha256": "a57af322fe3bf58f7ed7be6c72d7cc62aefb45437420ecdac21e3d0289f67996",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/a57af322fe3bf58f7ed7be6c72d7cc62aefb45437420ecdac21e3d0289f67996.png",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a57af322fe3bf58f7ed7be6c72d7cc62aefb45437420ecdac21e3d0289f67996.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/Detail-and-rule-of-games-pdf-頁面-2-1-2.png",
+    "source_ids": [
+      "012956fee6fb6a69043fb88c",
+      "7eb1f40e2f860ce132a31d41",
+      "d992584c671759826af7f066"
+    ],
+    "width": 1049,
+    "height": 878,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/cyborg/",
+        "page_title": "Project Cyborg",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:49.737481+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/gg2ez/",
+        "page_title": "The 1st Greater Bay Area drone competition",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:15:17.436432+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/gg2ez/detail-and-rule-of-games-pdf-%e9%a0%81%e9%9d%a2-2-1-3/",
+        "page_title": "Detail and rule of games pdf-頁面-2-1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3298,
+        "parent_post_id": 3159,
+        "published_at": "2019-07-02T09:42:46",
+        "retrieved_at": "2026-10-13T13:18:35.791830+00:00",
+        "discovery": "public_media"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/gg2ez/detail-and-rule-of-games-pdf-%e9%a0%81%e9%9d%a2-2-1-2/",
+        "page_title": "Detail and rule of games pdf-頁面-2-1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3296,
+        "parent_post_id": 3159,
+        "published_at": "2019-07-02T09:35:23",
+        "retrieved_at": "2026-10-13T13:18:35.792232+00:00",
+        "discovery": "public_media"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/gg2ez/detail-and-rule-of-games-pdf-%e9%a0%81%e9%9d%a2-2-1/",
+        "page_title": "Detail and rule of games pdf-頁面-2-1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3295,
+        "parent_post_id": 3159,
+        "published_at": "2019-07-02T09:33:31",
+        "retrieved_at": "2026-10-13T13:18:35.792689+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "03624ee3d2b53600cbe4cfb6",
+    "sha256": "a7e4a4f68f705e037adc2efde010ef7532935bb687ce4a6bf40d35e340d29c58",
+    "category": "equipment_facility",
+    "local_path": "submission_repo/data/web_academy/recovered/a7e4a4f68f705e037adc2efde010ef7532935bb687ce4a6bf40d35e340d29c58.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/a7e4a4f68f705e037adc2efde010ef7532935bb687ce4a6bf40d35e340d29c58.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/IMG_0045.jpg",
+    "source_ids": [
+      "03624ee3d2b53600cbe4cfb6"
+    ],
+    "width": 1024,
+    "height": 682,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/sorbot/img_0045/",
+        "page_title": "IMG_0045",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 10014,
+        "parent_post_id": 9424,
+        "published_at": "2020-12-02T07:24:05",
+        "retrieved_at": "2026-10-13T13:18:35.143956+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "00403daee01294b2747b5d5c",
+    "sha256": "6c04eb010264e0ae687ca8d93d2fa17ccc81d465ea30fb3d5d042bf7de15cadf",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/6c04eb010264e0ae687ca8d93d2fa17ccc81d465ea30fb3d5d042bf7de15cadf.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/6c04eb010264e0ae687ca8d93d2fa17ccc81d465ea30fb3d5d042bf7de15cadf.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/dreamlabinside-2.jpg",
+    "source_ids": [
+      "00403daee01294b2747b5d5c"
+    ],
+    "width": 4306,
+    "height": 2490,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/enggbootcamp-visit/dreamlabinside-2/",
+        "page_title": "dreamlabinside-2",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 3233,
+        "parent_post_id": 2997,
+        "published_at": "2019-06-24T02:55:44",
+        "retrieved_at": "2026-10-13T13:18:35.796972+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "0397d0d90c4a2429d1069b9e",
+    "sha256": "ca2afeab2ffddae8c5f11a45505b5c30237e4f9365857f22d68725aca9a73230",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/ca2afeab2ffddae8c5f11a45505b5c30237e4f9365857f22d68725aca9a73230.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/ca2afeab2ffddae8c5f11a45505b5c30237e4f9365857f22d68725aca9a73230.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Design-Build-Fly-2020-team-3-photo-1.jpg",
+    "source_ids": [
+      "0397d0d90c4a2429d1069b9e"
+    ],
+    "width": 1732,
+    "height": 1154,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dbf2team3/",
+        "page_title": "Design, Build & Fly Team 3 @ 2nd Inno Show",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:14:51.878717+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/schedule-app/",
+        "page_title": "Scheduling Application",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "retrieved_at": "2026-10-13T13:17:16.115176+00:00",
+        "discovery": "page_reference"
+      },
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/dbf2team3/design-build-fly-2020-team-3-photo-1/",
+        "page_title": "Design, Build & Fly 2020 team 3 – photo 1",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 6506,
+        "parent_post_id": 6490,
+        "published_at": "2020-06-03T08:53:08",
+        "retrieved_at": "2026-10-13T13:18:35.439953+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  },
+  {
+    "id": "03f8b85b84291c471c7bb4bf",
+    "sha256": "d84fdd1fc1bbae029514c3fb42a933c08f4e6a50c4609b87792edd4fec9ee7e1",
+    "category": "space_layout",
+    "local_path": "submission_repo/data/web_academy/recovered/d84fdd1fc1bbae029514c3fb42a933c08f4e6a50c4609b87792edd4fec9ee7e1.jpg",
+    "preview_path": "submission_repo/data/web_academy/priority_description_previews/d84fdd1fc1bbae029514c3fb42a933c08f4e6a50c4609b87792edd4fec9ee7e1.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/12/DreamChamber-scaled.jpg",
+    "source_ids": [
+      "03f8b85b84291c471c7bb4bf"
+    ],
+    "width": 2560,
+    "height": 1151,
+    "context": [
+      {
+        "source_page": "https://innoacademy.engg.hku.hk/innowing/dreamchamber-2/",
+        "page_title": "DreamChamber",
+        "alt": "",
+        "caption": "",
+        "nearby_text": "",
+        "media_id": 10161,
+        "parent_post_id": 1287,
+        "published_at": "2020-12-08T10:29:18",
+        "retrieved_at": "2026-10-13T13:18:35.120368+00:00",
+        "discovery": "public_media"
+      }
+    ],
+    "prompt_version": "equipment-space-v1"
+  }
+]

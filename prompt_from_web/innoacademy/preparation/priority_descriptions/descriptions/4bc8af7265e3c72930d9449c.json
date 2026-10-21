@@ -1,0 +1,95 @@
+{
+  "title": "Hand holding a small circular white paper disc on a tabletop",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One human hand (palm) is visible, showing five fingers (all five digit tips and lengths are visible within the frame).",
+    "One circular white disc (appears to be thin paper or tissue) is placed on the palm; the disc is roughly centered on the palm and shows visible creases.",
+    "At least one beige tabletop or work surface is visible beneath the hand occupying most of the background.",
+    "A small stack or folded blue papers is partially visible in the top-left corner of the image (cropped; exact count not determinable).",
+    "A dark shoe or foot is partially visible at the bottom-center/right edge of the image (cropped)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The circular white disc is positioned on the center of the palm, overlapping the base of the fingers and resting above the lifelines of the hand.",
+    "The hand lies horizontally across the image with fingertips pointing toward the right edge of the frame and the wrist toward the left edge.",
+    "The beige tabletop fills the background under and around the hand; the blue papers are located behind the hand toward the top-left corner.",
+    "A dark shoe or foot appears below the hand near the bottom-center/right edge of the frame and is partially cropped by the image border."
+  ],
+  "colours_and_materials": [
+    "The hand shows natural skin tones.",
+    "The circular disc is white and appears to be made of thin creased paper or tissue (paper-like texture visible).",
+    "The visible tabletop is beige and appears to have a smooth, possibly glossy surface.",
+    "The partially visible papers in the top-left are blue."
+  ],
+  "uncertainties": [
+    "No room name, room number or sign is visible; location cannot be determined from the image.",
+    "No legible printed or handwritten text is visible anywhere in the image.",
+    "Material identification of the circular disc is uncertain; it appears paper-like but could be another thin material.",
+    "The blue items in the top-left are partially cropped and may be a stack of papers or other objects; the exact count is not determinable from this crop.",
+    "The dark object at the bottom of the frame appears to be a shoe or foot but is partially occluded and cropped, so identification is uncertain.",
+    "This image does not contain clear equipment, facility identifiers or layout evidence required for HKU Innovation Academy / Tam Wing Fan Innovation Wing documentation, hence suitable:false."
+  ],
+  "visual_facts": [
+    "One human hand (palm) is visible, showing five fingers (all five digit tips and lengths are visible within the frame).",
+    "One circular white disc (appears to be thin paper or tissue) is placed on the palm; the disc is roughly centered on the palm and shows visible creases.",
+    "At least one beige tabletop or work surface is visible beneath the hand occupying most of the background.",
+    "A small stack or folded blue papers is partially visible in the top-left corner of the image (cropped; exact count not determinable).",
+    "A dark shoe or foot is partially visible at the bottom-center/right edge of the image (cropped).",
+    "The hand shows natural skin tones.",
+    "The circular disc is white and appears to be made of thin creased paper or tissue (paper-like texture visible).",
+    "The visible tabletop is beige and appears to have a smooth, possibly glossy surface.",
+    "The partially visible papers in the top-left are blue."
+  ],
+  "id": "4bc8af7265e3c72930d9449c",
+  "sha256": "2ad315dc3118eef579a0de0412e1df31e945bd3b44bdc06f700a291b44afb63f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:09:47.795758+00:00",
+  "input_resolution": [
+    1024,
+    768
+  ],
+  "input_sha256": "3c013c75e633e127abad4e6060edd86f19afc21f1ec4f4391fed35924f235cf2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EataFGj7VdDpRl3SZMdS7gq1Xo3QG",
+  "usage": {
+    "completion_tokens": 824,
+    "prompt_tokens": 2122,
+    "total_tokens": 2946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 582,
+      "engine_ttlt_ms": 6764,
+      "pre_inference_ms": 104,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1244,
+      "service_ttlt_ms": 7421,
+      "user_visible_ttft_ms": 1140
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

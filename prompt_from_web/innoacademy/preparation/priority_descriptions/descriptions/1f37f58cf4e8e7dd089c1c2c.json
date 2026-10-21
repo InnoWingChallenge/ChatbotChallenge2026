@@ -1,0 +1,114 @@
+{
+  "title": "Red powder fire extinguisher with hose and label",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One red cylindrical fire extinguisher is visible, shown in full height and upright.",
+    "One black flexible hose is attached to the left side of the extinguisher and is visible from near the top down to the base; the hose is not cropped.",
+    "One pressure gauge is visible at the top assembly next to the handle; the gauge face is visible and not cropped.",
+    "One red metal handle / lever assembly is visible at the top of the extinguisher.",
+    "One black rubber or plastic base is fitted around the bottom of the extinguisher and is fully visible.",
+    "Multiple printed pictogram panels and instruction labels are visible on the front face of the extinguisher; these are part of the photographed scene, not separate posters or screens.",
+    "No people are visible in the image."
+  ],
+  "visible_text": [
+    "Powder",
+    "FIRE EXTINGUISHER",
+    "6kg ABC POWDER",
+    "43A 233B C",
+    "For use on all fires (Classes A, B & C) except metal fires",
+    "Use upright",
+    "Pull out safety pin",
+    "Free hose",
+    "Aim nozzle at base of fire",
+    "Squeeze handles",
+    "COMMANDER",
+    "CAUTION:",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The main instruction label with the word 'Powder' is centered on the front face of the cylinder.",
+    "The black hose runs up the left side of the cylinder from the base to the top valve assembly and then curves outward to the left of the handle.",
+    "The pressure gauge is mounted at the top of the cylinder adjacent to the red handle/lever; the handle extends to the right and up from the valve assembly.",
+    "Pictogram instruction boxes are arranged vertically on the front label beneath the 'FIRE EXTINGUISHER' heading.",
+    "The black base encircles the bottom of the red cylinder and rests beneath the front label area."
+  ],
+  "colours_and_materials": [
+    "The extinguisher body is glossy red.",
+    "The hose is black and appears to be a flexible rubber or rubber-like material.",
+    "The base is black and appears to be rubber or hard plastic.",
+    "The valve assembly and connector area include a metallic (brass-coloured) fitting beneath the gauge.",
+    "The handle/lever is painted red metal, matching the cylinder colour."
+  ],
+  "uncertainties": [
+    "Smaller caution and manufacturer text near the bottom and on the right side of the label is not legible in the image and is represented as '[unreadable]'.",
+    "The exact spacing, punctuation or line breaks of some multi-line instruction blocks may be partially obscured by reflections; transcriptions for those lines are the best readable rendering.",
+    "The short code '43A 233B C' was transcribed as visible, but minute characters around it are small and could contain additional marks that are not legible.",
+    "Manufacturer/address text below 'COMMANDER' is too small to read reliably in this image and was therefore not transcribed."
+  ],
+  "visual_facts": [
+    "One red cylindrical fire extinguisher is visible, shown in full height and upright.",
+    "One black flexible hose is attached to the left side of the extinguisher and is visible from near the top down to the base; the hose is not cropped.",
+    "One pressure gauge is visible at the top assembly next to the handle; the gauge face is visible and not cropped.",
+    "One red metal handle / lever assembly is visible at the top of the extinguisher.",
+    "One black rubber or plastic base is fitted around the bottom of the extinguisher and is fully visible.",
+    "Multiple printed pictogram panels and instruction labels are visible on the front face of the extinguisher; these are part of the photographed scene, not separate posters or screens.",
+    "No people are visible in the image.",
+    "The extinguisher body is glossy red.",
+    "The hose is black and appears to be a flexible rubber or rubber-like material.",
+    "The base is black and appears to be rubber or hard plastic.",
+    "The valve assembly and connector area include a metallic (brass-coloured) fitting beneath the gauge.",
+    "The handle/lever is painted red metal, matching the cylinder colour."
+  ],
+  "id": "1f37f58cf4e8e7dd089c1c2c",
+  "sha256": "0aceb0c49349f952c43ade0549ec67c61b0994cf2d0c82781c7a95778018453f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:07:15.744485+00:00",
+  "input_resolution": [
+    690,
+    870
+  ],
+  "input_sha256": "d4d3ae502686c8ed93378da7ed2fa42fb23919b9b9ed6b84c6d4f95f02c4c356",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatXm8Rdc35BSbCXZXK4zivd0Fm86",
+  "usage": {
+    "completion_tokens": 968,
+    "prompt_tokens": 1940,
+    "total_tokens": 2908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 580,
+      "engine_ttlt_ms": 7755,
+      "pre_inference_ms": 128,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1772,
+      "service_ttlt_ms": 8941,
+      "user_visible_ttft_ms": 1644
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

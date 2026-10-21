@@ -1,0 +1,20 @@
+[
+  {
+    "id": "vino",
+    "src": "https://innowings.engg.hku.hk/wp-content/uploads/2023/07/VINO.png",
+    "source_page": "https://innowings.engg.hku.hk/epinn-vino/",
+    "retrieved_at": "2026-10-12T02:30:12.255907+00:00",
+    "content_type": "image/png",
+    "sha256": "e9c644beaa4723ff53e24e6246acd4b6cc6dc6660684ad7f8bce616f8452521c",
+    "local_path": "submission_repo/data/image_pilot/vino.png"
+  },
+  {
+    "id": "clearbot",
+    "src": "https://innoacademy.engg.hku.hk/wp-content/uploads/GGCS2019/Slides_16.jpg",
+    "source_page": "https://innoacademy.engg.hku.hk/clearbot2019/",
+    "retrieved_at": "2026-10-12T02:30:16.518425+00:00",
+    "content_type": "image/jpeg",
+    "sha256": "9bd61a5cf79a3c65002effd0c765fea0e613e535f09fb4c779078ba9d2b86ba3",
+    "local_path": "submission_repo/data/image_pilot/clearbot.jpg"
+  }
+]

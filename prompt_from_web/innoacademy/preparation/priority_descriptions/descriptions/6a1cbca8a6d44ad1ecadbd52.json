@@ -1,0 +1,109 @@
+{
+  "title": "Graphic banner reading 'LEARN' on turquoise strip with black marker overlay",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One large black marker body with exposed chisel nib is visible in the lower-right quadrant; it crosses over the turquoise strip and is mostly visible (not cropped).",
+    "One black marker cap or separate marker head is visible in the upper-left quadrant, resting on the beige background and partly cropped by the image edge.",
+    "One horizontal turquoise rectangular banner or strip spans approximately the central horizontal third of the image, containing a decorative composition that forms the word 'LEARN'.",
+    "The banner contains five large letter-forms that spell 'LEARN' from left to right; each letter is composed of illustrated objects (described below in spatial_relations and colours_and_materials).",
+    "A stack of multi-coloured folders or notebooks (blue top cover with a large white 'L' on it) is visible at the far left inside the turquoise strip; the stack is not fully cropped.",
+    "A spiral-bound notepad or sketchbook underneath a large grey 'R' is visible near the centre-right inside the turquoise strip; colour swatches are visible beneath it.",
+    "Numerous small illustrated objects appear as part of the letters (paint palette with multiple colour wells, magnifying glass, light bulb icon, a small floppy-disk-shaped icon or square with smaller items) but individual small items cannot all be reliably counted from the image resolution."
+  ],
+  "visible_text": [
+    "LEARN"
+  ],
+  "spatial_relations": [
+    "A turquoise rectangular strip runs horizontally across the image centre; the large letters forming 'LEARN' are placed sequentially left to right within that strip.",
+    "The stack of folders/notebooks with the letter 'L' is positioned at the left edge of the turquoise strip.",
+    "To the right of the 'L' sits a green letter 'E' formed as a block with small icons centered on it; further right is a red 'A' incorporating a lightbulb and paint palette and a magnifying glass at its lower right.",
+    "A spiral-bound notepad showing a large grey 'R' sits roughly central-right inside the strip, with colour swatches or a colour fan under or behind it.",
+    "At the far right of the strip the letter 'N' is formed from rulers, a blue triangular shape and small desk items (glasses, pencil-like objects, gears and crumpled paper) arranged vertically and diagonally.",
+    "A black marker body crosses diagonally from the lower-right corner toward the turquoise strip, its nib overlapping the strip near the letter area; the black marker cap is separate and lies near the upper-left corner of the image on the beige background.",
+    "The turquoise strip contrasts with a larger beige paper-textured background that fills the rest of the image."
+  ],
+  "colours_and_materials": [
+    "The central rectangular banner is a solid turquoise/aqua colour.",
+    "The background outside the strip is a light beige with a paper-like texture.",
+    "The stack of folders/notebooks left-of-centre includes a blue top cover with a large white 'L'; other folders underneath show red and yellow edges.",
+    "The letter 'E' is a solid green; the 'A' is solid red with coloured illustration elements (paint palette colours, yellow lightbulb), and the 'R' is shown as a grey letter on a white spiral-bound notepad.",
+    "The marker body and cap are black plastic with a matte or low-sheen appearance; the marker nib is black.",
+    "The 'N' is composed of blue and yellow measuring/ruler-like elements and small grey gear shapes, with small metallic/grey details and a pair of black eyeglass frames drawn near the top."
+  ],
+  "uncertainties": [
+    "No room sign, room number or other location identifier is visible; therefore location is unknown from the image.",
+    "Many small illustrated objects within the letters (tiny icons, a floppy-disk-shaped rectangle, small pins, tiny gears and crumpled paper) are visually present but too small or partly obscured for reliable individual counts or exact transcriptions.",
+    "Any small printed labels, fine text on the colour swatches, or tiny captions on the illustrated objects are unreadable at this image resolution and could not be transcribed.",
+    "It is unclear whether any of the illustrated items represent real physical objects in the photographed scene or are purely part of the printed/graphic design on the turquoise banner; the composition appears graphic/illustrated rather than photographed real objects.",
+    "This image does not show room fixtures, equipment nameplates, control panels or fixed facility elements required for detailed equipment/facility evidence, so it is not suitable evidence for facility layout or equipment inventory purposes."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One large black marker body with exposed chisel nib is visible in the lower-right quadrant; it crosses over the turquoise strip and is mostly visible (not cropped).",
+    "One black marker cap or separate marker head is visible in the upper-left quadrant, resting on the beige background and partly cropped by the image edge.",
+    "One horizontal turquoise rectangular banner or strip spans approximately the central horizontal third of the image, containing a decorative composition that forms the word 'LEARN'.",
+    "The banner contains five large letter-forms that spell 'LEARN' from left to right; each letter is composed of illustrated objects (described below in spatial_relations and colours_and_materials).",
+    "A stack of multi-coloured folders or notebooks (blue top cover with a large white 'L' on it) is visible at the far left inside the turquoise strip; the stack is not fully cropped.",
+    "A spiral-bound notepad or sketchbook underneath a large grey 'R' is visible near the centre-right inside the turquoise strip; colour swatches are visible beneath it.",
+    "Numerous small illustrated objects appear as part of the letters (paint palette with multiple colour wells, magnifying glass, light bulb icon, a small floppy-disk-shaped icon or square with smaller items) but individual small items cannot all be reliably counted from the image resolution.",
+    "The central rectangular banner is a solid turquoise/aqua colour.",
+    "The background outside the strip is a light beige with a paper-like texture.",
+    "The stack of folders/notebooks left-of-centre includes a blue top cover with a large white 'L'; other folders underneath show red and yellow edges.",
+    "The letter 'E' is a solid green; the 'A' is solid red with coloured illustration elements (paint palette colours, yellow lightbulb), and the 'R' is shown as a grey letter on a white spiral-bound notepad.",
+    "The marker body and cap are black plastic with a matte or low-sheen appearance; the marker nib is black.",
+    "The 'N' is composed of blue and yellow measuring/ruler-like elements and small grey gear shapes, with small metallic/grey details and a pair of black eyeglass frames drawn near the top."
+  ],
+  "id": "6a1cbca8a6d44ad1ecadbd52",
+  "sha256": "8fddc323cffcf5e0f70cc1420d938f46da3aae7267be65bf83aeba702bba64f7",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:44:20.595881+00:00",
+  "input_resolution": [
+    2097,
+    1338
+  ],
+  "input_sha256": "81ea88ef1b11737c48b3a272d82dffe6bb39f72cf0bbf6c63ca712d141ed5066",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau7eBptVt0KC89LRKeJoznyd23fJ",
+  "usage": {
+    "completion_tokens": 1291,
+    "prompt_tokens": 2295,
+    "total_tokens": 3586,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 382,
+      "engine_ttlt_ms": 8866,
+      "pre_inference_ms": 266,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 728,
+      "service_ttlt_ms": 9207,
+      "user_visible_ttft_ms": 462
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

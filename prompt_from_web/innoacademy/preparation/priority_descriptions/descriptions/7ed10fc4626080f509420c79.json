@@ -1,0 +1,105 @@
+{
+  "title": "Computer lab classroom with instructor at front and rows of desktop monitors",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 1 person standing or positioned at the instructor lectern at the front of the room (near the projector screen).",
+    "At least 14 seated people are visible in the classroom audience (students facing the front); some heads are partially obscured by monitors or other students.",
+    "At least 12 individual desktop monitors are visible in the photographed scene; many are arranged in rows on student workstations and several are partially cropped by the image frame.",
+    "1 large projection screen is visible at the front of the room with a projected slide displayed.",
+    "1 laptop computer (open) is visible in the foreground on the right side of the image with a visible application window on its screen.",
+    "Multiple desktop PC towers or monitor bases are visible beneath monitors on the desks (at least 6 clearly visible units), but some are obscured so a full count cannot be determined.",
+    "Multiple student chairs are visible across the rows (at least 10 distinct chairs can be seen).",
+    "Various small items on desks are visible such as a water bottle at left, a mouse pad and mouse near the foreground laptop, and personal items near students, but these are transient and not exhaustively counted."
+  ],
+  "visible_text": [
+    "Note:"
+  ],
+  "spatial_relations": [
+    "The instructor is at the front-center of the room in front of the projection screen and behind a lectern or instructor desk.",
+    "Rows of student workstations with desktop monitors face the front projection screen; monitors create multiple visual rows that partly obscure seated students behind them.",
+    "A blue door or pair of blue doors is visible on the right side of the front wall (image right), with notices or papers posted adjacent to the door; the projection screen is mounted on the left side of the front wall (image left).",
+    "The foreground laptop is on a desk near the bottom-right of the image in front of a seated student; a desktop monitor stands directly behind that laptop on the same desk surface.",
+    "Student seating is arranged in parallel rows running from the foreground toward the projection screen at the back of the photographed room."
+  ],
+  "colours_and_materials": [
+    "The projection screen area and front wall are light-colored (off-white or pale), and the ceiling tiles are white with recessed fluorescent lighting.",
+    "Most monitor casings and PC towers visible are black or dark grey.",
+    "Chairs visible have dark blue seats with a perforated or patterned plastic appearance.",
+    "A pair of blue doors is visible on the front-right wall (image right).",
+    "Students wear a variety of clothing colours; one student in the middle-right wears a bright red top that stands out against surrounding colours."
+  ],
+  "uncertainties": [
+    "No exact room name or room number signage is legible in the photograph; location cannot be determined from visible text.",
+    "Many small labels, stickers on monitors, printed notices on the blue door and text on the projected slide are not legible at this resolution; only the single word 'Note:' could be read on the projection.",
+    "Counts of monitors, PC towers and chairs are minimum visible counts because several devices are partially obscured or cropped by other objects and people; a full room inventory cannot be determined from this single image.",
+    "Text on the instructor's clothing, monitor stickers, wall notices and door postings is unreadable or too small to transcribe accurately.",
+    "The projected slide contains multiple lines and boxed elements but the detailed content beyond the word 'Note:' is not legible in this image."
+  ],
+  "visual_facts": [
+    "At least 1 person standing or positioned at the instructor lectern at the front of the room (near the projector screen).",
+    "At least 14 seated people are visible in the classroom audience (students facing the front); some heads are partially obscured by monitors or other students.",
+    "At least 12 individual desktop monitors are visible in the photographed scene; many are arranged in rows on student workstations and several are partially cropped by the image frame.",
+    "1 large projection screen is visible at the front of the room with a projected slide displayed.",
+    "1 laptop computer (open) is visible in the foreground on the right side of the image with a visible application window on its screen.",
+    "Multiple desktop PC towers or monitor bases are visible beneath monitors on the desks (at least 6 clearly visible units), but some are obscured so a full count cannot be determined.",
+    "Multiple student chairs are visible across the rows (at least 10 distinct chairs can be seen).",
+    "Various small items on desks are visible such as a water bottle at left, a mouse pad and mouse near the foreground laptop, and personal items near students, but these are transient and not exhaustively counted.",
+    "The projection screen area and front wall are light-colored (off-white or pale), and the ceiling tiles are white with recessed fluorescent lighting.",
+    "Most monitor casings and PC towers visible are black or dark grey.",
+    "Chairs visible have dark blue seats with a perforated or patterned plastic appearance.",
+    "A pair of blue doors is visible on the front-right wall (image right).",
+    "Students wear a variety of clothing colours; one student in the middle-right wears a bright red top that stands out against surrounding colours."
+  ],
+  "id": "7ed10fc4626080f509420c79",
+  "sha256": "c6977ae979ed898598bef79569d53380605a5fc24bbe22f0c30b40f2e3303d5c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:48:48.871695+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "4e879621695d8d92020c77fa766c8151a31b4cbb68cb370318b5391496e5c1f9",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauBzpxDUcoHtTiaGhnRIzYqCznOK",
+  "usage": {
+    "completion_tokens": 1110,
+    "prompt_tokens": 2122,
+    "total_tokens": 3232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 359,
+      "engine_ttlt_ms": 8412,
+      "pre_inference_ms": 310,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 862,
+      "service_ttlt_ms": 8911,
+      "user_visible_ttft_ms": 553
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

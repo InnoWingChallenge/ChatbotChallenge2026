@@ -1,0 +1,20 @@
+{
+  "id": "23cc17aa4ccd4241b2676241",
+  "sha256": "3e55df67f664b9e23381de86496ec0a579296285c4c535eda75ee82af01b47cd",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": false,
+  "title": "Rendered image of a stylized robot against a science-fiction backdrop",
+  "visible_text": [
+    "SICARIUS"
+  ],
+  "visual_facts": [],
+  "spatial_relations": [
+    "A four-legged robot is centered in front of a dark tiled wall with red vertical pipes."
+  ],
+  "uncertainties": [
+    "This appears to be a digital game or concept-art rendering rather than a photograph of facility equipment; no real space layout is visible."
+  ]
+}

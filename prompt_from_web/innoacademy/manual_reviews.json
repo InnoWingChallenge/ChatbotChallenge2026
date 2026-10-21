@@ -1,0 +1,218 @@
+{
+  "aba7ba8ced05c43dc0973f3e7ce1151c87d2a8351f190b91a12798ab0737328f": {
+    "image_id": "c231895f80fdf57071eb3238",
+    "description_path": "prompt_from_web/innoacademy/descriptions/c231895f80fdf57071eb3238/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.579228+00:00",
+    "type": "branding",
+    "location": "unknown"
+  },
+  "a0037af28441094ea078ccf375d874eee1e753a6122dab50c4dd2786c85b5838": {
+    "image_id": "17bdbeec767075a2c7466c87",
+    "description_path": "prompt_from_web/innoacademy/descriptions/17bdbeec767075a2c7466c87/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.591447+00:00",
+    "type": "branding",
+    "location": "unknown"
+  },
+  "22c16d47e1a80cff53ab02da244c78f6f58d84cde0511ec05bfd5aaa06aae9db": {
+    "image_id": "0f1d70595426be44e9d43356",
+    "description_path": "prompt_from_web/innoacademy/descriptions/0f1d70595426be44e9d43356/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.613496+00:00",
+    "type": "branding",
+    "location": "unknown"
+  },
+  "616b7b374a713c2c3360df91e59210beee901c02978ba961a58621d7f59239a8": {
+    "image_id": "fbe9a768d83ac2e96fda0c26",
+    "description_path": "prompt_from_web/innoacademy/descriptions/fbe9a768d83ac2e96fda0c26/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.617719+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "34eaae11a9e8d0e2569402323573cacb5e2d23c3b461d25bc19595e2926021a0": {
+    "image_id": "c25b99a39315896561f27d7f",
+    "description_path": "prompt_from_web/innoacademy/descriptions/c25b99a39315896561f27d7f/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.621139+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "362772a64a6ec52acf6125658561b526971973ca350a2e234c06cf1daffaa953": {
+    "image_id": "9b80748730b616a7b124eb4a",
+    "description_path": "prompt_from_web/innoacademy/descriptions/9b80748730b616a7b124eb4a/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.625004+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "905c3968bd97b8f6c839b15547711f4f196e6c822e49ff82bc405187d093dd67": {
+    "image_id": "65fbd7a99e0ef18dd700512d",
+    "description_path": "prompt_from_web/innoacademy/descriptions/65fbd7a99e0ef18dd700512d/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.629549+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "b0c6e6d9aeb7600c799e82f3756eafad450593e21f5285aa828d07a30533aa20": {
+    "image_id": "600480895b60308400f87328",
+    "description_path": "prompt_from_web/innoacademy/descriptions/600480895b60308400f87328/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.638458+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "23cca981dafada63805e1f8ef670af8c97134945bd721230d244b60a53cf12ac": {
+    "image_id": "a816e7f16d5b7a4da37b5a28",
+    "description_path": "prompt_from_web/innoacademy/descriptions/a816e7f16d5b7a4da37b5a28/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.642277+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "805e6a2b81891f908b9beaa9c122e576f8c1bf6c52c46a27b749a8ccab3ace0e": {
+    "image_id": "33183e35b56a5a75e7346119",
+    "description_path": "prompt_from_web/innoacademy/descriptions/33183e35b56a5a75e7346119/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.651833+00:00",
+    "type": "project_poster",
+    "location": "unknown"
+  },
+  "2acd955d758feaa89f32bee2fe91f11466657f574d4b9ede22545b77e8348872": {
+    "image_id": "50b6e0e040b7b36884d32f7e",
+    "description_path": "prompt_from_web/innoacademy/descriptions/50b6e0e040b7b36884d32f7e/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.655169+00:00",
+    "type": "equipment_photo",
+    "location": "unknown"
+  },
+  "ca4910a031cb5967cfde6722e44a5e5eeb87c13df242ac935f2aa42086910a71": {
+    "image_id": "fb8839254da66fd366919dbc",
+    "description_path": "prompt_from_web/innoacademy/descriptions/fb8839254da66fd366919dbc/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.658783+00:00",
+    "type": "equipment_photo",
+    "location": "unknown"
+  },
+  "e9d7b98139e76755544affc9d4033d3c3ff5bf810a686b408b3b02555ec3dbd6": {
+    "image_id": "aacbcfdd5bab3e1829ba316b",
+    "description_path": "prompt_from_web/innoacademy/descriptions/aacbcfdd5bab3e1829ba316b/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.666189+00:00",
+    "type": "component_photo",
+    "location": "unknown"
+  },
+  "0b4c8da28b3854d1c1c9c2a63c0dfae8ae713ab16e2e60d3a81ff1b67b75877d": {
+    "image_id": "c828bcfd16c5907d80687942",
+    "description_path": "prompt_from_web/innoacademy/descriptions/c828bcfd16c5907d80687942/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.670741+00:00",
+    "type": "component_photo",
+    "location": "unknown"
+  },
+  "53449314765d475bd9907bd896a7f2256005a800930143eab93627296345e2b7": {
+    "image_id": "55cb412b3d33bd8171eae573",
+    "description_path": "prompt_from_web/innoacademy/descriptions/55cb412b3d33bd8171eae573/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.675357+00:00",
+    "type": "component_photo",
+    "location": "unknown"
+  },
+  "40dd7b9d3606433f3f51a3640d91ca7c4604c1240e82946d3090b254611191b5": {
+    "image_id": "76cfd473d1801904ae897825",
+    "description_path": "prompt_from_web/innoacademy/descriptions/76cfd473d1801904ae897825/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.683938+00:00",
+    "type": "component_photo",
+    "location": "unknown"
+  },
+  "ba74086fd925fd36cf5ca6479e145c70b4bd55c35e0ae9cfe0bf6385637e0ebc": {
+    "image_id": "539f674b6878cc6346c9629a",
+    "description_path": "prompt_from_web/innoacademy/descriptions/539f674b6878cc6346c9629a/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.688323+00:00",
+    "type": "award_graphic",
+    "location": "unknown"
+  },
+  "ab74ea26919dc45ba81a7629d1fd4e7fd000709a7bcbb9c4e40a75b5cf99ecb3": {
+    "image_id": "781622580929e8a3ea54b4ab",
+    "description_path": "prompt_from_web/innoacademy/descriptions/781622580929e8a3ea54b4ab/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.692341+00:00",
+    "type": "award_graphic",
+    "location": "unknown"
+  },
+  "a173463950e3bbf7a04bd7421379edf1cd68b0960ce3db81cfebb48ca1ff6e43": {
+    "image_id": "918c52232849d97f6129d496",
+    "description_path": "prompt_from_web/innoacademy/descriptions/918c52232849d97f6129d496/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.701328+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "6615a7e581f35908bbf603a91029c8867d4123aac801e484fa3a347512eb74b2": {
+    "image_id": "ab3e95fcda3670d101244710",
+    "description_path": "prompt_from_web/innoacademy/descriptions/ab3e95fcda3670d101244710/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.704519+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "50eb3d14facfa745a463eeb79da96e016337692cde1dd94fbeacf3cbcda46a93": {
+    "image_id": "8308dc845b23a6efe78c7dc8",
+    "description_path": "prompt_from_web/innoacademy/descriptions/8308dc845b23a6efe78c7dc8/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.708666+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "9d376fa99693dd4f2103fd5b5cb5acf08f766cca253e1e05e96225151ed1915d": {
+    "image_id": "1b512e1efcf2751cc7abd090",
+    "description_path": "prompt_from_web/innoacademy/descriptions/1b512e1efcf2751cc7abd090/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.715102+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "e3fe1d777c796470705dd5d072bc4cb330986baa1c154466d1003740005678e6": {
+    "image_id": "1b08fb03f0954b1d8107f614",
+    "description_path": "prompt_from_web/innoacademy/descriptions/1b08fb03f0954b1d8107f614/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.718257+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  },
+  "acbeb0332acd6816ef1c2fc7d8bb634e4af2d895f3360c26b097ab6788226b14": {
+    "image_id": "be0b709626f8ae6cbbd1ea7b",
+    "description_path": "prompt_from_web/innoacademy/descriptions/be0b709626f8ae6cbbd1ea7b/prompt.md",
+    "status": "completed",
+    "review_method": "assistant_direct_visual_inspection",
+    "reviewed_at": "2026-10-13T13:30:12.721493+00:00",
+    "type": "event_photo",
+    "location": "unknown"
+  }
+}

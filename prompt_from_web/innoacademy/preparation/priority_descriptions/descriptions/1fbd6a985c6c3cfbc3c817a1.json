@@ -1,0 +1,110 @@
+{
+  "title": "Computer lab with projected presentation and multiple workstations",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 13 people are visible in the photographed scene: three standing together at the front left near the projector screen, and at least ten seated at various workstations across the room. Some seated people are partially obscured by monitors.",
+    "At least 12 individual desktop monitors are visible across the room; several workstations show dual-monitor arrangements where both screens are visible on adjacent desks.",
+    "One ceiling-mounted projector is visible near the image top center, projecting onto one large front wall screen.",
+    "One large projection screen (pulled down) is visible on the front wall and is displaying a slide.",
+    "Multiple wheeled task chairs are visible: at least six red chairs, one orange chair (foreground left-center), and one blue chair (foreground right); additional chairs are present but some are partially obscured.",
+    "Multiple white rectangular tables are visible arranged in clusters; at least five table assemblies are visible in the foreground and midground.",
+    "A small tabletop sign holder is visible on a desk near the center foreground with a printed insert.",
+    "A wall-mounted sign with a no-smoking symbol is visible on the right-side wall.",
+    "Several personal items (backpacks, jackets draped over chairs) are visible near workstations but are treated as transient clutter."
+  ],
+  "visible_text": [
+    "Delivering Effective Presentation with Slide deck and Video",
+    "[unreadable] SESSION",
+    "Please Sign Your [unreadable]",
+    "[no-smoking symbol]"
+  ],
+  "spatial_relations": [
+    "The ceiling-mounted projector is centered near the top of the image and projects onto a large screen on the front wall, which occupies the central-left portion of the front wall.",
+    "Three people are standing together near the front-left of the room, directly in front of the projection screen and slightly left of center in the image.",
+    "Rows of workstations run from the foreground toward the back of the room; clusters of tables form islands with monitors facing into the room so seated users have their backs or sides to the camera.",
+    "A cluster of monitors and chairs occupies the center foreground; another bank of monitors lines the right side of the room along the right wall.",
+    "The no-smoking sign is mounted on the right-side wall above a row of workstations and to the right of the projection screen area."
+  ],
+  "colours_and_materials": [
+    "Walls have vertical panels in pale teal, white and dark blue colours.",
+    "Office chairs are predominantly red, with at least one orange chair in the foreground and one blue chair at the right foreground.",
+    "Workstation desks are white with light-coloured metal legs.",
+    "The floor is covered in a light grey carpet.",
+    "The projection screen displays a turquoise-blue slide background with white graphic elements."
+  ],
+  "uncertainties": [
+    "Exact room name or number is not visible; location cannot be determined from the image.",
+    "Some text on the projected slide is partially obscured or too small to read precisely; I transcribed the most legible heading but lower lines are unreadable and thus shown as [unreadable].",
+    "The small tabletop sign's full wording is not fully legible; only the leading words 'Please Sign Your' can be partly read and the remainder is unreadable.",
+    "Counts of people and monitors are reported as minima because some individuals and screens are partially hidden behind others or cropped at the image edges.",
+    "Several small pieces of text shown on individual computer screens are too small or low-contrast to transcribe reliably and therefore are omitted."
+  ],
+  "visual_facts": [
+    "At least 13 people are visible in the photographed scene: three standing together at the front left near the projector screen, and at least ten seated at various workstations across the room. Some seated people are partially obscured by monitors.",
+    "At least 12 individual desktop monitors are visible across the room; several workstations show dual-monitor arrangements where both screens are visible on adjacent desks.",
+    "One ceiling-mounted projector is visible near the image top center, projecting onto one large front wall screen.",
+    "One large projection screen (pulled down) is visible on the front wall and is displaying a slide.",
+    "Multiple wheeled task chairs are visible: at least six red chairs, one orange chair (foreground left-center), and one blue chair (foreground right); additional chairs are present but some are partially obscured.",
+    "Multiple white rectangular tables are visible arranged in clusters; at least five table assemblies are visible in the foreground and midground.",
+    "A small tabletop sign holder is visible on a desk near the center foreground with a printed insert.",
+    "A wall-mounted sign with a no-smoking symbol is visible on the right-side wall.",
+    "Several personal items (backpacks, jackets draped over chairs) are visible near workstations but are treated as transient clutter.",
+    "Walls have vertical panels in pale teal, white and dark blue colours.",
+    "Office chairs are predominantly red, with at least one orange chair in the foreground and one blue chair at the right foreground.",
+    "Workstation desks are white with light-coloured metal legs.",
+    "The floor is covered in a light grey carpet.",
+    "The projection screen displays a turquoise-blue slide background with white graphic elements."
+  ],
+  "id": "1fbd6a985c6c3cfbc3c817a1",
+  "sha256": "427fe59c40d93ff12109aa34ab87f37e1d61ef505314fe476634d2139a54e4fc",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:31:24.588321+00:00",
+  "input_resolution": [
+    2016,
+    1512
+  ],
+  "input_sha256": "dcb75042085c9ec51eab6b8493566472a3bb7d084c0b988941bfd5f6d9359849",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatv7Sy1JpOb40bKKqmxLo3tEymz8",
+  "usage": {
+    "completion_tokens": 1236,
+    "prompt_tokens": 2122,
+    "total_tokens": 3358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1116,
+      "engine_ttlt_ms": 9247,
+      "pre_inference_ms": 310,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2009,
+      "service_ttlt_ms": 10135,
+      "user_visible_ttft_ms": 1699
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

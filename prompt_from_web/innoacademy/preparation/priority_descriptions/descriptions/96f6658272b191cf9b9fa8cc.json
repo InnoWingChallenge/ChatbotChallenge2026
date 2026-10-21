@@ -1,0 +1,106 @@
+{
+  "title": "Robotic arm inside clear enclosure with power supply and cup",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One multi-jointed robotic arm assembly is visible, mounted to a grey metal base plate in the center of the photographed enclosure; part of the arm is cropped by the top of the image.",
+    "One benchtop power supply unit is visible on the lower left foreground, with a digital readout and three rotary knobs on its front panel.",
+    "One white cylindrical object (mounted on the plywood base toward the right-rear inside the enclosure) is visible and appears fixed to the base with a round flange.",
+    "One clear textured drinking glass or tumbler sits on the plywood base at the right-rear inside the enclosure.",
+    "One laptop or thin dark-grey panel is visible in the front foreground, its upper edge crossing the bottom of the image and partially obscuring the robotic base area.",
+    "At least two people are partially visible outside the enclosure in the background (legs and feet visible through the acrylic), but their faces are not shown and they are not inside the photographed enclosure."
+  ],
+  "visible_text": [
+    "BASETech",
+    "BT-3020",
+    "0.2",
+    "24.0",
+    "MANIPULATOR-PRO",
+    "5"
+  ],
+  "spatial_relations": [
+    "The robotic arm is mounted near the center of the plywood work surface and is enclosed by vertical clear acrylic panels forming a rectangular booth.",
+    "The benchtop power supply is placed on the plywood surface outside the enclosure on the left side of the image; cables run from the supply toward the robotic base.",
+    "The white cylindrical object is positioned on the plywood base behind and to the right of the robotic arm; the clear textured glass is further right of that cylinder, nearer the right acrylic panel.",
+    "A dark vertical support post or frame runs near the right edge of the image and intersects the right acrylic panel in front of the glass.",
+    "The laptop or dark-grey panel in the foreground lies between the camera and the robotic base, partially obscuring the lower portion of the robot assembly."
+  ],
+  "colours_and_materials": [
+    "The work surface is light-coloured plywood with visible wood grain and knot holes.",
+    "The robotic arm and its base are dark grey to black, appearing metallic or coated metal.",
+    "The enclosure panels are clear acrylic or glass (transparent), with metal or black vertical frame members.",
+    "The benchtop power supply has a white/beige front panel with red digital displays.",
+    "The cylindrical object is white and appears to be plastic; the drinking glass is transparent with a textured pattern."
+  ],
+  "uncertainties": [
+    "The exact full text on the robotic arm is partly obscured; the visible fragment reads 'MANIPULATOR-PRO' and a small sticker with '5' is visible on the upper arm section, but preceding characters (if any) are unclear.",
+    "The digital readout values on the power supply are interpreted as '0.2' and '24.0' from the image but the decimal placement and digits could be less legible in a higher resolution crop.",
+    "The exact count of people outside the enclosure is uncertain because only partial legs and reflections are visible; only a minimum of two distinct people can be reasonably asserted from visible legs and feet.",
+    "Material identifications (metal, plastic, acrylic) are based on visible appearance and reflectance; they are not confirmed by labels or close inspection.",
+    "Some small labels and wiring markings on the robotic base are visible but not legible in this view and therefore not transcribed."
+  ],
+  "visual_facts": [
+    "One multi-jointed robotic arm assembly is visible, mounted to a grey metal base plate in the center of the photographed enclosure; part of the arm is cropped by the top of the image.",
+    "One benchtop power supply unit is visible on the lower left foreground, with a digital readout and three rotary knobs on its front panel.",
+    "One white cylindrical object (mounted on the plywood base toward the right-rear inside the enclosure) is visible and appears fixed to the base with a round flange.",
+    "One clear textured drinking glass or tumbler sits on the plywood base at the right-rear inside the enclosure.",
+    "One laptop or thin dark-grey panel is visible in the front foreground, its upper edge crossing the bottom of the image and partially obscuring the robotic base area.",
+    "At least two people are partially visible outside the enclosure in the background (legs and feet visible through the acrylic), but their faces are not shown and they are not inside the photographed enclosure.",
+    "The work surface is light-coloured plywood with visible wood grain and knot holes.",
+    "The robotic arm and its base are dark grey to black, appearing metallic or coated metal.",
+    "The enclosure panels are clear acrylic or glass (transparent), with metal or black vertical frame members.",
+    "The benchtop power supply has a white/beige front panel with red digital displays.",
+    "The cylindrical object is white and appears to be plastic; the drinking glass is transparent with a textured pattern."
+  ],
+  "id": "96f6658272b191cf9b9fa8cc",
+  "sha256": "6ee721d9a06ffcb6df61cafc1ef2ef107a5e0b124af7b83848f877a434b5fbf1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:16:28.183475+00:00",
+  "input_resolution": [
+    2215,
+    1238
+  ],
+  "input_sha256": "d7cb89148f129f17d8bfd3832200c64ee5a82950018fcde36985bd33d5eb6397",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatgfiD9P7SoI6BVSoEMwrfvBTEWu",
+  "usage": {
+    "completion_tokens": 1172,
+    "prompt_tokens": 2439,
+    "total_tokens": 3611,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1146,
+      "engine_ttlt_ms": 9580,
+      "pre_inference_ms": 393,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2085,
+      "service_ttlt_ms": 10514,
+      "user_visible_ttft_ms": 1692
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

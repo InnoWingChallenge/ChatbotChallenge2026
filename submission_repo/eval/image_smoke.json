@@ -1,0 +1,505 @@
+[
+  {
+    "id": "image_001",
+    "category": "physical",
+    "question": "What words appear on the wall graphic behind the Brainstorming Area tiered seating?",
+    "expected_answer": "HKU ENGINEERING INNOVATION.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "blue wall graphic reading \"HKU ENGINEERING INNOVATION\"",
+          "source_ids": [
+            "image_source/Pictures_Hzx/brain storming area/IMG_2638.HEIC",
+            "image_source/Pictures_Hzx/brain storming area/IMG_2639.HEIC",
+            "image_source/Pictures_Hzx/brain storming area/IMG_2640.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_002",
+    "category": "physical",
+    "question": "Which three activities does the Brainstorming Area activities notice permit?",
+    "expected_answer": "Study, group discussion and collaborative learning.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "\"STUDY\", \"GROUP DISCUSSION\" and \"COLLABORATIVE LEARNING\"",
+          "source_ids": [
+            "image_source/Brainstorm_Space/微信图片_20261013104620_62_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_003",
+    "category": "physical",
+    "question": "Where does the Brainstorming Area notice tell people to go for hands-on activities?",
+    "expected_answer": "Maker Space A.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "\"PLEASE PROCEED TO MAKER SPACE A\"",
+          "source_ids": [
+            "image_source/Brainstorm_Space/微信图片_20261013104620_62_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_004",
+    "category": "physical",
+    "question": "What two permitted uses are written on the orange Brainstorming Area sink notice?",
+    "expected_answer": "HAND-WASHING ONLY and WATER DISPOSAL ONLY.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "\"HAND-WASHING ONLY\", \"WATER DISPOSAL ONLY\"",
+          "source_ids": [
+            "image_source/Brainstorm_Space/微信图片_20261013104622_64_35.jpg",
+            "image_source/Brainstorm_Space/微信图片_20261013104622_65_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_005",
+    "category": "physical",
+    "question": "What colour is the pull cord of the bell beside the Innovation Wing plaque near Brainstorming Area?",
+    "expected_answer": "Green.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "clearly shows its green pull cord",
+          "source_ids": [
+            "image_source/Pictures_Hzx/brain storming area/IMG_2644.HEIC",
+            "image_source/Pictures_Hzx/brain storming area/IMG_2645.HEIC",
+            "image_source/Pictures_Hzx/brain storming area/IMG_2646.HEIC",
+            "image_source/Pictures_Hzx/brain storming area/IMG_2655.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_006",
+    "category": "physical",
+    "question": "What room identifier is on the Podcast Studio plaque?",
+    "expected_answer": "IW-LG10.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Podcast_Studio/prompt.md",
+          "quote": "\"IW-LG10\" and \"Podcast Studio\"",
+          "source_ids": [
+            "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_007",
+    "category": "comparison",
+    "question": "Compare the room identifiers on the plaques for Project Studio A and Project Studio B.",
+    "expected_answer": "Project Studio A: IW-LG05; Project Studio B: IW-LG06.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Project_Studio_A/prompt.md",
+          "quote": "\"IW-LG05\"",
+          "source_ids": [
+            "image_source/Project_Studio_A/微信图片_20261013104633_76_35.jpg"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt/Project_Studio_B/prompt.md",
+          "quote": "\"IW-LG06\"",
+          "source_ids": [
+            "image_source/Project_Studio_B/微信图片_20261013104631_74_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_008",
+    "category": "physical",
+    "question": "What room identifier is shown on the Conference Room plaque?",
+    "expected_answer": "IW-G02.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "identifies the Conference Room as \"IW-G02\"",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2671.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_009",
+    "category": "physical",
+    "question": "According to the maker-space rules sign, what should users use to protect the table?",
+    "expected_answer": "A mat.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Makerspace_A/prompt.md",
+          "quote": "\"USE MAT TO PROTECT THE TABLE\"",
+          "source_ids": [
+            "submission_repo/image_hzq/maker_space/sign.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_010",
+    "category": "physical",
+    "question": "How many instruction panels are on the photographed maker-space rules sign?",
+    "expected_answer": "8.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Makerspace_A/prompt.md",
+          "quote": "eight instruction panels arranged in two rows of four",
+          "source_ids": [
+            "submission_repo/image_hzq/maker_space/sign.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_011",
+    "category": "physical",
+    "question": "How many clearly visible stools stand along the near side of the foreground table in maker_space/place_1.jpg?",
+    "expected_answer": "3. This is a foreground count, not total room capacity.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Makerspace_A/prompt.md",
+          "quote": "Three clearly visible stools stand along the near side",
+          "source_ids": [
+            "submission_repo/image_hzq/maker_space/place_1.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_012",
+    "category": "physical",
+    "question": "What brand is visible on the white ceiling-mounted projector in the Digital Learning Studio close-up?",
+    "expected_answer": "SONY.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Digital_Learning_Studio/prompt.md",
+          "quote": "white ceiling-mounted projector labeled \"SONY\"",
+          "source_ids": [
+            "image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2657.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2658.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_013",
+    "category": "diagnostic",
+    "question": "What exact graphics-card model is established by the Digital Learning Studio INNO3D / GEFORCE RTX close-up?",
+    "expected_answer": "The exact model is not established; only INNO3D and GEFORCE RTX are visible.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Digital_Learning_Studio/prompt.md",
+          "quote": "does not identify the exact graphics-card model",
+          "source_ids": [
+            "image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2657.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2658.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_014",
+    "category": "physical",
+    "question": "What date is printed on the Innovation Wing Two opening-ceremony banner in introduction_board/1.jpg?",
+    "expected_answer": "28 December 2021.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Entrance_History_Display/prompt.md",
+          "quote": "\"28th December 2021\"",
+          "source_ids": [
+            "submission_repo/image_hzq/introduction_board/1.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_015",
+    "category": "physical",
+    "question": "Which two donors are named in the 2021 donation captions in introduction_board/2.jpg?",
+    "expected_answer": "Mrs May Tam and Philomathia Foundation.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Entrance_History_Display/prompt.md",
+          "quote": "Donation from Mrs May Tam in support of Innovation Academy, 2021",
+          "source_ids": [
+            "submission_repo/image_hzq/introduction_board/2.jpg"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt/Entrance_History_Display/prompt.md",
+          "quote": "Donation from Philomathia Foundation in support of Innovation Academy, 2021",
+          "source_ids": [
+            "submission_repo/image_hzq/introduction_board/2.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_016",
+    "category": "web_visual",
+    "question": "According to the MODO ROBO project poster, what batteries power the robot?",
+    "expected_answer": "Four AA batteries.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/33183e35b56a5a75e7346119/prompt.md",
+          "quote": "4X AA batteries power supply",
+          "source_ids": [
+            "webimg_805e6a2b81891f908b9beaa9"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_017",
+    "category": "web_visual",
+    "question": "What motor specification is printed on the MODO ROBO project poster?",
+    "expected_answer": "Twin DC 5V motors.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/33183e35b56a5a75e7346119/prompt.md",
+          "quote": "twin DC 5V motor",
+          "source_ids": [
+            "webimg_805e6a2b81891f908b9beaa9"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_018",
+    "category": "web_visual",
+    "question": "Which course is named on the WINNER BEST PROJECT AWARD crown graphic?",
+    "expected_answer": "COMP3329 Computer Game Design and Programming.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/781622580929e8a3ea54b4ab/prompt.md",
+          "quote": "COMP3329 Computer Game Design and Programming",
+          "source_ids": [
+            "webimg_ab74ea26919dc45ba81a7629"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_019",
+    "category": "web_visual",
+    "question": "How many rounded points does the crown in the InnoShow Award graphic have?",
+    "expected_answer": "5.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/539f674b6878cc6346c9629a/prompt.md",
+          "quote": "five rounded points",
+          "source_ids": [
+            "webimg_ba74086fd925fd36cf5ca647"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_020",
+    "category": "web_visual",
+    "question": "How many large projection screens flank the group in the Inaugural InnoSharing group portrait?",
+    "expected_answer": "2.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/600480895b60308400f87328/prompt.md",
+          "quote": "Two large projection screens flank the group",
+          "source_ids": [
+            "webimg_b0c6e6d9aeb7600c799e82f3"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_021",
+    "category": "web_visual",
+    "question": "What sentence is displayed on both projection screens in the Inaugural InnoSharing group portrait?",
+    "expected_answer": "InnoTech and Humanities will Re-define the world.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/600480895b60308400f87328/prompt.md",
+          "quote": "InnoTech and Humanities will Re-define the world.",
+          "source_ids": [
+            "webimg_b0c6e6d9aeb7600c799e82f3"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_022",
+    "category": "web_visual",
+    "question": "How many white cups are visible on the small table in the photo of the seated InnoSharing speaker?",
+    "expected_answer": "2.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/fbe9a768d83ac2e96fda0c26/prompt.md",
+          "quote": "two visible white cups",
+          "source_ids": [
+            "webimg_616b7b374a713c2c3360df91"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_023",
+    "category": "web_visual",
+    "question": "How many clearly visible faces are in the technology-event group photo holding the dark green HKU flag?",
+    "expected_answer": "10.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/1b08fb03f0954b1d8107f614/prompt.md",
+          "quote": "Ten clearly visible faces",
+          "source_ids": [
+            "webimg_e3fe1d777c796470705dd5d0"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_024",
+    "category": "diagnostic",
+    "question": "Does the exploded design and assembled robot on the MODO ROBO poster prove that two physical robots were present together?",
+    "expected_answer": "No. They show a design rendering and an example, not two co-present physical robots.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/33183e35b56a5a75e7346119/prompt.md",
+          "quote": "not evidence that two physical robots were present together",
+          "source_ids": [
+            "webimg_805e6a2b81891f908b9beaa9"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  },
+  {
+    "id": "image_025",
+    "category": "web_context",
+    "question": "According to the website caption associated with the HKU flag group photo, what did HKU iGEM win in 2025?",
+    "expected_answer": "A Gold Medal at the 2025 iGEM Competition. This comes from the webpage caption, not visible photo lettering.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/1b08fb03f0954b1d8107f614/prompt.md",
+          "quote": "HKU iGEM won Gold Medal at 2025 iGEM Competition.",
+          "source_ids": [
+            "webimg_e3fe1d777c796470705dd5d0"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification by user pending",
+    "rubric": "1: correct and complete, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive."
+  }
+]

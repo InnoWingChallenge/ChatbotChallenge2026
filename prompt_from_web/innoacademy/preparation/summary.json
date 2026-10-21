@@ -1,0 +1,29 @@
+{
+  "inventory": {
+    "physical_photos": 119,
+    "website_urls": 6584,
+    "file_states": {
+      "verified": 177,
+      "missing": 6500,
+      "hash_changed": 24,
+      "captured_without_prior_hash": 2
+    }
+  },
+  "recovered_urls": 84,
+  "recovered_bytes": 144209195,
+  "matching_historical_hash": 58,
+  "changed_bytes_held_back": 24,
+  "fingerprinted_images": 203,
+  "decode_failures": 0,
+  "near_duplicate_pairs": 5,
+  "cross_source_near_pairs": 0,
+  "verified_exact_duplicate_groups": 0,
+  "pilot_descriptions": 20,
+  "model_counts": {
+    "gpt-6-sol": 10,
+    "gpt-6-luna": 10
+  },
+  "independent_visual_spot_checks": 4,
+  "ingested": false,
+  "new_downloads_without_prior_hash": 2
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Person wearing blue T‑shirt and white mask at a table (location unknown)",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One adult-presenting person is clearly visible from head to waist, wearing glasses and a white face mask; the person is standing with both forearms on a table in the foreground.",
+    "One additional person's hands are visible at the lower right edge of the image; those hands are cropped and only partially visible.",
+    "One rectangular flat object that appears to be a smartphone is visible on the table near the visible person's left hand; it is partially cropped by the bottom edge of the frame (count = 1 visible).",
+    "One flat horizontal table or countertop is visible across the lower part of the image.",
+    "In the background there are at least two blurred wall-mounted items (frames or posters) but their content is not legible; they are not part of the photographed scene as distinct movable equipment in the foreground."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The main person occupies the central and upper-central region of the image, standing behind the table which runs horizontally at the bottom of the frame.",
+    "The main person's forearms rest on the table; the smartphone lies on the table close to the person's left forearm (image's lower center).",
+    "A second person's hands are positioned at the lower right corner of the frame and appear in front of the table surface, indicating that person is adjacent and slightly to the right of the central person but mostly out of frame.",
+    "Blurred framed items or posters are located on the wall in the mid-to-upper right background behind the central person."
+  ],
+  "colours_and_materials": [
+    "The central person wears a bright medium-blue short-sleeve cotton-like T‑shirt with a small white printed logo or design on the left chest area.",
+    "The person wears a white disposable face mask (single-use appearance) and tortoiseshell-pattern eyeglass frames with clear lenses.",
+    "The tabletop visible at the bottom of the image appears to be a light-colored wood or laminate.",
+    "Background walls and framed items are neutral/light-coloured and out of focus; materials are not distinguishable due to blur."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is legible in the image; location cannot be determined from visible signs or labels.",
+    "Text on the T‑shirt chest logo and any printing on the face mask are not sufficiently sharp or large to transcribe reliably in this image crop; therefore no exact text transcriptions are provided.",
+    "The background contains blurred posters or framed material that may contain text or identifiers, but those items are not legible at this resolution and are therefore not transcribed.",
+    "Only one full person is countable; other people may be present outside the cropped frame but cannot be reliably counted from this image.",
+    "Because visible equipment and facility identifiers (room signs, equipment nameplates, model numbers) are not present or legible, the image does not provide usable equipment/facility layout evidence for the requested Innovation Wing or lab identification."
+  ],
+  "visual_facts": [
+    "One adult-presenting person is clearly visible from head to waist, wearing glasses and a white face mask; the person is standing with both forearms on a table in the foreground.",
+    "One additional person's hands are visible at the lower right edge of the image; those hands are cropped and only partially visible.",
+    "One rectangular flat object that appears to be a smartphone is visible on the table near the visible person's left hand; it is partially cropped by the bottom edge of the frame (count = 1 visible).",
+    "One flat horizontal table or countertop is visible across the lower part of the image.",
+    "In the background there are at least two blurred wall-mounted items (frames or posters) but their content is not legible; they are not part of the photographed scene as distinct movable equipment in the foreground.",
+    "The central person wears a bright medium-blue short-sleeve cotton-like T‑shirt with a small white printed logo or design on the left chest area.",
+    "The person wears a white disposable face mask (single-use appearance) and tortoiseshell-pattern eyeglass frames with clear lenses.",
+    "The tabletop visible at the bottom of the image appears to be a light-colored wood or laminate.",
+    "Background walls and framed items are neutral/light-coloured and out of focus; materials are not distinguishable due to blur."
+  ],
+  "id": "f5e4955c50ecd61f19b7c701",
+  "sha256": "b5ed3281cb8c21458d047b50ee576bab8d55693d8b11bb21b890a02efcef40eb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:23:44.593103+00:00",
+  "input_resolution": [
+    1334,
+    2000
+  ],
+  "input_sha256": "b26ffb5fb6a3ef5ab14df37a6bb4686752ca48d96312a0f5e2dd194ccbc988e6",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatnh4ezvQltv6F2X8QEvzbqA1bq0",
+  "usage": {
+    "completion_tokens": 1189,
+    "prompt_tokens": 2237,
+    "total_tokens": 3426,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1163,
+      "engine_ttlt_ms": 9712,
+      "pre_inference_ms": 312,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2022,
+      "service_ttlt_ms": 10565,
+      "user_visible_ttft_ms": 1709
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

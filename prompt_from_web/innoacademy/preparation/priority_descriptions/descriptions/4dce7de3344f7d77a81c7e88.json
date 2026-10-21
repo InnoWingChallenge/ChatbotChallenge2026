@@ -1,0 +1,93 @@
+{
+  "title": "Yellow 3D-printed object next to blue 'FACE COVER' sign on tabletop",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One discrete yellow object is visible near the upper-left quadrant of the image; it appears to be a single assembled or printed part with rectangular slots on its top face and four small protruding square mounts on its sides (the full object is visible and not cropped).",
+    "One blue rectangular sign or label is visible in the lower-right quadrant of the image; only a portion of the sign is visible because it extends out of frame on the right and bottom edges.",
+    "No people are visible in the photographed scene.",
+    "One light-coloured flat tabletop surface fills the background across the image.",
+    "Additional small colored items (a purple sheet and a small out-of-focus object at top edge) are partly visible and cropped at the image edge; they are not individually countable from this view."
+  ],
+  "visible_text": [
+    "FACE COVER"
+  ],
+  "spatial_relations": [
+    "The yellow object sits on the tabletop above and to the left of the blue rectangular sign; the sign is positioned diagonally across the lower-right corner of the frame.",
+    "The rectangular slots on the top face of the yellow object are oriented approximately toward the top edge of the image.",
+    "A purple-coloured sheet or card is visible at the top-right edge of the frame, partially cropped and lying on the same tabletop.",
+    "A small out-of-focus item is present near the top center edge of the image and is cropped by the frame."
+  ],
+  "colours_and_materials": [
+    "The prominent object is bright yellow and shows horizontal layer lines consistent with fused-deposition 3D-printed plastic (material identification uncertain but visually consistent with printed filament).",
+    "The sign is bright blue with white uppercase lettering for the text 'FACE COVER'.",
+    "The tabletop is a light beige or pale wood-colour with a smooth matte appearance."
+  ],
+  "uncertainties": [
+    "The purpose and exact material of the yellow object are not certain; the layer texture suggests 3D printing but this cannot be confirmed from the image alone.",
+    "Parts of the blue sign and other coloured items are cropped and extend outside the frame, so exact full dimensions, additional text, or any additional markings beyond 'FACE COVER' cannot be determined.",
+    "No room name, number or other location-identifying signage is visible in the image; therefore the location is unknown from the image.",
+    "Small text, labels or potential markings on the yellow object (if present) are not legible at this resolution and angle."
+  ],
+  "visual_facts": [
+    "One discrete yellow object is visible near the upper-left quadrant of the image; it appears to be a single assembled or printed part with rectangular slots on its top face and four small protruding square mounts on its sides (the full object is visible and not cropped).",
+    "One blue rectangular sign or label is visible in the lower-right quadrant of the image; only a portion of the sign is visible because it extends out of frame on the right and bottom edges.",
+    "No people are visible in the photographed scene.",
+    "One light-coloured flat tabletop surface fills the background across the image.",
+    "Additional small colored items (a purple sheet and a small out-of-focus object at top edge) are partly visible and cropped at the image edge; they are not individually countable from this view.",
+    "The prominent object is bright yellow and shows horizontal layer lines consistent with fused-deposition 3D-printed plastic (material identification uncertain but visually consistent with printed filament).",
+    "The sign is bright blue with white uppercase lettering for the text 'FACE COVER'.",
+    "The tabletop is a light beige or pale wood-colour with a smooth matte appearance."
+  ],
+  "id": "4dce7de3344f7d77a81c7e88",
+  "sha256": "0a0a201fefb0dad1896af218ef7c688b88dd3af08940940905ec93cb0eb1f713",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:09:55.367630+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "ab4bd7504a423c97fa304397155fec657d1b81e0901c43755fded1056cf71f76",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EataNTe5jiwdLN8yrPujxOiTuFt9l",
+  "usage": {
+    "completion_tokens": 708,
+    "prompt_tokens": 2045,
+    "total_tokens": 2753,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 413,
+      "engine_ttlt_ms": 6126,
+      "pre_inference_ms": 99,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 975,
+      "service_ttlt_ms": 6686,
+      "user_visible_ttft_ms": 876
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

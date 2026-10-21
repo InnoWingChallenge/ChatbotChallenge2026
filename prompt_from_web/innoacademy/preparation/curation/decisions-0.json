@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "006fdcdaf41f29d76780517c",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Smart Laundry System context names R.C. Lee Hall, not the Innovation Wing inventory; hold despite clear machine text.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "04af3be769843ade5b033cd1",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: game artwork, not physical equipment.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "0940f15d2d1aa43f9f001fa7",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "board revision/location unconfirmed before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "0b4701d9698c5991c6fb878e",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "printer model labels need confirmation before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "10b74e11556d16b7ed20500c",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "The associated page is a sustainable-cement project; the mixer photo does not establish academy inventory.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "14b1fc4d231d128288f201e7",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: generic demonstration without confident facility identification.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "1e008a562c9269f858e0c955",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "material and context uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "2547103b2d8d3398dd2622e6",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "crowded demonstration scene before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "27b3503692c246eb0d47550b",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "CAD model does not prove physical installation before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "2b5127755b62b2e8afeb0861",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "storage counts uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "2dfa26f21aefed8f161278ba",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: incidental scene lacks reliable equipment/layout evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "32e5f9971fef78c8b69710c9",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Quantum demonstrator context is an InnoShow project; hold as unlocated project equipment.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "35929d0f193df19d5a5709b2",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "vessel contents/process unknown before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "38dd296a8a38d9a86e21421d",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "sample marking uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "40ddb57512029a448eb5766d",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: outdoor prototype display.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "477a09f59432b44f051ee8ca",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: airport robot, unrelated to academy.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "4b3710d97dbf3a3067600285",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: isolated printed part.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "50cd8914e2da944e5ff25a06",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: illustration.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "54ee6c7539868cd869fcec3d",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: microscope image without facility context.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "5717ab673822f30e3489505a",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: game artwork.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "597c9347c688a12f4ebb0308",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Luxo is a student lamp project; the photo does not establish installed room equipment.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "5bd1ddd78370373ceff858af",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      3
+    ],
+    "spatial": [
+      0
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Pliers and cutters are arranged in fitted drawer cutouts; PARKSIDE is the only retained label. Context label: pliers; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6419aada0a763f234ca7007b",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: generic sign demonstration.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "66a9b04e7c629532016ae853",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: portrait graphic.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6dd63f465c8fe8363c2aea3b",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: project poster.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "710e5fd1c89f45250e7edd65",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "specimen identity needs confirmation before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "732be86bbb88e5e25e171266",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "prototype identity uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "77b9647a39773a5a966db529",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: unidentified sample.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7c05dc8916639f307336d600",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Quantum-kit equipment is project/demo evidence, not fixed facility inventory.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "80d6c18c4af4cd0e8676da61",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: incidental container.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "85c4f300ba2bc9010dc8af95",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      0
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "reason": "A fixed wall safety station carries clear emergency/protective headings and first-aid equipment. Context label: Safety Station (Treasure Hunt); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "8a5ff658cc7e84060f872766",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "device purpose unknown before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "8c423c6b368f6af6fffd7ef4",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: composite portrait.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "906fc8834494a8b443c1d9c5",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "product photo cannot prove inventory before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "91f4ba56b9f6dfd4d3c17e2e",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "display value uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "95eb6947b4c54dea32ce0a94",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "mixture identity unknown before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "97c17e2496344b2dbf6cebb5",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "board function unknown before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "9d1c6fcd229248669c3e8d96",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "diagram rather than physical instrument before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "a35e709223f999081ae28570",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "reason": "The enclosed printer row and a separate open-frame machine are visible; labels kept cautiously. Context label: 3D printing Area (Treasure Hunt); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a9e0d9509e27c8d9f93c1d74",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: game rendering.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b260d268b3d39208cfd8822c",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Sicarius context identifies a project; the soldering bench is not tied to a facility.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "b57261c2bdc88173a1f30737",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: isolated part.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "baf39e5a29cab40482eecd7e",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "object purpose unclear before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "c2258c46b245d55bff1248ba",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: blank image.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "c49c7219941aa5258d51d0fa",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "vessel types/counts uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "cdb9cfe04c1936b65ebca6ab",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "dispenser type uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "d9380f439446c9993ccfdc08",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "markings blurred before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "dde2b8c0ced298772037d18a",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "sample OCR uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "e5ab81ad66616b273a0cf29a",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: outdoor skyline.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "ee8ed416a4dba8dc17511bfc",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: award event.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "f50c2145fe44ebdc871fcfa8",
+    "disposition": "keep",
+    "facts": [
+      1,
+      4,
+      7,
+      8
+    ],
+    "spatial": [
+      0,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Articulated extraction arms are mounted over a fixed bench; the safety-glasses notice is readable. Context label: VenArm_01; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "f83b2d617cd56b7e7117ab5c",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "enclosure purpose unknown before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "fad1b3f4686906e1c4fa96f5",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: outdoor plaza.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "fd818bb50a1de37b938262a1",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: pool demonstration.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "fea4ee165822aa081d57ea9a",
+    "disposition": "keep",
+    "facts": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ocr": [
+      0,
+      1,
+      2
+    ],
+    "reason": "GCC LaserPro branding, lid windows, controls and emergency stop identify a fixed laser cutter. Context label: Laser Cut (Treasure Hunt); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "00403daee01294b2747b5d5c",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Dream Chamber lettering, glass partitions and shelving/seating establish the room layout. Context label: dreamlabinside-2; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "052e9865cdb126b4f6046180",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: stage event.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "07c2b7e7fb2fe3a73c831ae6",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ocr": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "reason": "Wing signage, display and seating area are visible; uncertain screen text is omitted. Context label: SUV 5; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "0c677614483acd5fbe1b4b14",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      2,
+      3
+    ],
+    "reason": "Innovation Academy banner, projection wall, glass partition and laptop station define a presentation layout. Context label: 20250227122 (Large); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "0fe43bd93394260e9df35c2c",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: decorative scene.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "11f915826cef8990ea9b1b84",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: stage performance.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "1681522e2afd2d11310fa162",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: award presentation.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "189116ec3af653acdf33a4df",
+    "disposition": "keep",
+    "facts": [
+      1,
+      3,
+      4,
+      5,
+      8
+    ],
+    "spatial": [
+      0,
+      3
+    ],
+    "ocr": [
+      2,
+      3
+    ],
+    "reason": "A mounted screen, flip chart, fans and projector are visible; slide text is not facility evidence. Context label: genome big data; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "1e4bccb63af312292c94d6bd",
+    "disposition": "keep",
+    "facts": [
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Transparent dividers separate bench positions; laptops and printer spools appear in the work area. Context label: 20220812006; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "1fbd6a985c6c3cfbc3c817a1",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [],
+    "reason": "A projected screen and rows of computer workstations with monitors are visible. Context label: IMG_5914a; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "25094f11e2f36aa655fa862e",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: outdoor campus plaza.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "268ff5347e4ea27d45a17760",
+    "disposition": "keep",
+    "facts": [
+      2,
+      3,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "spatial": [
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Three-level fixed seating, glass partition and the INNOVATION graphic define the audience space. Context label: 20250212035; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "2a3695f8c2aaa7be6a43def8",
+    "disposition": "keep",
+    "facts": [
+      5
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "reason": "Tiered seating is fixed; uncertain safety sign text is excluded. Context label: 20250227121 (Large); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "2caebe1e2490863753f6b5a3",
+    "disposition": "keep",
+    "facts": [
+      3,
+      5,
+      6,
+      7,
+      9,
+      10,
+      12,
+      13
+    ],
+    "spatial": [
+      0,
+      3
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "reason": "The projection wall, speaker, emergency exit sign and glass partition are fixed room features. Context label: 20250212033; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "317cd3e0f044afa8a26fe57d",
+    "disposition": "keep",
+    "facts": [
+      1,
+      4,
+      7,
+      8
+    ],
+    "spatial": [
+      0,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "A continuous workstation desk, monitors and a NO FOOD OR DRINK sign identify a computer work area. Context label: IMG_5918a; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "369c0b1f26c03bc21cc1526a",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Parallel workbenches, projection surfaces and ceiling infrastructure define the classroom layout. Context label: 20220629_142434; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "38bd4af9c94ae3a03d233f98",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: cable discussion in unidentified room.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "3f8a42e3430e4005741d0989",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Smart-soccer context shows a temporary demonstration setup, not a room inventory.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "43dcb9f69ccd11997219559e",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: drawing activity.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "48d196e6141fb4e730a2818c",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "mock-up, not installed layout before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "4c54a3760d9c163679767bc2",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "slide/counts uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "50369f50d4a9e5c67a6927bb",
+    "disposition": "keep",
+    "facts": [
+      0,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "The Wing wall sign, group tables, screens and glass partition are visible together. Context label: Design Build and Fly (DBF); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "545fa1e40fd5f2e751310417",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "equipment function uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "57996cb44d68afb270324d8a",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "projector type uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "597ac231878559011f427789",
+    "disposition": "keep",
+    "facts": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      9,
+      11,
+      12
+    ],
+    "spatial": [
+      1,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "The video wall and rear glass meeting room are fixed features; temporary seating/counts omitted. Context label: 20250212034; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "5df736ab5a98ea648a6a1240",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1,
+      2
+    ],
+    "reason": "A rear workbench, numbered storage cabinets and windows form a clear lab layout. Context label: 12-20210428_InnoEdge-26; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "5ea4fff24920e9392ecb041b",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: transit station.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "609c5eb44ff9bb6e6a640152",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Two projection areas face groups around rows of high tables; retain only the slide heading. Context label: Student-initiated courses; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "63fa400ec163a046fa733892",
+    "disposition": "keep",
+    "facts": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Tiered seating and a glass meeting pod sit beneath the INNOVATION graphic; crowd details omitted. Context label: The 11th Engineering Inno Show; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6758d3381c0740935b93565d",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [],
+    "reason": "Central worktables, rear machine row, cabinetry and glass partition define the open workshop. Context label: 20240125174; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6a1cbca8a6d44ad1ecadbd52",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: graphic banner.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6b2cc172e2122906d7ca7183",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: group portrait.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6db6e60d9e9e5bb652dd7ab2",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: exterior building.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "704f52c5c234b1d75e565a44",
+    "disposition": "keep",
+    "facts": [
+      2,
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "spatial": [
+      0,
+      3
+    ],
+    "ocr": [],
+    "reason": "A front screen, ceiling fans/projector and AV desk are classroom features. Context label: health; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "774e3909a425fd6877c96863",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "spatial": [
+      3
+    ],
+    "ocr": [],
+    "reason": "The high table, monitor and glazed partition define a shared work area; device identity remains generic. Context label: 20240125186; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "780f37df205cdd0bf28d6211",
+    "disposition": "keep",
+    "facts": [
+      2,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "spatial": [
+      4
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Stepped seating, glass partition and presentation display define the room layout. Context label: 06-20221005_Mr Rex Sham_Resized (6); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7bf277d4065fc41af2978148",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "spatial": [
+      2,
+      3
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Rows of desks and monitors face a projection screen; RAG heading is retained as context. Context label: IMG_4384; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7ed10fc4626080f509420c79",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      4,
+      7,
+      8,
+      11
+    ],
+    "spatial": [
+      2,
+      3
+    ],
+    "ocr": [],
+    "reason": "Rows of monitors face a front screen; blue doors mark the classroom side wall. Context label: workingshop_training.jpg; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7f8c7e3c4ac7f0fc91ccd5f7",
+    "disposition": "keep",
+    "facts": [
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "spatial": [
+      1,
+      3
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "reason": "The display, camera position, glass room and banner define the presentation-area arrangement. Context label: Australia Study Tour Post-trip image (3); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "800ccacddb6b6dd482f7f88e",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: retail street.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "81126999d5e44d0b75000428",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "venue identity incomplete before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "8499e8a8b786af43cffc7801",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "secondary text uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "85e67e1369f0409dde1f2611",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "printer type uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "8e6b8648906f7f0c0de06270",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: outdoor walkway.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "90c21c270dc81f56277ff48a",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: project poster/phone.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "969505c85eceb6e380f75c96",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "rig function unknown before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "9a9e020905fee8793b406501",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "DREAMLab group prototype photo is project activity; hold for inventory use.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "9f161b4fbdf043b4aad67ca8",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: stage/music event.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a0ccb171b99b378e00c102cb",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "unlocated product image before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "a5d16dd67d3defba1db3bce9",
+    "disposition": "keep",
+    "facts": [
+      2,
+      4,
+      5,
+      7,
+      8,
+      10
+    ],
+    "spatial": [
+      1,
+      2,
+      4
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Clock, projection area, whiteboard and exposed ceiling services are lecture-room features. Context label: HKU Engineering students @ IBL Global Inclusive STEM+ Leadership week; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a808d87fb2dd586a6593840c",
+    "disposition": "keep",
+    "facts": [
+      0,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Wing sign, glass fa?ade, canopy and recessed entrance identify the building exterior. Context label: outside_day; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a967f065512df2f28b039ca1",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "wing function unknown before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "a9de402a6aeb7ef2d2fb347d",
+    "disposition": "keep",
+    "facts": [
+      0,
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Wing sign, exit marker and hanging bell are fixed entrance features. Context label: 20210122080; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b010f188ac62a184b2bf82c6",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Two projection areas, work tables and ceiling projectors define the classroom layout. Context label: Student-initiated courses; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b37617ac17b989c2ee12fa81",
+    "disposition": "keep",
+    "facts": [
+      1,
+      3,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "reason": "The hygiene poster and sneeze guard document fixed table setup and room guidance. Context label: Schedule and arrangement; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b58588c522d3d85e0eb84b05",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      4,
+      7,
+      9,
+      10
+    ],
+    "spatial": [
+      0,
+      3
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Two projection areas and ceiling projectors face worktables; the course slide is omitted. Context label: 20250227088; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b92883ac9ef8197e9863d7ba",
+    "disposition": "keep",
+    "facts": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "spatial": [
+      1,
+      3
+    ],
+    "ocr": [],
+    "reason": "Suspended model airplane, robot, projector, shelving and staircase are teaching-space features. Context label: DSC_2005 (Large); used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "ba566342eba1d47f7f82aa45",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "setting uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "bc968ba1dab9ed1450f8c41a",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: exterior branding.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "be418bebc7b5f032855fc230",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "bench label uncertain before use.",
+    "conflicts": [
+      "Visual/context confirmation is needed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "c4640bfc4d2bb4f8e9a20527",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "School-visit robot demonstration is temporary project evidence, not fixed inventory.",
+    "conflicts": [
+      "Context identifies project/event use; installation in a facility is unconfirmed."
+    ],
+    "duplicate_of": []
+  },
+  {
+    "id": "c7484c8fe4652bc902ca471b",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Low-value facility evidence: rendered game scene.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "ca81a7abea562d5f9b822acb",
+    "disposition": "keep",
+    "facts": [
+      6,
+      7,
+      9,
+      10
+    ],
+    "spatial": [
+      0,
+      2
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "L4 306 whiteboard and inward-facing workstations identify a computer-lab layout. Context label: IMG_5919a; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "cd28d1621da733d8b31bb8bf",
+    "disposition": "keep",
+    "facts": [
+      2,
+      3,
+      7,
+      8,
+      11,
+      14
+    ],
+    "spatial": [
+      2,
+      3
+    ],
+    "ocr": [
+      1
+    ],
+    "reason": "Left-wall screen, projector, lockers and ceiling infrastructure define the room layout. Context label: 20250228003; used only to assess subject relevance, not to infer room identity or installed inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "03f8b85b84291c471c7bb4bf",
+  "sha256": "d84fdd1fc1bbae029514c3fb42a933c08f4e6a50c4609b87792edd4fec9ee7e1",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Laboratory and collaborative workroom",
+  "visible_text": ["FIRST AID KIT", "NEVER CONFUSE MOTION WITH ACTION."],
+  "visual_facts": [
+    "The room contains rows of tables, chairs, desks, and storage cabinets.",
+    "Several electronics instruments and computer monitors sit on desks along the right wall.",
+    "Two large display screens are mounted at the left and right sides of the room, each showing people at work.",
+    "The walls hold posters and diagrams; one poster reads NEVER CONFUSE MOTION WITH ACTION.",
+    "A red vertical display structure with mounted objects stands near the center of the back wall.",
+    "A sign reading FIRST AID KIT is visible on the left wall.",
+    "Exposed pipes and long rectangular light fixtures run across the ceiling."
+  ],
+  "spatial_relations": ["Desks with equipment line the right wall.", "Tables and chairs occupy the foreground and center of the room.", "The red display structure stands between the two screen areas along the back wall."],
+  "uncertainties": ["Small labels on the equipment and most poster text are unreadable.", "The image does not establish the room's formal name or the purpose of each instrument."]
+}

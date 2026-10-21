@@ -1,0 +1,72 @@
+[
+  {
+    "id": "image_curated_001",
+    "score": 0,
+    "grounded": true,
+    "reason": "Abstains; supplied top-five evidence is empty, so it does not support the three permitted activities.",
+    "language_match": true
+  },
+  {
+    "id": "image_curated_002",
+    "score": 1,
+    "grounded": true,
+    "reason": "Correctly gives SONY; the supplied Digital Learning Studio evidence explicitly identifies SONY on the white ceiling-mounted projector.",
+    "language_match": true
+  },
+  {
+    "id": "image_curated_003",
+    "score": 1,
+    "grounded": true,
+    "reason": "Correctly gives Maker Space A; supplied Brainstorm Space notice evidence explicitly directs visitors there.",
+    "language_match": true
+  },
+  {
+    "id": "image_curated_004",
+    "score": 0.5,
+    "grounded": true,
+    "reason": "Identifies Ultimaker 3 Extended but omits Ultimaker 2 extended+ and abstains on the pair. The supplied equipment evidence supports the Ultimaker 3 model only; the answer does not claim the unsupported second model.",
+    "language_match": true
+  },
+  {
+    "id": "image_curated_005",
+    "score": 0,
+    "grounded": true,
+    "reason": "Abstains on the button position. Supplied evidence mentions an emergency button but gives no location.",
+    "language_match": false
+  },
+  {
+    "id": "image_curated_006",
+    "score": 0,
+    "grounded": true,
+    "reason": "Abstains; supplied evidence does not report the exact safety-station label.",
+    "language_match": false
+  },
+  {
+    "id": "image_curated_007",
+    "score": 0,
+    "grounded": true,
+    "reason": "Abstains; there is no supplied evidence for the described glass partition or its lettering.",
+    "language_match": true
+  },
+  {
+    "id": "image_curated_008",
+    "score": 1,
+    "grounded": true,
+    "reason": "Correctly identifies the Tam Wing Fan Innovation Wing sign with an attached bell; supplied visual description places it above the chairs on the right wall.",
+    "language_match": false
+  },
+  {
+    "id": "image_curated_009",
+    "score": 1,
+    "grounded": true,
+    "reason": "Correctly gives IW-LG10; supplied Podcast Studio plaque evidence states that room identifier.",
+    "language_match": true
+  },
+  {
+    "id": "image_curated_010",
+    "score": 0,
+    "grounded": true,
+    "reason": "Abstains on what to place on the work surface. Supplied evidence describes the rules sign but does not provide its caption about a mat.",
+    "language_match": false
+  }
+]

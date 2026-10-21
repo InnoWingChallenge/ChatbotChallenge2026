@@ -1,0 +1,115 @@
+{
+  "title": "Group in front of DREAMLab wall with workbench and prototypes",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "12 people are visible in the photographed scene; all are standing and most are fully visible (no persons are present only as posters or screen images).",
+    "At least 6 backpacks or shoulder bags are visible on or worn by people: one red backpack (front-right person), multiple dark backpacks on the students in the rear, and several blue drawstring bags being held (see counts below).",
+    "Four blue drawstring bags are visibly held by people in the foreground (two clearly in front, two more partially visible).",
+    "A table or workbench is visible in the lower-right foreground containing multiple small electronic assemblies, components and prototyping items (several distinct assemblies but exact unit count indeterminate due to overlap).",
+    "Three round stools or high seats are visible at the left foreground near the work surface.",
+    "One ceiling-mounted air-conditioning cassette unit is visible near the centre top of the image.",
+    "One ceiling-mounted dome camera is visible near the upper-right area of the ceiling.",
+    "One red emergency/fire alarm or first-aid box is mounted on the right wall.",
+    "A large frosted glass wall or board with writing and a prominent wall sign reading 'DREAMLab' is visible on the rear wall."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "THE UNIVERSI[unreadable] OF HONG K[unreadable]",
+    "Please keep tidy",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "A group of people stands in a loose row across the middle of the image, directly in front of the frosted glass wall bearing the 'DREAMLab' sign.",
+    "The table/workbench with electronic prototypes is in the lower-right foreground, directly in front of and slightly to the right of the group of people.",
+    "Three round stools are positioned to the left foreground near the work surface and slightly in front of the frosted glass wall.",
+    "The ceiling-mounted air-conditioning cassette unit is centred near the top of the image above the group; the dome camera is located to the right of that unit along the ceiling.",
+    "A red emergency/first-aid or alarm box is mounted on a wall or pillar at the right edge of the image, adjacent to a vertical white sign that reads 'Please keep tidy'.",
+    "Frosted glass panels or walls continue to the right behind the group, with a partitioned or office-like area visible through them."
+  ],
+  "colours_and_materials": [
+    "The rear wall/frosted panel is light green/greenish and bears the DREAMLab sign; the letters 'DREAM' appear in yellow and 'Lab' in a darker colour (black or dark grey).",
+    "The ceiling is white with exposed white pipes and fixtures; the air-conditioning cassette is off-white or light grey.",
+    "The stools at left appear to have grey seats.",
+    "The red backpack in the front-right is bright red; several of the blue drawstring bags are bright blue with white drawstrings.",
+    "The workbench surface in the lower-right foreground appears yellow or light wood coloured and holds components with mixed colours (including red, white and metallic parts).",
+    "The emergency/first-aid box on the right wall is red with white text/graphics."
+  ],
+  "uncertainties": [
+    "The smaller text line below 'DREAMLab' is partially obscured and reads 'THE UNIVERSI[unreadable] OF HONG K[unreadable]'; the full line cannot be confirmed from the image.",
+    "Several small labels and signs (for example a round prohibition sign on a stand near the centre and some notes on the frosted board) are present but not fully legible; they are reported as [unreadable].",
+    "The exact count of small electronic assemblies on the workbench cannot be determined because items overlap and some are partially cropped out of the frame.",
+    "Counts of backpacks and bags are minimum visible counts; some bags or straps are partially obscured behind people so a precise total may be higher.",
+    "The two final entries in visible_text are placeholders for additional small legible fragments that could not be resolved at the image resolution provided."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "12 people are visible in the photographed scene; all are standing and most are fully visible (no persons are present only as posters or screen images).",
+    "At least 6 backpacks or shoulder bags are visible on or worn by people: one red backpack (front-right person), multiple dark backpacks on the students in the rear, and several blue drawstring bags being held (see counts below).",
+    "Four blue drawstring bags are visibly held by people in the foreground (two clearly in front, two more partially visible).",
+    "A table or workbench is visible in the lower-right foreground containing multiple small electronic assemblies, components and prototyping items (several distinct assemblies but exact unit count indeterminate due to overlap).",
+    "Three round stools or high seats are visible at the left foreground near the work surface.",
+    "One ceiling-mounted air-conditioning cassette unit is visible near the centre top of the image.",
+    "One ceiling-mounted dome camera is visible near the upper-right area of the ceiling.",
+    "One red emergency/fire alarm or first-aid box is mounted on the right wall.",
+    "A large frosted glass wall or board with writing and a prominent wall sign reading 'DREAMLab' is visible on the rear wall.",
+    "The rear wall/frosted panel is light green/greenish and bears the DREAMLab sign; the letters 'DREAM' appear in yellow and 'Lab' in a darker colour (black or dark grey).",
+    "The ceiling is white with exposed white pipes and fixtures; the air-conditioning cassette is off-white or light grey.",
+    "The stools at left appear to have grey seats.",
+    "The red backpack in the front-right is bright red; several of the blue drawstring bags are bright blue with white drawstrings.",
+    "The workbench surface in the lower-right foreground appears yellow or light wood coloured and holds components with mixed colours (including red, white and metallic parts).",
+    "The emergency/first-aid box on the right wall is red with white text/graphics."
+  ],
+  "id": "ba566342eba1d47f7f82aa45",
+  "sha256": "8569012136d4504dd6adfa972c5685e495d45109c3e019a6657d470b1591f560",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:01:19.131447+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "d21e39a2ca606272bcf5b02e65f039f581b2a9143dc0adfee2517927e6f7e517",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauO1Ol7gyY2drTgfzHxfqnpDtPqE",
+  "usage": {
+    "completion_tokens": 1319,
+    "prompt_tokens": 2122,
+    "total_tokens": 3441,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1465,
+      "engine_ttlt_ms": 12734,
+      "pre_inference_ms": 326,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2363,
+      "service_ttlt_ms": 13625,
+      "user_visible_ttft_ms": 2037
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

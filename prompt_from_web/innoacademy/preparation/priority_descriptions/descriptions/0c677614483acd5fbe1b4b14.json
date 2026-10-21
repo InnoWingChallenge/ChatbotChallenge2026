@@ -1,0 +1,118 @@
+{
+  "title": "Presentation in a meeting space with large projected screen and Innovation Academy banner",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 15 people are visible in the photographed scene: a standing presenter at the right in front of the screen and at least 14 seated or standing audience members distributed on tiered seating at the left and on cube seats in the center; several people are partially cropped or seen in profile.",
+    "One person is presenting at the front of the room and holding a handheld microphone.",
+    "One large illuminated projection screen or video wall occupies the right-central background of the image.",
+    "One free‑standing vertical roll-up banner is visible at the far right with printed text and logos.",
+    "One small round table or laptop stand with a laptop is positioned near the banner at the far right; the laptop is open and facing the audience.",
+    "One wheeled AV or utility table is visible at the right under the banner and near the laptop stand.",
+    "At least eight individual cube seats (soft upholstered blocks) are visible in the seating area in the centre and foreground; some cubes are partially obscured by people or cropping.",
+    "One backpack is visible on the floor in front of the cube seats in the foreground.",
+    "A glass partition or wall with multiple printed sheets of paper affixed to it is visible behind the central seating area.",
+    "One wall-mounted speaker is visible above the projection screen area at center-left of the screen.",
+    "Two rectangular ceiling light panels are visible above the presenter area.",
+    "A visible exposed metal air duct is present at the top right corner of the image."
+  ],
+  "visible_text": [
+    "From this",
+    "To this",
+    "Innovation Academy",
+    "Faculty of Engineering"
+  ],
+  "spatial_relations": [
+    "The presenter stands at the right in front of the large illuminated projection screen/video wall and to the left of the roll-up 'Innovation Academy' banner.",
+    "Audience members sit on cube seats arranged in rows in the centre foreground, with additional audience on tiered seating to the left of the cube seats.",
+    "A glass partition with multiple printed notices is located behind the central seating area and between the tiered seating and the projected screen.",
+    "The small round laptop table and a wheeled AV table are positioned to the immediate right of the presenter and just in front of the banner.",
+    "A wall-mounted speaker is located above and slightly left of the center of the projection surface."
+  ],
+  "colours_and_materials": [
+    "Cube seats are various shades of blue and teal fabric upholstery.",
+    "The large projection surface is bright white when displaying slides.",
+    "The floor is covered in light grey carpet with visible linear texture.",
+    "A painted green or mint-coloured soffit/ceiling element runs across the top part of the image.",
+    "The glass partition is transparent with white and printed paper notices attached.",
+    "An exposed metallic air duct with a silver finish is visible at the top right."
+  ],
+  "uncertainties": [
+    "Exact total number of people cannot be determined because several audience members are partially occluded or cropped at the image edges; the text uses 'at least 15' as a visible minimum.",
+    "Some small printed signs on the glass partition and on the wall are not legible in this image and are not transcribed; those unreadable labels are not included other than the visible larger texts.",
+    "The roll-up banner includes additional small logos or lines of text that are not sufficiently legible for exact transcription beyond 'Innovation Academy' and 'Faculty of Engineering'.",
+    "Furniture counts (cube seats, tables) are given as visible minima because some units are partially hidden behind people or by the image crop.",
+    "No exact room name or number is visible in the image; location is therefore reported as unknown from image."
+  ],
+  "visual_facts": [
+    "At least 15 people are visible in the photographed scene: a standing presenter at the right in front of the screen and at least 14 seated or standing audience members distributed on tiered seating at the left and on cube seats in the center; several people are partially cropped or seen in profile.",
+    "One person is presenting at the front of the room and holding a handheld microphone.",
+    "One large illuminated projection screen or video wall occupies the right-central background of the image.",
+    "One free‑standing vertical roll-up banner is visible at the far right with printed text and logos.",
+    "One small round table or laptop stand with a laptop is positioned near the banner at the far right; the laptop is open and facing the audience.",
+    "One wheeled AV or utility table is visible at the right under the banner and near the laptop stand.",
+    "At least eight individual cube seats (soft upholstered blocks) are visible in the seating area in the centre and foreground; some cubes are partially obscured by people or cropping.",
+    "One backpack is visible on the floor in front of the cube seats in the foreground.",
+    "A glass partition or wall with multiple printed sheets of paper affixed to it is visible behind the central seating area.",
+    "One wall-mounted speaker is visible above the projection screen area at center-left of the screen.",
+    "Two rectangular ceiling light panels are visible above the presenter area.",
+    "A visible exposed metal air duct is present at the top right corner of the image.",
+    "Cube seats are various shades of blue and teal fabric upholstery.",
+    "The large projection surface is bright white when displaying slides.",
+    "The floor is covered in light grey carpet with visible linear texture.",
+    "A painted green or mint-coloured soffit/ceiling element runs across the top part of the image.",
+    "The glass partition is transparent with white and printed paper notices attached.",
+    "An exposed metallic air duct with a silver finish is visible at the top right."
+  ],
+  "id": "0c677614483acd5fbe1b4b14",
+  "sha256": "a99528863cea94cca427f43e1567d1f58868227c0f3a4165577bb602450f778d",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:27:29.680278+00:00",
+  "input_resolution": [
+    1620,
+    1080
+  ],
+  "input_sha256": "3418794d5aff682745112735ac5d65c77124df6612fe2417fb1e63052cf1ea75",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatrKD46kQ6WhJtTX1FV7SgRyqWwc",
+  "usage": {
+    "completion_tokens": 1275,
+    "prompt_tokens": 2237,
+    "total_tokens": 3512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1172,
+      "engine_ttlt_ms": 9784,
+      "pre_inference_ms": 328,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1949,
+      "service_ttlt_ms": 10556,
+      "user_visible_ttft_ms": 1621
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

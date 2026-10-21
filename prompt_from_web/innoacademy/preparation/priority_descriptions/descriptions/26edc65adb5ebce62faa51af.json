@@ -1,0 +1,119 @@
+{
+  "title": "Presentation at Innovation Academy banner and large timeline screen",
+  "suitable": true,
+  "location": "Innovation Academy",
+  "objects_and_counts": [
+    "At least nine people are visible: five seated audience members in the foreground (region: lower left to center; some are partially cropped) and four presenters or standing participants at the front near the screen and banner (region: center to right).",
+    "One person at center-front is holding a handheld microphone (region: centre, standing in front of the screen).",
+    "One large wall-mounted display screen or LED panel is visible (region: centre-left) showing a slide headed 'IMPLEMENTATION PLAN & TIMELINE'.",
+    "One tall roll-up banner reading 'Innovation Academy' is positioned to the right of the screen (region: right-center).",
+    "One laptop is visible on a small table being used by a standing person (region: right-center).",
+    "Three modular cube seats are visible in the foreground: two blue cubes and one grey cube (region: lower center-left).",
+    "One white mobile standing desk or laptop trolley with wheels is visible against the right wall (region: far right).",
+    "One hanging brass bell is mounted on the wall to the right of the banner (region: upper right).",
+    "Several visible cable runs lie on the floor in front of the banner and running toward the right wall (region: center-right floor).",
+    "One wall-mounted exit sign with right-arrow and running-man icon is visible above a doorway (region: upper right).",
+    "Multiple posters are affixed to the right wall near the banner; they are visible but mostly not legible at full detail (region: right)."
+  ],
+  "visible_text": [
+    "IMPLEMENTATION PLAN & TIMELINE",
+    "Phase 1",
+    "Phase 2",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "FACULTY"
+  ],
+  "spatial_relations": [
+    "The large display screen is centered on the front wall slightly left of the image center; a presenter stands directly in front of it.",
+    "To the right of the screen is a tall roll-up banner reading 'Innovation Academy', and immediately to the right of that banner is a doorway with an exit sign above it.",
+    "A small table with a laptop is located between the roll-up banner and the standing participants on the right; two standing people are using the laptop while another stands nearby.",
+    "Audience seating (blue and grey cube seats) is arranged in the foreground facing the screen and presenters; seated viewers have laptops in front of them.",
+    "A white mobile standing desk/trolley sits against the right wall to the right of the posters and beneath the hanging bell."
+  ],
+  "colours_and_materials": [
+    "The ceiling beams and soffit near the front are painted a light mint green.",
+    "Foreground seating includes blue and grey upholstered cube seats.",
+    "The floor is covered with a light grey carpet with linear texture.",
+    "The roll-up banner has a dark (near-black or dark green) background with yellow and white text.",
+    "A brass-coloured bell is mounted on the right wall; exposed metal ductwork (silver) is visible near the ceiling above the doorway."
+  ],
+  "uncertainties": [
+    "Exact total number of people in the room cannot be confirmed because parts of the space and reflections contain additional persons that are partially cropped or obscured.",
+    "Many lines of text on the slide under the heading 'IMPLEMENTATION PLAN & TIMELINE' are too small or partially obscured to transcribe accurately; only the heading and the words 'Phase 1' and 'Phase 2' were reliably legible.",
+    "Smaller repeated lines of text on the roll-up banner and on the posters at right are not fully legible; only the prominent 'Innovation Academy' and 'Faculty of Engineering' labels could be transcribed with confidence.",
+    "The sign on the far right shows 'FACULTY' but adjacent words above or beside it are partially cropped and unreadable.",
+    "Some objects (for example additional seats or equipment behind the audience and reflections in the glass) are visible only in part and therefore were not included in an exact count."
+  ],
+  "visual_facts": [
+    "Visible location text: Innovation Academy",
+    "At least nine people are visible: five seated audience members in the foreground (region: lower left to center; some are partially cropped) and four presenters or standing participants at the front near the screen and banner (region: center to right).",
+    "One person at center-front is holding a handheld microphone (region: centre, standing in front of the screen).",
+    "One large wall-mounted display screen or LED panel is visible (region: centre-left) showing a slide headed 'IMPLEMENTATION PLAN & TIMELINE'.",
+    "One tall roll-up banner reading 'Innovation Academy' is positioned to the right of the screen (region: right-center).",
+    "One laptop is visible on a small table being used by a standing person (region: right-center).",
+    "Three modular cube seats are visible in the foreground: two blue cubes and one grey cube (region: lower center-left).",
+    "One white mobile standing desk or laptop trolley with wheels is visible against the right wall (region: far right).",
+    "One hanging brass bell is mounted on the wall to the right of the banner (region: upper right).",
+    "Several visible cable runs lie on the floor in front of the banner and running toward the right wall (region: center-right floor).",
+    "One wall-mounted exit sign with right-arrow and running-man icon is visible above a doorway (region: upper right).",
+    "Multiple posters are affixed to the right wall near the banner; they are visible but mostly not legible at full detail (region: right).",
+    "The ceiling beams and soffit near the front are painted a light mint green.",
+    "Foreground seating includes blue and grey upholstered cube seats.",
+    "The floor is covered with a light grey carpet with linear texture.",
+    "The roll-up banner has a dark (near-black or dark green) background with yellow and white text.",
+    "A brass-coloured bell is mounted on the right wall; exposed metal ductwork (silver) is visible near the ceiling above the doorway."
+  ],
+  "id": "26edc65adb5ebce62faa51af",
+  "sha256": "a93e3c8ef1026debfdb78c052d8d50b0a1df76e1328504e07556a39d4623a653",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:32:51.739701+00:00",
+  "input_resolution": [
+    2016,
+    1134
+  ],
+  "input_sha256": "e92e852f89e47434458d643ecce16cc9da63507c6dedcfd0a33e689b69aa4065",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatwUxQH0cVL0lPkxLcqzEC6Cf43V",
+  "usage": {
+    "completion_tokens": 1430,
+    "prompt_tokens": 2439,
+    "total_tokens": 3869,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1205,
+      "engine_ttlt_ms": 11798,
+      "pre_inference_ms": 400,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2161,
+      "service_ttlt_ms": 12749,
+      "user_visible_ttft_ms": 1762
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

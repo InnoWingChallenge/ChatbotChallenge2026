@@ -1,0 +1,111 @@
+{
+  "title": "People with model airplane in front of Tam Wing Fan Innovation Wing sign",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing",
+  "objects_and_counts": [
+    "Three people are visible: two adult men prominently in the foreground (both wearing face masks) and one person partially visible at the far left rear (back turned, cropped at waist).",
+    "One handheld model airplane (single wing balsa-style glider) is visibly held by the person on the left foreground; the aircraft is unobstructed and fully visible in the lower center of the image.",
+    "One large wall sign bearing the facility name is visible on the wall behind the people (single sign, upper left of center).",
+    "One wall-mounted flat-panel display (television or monitor) is visible behind the two foreground figures, slightly right of center.",
+    "One hanging brass bell is visible on the far left upper area of the image.",
+    "At least one freestanding air purifier unit is visible at the right foreground (single white cylindrical unit).",
+    "At least two printed posters or flyers are visible on the left wall area near the bell (two items, one above the other); both are partially legible/cropped.",
+    "One table or work surface is partly visible at left where the rear person is standing (partially cropped)."
+  ],
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "FACULTY OF ENGINEERING",
+    "PHILIPS"
+  ],
+  "spatial_relations": [
+    "The large facility sign 'Tam Wing Fan Innovation Wing' with 'FACULTY OF ENGINEERING' below it is mounted on the wall behind and to the left of the two foreground people.",
+    "The wall-mounted flat-panel display is behind and between the two foreground people but set slightly toward the right side of the image.",
+    "The person holding the model airplane stands at the left foreground; the other foreground person (green plaid shirt) stands on the right foreground and is closer to the air purifier at the right edge.",
+    "The brass bell hangs from the ceiling at the far left and is positioned above the posters on the left wall area.",
+    "The partially visible person with back turned stands at the far left near the posters and a work surface, behind the person holding the model airplane."
+  ],
+  "colours_and_materials": [
+    "The person on the right is wearing a green and white plaid shirt and a light grey vest; the person on the left is wearing a dark grey T-shirt with a white diagonal graphic.",
+    "Both foreground people wear blue disposable face masks (slightly different blue tones).",
+    "The wall sign background is white with black lettering; a green-and-white geometric logo appears to the left of the sign text.",
+    "A dark blue diagonal wall panel is visible behind the right foreground person, contrasting with the light-coloured wall.",
+    "The hanging bell appears metallic and brass-coloured.",
+    "The handheld model airplane appears to be made of light-coloured wood or balsa with white wing covering.",
+    "The air purifier is white with a perforated lower section and a smooth upper section."
+  ],
+  "uncertainties": [
+    "Several small poster and screen texts on the left and on the wall-mounted display are present but not legible at this resolution; their exact wording cannot be confidently transcribed.",
+    "There may be additional small labels or brand names on equipment (for example near the air purifier or on the monitor bezel) that are not readable in the image.",
+    "The partially visible person at the far left is cropped at the waist so exact head count in the overall room cannot be determined beyond the three visible individuals.",
+    "The number of posters or flyers on the left wall is estimated as two items stacked; cropping and partial occlusion leave ambiguity about whether more printed materials are present out of frame."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing",
+    "Three people are visible: two adult men prominently in the foreground (both wearing face masks) and one person partially visible at the far left rear (back turned, cropped at waist).",
+    "One handheld model airplane (single wing balsa-style glider) is visibly held by the person on the left foreground; the aircraft is unobstructed and fully visible in the lower center of the image.",
+    "One large wall sign bearing the facility name is visible on the wall behind the people (single sign, upper left of center).",
+    "One wall-mounted flat-panel display (television or monitor) is visible behind the two foreground figures, slightly right of center.",
+    "One hanging brass bell is visible on the far left upper area of the image.",
+    "At least one freestanding air purifier unit is visible at the right foreground (single white cylindrical unit).",
+    "At least two printed posters or flyers are visible on the left wall area near the bell (two items, one above the other); both are partially legible/cropped.",
+    "One table or work surface is partly visible at left where the rear person is standing (partially cropped).",
+    "The person on the right is wearing a green and white plaid shirt and a light grey vest; the person on the left is wearing a dark grey T-shirt with a white diagonal graphic.",
+    "Both foreground people wear blue disposable face masks (slightly different blue tones).",
+    "The wall sign background is white with black lettering; a green-and-white geometric logo appears to the left of the sign text.",
+    "A dark blue diagonal wall panel is visible behind the right foreground person, contrasting with the light-coloured wall.",
+    "The hanging bell appears metallic and brass-coloured.",
+    "The handheld model airplane appears to be made of light-coloured wood or balsa with white wing covering.",
+    "The air purifier is white with a perforated lower section and a smooth upper section."
+  ],
+  "id": "c1d64ac7d3384fb2f08996b6",
+  "sha256": "abe771d04759673f4d44f05789360fc7c53ab194655e7eb6199a1a7da1b98809",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:03:11.930870+00:00",
+  "input_resolution": [
+    2000,
+    1125
+  ],
+  "input_sha256": "eb39fb9b170f58ef17cfc62ac0a84668d47d4faf3dc77e9c4754de7264c41f1e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauPr28Xe6ytlWVp9ts8SKLRzqz1R",
+  "usage": {
+    "completion_tokens": 1267,
+    "prompt_tokens": 2439,
+    "total_tokens": 3706,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1173,
+      "engine_ttlt_ms": 10395,
+      "pre_inference_ms": 569,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2293,
+      "service_ttlt_ms": 11507,
+      "user_visible_ttft_ms": 1724
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

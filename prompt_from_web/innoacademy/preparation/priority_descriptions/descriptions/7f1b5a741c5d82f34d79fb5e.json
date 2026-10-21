@@ -1,0 +1,101 @@
+{
+  "title": "Exterior view of campus buildings, distant hills and communications tower",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Foreground: multiple multi-storey buildings are visible; at least four distinct building facades can be counted across the frame (a leftmost glass-faced tower, a white/grey rectangular building with many windows, a central tan/buff brick building, and a right-side light-grey industrial building).",
+    "At least one vehicle is visible: a white car is parked near the mid-ground just left of the centre building (partially visible between buildings and trees).",
+    "Distant objects on the ridge: one tall communications tower with red-and-white horizontal bands sits on a hill in the right half of the image.",
+    "Vegetation: a continuous treeline/wooded area spans the mid-ground across the image; numerous individual trees are visible but not individually counted.",
+    "Sky elements: multiple clouds of varying sizes are visible in the upper half of the image.",
+    "Windows: many repeated windows are visible on the white/grey building (arranged in rows) and on the tan building (single narrow windows stacked vertically); an exact count of total windows across all façades cannot be reliably determined from this single view."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A glass-faced tower building occupies the far left edge of the image; immediately right of it is a white/grey rectangular building with horizontally aligned windows.",
+    "A tan/buff brick building stands in front of and slightly to the right of the white/grey building; its narrow vertical windows are visible on the face that faces the camera.",
+    "Behind the foreground building cluster, a strip of wooded hills extends across the mid-ground and separates the buildings from more distant blue mountains.",
+    "The red-and-white communications tower sits on a hill in the right half of the image, above the treeline and below the sky.",
+    "A low, light-grey industrial-style building with a metal roof is in the lower right quadrant in front of the wooded area.",
+    "The white car is located near the central lower-mid area, between the buildings and partially obscured by trees."
+  ],
+  "colours_and_materials": [
+    "Sky is a clear light blue with white clouds.",
+    "The central tall building has a tan/buff brick façade.",
+    "The leftmost tower has reflective glass or glazed panels with a pale blue tint.",
+    "One building façade is white or light grey with dark-framed windows.",
+    "The right-side building has a light-grey metal roof and grey cladding panels.",
+    "Vegetation is predominantly green with some areas of darker foliage on the hills."
+  ],
+  "uncertainties": [
+    "No room name, room number, sign or other explicit location identifier is legible in the image, so the precise location or building name cannot be determined from this photograph.",
+    "There is no legible printed or painted text visible in the scene; small signage that might exist on building façades is not readable at this resolution.",
+    "Counts of repeated items such as windows and trees are approximate observations from the visible faces and are not a definitive inventory of the structures.",
+    "Some objects are partially obscured (for example the white vehicle is partially hidden by trees), so minimum visible counts are reported and total items in the scene may be higher."
+  ],
+  "visual_facts": [
+    "Foreground: multiple multi-storey buildings are visible; at least four distinct building facades can be counted across the frame (a leftmost glass-faced tower, a white/grey rectangular building with many windows, a central tan/buff brick building, and a right-side light-grey industrial building).",
+    "At least one vehicle is visible: a white car is parked near the mid-ground just left of the centre building (partially visible between buildings and trees).",
+    "Distant objects on the ridge: one tall communications tower with red-and-white horizontal bands sits on a hill in the right half of the image.",
+    "Vegetation: a continuous treeline/wooded area spans the mid-ground across the image; numerous individual trees are visible but not individually counted.",
+    "Sky elements: multiple clouds of varying sizes are visible in the upper half of the image.",
+    "Windows: many repeated windows are visible on the white/grey building (arranged in rows) and on the tan building (single narrow windows stacked vertically); an exact count of total windows across all façades cannot be reliably determined from this single view.",
+    "Sky is a clear light blue with white clouds.",
+    "The central tall building has a tan/buff brick façade.",
+    "The leftmost tower has reflective glass or glazed panels with a pale blue tint.",
+    "One building façade is white or light grey with dark-framed windows.",
+    "The right-side building has a light-grey metal roof and grey cladding panels.",
+    "Vegetation is predominantly green with some areas of darker foliage on the hills."
+  ],
+  "id": "7f1b5a741c5d82f34d79fb5e",
+  "sha256": "2571c7b41d54cc6ea72e715305430d4f04362af8db81f971df81142d854c8458",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:49:10.680241+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "2567c9a89b0058f42a148ce4d4335ac13917e974ee7c135c6dc234309c29a420",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauCLhxtU8Ts2B02TP0YYJGW1wuab",
+  "usage": {
+    "completion_tokens": 851,
+    "prompt_tokens": 2266,
+    "total_tokens": 3117,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1165,
+      "engine_ttlt_ms": 7968,
+      "pre_inference_ms": 300,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2031,
+      "service_ttlt_ms": 8828,
+      "user_visible_ttft_ms": 1731
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Multi-tier cryogenic wiring assembly (quantum processor refrigerator) on display",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One multi-tier cylindrical assembly occupying the frame centre, comprising at least three distinct horizontal tiers (upper ring, middle ring, lower connector block).",
+    "Four vertically oriented black glossy support rods are visible connecting the tiers (two near the front and two near the rear are visible).",
+    "Many thin metallic wiring harnesses / coax-like cables descend from the upper/middle tiers into the lower connector region; the exact count of individual cables is not determinable from the image.",
+    "A set of small coiled loop elements (appearing as circular/coiled metal rings) are arranged around the middle-to-upper tier; multiple loops are visible but an exact reliable count cannot be determined from the image.",
+    "Two rectangular copper-coloured blocks form the visible lower connector / termination region with multiple cable terminations on their faces.",
+    "A white curved base or platform is visible at the bottom edge of the image supporting or underlighting the assembly.",
+    "Reflective dark vertical panels or a glass enclosure are present behind and around the assembly (suggesting display or enclosure); these panels are not part of the central assembly itself."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The assembly is vertically stacked: an upper circular/gold-coloured ring sits above a middle ring and both feed cables into a lower pair of rectangular copper-coloured connector blocks.",
+    "Black glossy vertical rods run from the top ring down past the middle ring toward the lower connector blocks, positioned symmetrically around the circumference; two of these rods appear near the front of the image and two near the rear.",
+    "Many thin cables originate at the upper and middle tiers and curve downward toward the lower connector blocks, with groups of cables fanning inward and terminating on the front face of each copper-coloured block.",
+    "Coiled circular loop elements are mounted around the perimeter of the middle/upper tier, forming a repeated ring around that tier.",
+    "A white curved platform or base is directly beneath the lower connector blocks and appears to provide a foreground boundary; reflective dark panels form the background behind the upper assembly."
+  ],
+  "colours_and_materials": [
+    "Gold-coloured metallic components form much of the upper and middle rings and many internal structural parts (metallic finish).",
+    "Copper-coloured rectangular blocks are visible in the lower assembly (metallic copper appearance).",
+    "Thin wiring appears metallic/silver or gold in colour, with a shiny finish.",
+    "Black glossy vertical support rods contrast with the brighter metallic parts.",
+    "A white smooth curved base or platform is visible at the bottom of the frame.",
+    "Background panels are dark and reflective (black or very dark blue), producing reflections of the assembly."
+  ],
+  "uncertainties": [
+    "No room name, room number or other location-identifying text is visible in the image; the precise facility or building cannot be determined from this image.",
+    "There is no legible printed text, labels or nameplates visible in the photographed scene to transcribe.",
+    "Exact counts of individual cables and coiled loop elements cannot be reliably determined because many are overlapping, partially obscured or extend beyond the image edges.",
+    "The exact function or make/model of the equipment is not visible or legible in the image; identification as a cryogenic refrigerator or quantum processor assembly is descriptive of appearance only and not confirmed by readable labels.",
+    "Some features near the rear of the assembly are partially cropped or obscured by reflections, limiting precise enumeration of repeated components."
+  ],
+  "visual_facts": [
+    "One multi-tier cylindrical assembly occupying the frame centre, comprising at least three distinct horizontal tiers (upper ring, middle ring, lower connector block).",
+    "Four vertically oriented black glossy support rods are visible connecting the tiers (two near the front and two near the rear are visible).",
+    "Many thin metallic wiring harnesses / coax-like cables descend from the upper/middle tiers into the lower connector region; the exact count of individual cables is not determinable from the image.",
+    "A set of small coiled loop elements (appearing as circular/coiled metal rings) are arranged around the middle-to-upper tier; multiple loops are visible but an exact reliable count cannot be determined from the image.",
+    "Two rectangular copper-coloured blocks form the visible lower connector / termination region with multiple cable terminations on their faces.",
+    "A white curved base or platform is visible at the bottom edge of the image supporting or underlighting the assembly.",
+    "Reflective dark vertical panels or a glass enclosure are present behind and around the assembly (suggesting display or enclosure); these panels are not part of the central assembly itself.",
+    "Gold-coloured metallic components form much of the upper and middle rings and many internal structural parts (metallic finish).",
+    "Copper-coloured rectangular blocks are visible in the lower assembly (metallic copper appearance).",
+    "Thin wiring appears metallic/silver or gold in colour, with a shiny finish.",
+    "Black glossy vertical support rods contrast with the brighter metallic parts.",
+    "A white smooth curved base or platform is visible at the bottom of the frame.",
+    "Background panels are dark and reflective (black or very dark blue), producing reflections of the assembly."
+  ],
+  "id": "6de6ad04d245da325634156f",
+  "sha256": "ea8a6e6e70c1cb0ff55b1b57088378ba73c09eaff225a5297a4009e3f7aee582",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:12:39.783199+00:00",
+  "input_resolution": [
+    778,
+    519
+  ],
+  "input_sha256": "4490234869b3f7e5b88e39be2b2da8c68819f1d8ee9388c63584e6114582c299",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatczHsVqdsH6ECEHequmYP2Dp7uU",
+  "usage": {
+    "completion_tokens": 970,
+    "prompt_tokens": 1710,
+    "total_tokens": 2680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 462,
+      "engine_ttlt_ms": 8902,
+      "pre_inference_ms": 124,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1150,
+      "service_ttlt_ms": 9573,
+      "user_visible_ttft_ms": 1026
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

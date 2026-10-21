@@ -1,0 +1,105 @@
+{
+  "title": "Hands sketching on an illuminated tracing table with pencil and nearby phone",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two human hands are visible (one at left edge, one holding a pencil near the center-right). It is not possible to confirm whether these belong to the same person or two people from the image alone.",
+    "One mechanical pencil or drafting pencil is visible being held by the right-hand region; the pencil tip contacts paper.",
+    "One illuminated flat work surface or lightbox (large, white, glowing surface) occupies the lower half of the image and supports a sheet of translucent paper.",
+    "One sheet of translucent or tracing paper lies on the illuminated surface with pencil sketches or lettering on it.",
+    "One smartphone or similarly shaped rectangular device is partially visible at the right edge of the image, cropped and with only part of its body visible.",
+    "One ceramic or white cup or mug is visible in the background at the upper right, partially out of focus.",
+    "At least two rings are visible worn on fingers of the left-hand region (one large stone ring and one thinner band).",
+    "One wristwatch or wristband (dark strap, possibly leather) is visible on the wrist of the hand on the left side of the frame."
+  ],
+  "visible_text": [
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The illuminated work surface fills the lower half of the image and the sheet of paper lies flat on it.",
+    "The hand holding the pencil is located toward the center-right of the image and the pencil tip is in contact with the paper near the center of the illuminated area.",
+    "A second hand is positioned at the left side of the frame, near the near edge of the illuminated surface, slightly behind or adjacent to the paper.",
+    "The smartphone-shaped object is at the right edge of the image, laying on the same plane as the illuminated surface but slightly elevated or resting on its edge and is partially cropped by the image border.",
+    "A cup or mug sits behind the illuminated surface in the upper right background, and a vertical yellow area (background) is behind the hands, roughly centered behind the pencil-holding hand."
+  ],
+  "colours_and_materials": [
+    "The illuminated work surface is bright white and emits light through the translucent paper.",
+    "The pencil appears metallic (silver) in color with a dark tip.",
+    "Skin tones of the hands are visible; the nails of the pencil-holding hand are painted grey.",
+    "Rings appear metallic/silver and one ring includes a greenish stone; the wristband appears brown (leather or leather-like).",
+    "A yellow vertical background element is visible behind the hands, and the cup in the background is white."
+  ],
+  "uncertainties": [
+    "No legible printed or handwritten text on the paper, tools, or devices can be confidently transcribed from this image; the visible text field is therefore marked [unreadable].",
+    "It is uncertain whether the two visible hands belong to the same person or to two different people because the arms and body are largely out of frame.",
+    "The rectangular device at the right edge is assumed to be a smartphone by shape but its exact identity and model are not determinable from the visible portion.",
+    "Material identifications (for example, leather wristband or metallic pencil) are visual assessments and could be different materials in reality.",
+    "The crop hides parts of the scene; counts are limited to individually distinguishable visible objects and do not indicate total room inventory or capacity."
+  ],
+  "visual_facts": [
+    "Two human hands are visible (one at left edge, one holding a pencil near the center-right). It is not possible to confirm whether these belong to the same person or two people from the image alone.",
+    "One mechanical pencil or drafting pencil is visible being held by the right-hand region; the pencil tip contacts paper.",
+    "One illuminated flat work surface or lightbox (large, white, glowing surface) occupies the lower half of the image and supports a sheet of translucent paper.",
+    "One sheet of translucent or tracing paper lies on the illuminated surface with pencil sketches or lettering on it.",
+    "One smartphone or similarly shaped rectangular device is partially visible at the right edge of the image, cropped and with only part of its body visible.",
+    "One ceramic or white cup or mug is visible in the background at the upper right, partially out of focus.",
+    "At least two rings are visible worn on fingers of the left-hand region (one large stone ring and one thinner band).",
+    "One wristwatch or wristband (dark strap, possibly leather) is visible on the wrist of the hand on the left side of the frame.",
+    "The illuminated work surface is bright white and emits light through the translucent paper.",
+    "The pencil appears metallic (silver) in color with a dark tip.",
+    "Skin tones of the hands are visible; the nails of the pencil-holding hand are painted grey.",
+    "Rings appear metallic/silver and one ring includes a greenish stone; the wristband appears brown (leather or leather-like).",
+    "A yellow vertical background element is visible behind the hands, and the cup in the background is white."
+  ],
+  "id": "43dcb9f69ccd11997219559e",
+  "sha256": "0ba79dfe08de84d9920fb18d9cf6f82db718c81e937250874f1e6b5dc34e2125",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:37:04.212580+00:00",
+  "input_resolution": [
+    1024,
+    677
+  ],
+  "input_sha256": "6bb9b42eb4c90510ffa4413862025ca5d7d241c4d98f2e77f3cc51828d3afb71",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau0dQRc7uDUTNU7rV5rPqErTGHky",
+  "usage": {
+    "completion_tokens": 959,
+    "prompt_tokens": 2045,
+    "total_tokens": 3004,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 663,
+      "engine_ttlt_ms": 7375,
+      "pre_inference_ms": 98,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1310,
+      "service_ttlt_ms": 8010,
+      "user_visible_ttft_ms": 1212
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

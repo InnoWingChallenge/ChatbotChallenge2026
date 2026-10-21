@@ -1,0 +1,92 @@
+{
+  "title": "Portrait of a single person against a plain background",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One adult-presenting person is visible, shown from mid-torso upward; the person's face is unobstructed and they wear glasses.",
+    "One pair of eyeglasses is visible on the person (metal-framed), not a separate object in the scene.",
+    "One light-coloured blazer (beige or light tan) and one white crew-neck shirt are visible as clothing on the person.",
+    "No furniture, fixed equipment, room signage, instruments, displays or other workplace equipment are visible in the photographed scene.",
+    "No posters or screens containing separate people or objects are visible in the image."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The person is centered in the image and occupies most of the frame, shown from about mid-torso to just above the head.",
+    "The background is plain and featureless with no discernible objects; nothing is adjacent to or occluding the person.",
+    "The person's left arm (right side of image) is slightly bent and rests near their body; both shoulders are visible and relatively level."
+  ],
+  "colours_and_materials": [
+    "The background is a uniform light grey or off-white colour.",
+    "The blazer appears beige or light tan and has a smooth fabric appearance.",
+    "The shirt is white and appears to be a cotton or knit crew-neck.",
+    "The person has dark hair and wears metal-framed glasses with clear lenses."
+  ],
+  "uncertainties": [
+    "There is no visible room sign, equipment nameplate or printed material to establish a location or link to HKU Innovation Academy or Tam Wing Fan Innovation Wing.",
+    "No legible text appears anywhere in the image; any small labels (for example on glasses) are not readable at this resolution.",
+    "Only the upper body of the person is shown; objects that might be present outside the frame cannot be determined.",
+    "I cannot identify the person or provide a name—no identifying text is visible and facial recognition is not performed."
+  ],
+  "visual_facts": [
+    "One adult-presenting person is visible, shown from mid-torso upward; the person's face is unobstructed and they wear glasses.",
+    "One pair of eyeglasses is visible on the person (metal-framed), not a separate object in the scene.",
+    "One light-coloured blazer (beige or light tan) and one white crew-neck shirt are visible as clothing on the person.",
+    "No furniture, fixed equipment, room signage, instruments, displays or other workplace equipment are visible in the photographed scene.",
+    "No posters or screens containing separate people or objects are visible in the image.",
+    "The background is a uniform light grey or off-white colour.",
+    "The blazer appears beige or light tan and has a smooth fabric appearance.",
+    "The shirt is white and appears to be a cotton or knit crew-neck.",
+    "The person has dark hair and wears metal-framed glasses with clear lenses."
+  ],
+  "id": "849a88156bb061aabd3a3498",
+  "sha256": "92cbb1cdbd4e732138a413ea7228331d29029993a4e5a4812b60eb55411c8146",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:14:39.758701+00:00",
+  "input_resolution": [
+    517,
+    436
+  ],
+  "input_sha256": "5dede8b5e8c902b6b8fe839b7288e9c7252fe8f2a676a632e80dbb37cec6c1ea",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatezI3stGvR9WDNHz8dfbrW5eH2m",
+  "usage": {
+    "completion_tokens": 531,
+    "prompt_tokens": 1486,
+    "total_tokens": 2017,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 248,
+      "engine_ttlt_ms": 4917,
+      "pre_inference_ms": 93,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 915,
+      "service_ttlt_ms": 5579,
+      "user_visible_ttft_ms": 822
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Two Makita cordless drills and two Makita chargers in red storage compartment",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two cordless power drills with visible 'Makita' branding: one positioned near the upper centre (mostly visible) and one positioned at lower left (rotated, with chuck pointing right).",
+    "Two battery charger units with visible 'Makita' branding located on the right side of the compartment: one at upper right and one at lower right.",
+    "Two battery packs visibly attached to the drills (one attached to each drill).",
+    "Two power cords visible, both associated with the chargers; both cords are coiled and lie on top of or beside the chargers.",
+    "No people are visible in the photographed scene.",
+    "The scene is a single enclosed red compartment or drawer with visible side walls and base; no additional equipment or furniture is visible beyond the drills, batteries, chargers and cords in this compartment."
+  ],
+  "visible_text": [
+    "Makita",
+    "Makita",
+    "Makita",
+    "Makita",
+    "DC10SB",
+    "2.0Ah",
+    "20",
+    "1 2 4 6"
+  ],
+  "spatial_relations": [
+    "The compartment is rectangular with red interior surfaces; the two drills occupy the left and central upper-left areas while the two chargers occupy the right side.",
+    "One drill lies horizontally at lower left with its chuck pointing right toward the compartment centre; the second drill is positioned near the upper centre with its handle pointing down-right and chuck pointing left.",
+    "The two chargers are stacked in the right half of the compartment: one charger sits at upper right and the other at lower right, with their cords coiled on and around them.",
+    "Battery packs are attached to the base of each drill; each battery is located adjacent to the drill handle and between the drills and the chargers when viewed across the compartment.",
+    "There are small white square labels or tape pieces along the left inner wall and near the right edge of the compartment (these appear affixed to the red interior)."
+  ],
+  "colours_and_materials": [
+    "The interior of the compartment is painted a glossy red.",
+    "Both drills are teal blue and black with white 'Makita' logos; they have black plastic chucks and black textured grips and silver metal belt clips.",
+    "The chargers are primarily black with teal-blue 'Makita' branding panels and multicoloured indicator markings on the charger face.",
+    "Power cords are black rubber-insulated cables coiled on the chargers."
+  ],
+  "uncertainties": [
+    "Small printed text on the charger faces and battery labels is partly obscured or too small to fully transcribe; 'DC10SB' on the lower right charger is legible but additional charger specification lines are unreadable from this view.",
+    "The exact numeric sequence on the torque ring(s) is partly legible ('1 2 4 6' and '20' observed) but some intermediate characters may be obscured or out of frame; '1 2 4 6' was transcribed as seen but may be incomplete.",
+    "The exact printed battery specification is partly legible as '2.0Ah' on at least one battery pack; other battery label details are not fully readable.",
+    "There may be additional small labels or model numbers on the tools and chargers that are not fully legible at this image resolution.",
+    "The left-most drill lies close to the left edge of the image and is slightly rotated; parts of it near the left edge may be cropped by the image border."
+  ],
+  "visual_facts": [
+    "Two cordless power drills with visible 'Makita' branding: one positioned near the upper centre (mostly visible) and one positioned at lower left (rotated, with chuck pointing right).",
+    "Two battery charger units with visible 'Makita' branding located on the right side of the compartment: one at upper right and one at lower right.",
+    "Two battery packs visibly attached to the drills (one attached to each drill).",
+    "Two power cords visible, both associated with the chargers; both cords are coiled and lie on top of or beside the chargers.",
+    "No people are visible in the photographed scene.",
+    "The scene is a single enclosed red compartment or drawer with visible side walls and base; no additional equipment or furniture is visible beyond the drills, batteries, chargers and cords in this compartment.",
+    "The interior of the compartment is painted a glossy red.",
+    "Both drills are teal blue and black with white 'Makita' logos; they have black plastic chucks and black textured grips and silver metal belt clips.",
+    "The chargers are primarily black with teal-blue 'Makita' branding panels and multicoloured indicator markings on the charger face.",
+    "Power cords are black rubber-insulated cables coiled on the chargers."
+  ],
+  "id": "52b56bdfa95b8a60eccb8708",
+  "sha256": "2f37c473b0d0175a357d7b9c0f5232b8db244a1ebaba63df42ff0a9acdf58930",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:10:09.897989+00:00",
+  "input_resolution": [
+    2400,
+    1665
+  ],
+  "input_sha256": "fc79843ee1f1822c50b80205f981c77d751a786daff8531068735c75811fdb02",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EataWJj24o3UXR1iLbObyqSFbDrYF",
+  "usage": {
+    "completion_tokens": 1168,
+    "prompt_tokens": 2208,
+    "total_tokens": 3376,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1110,
+      "engine_ttlt_ms": 11475,
+      "pre_inference_ms": 417,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2596,
+      "service_ttlt_ms": 12956,
+      "user_visible_ttft_ms": 2179
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

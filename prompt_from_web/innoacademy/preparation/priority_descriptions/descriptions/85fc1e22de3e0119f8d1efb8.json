@@ -1,0 +1,93 @@
+{
+  "title": "Three tabletop items including two collapsible cups and a lid with a university crest",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the image.",
+    "Two cylindrical, nested/collapsible cup-like objects with polished metal rims are visible: one with an orange inner set of nested rings at the lower-left region (object is fully visible, not cropped) and one with a blue inner set of nested rings at the top-center region (object is fully visible, not cropped).",
+    "One clear/translucent circular plastic lid or shallow dish is visible at the right-center region; it carries a round paper or sticker emblem placed in its centre.",
+    "A light-coloured flat tabletop surface occupies the background across the whole image."
+  ],
+  "visible_text": [
+    "SAPIENTIA·ET·VIRTUS",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The blue nested cup is positioned near the top-center of the image.",
+    "The orange nested cup is positioned toward the lower-left quadrant of the image, below and slightly left of the blue cup.",
+    "The clear/translucent circular lid with the emblem is positioned to the right of the orange cup and to the lower-right of the blue cup, occupying the right-center of the image.",
+    "All three objects lie directly on a single flat tabletop surface and are separated from one another by visible gaps of tabletop between them."
+  ],
+  "colours_and_materials": [
+    "The tabletop is a pale beige or light wood-colour surface.",
+    "The two cylindrical objects have polished metallic (silver-coloured) rims and brightly coloured flexible inner sections: one bright orange and one light to medium blue; the inner sections appear ribbed or concentrically nested.",
+    "The circular lid appears to be made of clear or translucent plastic and contains a printed, multicoloured emblem (crest) with red, yellow, green and blue areas."
+  ],
+  "uncertainties": [
+    "No room name, room number or other location identifier is visible in the image; therefore the precise location cannot be determined from this image.",
+    "The small text inside the emblem contains characters that are not fully legible at this resolution; only the ribbon motto 'SAPIENTIA·ET·VIRTUS' is clearly readable. The other text (including Chinese characters within the crest) is not reliably legible and is transcribed here as '[unreadable]'.",
+    "It is not certain whether the cylindrical objects are drinking cups, measuring devices, or another object type; identification as 'cup-like' is based on visible shape and nested/ribbed interior but is not confirmed by legible labels.",
+    "There are no visible equipment nameplates, model numbers, control panels, safety headings or room signage in the image to provide facility or equipment identification.",
+    "Because no room identifier or fixed facility features are visible, this image does not provide usable evidence tying it to a particular building, wing, or named lab; therefore suitable is set to false."
+  ],
+  "visual_facts": [
+    "No people are visible in the image.",
+    "Two cylindrical, nested/collapsible cup-like objects with polished metal rims are visible: one with an orange inner set of nested rings at the lower-left region (object is fully visible, not cropped) and one with a blue inner set of nested rings at the top-center region (object is fully visible, not cropped).",
+    "One clear/translucent circular plastic lid or shallow dish is visible at the right-center region; it carries a round paper or sticker emblem placed in its centre.",
+    "A light-coloured flat tabletop surface occupies the background across the whole image.",
+    "The tabletop is a pale beige or light wood-colour surface.",
+    "The two cylindrical objects have polished metallic (silver-coloured) rims and brightly coloured flexible inner sections: one bright orange and one light to medium blue; the inner sections appear ribbed or concentrically nested.",
+    "The circular lid appears to be made of clear or translucent plastic and contains a printed, multicoloured emblem (crest) with red, yellow, green and blue areas."
+  ],
+  "id": "85fc1e22de3e0119f8d1efb8",
+  "sha256": "c29b77cb29c4e51370190065f36aa80e37272c4492fefece20200b59bda1aaa9",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:14:51.119370+00:00",
+  "input_resolution": [
+    1280,
+    853
+  ],
+  "input_sha256": "af03c315cb20685b1490da48f009e90995e7115101e311fa227961d3dbc995a1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatf63PLKF77mK11QmKiYUv1pOX2I",
+  "usage": {
+    "completion_tokens": 1045,
+    "prompt_tokens": 2266,
+    "total_tokens": 3311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 966,
+      "engine_ttlt_ms": 9695,
+      "pre_inference_ms": 288,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1812,
+      "service_ttlt_ms": 10537,
+      "user_visible_ttft_ms": 1524
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

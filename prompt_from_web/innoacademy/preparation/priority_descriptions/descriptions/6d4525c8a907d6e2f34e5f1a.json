@@ -1,0 +1,116 @@
+{
+  "title": "Stack of British Standard Test Sieves on a lab bench",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "A vertical stack of seven individual circular test sieves is visible on a bench in the central foreground; the stack shows alternating finishes with some rings appearing brass-coloured and others silver-coloured.",
+    "One circular sieve lid with a black knob is visible on the bench to the left of the stack; the lid is not on the stack and appears cropped at the left edge of the bench area.",
+    "One rectangular metal tray is visible on the bench to the right of the stack; the tray is fully visible and sits on the same bench surface.",
+    "Multiple laboratory benches, stools and pieces of laboratory apparatus are visible in the background: at least three tall stools (one near left background, one near right background, one partly visible center-right), a tall vertical stand or column at right background, and wall-mounted instrumentation including two large round gauges/dials on a panel on the back wall.",
+    "Several electrical cables and wall sockets are visible along the back wall above the benches.",
+    "No people are visible in the photographed scene.",
+    "Several labels and stickers are present on multiple sieve rings and on equipment panels in the background; these are treated as objects distinct from the physical sieves and background equipment."
+  ],
+  "visible_text": [
+    "BRITISH STANDARD TEST SIEVE",
+    "WF",
+    "WYKEHAM FARRANCE SLOUGH, ENGLAND.",
+    "APERTURE",
+    "MESH",
+    "INS",
+    "TOLERANCE",
+    "FRAME",
+    "MAT'L",
+    "BRITISH STANDARD TEST SIEVE",
+    "APERTURE",
+    "Serial number",
+    "Test sieve",
+    "WF"
+  ],
+  "spatial_relations": [
+    "The seven sieves are stacked directly on top of one another in a single vertical column placed near the front edge of the bench centered in the image.",
+    "A circular lid with a black knob lies on the bench to the left of the sieve stack and slightly behind the stack's midline.",
+    "A rectangular metal tray sits on the bench to the right of the sieve stack and slightly behind the stack's midline.",
+    "In the background, benches run horizontally across the image behind the sieve stack; wall-mounted panels with gauges are located on the rear wall above those benches.",
+    "Several stools are positioned behind the bench with the sieves, one to the left and at least two to the right of the stack, indicating circulation space between the foreground bench and the back benches."
+  ],
+  "colours_and_materials": [
+    "Several sieve rings have a silver-coloured metallic finish consistent with stainless steel or similar metal.",
+    "Some sieve rings or rims have a brass-coloured or gold-toned finish.",
+    "Blue rectangular labels with white text are affixed to multiple sieve rings.",
+    "The bench surface appears to be a darker metal or laminate with a worn texture; the floor in the background is a reddish-brown tile.",
+    "The rear wall is tiled in a light (off-white) colour and the instrument panel with gauges is white."
+  ],
+  "uncertainties": [
+    "Some small label text on individual sieve rings and on the equipment in the background is partially obscured or too small to read; for those instances I have transcribed only clearly legible words and repeated headings.",
+    "The exact wording of several small label fields (for example specific mesh numbers, serial numbers, and numbers under 'APERTURE' or 'MESH') is not fully legible and therefore not fully transcribed.",
+    "The identification of materials (stainless steel, brass) is based on visible colour/finish and is not confirmed by readable material labels.",
+    "Background instruments and apparatus are visible but not identified by model or function because identifying labels or model numbers are not legible from this image.",
+    "The image does not display any explicit room name or number; therefore the location field is listed as unknown from image."
+  ],
+  "visual_facts": [
+    "A vertical stack of seven individual circular test sieves is visible on a bench in the central foreground; the stack shows alternating finishes with some rings appearing brass-coloured and others silver-coloured.",
+    "One circular sieve lid with a black knob is visible on the bench to the left of the stack; the lid is not on the stack and appears cropped at the left edge of the bench area.",
+    "One rectangular metal tray is visible on the bench to the right of the stack; the tray is fully visible and sits on the same bench surface.",
+    "Multiple laboratory benches, stools and pieces of laboratory apparatus are visible in the background: at least three tall stools (one near left background, one near right background, one partly visible center-right), a tall vertical stand or column at right background, and wall-mounted instrumentation including two large round gauges/dials on a panel on the back wall.",
+    "Several electrical cables and wall sockets are visible along the back wall above the benches.",
+    "No people are visible in the photographed scene.",
+    "Several labels and stickers are present on multiple sieve rings and on equipment panels in the background; these are treated as objects distinct from the physical sieves and background equipment.",
+    "Several sieve rings have a silver-coloured metallic finish consistent with stainless steel or similar metal.",
+    "Some sieve rings or rims have a brass-coloured or gold-toned finish.",
+    "Blue rectangular labels with white text are affixed to multiple sieve rings.",
+    "The bench surface appears to be a darker metal or laminate with a worn texture; the floor in the background is a reddish-brown tile.",
+    "The rear wall is tiled in a light (off-white) colour and the instrument panel with gauges is white."
+  ],
+  "id": "6d4525c8a907d6e2f34e5f1a",
+  "sha256": "bbea0bfaabe28a399fd10bbb14fb942c6c6c065757b023adba6f0b8811f2c8a6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:12:18.047488+00:00",
+  "input_resolution": [
+    1060,
+    1885
+  ],
+  "input_sha256": "694db0acd310c6a8f357da7b42f80fc8cd79166661833fa62de04bbeb4e2d1a8",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatcd9cZLZ5tvANUE6a0aA7Nqz9XM",
+  "usage": {
+    "completion_tokens": 1128,
+    "prompt_tokens": 2439,
+    "total_tokens": 3567,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1209,
+      "engine_ttlt_ms": 9444,
+      "pre_inference_ms": 416,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2167,
+      "service_ttlt_ms": 10397,
+      "user_visible_ttft_ms": 1751
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Close-up of labelled device with multiple glass tubes and sensor domes",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "A rectangular top housing with the visible engraved label 'LAVENDER' on its side is present in the upper-left quadrant.",
+    "At least four vertical clear glass tubes are visible hanging from the housing: one at far left is partly cropped, two central tubes are fully visible, and one at right is partially visible (total visible minimum = 4).",
+    "Four round white domed components with honeycomb-like internal faceted patterns (possibly sensor or diffuser caps) are visible mounted around the underside perimeter of the top housing: two near the right edge, one near the center-left area, and one near the far left (some are partly cropped).",
+    "Multiple metal lamp holders or tube sockets are visible at the tube tops where each glass tube connects to the housing; at least three sockets are visible corresponding to the visible tubes.",
+    "One vertical glass tube shows printed text and markings along its length (see visible_text) and contains internal metal electrode structures visible inside the glass."
+  ],
+  "visible_text": [
+    "LAVENDER",
+    "PHILIPS"
+  ],
+  "spatial_relations": [
+    "The labelled rectangular housing sits at the top of the image; the engraving 'LAVENDER' is on the left side of that housing.",
+    "Clear glass tubes hang vertically down from the underside of the housing; their top ends insert into metal sockets fixed to the housing underside.",
+    "White round domed components are arranged around the underside perimeter of the housing, positioned between or adjacent to the glass tube sockets.",
+    "A red background fills the out-of-focus area behind the device; the device is foregrounded and occupies the central and upper regions of the image.",
+    "One glass tube with visible printed text is located toward the front-center of the image; a partly cropped tube is at the far left edge of the frame."
+  ],
+  "colours_and_materials": [
+    "The top housing appears light grey or off-white with a smooth, slightly metallic or molded plastic finish.",
+    "The domed sensor/diffuser caps are white plastic with a faceted internal pattern visible.",
+    "The vertical tubes are transparent glass showing internal metal components.",
+    "Visible metal sockets and small metal fittings appear silver/metallic and show some darker oxidation or discoloration near the tube connections.",
+    "Background is predominantly out-of-focus red, which contrasts with the pale housing and clear glass."
+  ],
+  "uncertainties": [
+    "The exact purpose or device type is not legible from the image; the observation is limited to visible features and labels.",
+    "Small printed text on the glass tube beyond the word 'PHILIPS' is not fully legible; additional characters or numbers cannot be reliably transcribed from this image.",
+    "The total number of tubes or domes present on the full device cannot be determined because some elements are cropped at the image edges.",
+    "Material identification (metal vs. painted plastic vs. anodized surface) is inferred from appearance and not confirmed; descriptions are qualified as uncertain where applicable."
+  ],
+  "visual_facts": [
+    "A rectangular top housing with the visible engraved label 'LAVENDER' on its side is present in the upper-left quadrant.",
+    "At least four vertical clear glass tubes are visible hanging from the housing: one at far left is partly cropped, two central tubes are fully visible, and one at right is partially visible (total visible minimum = 4).",
+    "Four round white domed components with honeycomb-like internal faceted patterns (possibly sensor or diffuser caps) are visible mounted around the underside perimeter of the top housing: two near the right edge, one near the center-left area, and one near the far left (some are partly cropped).",
+    "Multiple metal lamp holders or tube sockets are visible at the tube tops where each glass tube connects to the housing; at least three sockets are visible corresponding to the visible tubes.",
+    "One vertical glass tube shows printed text and markings along its length (see visible_text) and contains internal metal electrode structures visible inside the glass.",
+    "The top housing appears light grey or off-white with a smooth, slightly metallic or molded plastic finish.",
+    "The domed sensor/diffuser caps are white plastic with a faceted internal pattern visible.",
+    "The vertical tubes are transparent glass showing internal metal components.",
+    "Visible metal sockets and small metal fittings appear silver/metallic and show some darker oxidation or discoloration near the tube connections.",
+    "Background is predominantly out-of-focus red, which contrasts with the pale housing and clear glass."
+  ],
+  "id": "d868cf96028f56a815c084b1",
+  "sha256": "8f8e85844337ee858b2f8e9d0b2963d80511d73436088d1173f4b48d00e8e372",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:20:53.803141+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "6212d8a28b5089311bc649591d6c4d854fdf00e6977877e72a8127fef61ac04c",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatkzumiyo1gwu4pepuv2g1hC4k8w",
+  "usage": {
+    "completion_tokens": 872,
+    "prompt_tokens": 2045,
+    "total_tokens": 2917,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 567,
+      "engine_ttlt_ms": 6933,
+      "pre_inference_ms": 105,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1137,
+      "service_ttlt_ms": 7486,
+      "user_visible_ttft_ms": 1033
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

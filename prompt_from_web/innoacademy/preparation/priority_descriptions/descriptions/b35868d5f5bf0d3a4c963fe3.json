@@ -1,0 +1,113 @@
+{
+  "title": "Electronics bench with benchtop instruments and soldering station",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "A single workbench with two long horizontal shelves and a lower work surface occupies the centre of the image.",
+    "Four benchtop instruments are visible on the upper shelf; they appear as distinct stacked/side-by-side units (visible count = 4).",
+    "One soldering station assembly is visible on the work surface at left-center consisting of a blue and yellow controller unit, a soldering iron in a blue holder, and a small roll of tape adjacent to the holder (visible count = 1 assembly; tape count = 1).",
+    "One chair is visible at the right-front of the workbench (visible count = 1).",
+    "A set of wall-mounted electrical outlets/sockets is visible on the wall behind the bench (visible count = 2 recessed outlet plates visible).",
+    "A cluster of multiple safety/warning labels/stickers is affixed to the top of the left upright frame of the bench (visible count = at least 6 distinct labels/stickers).",
+    "One small rectangular sign or label is affixed to the tall white panel at the right edge of the image (visible count = 1)."
+  ],
+  "visible_text": [
+    "Caution Mind your head",
+    "CAUTION",
+    "DANGER",
+    "HOT EQUIPMENT",
+    "Danger Mains Voltage",
+    "WARNING Electrical Hazard",
+    "M400012"
+  ],
+  "spatial_relations": [
+    "The two horizontal shelves are integrated into the workbench: one upper shelf holding the four benchtop instruments and a lower raised shelf above the main tabletop that runs the bench length.",
+    "The soldering station assembly sits on the main work surface near the left third of the bench, in front of the lower raised shelf and below the upper shelf with instruments.",
+    "The wall-mounted electrical outlet plates are located on the wall directly behind and slightly above the lowered shelf, roughly centered horizontally behind the bench.",
+    "The chair is positioned in front of the right end of the main work surface, partially tucked under the bench.",
+    "The cluster of safety/warning labels is attached to the top of the left vertical support of the bench frame.",
+    "A small rectangular sign or label is attached to a tall white panel at the far right edge of the image, separate from the bench structure."
+  ],
+  "colours_and_materials": [
+    "The workbench surfaces and shelves are a pale, light-coloured wood (plywood edges visible) with a smooth finish.",
+    "The bench frame and vertical supports appear light grey, likely painted metal.",
+    "The soldering station controller and holder are blue and yellow (blue bodies with yellow control faces/accents).",
+    "The benchtop instruments are predominantly light grey or off-white, typical plastic or metal instrument enclosures.",
+    "The chair visible at the front right is a muted pale green/grey plastic seat with a smooth matte finish.",
+    "Safety/warning labels have high-contrast colours: yellow background for 'Caution' style labels and red/black elements for 'Danger' style labels."
+  ],
+  "uncertainties": [
+    "The exact wording of some small labels and stickers in the safety cluster is partially obscured or too small to read; several labels were transcribed from visible fragments and layout but may be incomplete.",
+    "The instrument front-panel legends and brand/model identifiers are not fully legible except for the visible label 'M400012'; other instrument text could not be reliably transcribed from the image.",
+    "The small rectangular sign on the tall white panel at the right edge contains text that is not legible at this resolution.",
+    "The identification of the blue/yellow device as a 'soldering station assembly' is based on visible form (controller, iron, holder) but not on any readable model or function label; the equipment type is described as observed appearance rather than confirmed specification."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "A single workbench with two long horizontal shelves and a lower work surface occupies the centre of the image.",
+    "Four benchtop instruments are visible on the upper shelf; they appear as distinct stacked/side-by-side units (visible count = 4).",
+    "One soldering station assembly is visible on the work surface at left-center consisting of a blue and yellow controller unit, a soldering iron in a blue holder, and a small roll of tape adjacent to the holder (visible count = 1 assembly; tape count = 1).",
+    "One chair is visible at the right-front of the workbench (visible count = 1).",
+    "A set of wall-mounted electrical outlets/sockets is visible on the wall behind the bench (visible count = 2 recessed outlet plates visible).",
+    "A cluster of multiple safety/warning labels/stickers is affixed to the top of the left upright frame of the bench (visible count = at least 6 distinct labels/stickers).",
+    "One small rectangular sign or label is affixed to the tall white panel at the right edge of the image (visible count = 1).",
+    "The workbench surfaces and shelves are a pale, light-coloured wood (plywood edges visible) with a smooth finish.",
+    "The bench frame and vertical supports appear light grey, likely painted metal.",
+    "The soldering station controller and holder are blue and yellow (blue bodies with yellow control faces/accents).",
+    "The benchtop instruments are predominantly light grey or off-white, typical plastic or metal instrument enclosures.",
+    "The chair visible at the front right is a muted pale green/grey plastic seat with a smooth matte finish.",
+    "Safety/warning labels have high-contrast colours: yellow background for 'Caution' style labels and red/black elements for 'Danger' style labels."
+  ],
+  "id": "b35868d5f5bf0d3a4c963fe3",
+  "sha256": "b56028775e3f5c1364db75cc565611ac9672ac78ae00f949c0ec4dad62528133",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:18:22.710893+00:00",
+  "input_resolution": [
+    2042,
+    1446
+  ],
+  "input_sha256": "e4b9fb1666c79d723d4f969a822dcb6c9a892afc7a281bc1b137fa7428949500",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatiUJ0Do7ib9wNCE19HhhVjioyMB",
+  "usage": {
+    "completion_tokens": 1192,
+    "prompt_tokens": 2180,
+    "total_tokens": 3372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1139,
+      "engine_ttlt_ms": 10775,
+      "pre_inference_ms": 327,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1891,
+      "service_ttlt_ms": 11522,
+      "user_visible_ttft_ms": 1564
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

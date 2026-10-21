@@ -1,0 +1,105 @@
+{
+  "title": "Workshop table with laptops and two Dobot robotic arms",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 9 people are visible: one person standing at center-front using a laptop (full figure), at least two people standing behind and to the right of the central person (one bending over a bench, one in a red hoodie), at least three people seated or working at the long bench in the left/mid background, one person seated at the far right bench, and at least two additional people visible in the far background. Several figures are partially obscured by others or by equipment.",
+    "At least 4 laptops are visible on the central table and surrounding benches: one laptop directly in front of the central person, one laptop screen visible at lower center foreground, one laptop at the left foreground, and at least one laptop on the left-side bench in the background. Some laptop screens and lids are partially cropped or angled.",
+    "Two white robotic arm assemblies with black arm segments and white bases are visible on the central table (one on the right foreground, one nearer the left of center). The right foreground base shows readable labeling.",
+    "Multiple power/USB extension strips and black power bricks are visible on the central table (at least two distinct strips/adapters visible), with numerous cables connecting devices.",
+    "At least five round wooden stools are visible around the benches: three grouped on the right and at least two visible at left/center. Some stools are partially cropped.",
+    "One clear reusable water bottle with a white cap is standing on the central table near the left/center foreground.",
+    "Other visible items include a black wired computer mouse near the right robotic arm, stickers on laptop lids, and an adjustable overhead microphone or camera boom hanging above the central table."
+  ],
+  "visible_text": [
+    "UDC CREATE YOUR D[unreadable]",
+    "UDC",
+    "DOBOT Magician"
+  ],
+  "spatial_relations": [
+    "A long central worktable runs across the foreground and middle of the image; multiple laptops, robotic arms and power strips are arranged along its surface.",
+    "The primary person is standing at the center-front of the worktable facing the camera with a laptop directly in front of them; another person is leaning over the table immediately to that person's right (image right).",
+    "Two white robotic arm assemblies sit on the central table: one positioned to the right foreground near a mouse and cables, the other nearer the left of center behind a laptop and partly obscured by a hanging cable/boom.",
+    "Background benches run left-to-right behind the central table; several seated people and stools are positioned along those benches, and people are working at or walking past them.",
+    "An overhead boom or cable descends from the ceiling near the center of the image, passing in front of the standing central person and above the table."
+  ],
+  "colours_and_materials": [
+    "Work surfaces appear as light grey tabletops (matte finish).",
+    "Two robotic arms are white with black arm segments and black accessory parts; bases are white plastic.",
+    "Stools have dark wooden round seats with black metal legs.",
+    "The central person's hoodie is dark grey with black text and a small circular yellow sticker on the chest.",
+    "A clear plastic water bottle with a white cap stands on the table; many cables are black."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible in the image; therefore the exact location is unknown from image.",
+    "The central hoodie text is partly obscured and uncertain; transcribed as 'UDC CREATE YOUR D[unreadable]' to reflect the visible fragment.",
+    "Some screen text on laptop displays and small stickers is too small or angled to read; those texts are not transcribed.",
+    "People counts are reported as a visible minimum ('at least 9') because several figures are partially obscured and there may be more people outside the frame.",
+    "Some devices and small labels (e.g., yellow label on robotic arm) are visible but not fully legible; their exact wording is unreadable at this resolution."
+  ],
+  "visual_facts": [
+    "At least 9 people are visible: one person standing at center-front using a laptop (full figure), at least two people standing behind and to the right of the central person (one bending over a bench, one in a red hoodie), at least three people seated or working at the long bench in the left/mid background, one person seated at the far right bench, and at least two additional people visible in the far background. Several figures are partially obscured by others or by equipment.",
+    "At least 4 laptops are visible on the central table and surrounding benches: one laptop directly in front of the central person, one laptop screen visible at lower center foreground, one laptop at the left foreground, and at least one laptop on the left-side bench in the background. Some laptop screens and lids are partially cropped or angled.",
+    "Two white robotic arm assemblies with black arm segments and white bases are visible on the central table (one on the right foreground, one nearer the left of center). The right foreground base shows readable labeling.",
+    "Multiple power/USB extension strips and black power bricks are visible on the central table (at least two distinct strips/adapters visible), with numerous cables connecting devices.",
+    "At least five round wooden stools are visible around the benches: three grouped on the right and at least two visible at left/center. Some stools are partially cropped.",
+    "One clear reusable water bottle with a white cap is standing on the central table near the left/center foreground.",
+    "Other visible items include a black wired computer mouse near the right robotic arm, stickers on laptop lids, and an adjustable overhead microphone or camera boom hanging above the central table.",
+    "Work surfaces appear as light grey tabletops (matte finish).",
+    "Two robotic arms are white with black arm segments and black accessory parts; bases are white plastic.",
+    "Stools have dark wooden round seats with black metal legs.",
+    "The central person's hoodie is dark grey with black text and a small circular yellow sticker on the chest.",
+    "A clear plastic water bottle with a white cap stands on the table; many cables are black."
+  ],
+  "id": "264558cf57128b0b15fdc4ef",
+  "sha256": "0071db37b667f11ad440b12a63cfb4c3031f83aa8e5fea544cfa40d22ef0646e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:32:25.131956+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "e39ea24e22cb7ee8655b21a0b6907b35b1ab5a85102e4036388ecde869aad6c0",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatw6U4wFSQhp3tPvzopi0kf4OQWi",
+  "usage": {
+    "completion_tokens": 1397,
+    "prompt_tokens": 2266,
+    "total_tokens": 3663,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1137,
+      "engine_ttlt_ms": 9681,
+      "pre_inference_ms": 350,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2021,
+      "service_ttlt_ms": 10560,
+      "user_visible_ttft_ms": 1671
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Audience seating with tripod-mounted camera and glass door marked 'PUSH'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 11 distinct people are visible (a mix of seated and standing; several faces are partially cropped at the image edges).",
+    "One tripod-mounted video camera is visible in the left-center foreground; the tripod has three visible legs and the camera body is mounted on top.",
+    "One person in the center-right is holding one smartphone in portrait orientation up toward the front (phone is visible, with a decorative phone case).",
+    "One shoulder/tote bag is visible resting across the lap of a seated person in the center-right.",
+    "A vertical glass door or panel with a mounted vertical handle is visible at the right edge of the image.",
+    "Multiple pairs of eyeglasses are visible on different people (at least five distinct eyeglass wearers can be seen)."
+  ],
+  "visible_text": [
+    "PUSH"
+  ],
+  "spatial_relations": [
+    "The tripod-mounted camera is located in the left-center foreground, its legs spread across the lower-left quadrant of the image and partially obscuring people seated behind it.",
+    "Most people are seated in a row running from left to right across the middle of the image; additional people stand behind that seated row toward the upper part of the image.",
+    "A person holding a smartphone is seated approximately center-right and is raising the phone in front of their face; that person is immediately to the right of a man leaning forward with his chin rested on his hand.",
+    "The glass door or panel with the vertical handle and the word 'PUSH' is at the far right edge of the image, behind the seated row.",
+    "The blue surface in the extreme foreground (bottom of image) is in front of the seated row, separating viewers from the unseen front area."
+  ],
+  "colours_and_materials": [
+    "The tripod and video camera are black with a matte finish.",
+    "The glass door or panel at the right edge appears transparent/reflective with a metallic vertical handle and a white vertical label bearing black text.",
+    "Clothing visible includes dark blue, grey, black and light-coloured fabrics; one foreground surface is a solid mid-to-dark blue.",
+    "One person is wearing a light-blue surgical mask; other face masks are not visible or are not being worn."
+  ],
+  "uncertainties": [
+    "Exact count of people is uncertain because some faces are partially cropped or obscured by the tripod and other people; the statement 'at least 11' reflects a visible minimum.",
+    "Small printed text on badges, clothing, phone case, and any text on the camera body or tripod is not legible in the image and therefore not transcribed.",
+    "The decorative markings on the smartphone case are not transcribed exactly because they are partially obscured and not fully legible.",
+    "No room name or number is visible anywhere in the image; the presence of the 'PUSH' label on the door is the only clear textual indicator.",
+    "Material identifications (for example, confirming metal vs. painted plastic for the tripod legs or handle) are based on appearance only and are not definitive."
+  ],
+  "visual_facts": [
+    "At least 11 distinct people are visible (a mix of seated and standing; several faces are partially cropped at the image edges).",
+    "One tripod-mounted video camera is visible in the left-center foreground; the tripod has three visible legs and the camera body is mounted on top.",
+    "One person in the center-right is holding one smartphone in portrait orientation up toward the front (phone is visible, with a decorative phone case).",
+    "One shoulder/tote bag is visible resting across the lap of a seated person in the center-right.",
+    "A vertical glass door or panel with a mounted vertical handle is visible at the right edge of the image.",
+    "Multiple pairs of eyeglasses are visible on different people (at least five distinct eyeglass wearers can be seen).",
+    "The tripod and video camera are black with a matte finish.",
+    "The glass door or panel at the right edge appears transparent/reflective with a metallic vertical handle and a white vertical label bearing black text.",
+    "Clothing visible includes dark blue, grey, black and light-coloured fabrics; one foreground surface is a solid mid-to-dark blue.",
+    "One person is wearing a light-blue surgical mask; other face masks are not visible or are not being worn."
+  ],
+  "id": "63f953357d44234ceb1a1cc7",
+  "sha256": "5785ed0dba291a6d99b584c5bedeb9893e63b59bd6cc883e24715996bc313e33",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:42:51.907657+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "3bd41a7a5d4f55a7a5ebc56b49c2cb2f70dd09751c55083efe2117e79db280df",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau6BsTrcb9aAUoMn0ieU0tOhyvVC",
+  "usage": {
+    "completion_tokens": 1017,
+    "prompt_tokens": 2237,
+    "total_tokens": 3254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1193,
+      "engine_ttlt_ms": 9732,
+      "pre_inference_ms": 372,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2098,
+      "service_ttlt_ms": 10633,
+      "user_visible_ttft_ms": 1727
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

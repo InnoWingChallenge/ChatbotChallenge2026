@@ -1,0 +1,128 @@
+[
+  {
+    "id": "dev_001",
+    "question": "What is 3D printing also known as?",
+    "expected_answer": "Additive manufacturing",
+    "status": "answerable",
+    "evidence_kind": "text",
+    "relevant_sources": [
+      "https://innoacademy.engg.hku.hk/cad_competition-2025/"
+    ],
+    "evidence_patterns": [
+      "additive manufacturing (aka 3D printing)"
+    ],
+    "fact_ids": [
+      "fact_additive_manufacturing_alias"
+    ],
+    "notes": "The crawled page states the alias directly."
+  },
+  {
+    "id": "dev_002",
+    "question": "What does FDM stand for in 3D printing?",
+    "expected_answer": "Fused deposition modelling",
+    "status": "source_gap",
+    "evidence_kind": "general_knowledge",
+    "relevant_sources": [],
+    "evidence_patterns": [],
+    "fact_ids": [],
+    "notes": "The current cleaned corpus does not explicitly expand FDM."
+  },
+  {
+    "id": "dev_003",
+    "question": "Which faculty would you expect an engineering innovation centre to belong to?",
+    "expected_answer": "The Faculty of Engineering",
+    "status": "answerable",
+    "evidence_kind": "text",
+    "relevant_sources": [
+      "https://innowings.engg.hku.hk/kit/",
+      "https://innoacademy.engg.hku.hk/contact/"
+    ],
+    "evidence_patterns": [
+      "Innovation Wing is managed by the Faculty of Engineering"
+    ],
+    "fact_ids": [
+      "fact_innovation_wing_faculty"
+    ],
+    "notes": "Direct affiliation evidence is present in the text corpus."
+  },
+  {
+    "id": "dev_004",
+    "question": "When was the deadline for the second round of the Funding Scheme in 2025-26?",
+    "expected_answer": "27 February 2026",
+    "status": "answerable",
+    "evidence_kind": "text",
+    "relevant_sources": [
+      "https://innoacademy.engg.hku.hk/funding-scheme/"
+    ],
+    "evidence_patterns": [
+      "by February 27 2026"
+    ],
+    "fact_ids": [
+      "fact_funding_2025_26_second_round_deadline"
+    ],
+    "notes": "The page states the date directly."
+  },
+  {
+    "id": "dev_005",
+    "question": "Which two materials are banned from the laser cutter?",
+    "expected_answer": "PVC and polycarbonate",
+    "status": "conflicting_evidence",
+    "evidence_kind": "text_or_image",
+    "relevant_sources": [
+      "https://innowings.engg.hku.hk/acrylic/"
+    ],
+    "evidence_patterns": [
+      "PVC and Teflon"
+    ],
+    "fact_ids": [
+      "fact_laser_cutter_prohibited_materials_web"
+    ],
+    "notes": "The crawled web text says PVC and Teflon, while the dev answer says PVC and polycarbonate. A sign, image, PDF, or updated source must be checked."
+  },
+  {
+    "id": "dev_006",
+    "question": "What were the winning teams in Pitch New Tech Ideas in 2025?",
+    "expected_answer": "Smartsocks, Digitio, Gingtrolley",
+    "status": "partial_evidence",
+    "evidence_kind": "image",
+    "relevant_sources": [
+      "https://innoacademy.engg.hku.hk/pitching_2025/"
+    ],
+    "evidence_patterns": [],
+    "fact_ids": [],
+    "notes": "The text names finalists but does not establish the complete winner relation. Relevant images are pending description."
+  },
+  {
+    "id": "dev_007",
+    "question": "How many 3D printers does the Centre run in total?",
+    "expected_answer": "7",
+    "status": "source_gap",
+    "evidence_kind": "aggregate",
+    "relevant_sources": [],
+    "evidence_patterns": [],
+    "fact_ids": [],
+    "notes": "The corpus mentions printer models repeatedly but has no verified, deduplicated equipment inventory."
+  },
+  {
+    "id": "dev_008",
+    "question": "How many workshop posters are on the Innovation Academy websites for 2025?",
+    "expected_answer": "31",
+    "status": "source_gap",
+    "evidence_kind": "image_aggregate",
+    "relevant_sources": [],
+    "evidence_patterns": [],
+    "fact_ids": [],
+    "notes": "Poster images have not yet been classified and deduplicated into entities."
+  },
+  {
+    "id": "dev_009",
+    "question": "On the wall at the back of the brainstorming area, there are three words. HKU, Engineering, and...?",
+    "expected_answer": "Innovation",
+    "status": "source_gap",
+    "evidence_kind": "physical",
+    "relevant_sources": [],
+    "evidence_patterns": [],
+    "fact_ids": [],
+    "notes": "A provenance-backed on-site observation or photograph is not yet present."
+  }
+]

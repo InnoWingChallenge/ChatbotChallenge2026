@@ -1,0 +1,54 @@
+{
+  "scope": "Four pilot images visually spot-checked by primary agent; remaining sixteen not independently visually re-reviewed. No quantitative model accuracy/cost comparison.",
+  "checks": [
+    {
+      "id": "75a2bf1d64da73c23786b0f2",
+      "model": "gpt-6-sol",
+      "result": "key event facts checked; corrected by original describing model",
+      "notes": [
+        "Briefing venue and 12:00 PM Feb. 13, 2026 match visible text.",
+        "Final Challenge dates Mar. 18, Apr. 1 & 15, 2026 match.",
+        "Added previously omitted readable Chinese columns after visual recheck."
+      ]
+    },
+    {
+      "id": "f73173354e5f6a8b418c9a70",
+      "model": "gpt-6-sol",
+      "result": "key facts checked; not exhaustive OCR",
+      "notes": [
+        "Title, 5mmHg claim, printed clinical spelling and group credits match visible image.",
+        "Two views on a poster are not counted as two people."
+      ]
+    },
+    {
+      "id": "77cc3e542e8f7f62850a5fa0",
+      "model": "gpt-6-luna",
+      "result": "key facts checked; not exhaustive OCR",
+      "notes": [
+        "July 30/31, 2:30-5:00PM, venue, C/C++, PlatformIO and Arduino prerequisites match.",
+        "Correctly does not infer a year from source URL."
+      ]
+    },
+    {
+      "id": "13f90d178de56d8fd69def8b",
+      "model": "gpt-6-luna",
+      "result": "key facts checked; corrected by original describing model",
+      "notes": [
+        "Names, hardware and evaluation-table values match.",
+        "Removed invented period inside title quotation."
+      ]
+    }
+  ],
+  "additional_text_review": [
+    {
+      "id": "3024e716705c54d7605f5e98",
+      "finding": "Institutional logo alone does not establish sponsorship; original describing model removed unsupported inference."
+    }
+  ],
+  "limitations": [
+    "Small text is incomplete in several technical posters.",
+    "Four-image spot check is not a complete factual audit.",
+    "Models handled different pictures; no claim that one has higher accuracy or lower metered cost.",
+    "Near-duplicate candidates are not proof of identical content."
+  ]
+}

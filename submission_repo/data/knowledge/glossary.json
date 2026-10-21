@@ -1,0 +1,20 @@
+[
+  {
+    "term_id": "term_additive_manufacturing",
+    "canonical": "additive manufacturing",
+    "aliases": [
+      "3D printing",
+      "three-dimensional printing"
+    ],
+    "category": "manufacturing_term",
+    "provenance": [
+      {
+        "source_type": "web_text",
+        "source_url": "https://innoacademy.engg.hku.hk/cad_competition-2025/",
+        "document_id": "doc_9f9bb43acdd8f546",
+        "evidence": "Allow for better knowledge in additive manufacturing (aka 3D printing)",
+        "retrieved_at": "2026-09-23"
+      }
+    ]
+  }
+]

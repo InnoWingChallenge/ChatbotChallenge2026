@@ -1,0 +1,107 @@
+{
+  "title": "Printed component list and explanatory note referencing Ultimaker 3",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the image.",
+    "The image displays a printed document containing a numbered list of 14 entries; the list is the primary visible object.",
+    "A small square information icon (a lowercase 'i' inside a square) appears to the left of the paragraph; it is visually present and not cropped.",
+    "There is a two-column arrangement of the numbered list: items 1–7 appear in the left column and items 8–14 in the right column.",
+    "A paragraph of explanatory text appears below the list; it occupies the lower portion of the image and spans roughly from left toward center/right.",
+    "The page background is visible and unobstructed; no other physical equipment, room fixtures, or labels are visible in the photographed scene."
+  ],
+  "visible_text": [
+    "1. Build plate",
+    "2. Dual print head",
+    "3. Build plate screws",
+    "4. Build plate clamps",
+    "5. Push/rotate button",
+    "6. Display",
+    "7. USB socket",
+    "8. Feeder 2",
+    "9. Bowden tubes",
+    "10. Feeder 1",
+    "11. Ethernet port",
+    "12. Cable cover",
+    "13. Double spool holder with NFC cable",
+    "14. Power cable",
+    "The model exposed is the Ultimaker 3. The main components of the Ultimaker 3 Extended are the same and on the exact same position.The only difference between the two printers is the height of the housing. See Specifications for the different dimensions."
+  ],
+  "spatial_relations": [
+    "The numbered list is arranged in two vertical columns: left column contains items 1 through 7; right column contains items 8 through 14.",
+    "The small information icon is located immediately to the left of the explanatory paragraph.",
+    "The explanatory paragraph is positioned below the two-column list and extends from the left margin toward the center/right of the page.",
+    "There are no visible photographs or diagrams in the crop; only text and the icon are present on a single-page layout."
+  ],
+  "colours_and_materials": [
+    "The page background is white and the printed text is black.",
+    "The information icon is black (a black 'i' inside a black-outlined square) on the white page."
+  ],
+  "uncertainties": [
+    "No room sign or room number is visible in the image, so the physical location cannot be determined from this image alone.",
+    "The information icon is visible but contains no additional legible caption; its intended meaning is inferred from common use but is not labeled on the page.",
+    "Spacing in the sentence between 'position.' and 'The' appears to lack a space in the source text ('position.The'); the transcription preserved this as visible.",
+    "There are no small equipment nameplates, logos, or additional labels visible beyond the printed list and paragraph; if present outside the crop they are not shown here."
+  ],
+  "visual_facts": [
+    "No people are visible in the image.",
+    "The image displays a printed document containing a numbered list of 14 entries; the list is the primary visible object.",
+    "A small square information icon (a lowercase 'i' inside a square) appears to the left of the paragraph; it is visually present and not cropped.",
+    "There is a two-column arrangement of the numbered list: items 1–7 appear in the left column and items 8–14 in the right column.",
+    "A paragraph of explanatory text appears below the list; it occupies the lower portion of the image and spans roughly from left toward center/right.",
+    "The page background is visible and unobstructed; no other physical equipment, room fixtures, or labels are visible in the photographed scene.",
+    "The page background is white and the printed text is black.",
+    "The information icon is black (a black 'i' inside a black-outlined square) on the white page."
+  ],
+  "id": "834d62e9275c8a45431eeb6a",
+  "sha256": "2dc28cbe1a854f88ccf45be72eb6b5842fea6340eae03041f73b9a7520cec1cb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:14:33.685874+00:00",
+  "input_resolution": [
+    1136,
+    397
+  ],
+  "input_sha256": "14acda7646911a3c3fd0fc7c6eb289c91a3e61d4100d2d73106bd2dd8ffa6731",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EateqxpKl5BT61YaJw0fsijwzU97A",
+  "usage": {
+    "completion_tokens": 938,
+    "prompt_tokens": 1762,
+    "total_tokens": 2700,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 344,
+      "engine_ttlt_ms": 7860,
+      "pre_inference_ms": 121,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 924,
+      "service_ttlt_ms": 8406,
+      "user_visible_ttft_ms": 803
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

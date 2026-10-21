@@ -1,0 +1,19 @@
+{
+  "updated_at": "2026-10-20T03:17:20.642235+00:00",
+  "selected": 395,
+  "described": 357,
+  "suitable": 320,
+  "missing": 38,
+  "invalid": [],
+  "models": {
+    "gpt-6-luna": 58,
+    "gpt-5-mini": 299
+  },
+  "prompt_versions": {
+    "equipment-space-v1": 58,
+    "equipment-space-api-v2": 3,
+    "equipment-space-api-v3": 296
+  },
+  "complete": false,
+  "indexed": false
+}

@@ -1,0 +1,116 @@
+{
+  "title": "Auditorium-style innovation space with stepped seating and presentation screen",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 20 people are visible seated and standing in the stepped seating and on benches; several are partially obscured by other people or by the seating (an explicit minimum count of 20 is given because some heads overlap).",
+    "One person is standing at the right side of the scene facing a large vertical presentation screen (presenter).",
+    "One video camera on a tripod is set up near the center-right of the image, between the audience and the presenter.",
+    "Modular upholstered cube seats are arranged in the front area: at least seven blue/teal cube stools are visible in two rows along the central aisle and one isolated cube at the far right; one grey cube is visible in the foreground; two teal bench modules are visible at the far left foreground.",
+    "Stepped bleacher-style seating with wooden or light-coloured step faces is present at the left and rear of the audience area and is occupied by multiple people.",
+    "Two black chairs and a small round white table are placed near the presenter on the right; a small potted plant and a cup are on the table.",
+    "A large vertical screen or digital display is visible on the far right wall showing presentation slides (text and graphics visible on the screen).",
+    "A glass partition or glass wall with a glass door is at the rear of the presentation area; signage and decals are attached to the glass.",
+    "One long cable or wire runs along the floor from the presentation area toward the camera/audience area."
+  ],
+  "visible_text": [
+    "INNOVATION",
+    "Innovation",
+    "[unreadable]",
+    "[unreadable]",
+    "[unreadable]",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The presenter stands at the right edge of the scene facing left toward the seated audience and the large vertical presentation screen on the far right wall.",
+    "The stepped bleacher seating is at the left and rear portions of the image; audience members sit on the steps and on benches that extend forward from the steps toward the center of the image.",
+    "The video camera on tripod is positioned between the front row of seated audience members and the presenter, slightly right of center in the image.",
+    "A row of modular cube stools creates a central aisle leading from the audience area toward the presentation area; the cubes are arranged in two parallel groups with an aisle between them.",
+    "A glass partition and door form the rear boundary behind the presenter and the cube seats; signage is mounted on the glass near the door.",
+    "Two black chairs and a small round white table are located in the foreground at the right, adjacent to the presenter and the presentation screen."
+  ],
+  "colours_and_materials": [
+    "Multiple upholstered cube seats in shades of blue and teal are visible (distinct blue/teal tones across the cubes).",
+    "One cube in the foreground is upholstered in light grey fabric.",
+    "Stepped seating has light-coloured (possibly wood or laminate) vertical faces with seating surfaces that appear cushioned or upholstered in blue/teal tones.",
+    "Flooring is a light grey, linear-patterned carpet.",
+    "The rear partition is glass with a frosted strip or frosted decals; some signage on the glass includes yellow-coloured lettering for 'Innovation'.",
+    "The presentation screen area includes dark-coloured framing and a predominantly purple/black slide background on the display."
+  ],
+  "uncertainties": [
+    "No exact room name or room number is legibly shown; the word 'Innovation' appears on a blue wall graphic and again on the glass partition but a full room identifier (for example 'Innovation Academy' or 'Tam Wing Fan Innovation Wing') is not legible, so the specific room is unknown from the image.",
+    "Exact counts of people are limited by overlapping heads and partial occlusions; 'at least 20' is a conservative visible minimum rather than a definitive total for the room.",
+    "Several smaller signs and labels on the glass door and on the stepped seating are present but unreadable at this resolution; these are represented as [unreadable] in the visible_text array.",
+    "Text on the large presentation screen is partially legible but not fully readable in this image; slide headings and smaller captions could not be transcribed precisely.",
+    "The left triangular wall graphic includes additional text above 'INNOVATION' that is not fully legible; that text is not transcribed because it cannot be read with certainty."
+  ],
+  "visual_facts": [
+    "At least 20 people are visible seated and standing in the stepped seating and on benches; several are partially obscured by other people or by the seating (an explicit minimum count of 20 is given because some heads overlap).",
+    "One person is standing at the right side of the scene facing a large vertical presentation screen (presenter).",
+    "One video camera on a tripod is set up near the center-right of the image, between the audience and the presenter.",
+    "Modular upholstered cube seats are arranged in the front area: at least seven blue/teal cube stools are visible in two rows along the central aisle and one isolated cube at the far right; one grey cube is visible in the foreground; two teal bench modules are visible at the far left foreground.",
+    "Stepped bleacher-style seating with wooden or light-coloured step faces is present at the left and rear of the audience area and is occupied by multiple people.",
+    "Two black chairs and a small round white table are placed near the presenter on the right; a small potted plant and a cup are on the table.",
+    "A large vertical screen or digital display is visible on the far right wall showing presentation slides (text and graphics visible on the screen).",
+    "A glass partition or glass wall with a glass door is at the rear of the presentation area; signage and decals are attached to the glass.",
+    "One long cable or wire runs along the floor from the presentation area toward the camera/audience area.",
+    "Multiple upholstered cube seats in shades of blue and teal are visible (distinct blue/teal tones across the cubes).",
+    "One cube in the foreground is upholstered in light grey fabric.",
+    "Stepped seating has light-coloured (possibly wood or laminate) vertical faces with seating surfaces that appear cushioned or upholstered in blue/teal tones.",
+    "Flooring is a light grey, linear-patterned carpet.",
+    "The rear partition is glass with a frosted strip or frosted decals; some signage on the glass includes yellow-coloured lettering for 'Innovation'.",
+    "The presentation screen area includes dark-coloured framing and a predominantly purple/black slide background on the display."
+  ],
+  "id": "780f37df205cdd0bf28d6211",
+  "sha256": "bec1292a8ba732f11397e046f25f93b36bcc96004cdaaa61399414d95358888b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:47:36.960326+00:00",
+  "input_resolution": [
+    2000,
+    1125
+  ],
+  "input_sha256": "77c1516192360613d311add824481188ce595cb306b8e565b9f83c8585d55aba",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauAkF0lQ9Zh0S20n6eOAqBWP8nPv",
+  "usage": {
+    "completion_tokens": 1626,
+    "prompt_tokens": 2439,
+    "total_tokens": 4065,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 640,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1188,
+      "engine_ttlt_ms": 13725,
+      "pre_inference_ms": 423,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2067,
+      "service_ttlt_ms": 14598,
+      "user_visible_ttft_ms": 1643
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

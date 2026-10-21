@@ -1,0 +1,106 @@
+{
+  "title": "Group seated on wooden floor around papers and tablet",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least seven people are visible sitting or lying on the floor; some are partially cropped (one person is lying on their stomach in the upper right area, at least one head is partially visible at the bottom edge).",
+    "Two white plastic chairs are visible (one at the lower left edge, one at the upper right edge); both chairs are partially visible and one is cropped by the image edge.",
+    "One backpack with a patterned fabric is visible near the top left corner, adjacent to a window.",
+    "A stack of printed papers (a multi-page stapled or folded packet) is on the floor near the center-right of the group.",
+    "One loose sheet of white paper with handwritten drawings/writing is on the floor at the group's center.",
+    "At least three marker pens are visible near the person lying on their stomach (green, black, and another marker whose cap is visible).",
+    "One tablet device with a dark reflective screen is on the floor near the lower-right of the group.",
+    "One smartphone is visible near the person in grey (partly resting on the tablet); it is partly obscured by the person's hand.",
+    "One rectangular event lanyard/badge is worn by the kneeling person near the top center of the image; the badge is visible hanging from a lanyard."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The group is arranged on a brown wood-grain floor in a loose circle around a central sheet of white paper with drawings; people are positioned on all sides of that paper.",
+    "The person lying on their stomach is located at the upper right of the central paper; their shoulders are roughly aligned with the paper's top edge and several markers lie immediately beside their right arm.",
+    "The tablet and a stack of printed papers lie to the lower right of the central paper; the smartphone rests partly on the tablet.",
+    "A person in a yellow shirt is seated at the lower left quadrant of the group, facing the central paper; their hands are near the paper and a pink item (possibly a bag or craft) is in front of them.",
+    "Two white plastic chairs are positioned outside the group boundary: one near the lower left just behind the person in black, and one near the upper right behind the person lying down.",
+    "A window or glazed area is along the left edge of the image, with a patterned backpack placed adjacent to it; the group is seated on the floor next to this window area."
+  ],
+  "colours_and_materials": [
+    "Flooring is brown with a wood-grain pattern, appearing to be laminate or veneered wood.",
+    "Two white plastic chairs are visible; they have a smooth matte plastic appearance.",
+    "Clothing colours include a white shirt (worn by the lying person), grey jacket, yellow shirt, black shirt, and navy shorts on one kneeling person.",
+    "Markers have coloured caps (visible green and black caps; another cap with a red/orange top is visible near the top center).",
+    "The tablet has a dark reflective screen and a black bezel; the printed papers are white with black-printed text and a grayscale image."
+  ],
+  "uncertainties": [
+    "Exact person count is uncertain because some people are partially cropped at the image edge; I report 'at least seven' visible individuals rather than a definitive total.",
+    "Text on the printed papers, the badge/lanyard, and on any clothing logos is not legible at this resolution and could not be transcribed; a closer crop would be needed to capture exact wording.",
+    "The identity, type or model of the tablet and smartphone cannot be determined from the image.",
+    "The precise content of the handwritten marks on the central sheet of paper is not reliably readable; I have not transcribed any words because they are not clearly legible.",
+    "Some small items (for example additional pens, small personal objects) are present but partially obscured; counts for these items are uncertain."
+  ],
+  "visual_facts": [
+    "At least seven people are visible sitting or lying on the floor; some are partially cropped (one person is lying on their stomach in the upper right area, at least one head is partially visible at the bottom edge).",
+    "Two white plastic chairs are visible (one at the lower left edge, one at the upper right edge); both chairs are partially visible and one is cropped by the image edge.",
+    "One backpack with a patterned fabric is visible near the top left corner, adjacent to a window.",
+    "A stack of printed papers (a multi-page stapled or folded packet) is on the floor near the center-right of the group.",
+    "One loose sheet of white paper with handwritten drawings/writing is on the floor at the group's center.",
+    "At least three marker pens are visible near the person lying on their stomach (green, black, and another marker whose cap is visible).",
+    "One tablet device with a dark reflective screen is on the floor near the lower-right of the group.",
+    "One smartphone is visible near the person in grey (partly resting on the tablet); it is partly obscured by the person's hand.",
+    "One rectangular event lanyard/badge is worn by the kneeling person near the top center of the image; the badge is visible hanging from a lanyard.",
+    "Flooring is brown with a wood-grain pattern, appearing to be laminate or veneered wood.",
+    "Two white plastic chairs are visible; they have a smooth matte plastic appearance.",
+    "Clothing colours include a white shirt (worn by the lying person), grey jacket, yellow shirt, black shirt, and navy shorts on one kneeling person.",
+    "Markers have coloured caps (visible green and black caps; another cap with a red/orange top is visible near the top center).",
+    "The tablet has a dark reflective screen and a black bezel; the printed papers are white with black-printed text and a grayscale image."
+  ],
+  "id": "548e285f74c0cd6faea10075",
+  "sha256": "d704fc3201b1211e6eb77ebd1e3be8c7c9bb6702d30544f2366e970340f2f5ac",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:39:38.079076+00:00",
+  "input_resolution": [
+    1024,
+    768
+  ],
+  "input_sha256": "a3b8718de3a8204fc8334408abe2ce8e202181e0c61dc91d9956914ef1b0e26b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau351z8wjKJbqoQdOX5AJP2xkIZk",
+  "usage": {
+    "completion_tokens": 1327,
+    "prompt_tokens": 2122,
+    "total_tokens": 3449,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 487,
+      "engine_ttlt_ms": 10088,
+      "pre_inference_ms": 134,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 703,
+      "service_ttlt_ms": 10296,
+      "user_visible_ttft_ms": 569
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

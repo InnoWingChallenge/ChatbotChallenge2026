@@ -1,0 +1,106 @@
+{
+  "title": "Large multipurpose room with seated audience, podium and AV equipment",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "People: at least 35 individual people are visible in the photographed scene, seated and standing across the room; several faces are partially obscured or turned away.",
+    "Chairs: at least 35 individual chairs are visible and in use by attendees; additional empty chairs are visible toward the rear and sides but an exact total cannot be determined from this view.",
+    "Podium: one light-blue podium is visible at front right where a standing presenter is positioned.",
+    "Microphone stands: one freestanding microphone stand on a tripod base is visible in the foreground near the centre of the image.",
+    "Tripods/cameras: at least two camera tripods with cameras or camera-like equipment are visible near the centre-rear of the room (one central tripod with camera and another tripod behind or to its side).",
+    "Lighting stands: at least two photographic/video lighting stands with rectangular light panels are visible near the central rear area.",
+    "Other AV/support equipment: visible at the left-rear area are multiple cases/racks or stacked flight cases and a table with electronic equipment and a person operating them (exact device types and labels not legible).",
+    "Personal items and small objects such as bags appear near some chairs but are not enumerated as equipment."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The presenter stands at the front right of the image behind a light-blue podium facing the seated audience.",
+    "The freestanding microphone stand is placed near the centre foreground between the camera viewpoint and the seated rows.",
+    "Audience seating is arranged in staggered rows filling the central floor area from foreground toward the rear; seats are spaced with visible aisles between some columns of chairs.",
+    "AV equipment (tripods, lights, and operator tables) is positioned toward the centre-rear portion of the room behind the seated audience.",
+    "A cluster of equipment cases and a table with operator(s) are located along the left-rear wall of the room.",
+    "Large window coverings or blinds span the rear and right walls behind the audience; doors are visible along the left-rear wall near the equipment cluster."
+  ],
+  "colours_and_materials": [
+    "Floor: pale, glossy light-blue or very light grey finish that reflects overhead lighting.",
+    "Walls: predominantly white with geometric blue panels high on the walls.",
+    "Chairs: grey seats with metal legs.",
+    "Podium: light-blue coloured front panel.",
+    "Ceiling: exposed mechanical ceiling with metallic ducts, white structural elements and recessed rectangular fluorescent/LED light fixtures.",
+    "Lighting stands and tripods: black metal appears to be the material for stands and tripods."
+  ],
+  "uncertainties": [
+    "No legible room name, number or sign is visible anywhere in the image; the location cannot be determined from the photograph.",
+    "The exact count of people, chairs and tripods cannot be determined precisely due to partial occlusion, perspective and people seated behind others; the statements above report visible minima.",
+    "Device labels, model numbers, brand names and small printed instructions on equipment and cases are not legible at this resolution; specific equipment identifications could not be transcribed.",
+    "Some tripods/cameras and lighting stands may be partially obscured or clustered so the exact number of distinct camera setups is uncertain; at least two are visible.",
+    "No legible textual signs, headings, names, dates, times or other printed text could be read clearly in the image; 'visible_text' is empty for that reason."
+  ],
+  "visual_facts": [
+    "People: at least 35 individual people are visible in the photographed scene, seated and standing across the room; several faces are partially obscured or turned away.",
+    "Chairs: at least 35 individual chairs are visible and in use by attendees; additional empty chairs are visible toward the rear and sides but an exact total cannot be determined from this view.",
+    "Podium: one light-blue podium is visible at front right where a standing presenter is positioned.",
+    "Microphone stands: one freestanding microphone stand on a tripod base is visible in the foreground near the centre of the image.",
+    "Tripods/cameras: at least two camera tripods with cameras or camera-like equipment are visible near the centre-rear of the room (one central tripod with camera and another tripod behind or to its side).",
+    "Lighting stands: at least two photographic/video lighting stands with rectangular light panels are visible near the central rear area.",
+    "Other AV/support equipment: visible at the left-rear area are multiple cases/racks or stacked flight cases and a table with electronic equipment and a person operating them (exact device types and labels not legible).",
+    "Personal items and small objects such as bags appear near some chairs but are not enumerated as equipment.",
+    "Floor: pale, glossy light-blue or very light grey finish that reflects overhead lighting.",
+    "Walls: predominantly white with geometric blue panels high on the walls.",
+    "Chairs: grey seats with metal legs.",
+    "Podium: light-blue coloured front panel.",
+    "Ceiling: exposed mechanical ceiling with metallic ducts, white structural elements and recessed rectangular fluorescent/LED light fixtures.",
+    "Lighting stands and tripods: black metal appears to be the material for stands and tripods."
+  ],
+  "id": "9bf2e3ea377fe3e85975500f",
+  "sha256": "3f82e2d0c4f3841751dfda7a24d29c44c9637d2f9ce845deb08d598afa059762",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:54:45.340803+00:00",
+  "input_resolution": [
+    1600,
+    1068
+  ],
+  "input_sha256": "5122f15b146f9121e5a74cddf82d9b86cf4c926e067d313fb59b37a6ec84e0a0",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauHihg4w0ekgELNTj8V0TxBVlGz7",
+  "usage": {
+    "completion_tokens": 1040,
+    "prompt_tokens": 2237,
+    "total_tokens": 3277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1176,
+      "engine_ttlt_ms": 9714,
+      "pre_inference_ms": 305,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1933,
+      "service_ttlt_ms": 10465,
+      "user_visible_ttft_ms": 1628
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

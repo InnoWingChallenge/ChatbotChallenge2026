@@ -1,0 +1,283 @@
+[
+  {
+    "status": "recovered",
+    "id": "92d23cb2026e981d614bec9b",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/App-6_FINAL_POSTER_DESIGN-Christian-Ongkowijono-scaled.jpeg",
+    "local_path": "submission_repo/data/web_academy/recovered/4996c16b9a0e5e5901a72e17498531bc8f37c06b7395d6a95c6eb567524f4a10.jpg",
+    "sha256": "4996c16b9a0e5e5901a72e17498531bc8f37c06b7395d6a95c6eb567524f4a10",
+    "previous_sha256": "4996c16b9a0e5e5901a72e17498531bc8f37c06b7395d6a95c6eb567524f4a10",
+    "content_changed": false,
+    "bytes": 677994,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:01.396153+00:00",
+    "source_id": "92d23cb2026e981d614bec9b",
+    "source_type": "web_image",
+    "dhash": "99d3e3e5e5e2e2c9",
+    "width": 1811,
+    "height": 2560,
+    "priority_reasons": [
+      "poster",
+      "sign"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/agvrobot/",
+      "https://innoacademy.engg.hku.hk/agvrobot/app-6_final_poster_design-christian-ongkowijono/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/92d23cb2026e981d614bec9b.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "13f90d178de56d8fd69def8b",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/07/playchesswithrobot-poster.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/e29ba7309e50621fe3e1cb7f0a4ed23b6106a4c27181307726b7c7a2d930553c.jpg",
+    "sha256": "e29ba7309e50621fe3e1cb7f0a4ed23b6106a4c27181307726b7c7a2d930553c",
+    "previous_sha256": "e29ba7309e50621fe3e1cb7f0a4ed23b6106a4c27181307726b7c7a2d930553c",
+    "content_changed": false,
+    "bytes": 301274,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:04.667237+00:00",
+    "source_id": "13f90d178de56d8fd69def8b",
+    "source_type": "web_image",
+    "dhash": "2713393b2b171292",
+    "width": 1414,
+    "height": 1414,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/playchesswithrobot/",
+      "https://innoacademy.engg.hku.hk/playchesswithrobot/playchesswithrobot-poster/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/13f90d178de56d8fd69def8b.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "64168bb7caa4aa8f41bfe6a0",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/05/19A.-Smart-Soccer-Robot-i-Poster-v2-scaled.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/3230573d750d6f7aa47662a02cf724100d8b97b5f31ba3faac7b1abff675ecab.jpg",
+    "sha256": "3230573d750d6f7aa47662a02cf724100d8b97b5f31ba3faac7b1abff675ecab",
+    "previous_sha256": "3230573d750d6f7aa47662a02cf724100d8b97b5f31ba3faac7b1abff675ecab",
+    "content_changed": false,
+    "bytes": 730816,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:05.635160+00:00",
+    "source_id": "64168bb7caa4aa8f41bfe6a0",
+    "source_type": "web_image",
+    "dhash": "87cf779b9d9df95b",
+    "width": 1810,
+    "height": 2560,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/19a-smart-soccer-robot-i-poster-v2/",
+      "https://innoacademy.engg.hku.hk/soccer-robot2023i/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/64168bb7caa4aa8f41bfe6a0.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "77cc3e542e8f7f62850a5fa0",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/07/20240730_Poster-for-Advanced-Level-Firmware-Programming-for-Legged-Robot-Resized.png",
+    "local_path": "submission_repo/data/web_academy/recovered/3a6da2b9758544ecd1bfdc0e5775cde93fa530b02096f433543c6d78b999795b.png",
+    "sha256": "3a6da2b9758544ecd1bfdc0e5775cde93fa530b02096f433543c6d78b999795b",
+    "previous_sha256": "3a6da2b9758544ecd1bfdc0e5775cde93fa530b02096f433543c6d78b999795b",
+    "content_changed": false,
+    "bytes": 1493052,
+    "content_type": "image/png",
+    "retrieved_at": "2026-10-17T09:09:06.659534+00:00",
+    "source_id": "77cc3e542e8f7f62850a5fa0",
+    "source_type": "web_image",
+    "dhash": "76377d7f2339b1a9",
+    "width": 1863,
+    "height": 1317,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/afirmware01/",
+      "https://innoacademy.engg.hku.hk/afirmware01/20240730_poster-for-advanced-level-firmware-programming-for-legged-robot-resized/",
+      "https://innoacademy.engg.hku.hk/workshop/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/77cc3e542e8f7f62850a5fa0.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "8e29f45a80d619fda4378a73",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/10.-3D-printed-robot-dog-walking-on-terrain-for-STEM-education-Poster-Ziyue-Xu-scaled.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/70ad99c6b34e18b308b1c07ff73be74617b5ab05ec72250858f292bab02de310.jpg",
+    "sha256": "70ad99c6b34e18b308b1c07ff73be74617b5ab05ec72250858f292bab02de310",
+    "previous_sha256": null,
+    "content_changed": false,
+    "bytes": 842809,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:07.550313+00:00",
+    "source_id": "8e29f45a80d619fda4378a73",
+    "source_type": "web_image",
+    "dhash": "396c4520828225aa",
+    "width": 1808,
+    "height": 2560,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/3d-print-dog/10-3d-printed-robot-dog-walking-on-terrain-for-stem-education-poster-ziyue-xu/"
+    ],
+    "near_duplicate_candidates": [
+      "d88a4c24ee84bdc59b7213e0"
+    ],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/8e29f45a80d619fda4378a73.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "dbb08a382bd737cc5a130303",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/01/Smart-Soccer-Robot-POSTER.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/80ba57645ce5b5f7f073e891184c8c7c3be7d31115835421df56b3ca1000e63a.jpg",
+    "sha256": "80ba57645ce5b5f7f073e891184c8c7c3be7d31115835421df56b3ca1000e63a",
+    "previous_sha256": "80ba57645ce5b5f7f073e891184c8c7c3be7d31115835421df56b3ca1000e63a",
+    "content_changed": false,
+    "bytes": 184971,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:09.766436+00:00",
+    "source_id": "dbb08a382bd737cc5a130303",
+    "source_type": "web_image",
+    "dhash": "86c47cec61134686",
+    "width": 1472,
+    "height": 2012,
+    "priority_reasons": [
+      "poster",
+      "robot"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/soccer-robot/",
+      "https://innoacademy.engg.hku.hk/soccer-robot/smart-soccer-robot-poster/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/dbb08a382bd737cc5a130303.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "0d0d0515f867eafb1711116c",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/04/07.-LEAPSlocal-environment-alliance-project-series-Poster.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/956c2f1817b20e2e2db5faad8b16d548a1ba327c4b6aaabafaa88397921fae9b.jpg",
+    "sha256": "956c2f1817b20e2e2db5faad8b16d548a1ba327c4b6aaabafaa88397921fae9b",
+    "previous_sha256": "956c2f1817b20e2e2db5faad8b16d548a1ba327c4b6aaabafaa88397921fae9b",
+    "content_changed": false,
+    "bytes": 23718533,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:12.562636+00:00",
+    "source_id": "0d0d0515f867eafb1711116c",
+    "source_type": "web_image",
+    "dhash": "0f4f4d4d69692b4b",
+    "width": 10963,
+    "height": 15522,
+    "priority_reasons": [
+      "poster",
+      "project"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/07-leapslocal-environment-alliance-project-series-poster/",
+      "https://innoacademy.engg.hku.hk/leaps/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/0d0d0515f867eafb1711116c.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "f864753c0f081ab663d281ad",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/03/The-8th-Engineering-Inno-Show-Poster-Call-for-projects.png",
+    "local_path": "submission_repo/data/web_academy/recovered/c8f9ae61d81350eb82320511407d9116e54d171571952b52f8c7742307e3b48c.png",
+    "sha256": "c8f9ae61d81350eb82320511407d9116e54d171571952b52f8c7742307e3b48c",
+    "previous_sha256": "c8f9ae61d81350eb82320511407d9116e54d171571952b52f8c7742307e3b48c",
+    "content_changed": false,
+    "bytes": 3329480,
+    "content_type": "image/png",
+    "retrieved_at": "2026-10-17T09:09:14.566710+00:00",
+    "source_id": "f864753c0f081ab663d281ad",
+    "source_type": "web_image",
+    "dhash": "0c1f170f0f0fc347",
+    "width": 2245,
+    "height": 1587,
+    "priority_reasons": [
+      "poster",
+      "project"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/home/the-8th-engineering-inno-show-poster-call-for-projects/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/f864753c0f081ab663d281ad.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "1df53e334bc583f4f50c2f99",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/04/InnoShow-Poster-Datax-2.png",
+    "local_path": "submission_repo/data/web_academy/recovered/e6e997c3dd327e18a462ea52856eb3ce900b3649ceebe763b620eae6741af209.png",
+    "sha256": "e6e997c3dd327e18a462ea52856eb3ce900b3649ceebe763b620eae6741af209",
+    "previous_sha256": "e6e997c3dd327e18a462ea52856eb3ce900b3649ceebe763b620eae6741af209",
+    "content_changed": false,
+    "bytes": 284938,
+    "content_type": "image/png",
+    "retrieved_at": "2026-10-17T09:09:13.362544+00:00",
+    "source_id": "1df53e334bc583f4f50c2f99",
+    "source_type": "web_image",
+    "dhash": "0d476727652527e7",
+    "width": 1440,
+    "height": 1440,
+    "priority_reasons": [
+      "poster",
+      "innoshow"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/datax/",
+      "https://innoacademy.engg.hku.hk/datax/innoshow-poster-datax-2/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/1df53e334bc583f4f50c2f99.jpg"
+  },
+  {
+    "status": "recovered",
+    "id": "25ba36d8165967cdd7141ca9",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Snake-4D-Poster-01-for-InnoShow.jpg",
+    "local_path": "submission_repo/data/web_academy/recovered/b16d3eb0d48ea2236cf1f325fdb5c922e6c4930e713f945b73ea760a3ba680cd.jpg",
+    "sha256": "b16d3eb0d48ea2236cf1f325fdb5c922e6c4930e713f945b73ea760a3ba680cd",
+    "previous_sha256": "b16d3eb0d48ea2236cf1f325fdb5c922e6c4930e713f945b73ea760a3ba680cd",
+    "content_changed": false,
+    "bytes": 141093,
+    "content_type": "image/jpeg",
+    "retrieved_at": "2026-10-17T09:09:14.552121+00:00",
+    "source_id": "25ba36d8165967cdd7141ca9",
+    "source_type": "web_image",
+    "dhash": "c77069f082287eec",
+    "width": 1154,
+    "height": 1732,
+    "priority_reasons": [
+      "poster",
+      "innoshow"
+    ],
+    "source_pages": [
+      "https://innoacademy.engg.hku.hk/snake4d/",
+      "https://innoacademy.engg.hku.hk/snake4d/snake-4d-poster-01-for-innoshow/"
+    ],
+    "near_duplicate_candidates": [],
+    "capture_date": "unknown",
+    "preview_path": "submission_repo/data/web_academy/previews/25ba36d8165967cdd7141ca9.jpg"
+  }
+]

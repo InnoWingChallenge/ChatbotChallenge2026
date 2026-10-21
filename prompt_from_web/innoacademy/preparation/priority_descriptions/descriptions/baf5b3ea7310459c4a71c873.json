@@ -1,0 +1,118 @@
+{
+  "title": "Presentation at a space with large video wall and Tam Wing Fan signage",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Six people are visible in the photographed scene: three standing at the front near the podium/presentation area (one holding a microphone), one seated on a low blue cube facing the presenters, and two seated on a bench in the lower-left foreground (their faces visible in profile or from behind).",
+    "One large multi-panel video wall/display is visible on the front wall showing a two-column slide with red and white artwork; the visible active display spans roughly three adjacent screen modules.",
+    "One mobile podium/PC stand with a monitor and a small attached keyboard or control surface is located near the presenters.",
+    "One laptop computer is placed on a low blue cube in the foreground near the seated person.",
+    "One handheld microphone is held by the standing presenter at center front.",
+    "One brass hanging bell is mounted on the right wall.",
+    "One tall vertical retractable banner is positioned behind the presenters (dark background with repeated lighter text).",
+    "Two small wheeled white standing tables are visible on the right side (one fully visible, one partially visible behind the presenters).",
+    "Two long bench seats with blue cushions are visible in the audience area (one fully visible near the front, one partially visible closer to bottom-left).",
+    "At least three printed posters or flyers are attached to the right-side wall beneath the wall sign; they appear as three distinct rectangular items.",
+    "One glass-walled room or partition is visible at the left side of the image, with reflections of the main display visible on its surface."
+  ],
+  "visible_text": [
+    "3D Print Recycling",
+    "3D print shop allows more HKU members to use 3D printers regardless of their literacy with 3D printing.",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "novation acade",
+    "Tam",
+    "FACULTY OF"
+  ],
+  "spatial_relations": [
+    "The large video wall occupies the central-left portion of the front wall and is flush with the floor-level presentation area in front of it.",
+    "The presenters are standing to the right of the video wall; the mobile podium/PC stand is immediately to the presenters' left (image right of the video wall).",
+    "The seated audience member on the blue cube is positioned roughly mid-scene and faces the presenters and video wall; two additional audience members sit on a bench in the lower-left foreground facing the same direction.",
+    "A tall dark retractable banner stands just behind and slightly to the right of the presenters, positioned between the presenters and the right-side wall.",
+    "The brass bell is mounted on the right wall above the cluster of three small posters and to the left of the wall sign containing 'Tam' and 'FACULTY OF'.",
+    "A glass partitioned room is on the far left of the image; reflections of the video wall and parts of the presentation are visible in the glass."
+  ],
+  "colours_and_materials": [
+    "The large display shows a dominant red and white slide with red graphic shapes on the left and right panels.",
+    "Audience seating includes blue upholstered bench cushions and blue/grey foam cube seats.",
+    "The bell is brass-coloured and metallic.",
+    "Walls and floor near the presentation area are light grey; a pale mint-green horizontal ceiling soffit or architectural feature runs above the display area.",
+    "The retractable banner behind the presenters is dark (appears black or dark green) with lighter (yellow or light-green) repeated text or logos."
+  ],
+  "uncertainties": [
+    "The image contains several pieces of text that are partially obscured or reflected; I transcribed 'novation acade' from the banner area but full words (likely 'Innovation Academy') are not fully legible in the provided image crop.",
+    "The right-side wall sign shows 'Tam' and 'FACULTY OF' but the full line(s) of that sign (for example 'Tam Wing Fan Innovation Wing') are not fully legible in this view; I did not infer missing words beyond clearly visible fragments.",
+    "Small poster text beneath the bell is too small to transcribe accurately from this image; I counted them as three distinct items but their headings and detailed content are unreadable.",
+    "The exact number of video wall modules is inferred visually as spanning multiple panels but exact module boundaries or manufacturer labels (if any) are not legible.",
+    "Some labels on equipment (podium/stand, laptop, banner) contain additional small text that is not readable at this resolution; only the larger, clearer lines were transcribed above."
+  ],
+  "visual_facts": [
+    "Six people are visible in the photographed scene: three standing at the front near the podium/presentation area (one holding a microphone), one seated on a low blue cube facing the presenters, and two seated on a bench in the lower-left foreground (their faces visible in profile or from behind).",
+    "One large multi-panel video wall/display is visible on the front wall showing a two-column slide with red and white artwork; the visible active display spans roughly three adjacent screen modules.",
+    "One mobile podium/PC stand with a monitor and a small attached keyboard or control surface is located near the presenters.",
+    "One laptop computer is placed on a low blue cube in the foreground near the seated person.",
+    "One handheld microphone is held by the standing presenter at center front.",
+    "One brass hanging bell is mounted on the right wall.",
+    "One tall vertical retractable banner is positioned behind the presenters (dark background with repeated lighter text).",
+    "Two small wheeled white standing tables are visible on the right side (one fully visible, one partially visible behind the presenters).",
+    "Two long bench seats with blue cushions are visible in the audience area (one fully visible near the front, one partially visible closer to bottom-left).",
+    "At least three printed posters or flyers are attached to the right-side wall beneath the wall sign; they appear as three distinct rectangular items.",
+    "One glass-walled room or partition is visible at the left side of the image, with reflections of the main display visible on its surface.",
+    "The large display shows a dominant red and white slide with red graphic shapes on the left and right panels.",
+    "Audience seating includes blue upholstered bench cushions and blue/grey foam cube seats.",
+    "The bell is brass-coloured and metallic.",
+    "Walls and floor near the presentation area are light grey; a pale mint-green horizontal ceiling soffit or architectural feature runs above the display area.",
+    "The retractable banner behind the presenters is dark (appears black or dark green) with lighter (yellow or light-green) repeated text or logos."
+  ],
+  "id": "baf5b3ea7310459c4a71c873",
+  "sha256": "fb085d7338805238f69c566c66f039f0109d1b101c354902e6010d4d2124bc9e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:01:49.137073+00:00",
+  "input_resolution": [
+    2016,
+    1134
+  ],
+  "input_sha256": "55ebf32bafe9de1a5fa90805e06a33c525613d3aae79cd7bbb4ec94e7a724771",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauOWEsRQIMSlZd3dF9GSoIil3ToB",
+  "usage": {
+    "completion_tokens": 1517,
+    "prompt_tokens": 2439,
+    "total_tokens": 3956,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1140,
+      "engine_ttlt_ms": 11000,
+      "pre_inference_ms": 346,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2006,
+      "service_ttlt_ms": 11860,
+      "user_visible_ttft_ms": 1660
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

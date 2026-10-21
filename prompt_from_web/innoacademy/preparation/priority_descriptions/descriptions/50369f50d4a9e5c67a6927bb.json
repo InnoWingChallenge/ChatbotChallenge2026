@@ -1,0 +1,114 @@
+{
+  "title": "Workshop in a lab space with Tam Wing Fan Innovation Wing signage and projection screen",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing\nFACULTY OF ENGINEERING",
+  "objects_and_counts": [
+    "People: at least 18 distinct people are visible, seated at tables or standing and interacting with table groups; several faces are partially obscured or turned away so an exact count cannot be determined from the image alone.",
+    "Tables: four group tables with participants working around them are visible (one table at lower-left, one table central-left, one table central-right, one table far-right).",
+    "Chairs: multiple chairs in use around each table; at least 16 chairs are visible and occupied or adjacent to tables.",
+    "Projection screen: one large wall-mounted projection screen is visible at the far wall, showing a slide.",
+    "Large display on stand: one large flat display monitor on a tripod/stand is visible to the left of the projection screen.",
+    "Wall signage: one wall sign on the left bearing the facility name and faculty label is visible.",
+    "Glass partition: one large glass partition or window wall is visible at the right side of the room.",
+    "Work materials: multiple sheets of paper, cutting mats (green), rulers and small hand tools are on the tables; these are present in multiple places but exact counts of individual small items are not enumerated.",
+    "Back shelving/metal structure: a large metal shelving or storage structure is visible against the right rear wall."
+  ],
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "FACULTY OF ENGINEERING",
+    "Frame work structure glider",
+    "EXIT",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The facility sign reading \"Tam Wing Fan Innovation Wing\" and \"FACULTY OF ENGINEERING\" is mounted on the left wall near a large monitor on a stand.",
+    "A large projection screen is centered on the far wall; seating and group tables are arranged in front of this screen across the central floor area.",
+    "A large display monitor on a tripod/stand is positioned to the left of the projection screen, closer to the left wall.",
+    "A glass partition or window runs along the right side of the image; a metal shelving or structural frame is adjacent to that glass feature near the far-right rear corner.",
+    "Participants are clustered around four main group tables: one near the lower-left foreground, one central-left, one central-right, and one at the far-right; several people are standing between or leaning over tables to assist others."
+  ],
+  "colours_and_materials": [
+    "Floor: the foreground has a light grey, striped carpet; the left side floor area appears to be a smooth pale blue or light grey material.",
+    "Walls: predominantly white painted walls with some angled blue/grey graphic on the left near the signage.",
+    "Chairs: light grey plastic or polymer chairs are used throughout the seating areas.",
+    "Tables: tabletops appear to be white or light coloured laminate.",
+    "Projection screen: white projection surface with a projected multicolour slide.",
+    "Glass: clear glass partition or windows visible on the right; a metal shelving/frame adjacent to it appears metallic grey."
+  ],
+  "uncertainties": [
+    "The exact number of people is uncertain because several people are partially obscured, turned away, or overlapped; the statement 'at least 18' is a conservative visible minimum.",
+    "Some small printed text on the projection slide and on other posted signs or papers is not fully legible in the image; only the heading 'Frame work structure glider' on the projected slide is readable.",
+    "There are additional small labels and posters near the right glass wall and on tabletops that cannot be transcribed from this view; those are marked as [unreadable].",
+    "Counts for small items on tables (tools, rulers, paper sheets) are not provided as individual distinguishable object counts because of overlap and partial occlusion.",
+    "The sign above the door reads 'EXIT' as visible; any surrounding characters (for example, bilingual text) are not legible at this resolution."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing\nFACULTY OF ENGINEERING",
+    "People: at least 18 distinct people are visible, seated at tables or standing and interacting with table groups; several faces are partially obscured or turned away so an exact count cannot be determined from the image alone.",
+    "Tables: four group tables with participants working around them are visible (one table at lower-left, one table central-left, one table central-right, one table far-right).",
+    "Chairs: multiple chairs in use around each table; at least 16 chairs are visible and occupied or adjacent to tables.",
+    "Projection screen: one large wall-mounted projection screen is visible at the far wall, showing a slide.",
+    "Large display on stand: one large flat display monitor on a tripod/stand is visible to the left of the projection screen.",
+    "Wall signage: one wall sign on the left bearing the facility name and faculty label is visible.",
+    "Glass partition: one large glass partition or window wall is visible at the right side of the room.",
+    "Work materials: multiple sheets of paper, cutting mats (green), rulers and small hand tools are on the tables; these are present in multiple places but exact counts of individual small items are not enumerated.",
+    "Back shelving/metal structure: a large metal shelving or storage structure is visible against the right rear wall.",
+    "Floor: the foreground has a light grey, striped carpet; the left side floor area appears to be a smooth pale blue or light grey material.",
+    "Walls: predominantly white painted walls with some angled blue/grey graphic on the left near the signage.",
+    "Chairs: light grey plastic or polymer chairs are used throughout the seating areas.",
+    "Tables: tabletops appear to be white or light coloured laminate.",
+    "Projection screen: white projection surface with a projected multicolour slide.",
+    "Glass: clear glass partition or windows visible on the right; a metal shelving/frame adjacent to it appears metallic grey."
+  ],
+  "id": "50369f50d4a9e5c67a6927bb",
+  "sha256": "1f2f1509f3405bcb9304ef824892c64a7045d88620cabbaec9bf956f4bb90443",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:38:51.337188+00:00",
+  "input_resolution": [
+    2000,
+    1500
+  ],
+  "input_sha256": "4eecc1f0968b721dfdbac9aa6b5ce8e4b63e96304b37658e708445b7af27cccf",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau2JI8KBh3hRat4BuIopG82HAHZ0",
+  "usage": {
+    "completion_tokens": 1338,
+    "prompt_tokens": 2122,
+    "total_tokens": 3460,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1177,
+      "engine_ttlt_ms": 10338,
+      "pre_inference_ms": 407,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2178,
+      "service_ttlt_ms": 11333,
+      "user_visible_ttft_ms": 1771
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

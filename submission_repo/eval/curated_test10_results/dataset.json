@@ -1,0 +1,194 @@
+[
+  {
+    "id": "image_curated_001",
+    "category": "chinese",
+    "question": "在头脑风暴区的活动告示上，列出的三种获准用途是什么？",
+    "expected_answer": "学习、小组讨论和协作学习。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "\"STUDY\", \"GROUP DISCUSSION\" and \"COLLABORATIVE LEARNING\"",
+          "source_ids": [
+            "image_source/Brainstorm_Space/微信图片_20261013104620_62_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all three activities are correct; 0.5: one or two are correct; 0: incorrect or unsupported. Equivalent Chinese and English answers accepted."
+  },
+  {
+    "id": "image_curated_002",
+    "category": "chinese",
+    "question": "Digital Learning Studio 的白色吊顶投影仪上可读到什么品牌？",
+    "expected_answer": "SONY。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Digital_Learning_Studio/prompt.md",
+          "quote": "white ceiling-mounted projector labeled \"SONY\"",
+          "source_ids": [
+            "image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2657.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2658.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: identifies SONY; 0: incorrect or unsupported."
+  },
+  {
+    "id": "image_curated_003",
+    "category": "paraphrase",
+    "question": "What destination does the Brainstorming Area notice direct visitors to for practical making?",
+    "expected_answer": "Maker Space A.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "\"PLEASE PROCEED TO MAKER SPACE A\"",
+          "source_ids": [
+            "image_source/Brainstorm_Space/微信图片_20261013104620_62_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: names Maker Space A; 0: incorrect or unsupported."
+  },
+  {
+    "id": "image_curated_004",
+    "category": "new_fact",
+    "question": "在一张展示白色封闭式 3D 打印机、铝框架货架和黑色开放式机器的照片中，哪些两个 Ultimaker 型号被列为可见文字？",
+    "expected_answer": "Ultimaker 2 extended+ 和 Ultimaker 3 extended。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/a35e709223f999081ae28570.json",
+          "quote": "Reported visible text: Ultimaker 2 extended+; Ultimaker 3 extended; INNO Induction; How To Make a 3D Print Hexapod Robot.",
+          "source_ids": [
+            "webimg_b96df16cb7b194bd1c6961b4"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: gives both listed Ultimaker model labels; 0.5: gives one; 0: incorrect or unsupported."
+  },
+  {
+    "id": "image_curated_005",
+    "category": "new_fact",
+    "question": "For the blue GCC LaserPro unit described as a laser cutter/engraver, where is its red emergency-stop button positioned?",
+    "expected_answer": "Recessed in the machine's right front corner, slightly below the control-panel level.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/fea4ee165822aa081d57ea9a.json",
+          "quote": "The red emergency stop button is recessed into the right front corner of the machine, slightly below the control panel level.",
+          "source_ids": [
+            "webimg_83190103c67351c60c03b748"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: locates it at the recessed right front corner below the control panel; 0.5: partly correct; 0: incorrect or unsupported."
+  },
+  {
+    "id": "image_curated_006",
+    "category": "new_fact",
+    "question": "A safety display has two white pegboards, red first-aid boxes, and protective goggles. What exact label is reported for the safety station?",
+    "expected_answer": "SAFETY STATION.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/85c4f300ba2bc9010dc8af95.json",
+          "quote": "Reported visible text: SAFETY STATION; EMERGENCY; PROTECTIVE; EVACUATION PROCEDURE; FIRST AID BOX; INNO Induction; SAFETY FIRST.",
+          "source_ids": [
+            "webimg_bb5cb9b1ffae1ce202489fcc"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: gives SAFETY STATION; 0: incorrect or unsupported."
+  },
+  {
+    "id": "image_curated_007",
+    "category": "new_fact",
+    "question": "一张透过玻璃隔断拍摄的室内照片中，前景有彩色方凳，左侧玻璃墙上有字并在下方设有书架。玻璃上的名称是什么？",
+    "expected_answer": "Dream Chamber。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/00403daee01294b2747b5d5c.json",
+          "quote": "The words Dream Chamber appear on the glass above a shelving unit.",
+          "source_ids": [
+            "webimg_6c04eb010264e0ae687ca8d9"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: names Dream Chamber; 0: incorrect or unsupported."
+  },
+  {
+    "id": "image_curated_008",
+    "category": "new_fact",
+    "question": "In a presentation photo with a large screen on the left and a long blue bench in the foreground, what is positioned directly above the three grey visitor chairs along the right wall?",
+    "expected_answer": "A Tam Wing Fan Innovation Wing sign with an attached bell.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/07c2b7e7fb2fe3a73c831ae6.json",
+          "quote": "On the right wall above two chairs is the 'Tam Wing Fan Innovation Wing' sign with a bell; the three grey chairs are arranged beneath that sign and adjacent to the wheeled monitor on the far right.",
+          "source_ids": [
+            "webimg_48b85c30d7391f84d056eed5"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: identifies the sign and attached bell above the chairs; 0.5: identifies only one; 0: incorrect or unsupported."
+  },
+  {
+    "id": "image_curated_009",
+    "category": "chinese",
+    "question": "Podcast Studio 门牌上的房间编号是什么？",
+    "expected_answer": "IW-LG10。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Podcast_Studio/prompt.md",
+          "quote": "\"IW-LG10\" and \"Podcast Studio\"",
+          "source_ids": [
+            "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted."
+  },
+  {
+    "id": "image_curated_010",
+    "category": "paraphrase",
+    "question": "What should a maker place on the work surface to prevent damage, according to the rules sign?",
+    "expected_answer": "A mat.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Makerspace_A/prompt.md",
+          "quote": "\"USE MAT TO PROTECT THE TABLE\"",
+          "source_ids": [
+            "submission_repo/image_hzq/maker_space/sign.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted."
+  }
+]

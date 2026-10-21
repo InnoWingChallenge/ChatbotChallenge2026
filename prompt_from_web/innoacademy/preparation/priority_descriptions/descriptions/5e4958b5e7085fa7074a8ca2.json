@@ -1,0 +1,103 @@
+{
+  "title": "Computer lab classroom with students, instructor and projection screen",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 13 people are visible in the photographed scene: a person standing at the front behind a lectern/podium and at least 12 seated people distributed across rows; several seated people are partially obscured by monitors.",
+    "At least 13 desktop monitors are visible on student desks; monitors are arranged in multiple rows and many screens are turned off or showing black bezels.",
+    "One open laptop with visible screen is on the near-right desk in the foreground (showing a webpage or document).",
+    "One large projection screen or wall projection is at the front-left of the room displaying a slide.",
+    "One lectern/podium at the front contains at least one instructor-facing monitor and a keyboard or control surface.",
+    "One white rectangular device (possible printer or projector equipment) is visible on a desk near the front-left corner of the room.",
+    "Rows of desks with integrated desktop PC units beneath or next to monitors are visible; multiple keyboard and mouse pairs are observable next to monitors."
+  ],
+  "visible_text": [
+    "Note:"
+  ],
+  "spatial_relations": [
+    "The presenter stands at a lectern/podium at the front-center of the room, slightly left of the center of the image.",
+    "A large projected slide occupies the front-left wall area behind the presenter; the lectern is between the projection and the nearest row of student monitors.",
+    "Student desks with desktop monitors form multiple parallel rows running from the front toward the back of the image; monitors generally face the front of the room.",
+    "A blue door is on the right side of the front wall (image right), with papers and notices attached to it and a light-coloured wall area adjacent.",
+    "The open laptop is on the near-right desk in the foreground, placed in front of a desktop monitor and keyboard; a student sits behind that desk with hands clasped near their face."
+  ],
+  "colours_and_materials": [
+    "Most desktop monitors and keyboards are black with matte screens.",
+    "Desks and work surfaces are white or light-coloured laminate.",
+    "Chairs visible in the room are predominantly blue with perforated plastic backs.",
+    "The projection screen area and most walls are off-white; a wooden or wood-coloured panel covers part of the right-hand wall.",
+    "A blue door is visible on the right side of the front wall."
+  ],
+  "uncertainties": [
+    "Exact room name or number is not readable anywhere in the image; location cannot be determined from visible signs.",
+    "Many small labels on monitors and posted notices on the blue door are too small or blurred to transcribe; only the single word 'Note:' on the projected slide is clearly legible.",
+    "Counts are given as minimums because some people and monitors are partially obscured by others or by monitor backs; a precise total in the room cannot be determined from this single image.",
+    "The identity and exact function of the white rectangular device near the front-left is uncertain (could be a printer, projector housing or other equipment).",
+    "Text on the projected slide beyond 'Note:' is too small and blurred to transcribe reliably."
+  ],
+  "visual_facts": [
+    "At least 13 people are visible in the photographed scene: a person standing at the front behind a lectern/podium and at least 12 seated people distributed across rows; several seated people are partially obscured by monitors.",
+    "At least 13 desktop monitors are visible on student desks; monitors are arranged in multiple rows and many screens are turned off or showing black bezels.",
+    "One open laptop with visible screen is on the near-right desk in the foreground (showing a webpage or document).",
+    "One large projection screen or wall projection is at the front-left of the room displaying a slide.",
+    "One lectern/podium at the front contains at least one instructor-facing monitor and a keyboard or control surface.",
+    "One white rectangular device (possible printer or projector equipment) is visible on a desk near the front-left corner of the room.",
+    "Rows of desks with integrated desktop PC units beneath or next to monitors are visible; multiple keyboard and mouse pairs are observable next to monitors.",
+    "Most desktop monitors and keyboards are black with matte screens.",
+    "Desks and work surfaces are white or light-coloured laminate.",
+    "Chairs visible in the room are predominantly blue with perforated plastic backs.",
+    "The projection screen area and most walls are off-white; a wooden or wood-coloured panel covers part of the right-hand wall.",
+    "A blue door is visible on the right side of the front wall."
+  ],
+  "id": "5e4958b5e7085fa7074a8ca2",
+  "sha256": "2e87bc9f40d4d40cb7b0b69b55cce9ea46794d78baf1c7a7a44b62df547ab0ea",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:41:25.656941+00:00",
+  "input_resolution": [
+    2048,
+    1536
+  ],
+  "input_sha256": "f63d8d2591f4f820f087cc721acdd3d504f3287997a66f3d79fb79a00c67e144",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau4oK7HGWnKdmqMGnW0TfSZUZgES",
+  "usage": {
+    "completion_tokens": 1088,
+    "prompt_tokens": 2122,
+    "total_tokens": 3210,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1146,
+      "engine_ttlt_ms": 9764,
+      "pre_inference_ms": 328,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2018,
+      "service_ttlt_ms": 10631,
+      "user_visible_ttft_ms": 1689
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

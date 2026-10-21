@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "bundle_version": "v1-text-20260930",
+  "created_at_utc": "2026-09-30T06:10:08.803184+00:00",
+  "source_git_commit": "a610397ed17dff57c60be49dfd9cb506ee60c815",
+  "embedding_model_declared": "text-embedding-3-small",
+  "chromadb_version": "1.5.9",
+  "index_parameters": {
+    "chunk_size": 800,
+    "chunk_overlap": 100
+  },
+  "counts": {
+    "documents": 836,
+    "image_queue_records": 3586,
+    "image_descriptions": 0,
+    "fts_chunks": 6865,
+    "glossary_entries": 1,
+    "entities": 7,
+    "facts": 4
+  },
+  "capabilities": {
+    "text_dense_index": true,
+    "text_bm25_index": true,
+    "knowledge_layer": true,
+    "image_descriptions_present": false
+  },
+  "notes": [
+    "This is a runtime data bundle, not a Codabench submission ZIP.",
+    "Extract it from submission_repo/ so that files land under data/.",
+    "The declared embedding model records the intended build model; the stored vectors do not independently prove that declaration."
+  ],
+  "files": [
+    {
+      "path": "data/chroma/863fc30d-aa45-4b85-b255-7ca5cf354998/data_level0.bin",
+      "bytes": 38608896,
+      "sha256": "75f602c6d01653c4d1b27d69000261ed51762c0d7f6d9438fc83a62b79886d31"
+    },
+    {
+      "path": "data/chroma/863fc30d-aa45-4b85-b255-7ca5cf354998/header.bin",
+      "bytes": 100,
+      "sha256": "663f46d330acfce537eb9132d578bb018b4566816577077569bad997da045d04"
+    },
+    {
+      "path": "data/chroma/863fc30d-aa45-4b85-b255-7ca5cf354998/index_metadata.pickle",
+      "bytes": 446498,
+      "sha256": "d754f09fa9be6d8b20cc274c0a9710cc9782d12fd56af88dcfd2e734ae476252"
+    },
+    {
+      "path": "data/chroma/863fc30d-aa45-4b85-b255-7ca5cf354998/length.bin",
+      "bytes": 24576,
+      "sha256": "a19558bacebabbed4adc31ad8ef8c9abc3eabf6e4cd6417e80bdc36c5df3472b"
+    },
+    {
+      "path": "data/chroma/863fc30d-aa45-4b85-b255-7ca5cf354998/link_lists.bin",
+      "bytes": 52252,
+      "sha256": "5f09e3e93f7494c931d91a77c2532c6c82f61277e5f19c5d3c03b874958bf1f0"
+    },
+    {
+      "path": "data/chroma/chroma.sqlite3",
+      "bytes": 41676800,
+      "sha256": "e9e8fad6f5861a8321e437b767e4911e749bdfd6098b50525d1d876cb546867f"
+    },
+    {
+      "path": "data/knowledge/entities.json",
+      "bytes": 1439,
+      "sha256": "b59ad0cc9626e74929f386f33ff352eac3fbe04a7a228b148350a6fdbc38ddce"
+    },
+    {
+      "path": "data/knowledge/facts.json",
+      "bytes": 3331,
+      "sha256": "5500882e3ec5878f5f31ab87722b9e1ffee916ee5f7904ad52ad4b1b90843a1a"
+    },
+    {
+      "path": "data/knowledge/glossary.json",
+      "bytes": 553,
+      "sha256": "487bb512a66dde6850522c3acc8c77e163d1b7b90a60cfd265a14c8046c0b86c"
+    },
+    {
+      "path": "data/processed/documents.json",
+      "bytes": 7029943,
+      "sha256": "63257229e35dcb8a56a4edab0fc17fecf9216f628bba7c9a3509d9abc2b26e00"
+    },
+    {
+      "path": "data/processed/image_queue.json",
+      "bytes": 2105442,
+      "sha256": "7d7433bb6036a4f435dcdce9e6dcb9de4b80fba59c6610813c3438dccc92de19"
+    },
+    {
+      "path": "data/processed/images.json",
+      "bytes": 2321904,
+      "sha256": "16c2722d17b1ad38457fdb8f05ea25dc6d01dc80f7f787fc59e70af36406e5a9"
+    },
+    {
+      "path": "data/processed/manifest.json",
+      "bytes": 531,
+      "sha256": "50ee5896c647c2512263f112432fc3d34d69352dae3e08bcda78e25303e90602"
+    },
+    {
+      "path": "data/processed/report.json",
+      "bytes": 1058,
+      "sha256": "f36b9cdfb458fcee310ea489eec3228ac87dc3c21fac968982c20aa1ced15a88"
+    },
+    {
+      "path": "data/processed/REPORT.md",
+      "bytes": 1174,
+      "sha256": "635ea8c014f23a2601bb16b9580740f07413cba5f7a953246c62b73e4636b0dc"
+    },
+    {
+      "path": "data/processed/review_pages.json",
+      "bytes": 62888,
+      "sha256": "325d90875ffa022971ecfff7a57a4a644cdf74c3916f091d230826440a142b4d"
+    },
+    {
+      "path": "data/processed/SCHEMA.md",
+      "bytes": 1685,
+      "sha256": "322de6afd89470f59c7bd7d82527785627627883a68b38e45367466f1db345e3"
+    },
+    {
+      "path": "data/text_search.sqlite",
+      "bytes": 9273344,
+      "sha256": "b6d19ea8f8a1e9207b3f789dfad6d5a29ecdd503633859ee8102de14018b7e08"
+    }
+  ]
+}

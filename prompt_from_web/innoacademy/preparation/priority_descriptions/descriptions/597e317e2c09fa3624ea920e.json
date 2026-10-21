@@ -1,0 +1,103 @@
+{
+  "title": "Concrete cylinder specimen on a metal compression platen",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One cylindrical concrete specimen is visible, vertically oriented and standing on the circular metal platen; the specimen appears to be centrally placed and is not fully cropped.",
+    "One small square wooden plate is resting on top of the concrete specimen; the plate is fully visible.",
+    "One circular metal platen (round, flat metal disc) is visible beneath the specimen; the platen is fully visible and shows concentric scratch/mark rings.",
+    "Two vertical metal rods are visible: one central polished rod above the wooden plate (appearing to be aligned with the specimen) and one guide rod to the right of the specimen; both rods are visible along their length in the image.",
+    "One electrical outlet or wall-mounted socket device is visible in the upper right background, mounted on a vertical support.",
+    "One vertical tubular support or post is visible at the far right edge of the image; it is partially visible (cropped at top and bottom).",
+    "One black corrugated or bellows-like rubber component is visible below the circular platen at the bottom center of the image."
+  ],
+  "visible_text": [
+    "A4028"
+  ],
+  "spatial_relations": [
+    "The cylindrical concrete specimen stands vertically on the round metal platen and is directly beneath the small square wooden plate.",
+    "The central polished rod passes down close to or through the wooden plate above the specimen, aligned with the specimen's axis.",
+    "A second vertical guide rod is located to the right of the specimen and platen, running parallel to the central rod.",
+    "The circular metal platen sits between the specimen (above) and a black bellows-like component (below).",
+    "A tiled wall fills the background; a vertical support with an electrical outlet is behind and to the right of the specimen."
+  ],
+  "colours_and_materials": [
+    "The specimen appears grey and textured, consistent with concrete.",
+    "The small square plate above the specimen is light beige or pale wood colour and looks like wood.",
+    "The circular platen and the two vertical rods are metallic and silver/grey in colour with a reflective finish.",
+    "The background wall tiles are white and glossy.",
+    "A black rubber-like corrugated component is visible beneath the platen."
+  ],
+  "uncertainties": [
+    "No room name or number is visible; the specific location cannot be determined from the image.",
+    "The equipment type and function are not explicitly labeled in the image; identification as a compression platen and specimen setup is an observation, not a confirmed equipment nameplate reading.",
+    "Small labels or text on the metal parts, wall outlet, or other components may be present but are not legible in this image.",
+    "The vertical central rod's exact connection through the wooden plate is not fully clear due to perspective; it may be part of a loading ram or support assembly but that cannot be confirmed from visible text or labels.",
+    "The tubular support at the far right is partially cropped; its full extent and any attached labels are not visible."
+  ],
+  "visual_facts": [
+    "One cylindrical concrete specimen is visible, vertically oriented and standing on the circular metal platen; the specimen appears to be centrally placed and is not fully cropped.",
+    "One small square wooden plate is resting on top of the concrete specimen; the plate is fully visible.",
+    "One circular metal platen (round, flat metal disc) is visible beneath the specimen; the platen is fully visible and shows concentric scratch/mark rings.",
+    "Two vertical metal rods are visible: one central polished rod above the wooden plate (appearing to be aligned with the specimen) and one guide rod to the right of the specimen; both rods are visible along their length in the image.",
+    "One electrical outlet or wall-mounted socket device is visible in the upper right background, mounted on a vertical support.",
+    "One vertical tubular support or post is visible at the far right edge of the image; it is partially visible (cropped at top and bottom).",
+    "One black corrugated or bellows-like rubber component is visible below the circular platen at the bottom center of the image.",
+    "The specimen appears grey and textured, consistent with concrete.",
+    "The small square plate above the specimen is light beige or pale wood colour and looks like wood.",
+    "The circular platen and the two vertical rods are metallic and silver/grey in colour with a reflective finish.",
+    "The background wall tiles are white and glossy.",
+    "A black rubber-like corrugated component is visible beneath the platen."
+  ],
+  "id": "597e317e2c09fa3624ea920e",
+  "sha256": "a8aa7e295de78c75f97fff4cbbd50f5781a680e6f5ca67a9088978c33714e9ee",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:11:13.842594+00:00",
+  "input_resolution": [
+    1224,
+    1632
+  ],
+  "input_sha256": "9e8756b20a6548141387fde62aa3a9c81f6c80053129dcbd6cace43ba7e97752",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatbeESAEouOhfu7eenbsCyY3OO6Z",
+  "usage": {
+    "completion_tokens": 798,
+    "prompt_tokens": 2122,
+    "total_tokens": 2920,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1042,
+      "engine_ttlt_ms": 6400,
+      "pre_inference_ms": 332,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1926,
+      "service_ttlt_ms": 7279,
+      "user_visible_ttft_ms": 1594
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

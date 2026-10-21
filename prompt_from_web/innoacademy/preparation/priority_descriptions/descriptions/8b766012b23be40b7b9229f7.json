@@ -1,0 +1,128 @@
+{
+  "title": "Presentation in a room with large display and Innovation Academy banner",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Nine people are visible in the photographed scene: five seated audience-members with backs to camera (one partially visible on the far left, three clearly using laptops, one seated on a blue cube), one standing presenter in front of the large display holding a microphone, and three additional people standing to the right of the presenter near a banner.",
+    "One large wall-mounted presentation display/screen is visible at the front of the room showing a slide.",
+    "At least three laptops are visible in the scene: two in use by seated people (one on a lap, one on a bench) and one on the bench to the far left showing a spreadsheet-like view.",
+    "One portable podium or laptop stand is visible to the right of the presenter (near the three people standing).",
+    "One vertical pull-up banner stand is visible to the right of the screen (black/dark with yellow/green text).",
+    "Two wall posters are mounted on the right wall adjacent to the banner (one above the other).",
+    "One wall-mounted brass bell is visible on the right wall, hanging from a rope.",
+    "One wall sign with a partial logo and the letters 'FACU' is visible on the rightmost wall panel.",
+    "One white adjustable-height table on caster wheels is visible on the far right.",
+    "One overhead illuminated emergency exit sign with a green arrow is visible above the doorway at the rear-right of the image.",
+    "Exposed HVAC ductwork and suspended rectangular ceiling lights are visible overhead.",
+    "Cables are visible on the floor near the right-side podium/stand; their routing and number are visible but specific cable types are not identifiable.",
+    "Two blue cushioned bench seating elements are visible in the foreground; one gray cushioned cube seat is visible and being used by a seated person."
+  ],
+  "visible_text": [
+    "VISION TO GO BEYOND",
+    "ECOSYSTEM",
+    "Collaborative media projects",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "FACU",
+    "SHOWCASING",
+    "2:30-5:00PM"
+  ],
+  "spatial_relations": [
+    "The large presentation display/screen occupies the central front of the scene; the presenter stands slightly right-of-center in front of that screen.",
+    "The audience seating (blue benches and a gray cube) is in the foreground facing the screen; seated people have their backs to the camera.",
+    "A reflective glass wall is at the left side of the room, showing a mirrored view of the presentation slide and part of the room behind the camera.",
+    "To the right of the screen is a vertical pull-up banner stand; the three people standing (likely presenters or assistants) are positioned between the banner and the presenter.",
+    "The brass bell is mounted on the right wall above and slightly forward of the pull-up banner; the white adjustable table is further right under the wall sign with the partial 'FACU' text.",
+    "Overhead ductwork runs above the right side of the room; suspended rectangular lights hang from the ceiling roughly above the presentation area.",
+    "Cables from the right-side podium/stand run along the floor toward the front center area where the presenter stands."
+  ],
+  "colours_and_materials": [
+    "The presentation screen shows predominantly dark purple and black slide backgrounds with white heading text.",
+    "Bench seating is upholstered in blue fabric; a gray upholstered cube seat is visible.",
+    "Carpet flooring is light gray with subtle striping.",
+    "A brass-coloured bell is mounted on the right wall and hangs from a beige rope.",
+    "Exposed HVAC ductwork is metallic silver; ceiling elements are white or light gray.",
+    "The pull-up banner is dark (black or very dark gray) with yellow/green text; the wall sign on the far right has green and gray logo elements on a white background."
+  ],
+  "uncertainties": [
+    "The exact printed body copy on the large presentation slide is mostly unreadable beyond the headings 'VISION TO GO BEYOND' and 'ECOSYSTEM'; smaller slide text is not legible in the image.",
+    "Several smaller pieces of text on the pull-up banner and the posters on the right wall are partially legible (for example 'SHOWCASING' and '2:30-5:00PM') but most poster details and lower banner lines are unreadable at this resolution.",
+    "The partial wall sign shows 'FACU' only; the remainder of that sign is out of frame or not fully legible, so the full word cannot be transcribed.",
+    "Some people at the far left are partially cropped and one seated person is only partly visible (arm/shoulder); the count of nine visible people is based on distinguishable individuals in the scene but additional people may be present outside the frame or obscured.",
+    "Equipment labels, model numbers, or brand names on laptops, the display, cables, podium, and other equipment were inspected but not fully legible; no exact equipment nameplates could be reliably transcribed from this image."
+  ],
+  "visual_facts": [
+    "Nine people are visible in the photographed scene: five seated audience-members with backs to camera (one partially visible on the far left, three clearly using laptops, one seated on a blue cube), one standing presenter in front of the large display holding a microphone, and three additional people standing to the right of the presenter near a banner.",
+    "One large wall-mounted presentation display/screen is visible at the front of the room showing a slide.",
+    "At least three laptops are visible in the scene: two in use by seated people (one on a lap, one on a bench) and one on the bench to the far left showing a spreadsheet-like view.",
+    "One portable podium or laptop stand is visible to the right of the presenter (near the three people standing).",
+    "One vertical pull-up banner stand is visible to the right of the screen (black/dark with yellow/green text).",
+    "Two wall posters are mounted on the right wall adjacent to the banner (one above the other).",
+    "One wall-mounted brass bell is visible on the right wall, hanging from a rope.",
+    "One wall sign with a partial logo and the letters 'FACU' is visible on the rightmost wall panel.",
+    "One white adjustable-height table on caster wheels is visible on the far right.",
+    "One overhead illuminated emergency exit sign with a green arrow is visible above the doorway at the rear-right of the image.",
+    "Exposed HVAC ductwork and suspended rectangular ceiling lights are visible overhead.",
+    "Cables are visible on the floor near the right-side podium/stand; their routing and number are visible but specific cable types are not identifiable.",
+    "Two blue cushioned bench seating elements are visible in the foreground; one gray cushioned cube seat is visible and being used by a seated person.",
+    "The presentation screen shows predominantly dark purple and black slide backgrounds with white heading text.",
+    "Bench seating is upholstered in blue fabric; a gray upholstered cube seat is visible.",
+    "Carpet flooring is light gray with subtle striping.",
+    "A brass-coloured bell is mounted on the right wall and hangs from a beige rope.",
+    "Exposed HVAC ductwork is metallic silver; ceiling elements are white or light gray.",
+    "The pull-up banner is dark (black or very dark gray) with yellow/green text; the wall sign on the far right has green and gray logo elements on a white background."
+  ],
+  "id": "8b766012b23be40b7b9229f7",
+  "sha256": "190a6e74e8536efd94531827d4e6155d38395209cd85bbd53c602a7e3ea725f6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:52:30.686553+00:00",
+  "input_resolution": [
+    2016,
+    1134
+  ],
+  "input_sha256": "cd7b352f15e7f3b0ccea0e9931a8fc51ddba9fa1092706b7ee8989778fca9ee1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauFTg7nHd9n6dLiOD6N4OhYqVQ3A",
+  "usage": {
+    "completion_tokens": 1632,
+    "prompt_tokens": 2439,
+    "total_tokens": 4071,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1192,
+      "engine_ttlt_ms": 13881,
+      "pre_inference_ms": 381,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2034,
+      "service_ttlt_ms": 14718,
+      "user_visible_ttft_ms": 1653
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

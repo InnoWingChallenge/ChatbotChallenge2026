@@ -1,0 +1,64 @@
+[
+  {
+    "example_id": "official_example_level_1",
+    "question": "What faculty does the Tam Wing Fan Innovation Wing belong to?",
+    "answer": "Faculty of Engineering",
+    "provenance": {
+      "source_type": "official_public_example",
+      "source_url": "https://innoacademy.engg.hku.hk/aichallenge/",
+      "retrieved_at": "2026-10-21",
+      "scoring_record": "scoring_result/detailed_results.json#0",
+      "scoring_comment": "The candidate answer matches the reference answer perfectly, capturing the full content and overall idea."
+    }
+  },
+  {
+    "example_id": "official_example_level_2",
+    "question": "When was the deadline for the Funding Scheme 1st round submission in 2025-26?",
+    "answer": "October 17, 2025",
+    "provenance": {
+      "source_type": "official_public_example",
+      "source_url": "https://innoacademy.engg.hku.hk/aichallenge/",
+      "retrieved_at": "2026-10-21",
+      "scoring_record": "scoring_result/detailed_results.json#1",
+      "scoring_comment": "The candidate's answer provides an incorrect date for the submission deadline, which does not match the reference answer."
+    }
+  },
+  {
+    "example_id": "official_example_level_3",
+    "question": "What were the winning teams in Pitch New Tech Ideas in 2025?",
+    "answer": "SmartSocks, Digitoe, and GingTrolley.",
+    "provenance": {
+      "source_type": "official_public_example",
+      "source_url": "https://innoacademy.engg.hku.hk/aichallenge/",
+      "retrieved_at": "2026-10-21",
+      "scoring_record": "scoring_result/detailed_results.json#2",
+      "scoring_comment": "The candidate answer identifies one of the winning teams, Digitoe, but it fails to capture all required content since it does not mention the other winning teams, SmartSocks and GingTrolley.",
+      "official_answer": "Smartsocks, Digitio, Gingtrolley",
+      "spelling_note": "The scoring feedback calls the second team Digitoe; the official example page spells it Digitio."
+    }
+  },
+  {
+    "example_id": "official_example_level_4",
+    "question": "How many workshop posters are on the Innovation Academy websites for the year 2025?",
+    "answer": "31",
+    "provenance": {
+      "source_type": "official_public_example",
+      "source_url": "https://innoacademy.engg.hku.hk/aichallenge/",
+      "retrieved_at": "2026-10-21",
+      "scoring_record": "scoring_result/detailed_results.json#3",
+      "scoring_comment": "The candidate answer is incorrect as it states that there are no workshop posters for 2025, while the reference answer specifies there are 31."
+    }
+  },
+  {
+    "example_id": "official_example_level_5",
+    "question": "On the wall at the back of the brainstorming area, there are three words. HKU, Engineering, and...?",
+    "answer": "Innovation",
+    "provenance": {
+      "source_type": "official_public_example",
+      "source_url": "https://innoacademy.engg.hku.hk/aichallenge/",
+      "retrieved_at": "2026-10-21",
+      "scoring_record": "scoring_result/detailed_results.json#4",
+      "scoring_comment": "The candidate answer correctly identifies the missing word 'Innovation', which matches the reference answer exactly."
+    }
+  }
+]

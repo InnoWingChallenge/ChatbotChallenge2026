@@ -1,0 +1,111 @@
+{
+  "title": "Close-up of hands assembling or repairing an electronic PCB with power components",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One left human hand is visible (entire palm and fingers visible, not identifiable). A portion of a second hand is visible at the lower right edge (cropped).",
+    "One printed circuit board (PCB) assembly is visible occupying the central area of the image; it is mounted above a black metal chassis or enclosure.",
+    "Four cylindrical black electrolytic capacitors are visible near the top-center of the PCB (three clustered closely and one slightly separated).",
+    "Three red rectangular film capacitor modules are visible on the PCB (two toward upper left of the board and one nearer the center).",
+    "One toroidal transformer (round with wound copper wire) is visible at the top-right corner of the PCB assembly.",
+    "One small silver stacked aluminium heatsink is attached to a component at the PCB's right edge (being engaged by the screwdriver shaft).",
+    "One separate L-shaped silver heatsink piece is lying on the work surface below the PCB (visible and not attached).",
+    "One pair of metallic tweezers is being used by the left hand to interact with components on the PCB.",
+    "One electric handheld screwdriver or drill with a black and orange plastic housing is visible at the right edge; its bit is engaged with the heatsink/fastener.",
+    "Multiple through-hole resistors are visible on the PCB in the foreground; at least eight individual resistor bodies are individually distinguishable on the visible board area."
+  ],
+  "visible_text": [
+    "WIMA"
+  ],
+  "spatial_relations": [
+    "The left hand holding tweezers is at the image's left-center and positioned over the PCB, manipulating components on the board's populated edge.",
+    "The PCB assembly extends from left-center toward the right of the image and sits above a black enclosure; its populated components (electrolytics, red film caps, resistors) are primarily on the upper face.",
+    "The toroidal transformer is located at the board's top-right corner, behind the row of black electrolytic capacitors.",
+    "A stacked silver heatsink is attached at the PCB's right edge and the electric screwdriver's bit is inserted into that area from the lower-right quadrant.",
+    "A separate L-shaped silver heatsink lies on the flat work surface directly below the right edge of the PCB, between the PCB and the bottom edge of the image."
+  ],
+  "colours_and_materials": [
+    "The PCB is dark/black with visible blue, yellow and grey discrete components and metallic solder points.",
+    "The three rectangular film capacitors are red plastic-bodied (appearing matte).",
+    "The electrolytic capacitors are black cylindrical bodies with printed markings and glossy surfaces.",
+    "The heatsinks are metallic silver, appearing to be machined or cast aluminium.",
+    "The handheld screwdriver/drill has an orange and black plastic housing with metallic bit; the bit and shaft are silver metal.",
+    "The tweezers are metallic silver (reflective). The work surface beneath the assembly is a dark, matte material (likely a bench mat)."
+  ],
+  "uncertainties": [
+    "Exact counts of small discrete components (resistors, small capacitors, diodes, transistors) beyond those explicitly listed cannot be determined reliably from the image area shown; only individually distinguishable items were counted.",
+    "Some printed text on smaller components and on the screwdriver housing is present but not legible in the image; only the text 'WIMA' on the red film capacitors is clearly readable.",
+    "The partial hand at the lower right is cropped and not fully visible; it is uncertain whether it is the same person as the left hand.",
+    "Material identifications (for example, that heatsinks are aluminium or that the red components are film capacitors) are given based on visible appearance and common form factors but are not confirmed by readable nameplates or model markings in the image.",
+    "No room name, number, signage or other explicit location identifier is visible in the image; the location is therefore unknown from the image."
+  ],
+  "visual_facts": [
+    "One left human hand is visible (entire palm and fingers visible, not identifiable). A portion of a second hand is visible at the lower right edge (cropped).",
+    "One printed circuit board (PCB) assembly is visible occupying the central area of the image; it is mounted above a black metal chassis or enclosure.",
+    "Four cylindrical black electrolytic capacitors are visible near the top-center of the PCB (three clustered closely and one slightly separated).",
+    "Three red rectangular film capacitor modules are visible on the PCB (two toward upper left of the board and one nearer the center).",
+    "One toroidal transformer (round with wound copper wire) is visible at the top-right corner of the PCB assembly.",
+    "One small silver stacked aluminium heatsink is attached to a component at the PCB's right edge (being engaged by the screwdriver shaft).",
+    "One separate L-shaped silver heatsink piece is lying on the work surface below the PCB (visible and not attached).",
+    "One pair of metallic tweezers is being used by the left hand to interact with components on the PCB.",
+    "One electric handheld screwdriver or drill with a black and orange plastic housing is visible at the right edge; its bit is engaged with the heatsink/fastener.",
+    "Multiple through-hole resistors are visible on the PCB in the foreground; at least eight individual resistor bodies are individually distinguishable on the visible board area.",
+    "The PCB is dark/black with visible blue, yellow and grey discrete components and metallic solder points.",
+    "The three rectangular film capacitors are red plastic-bodied (appearing matte).",
+    "The electrolytic capacitors are black cylindrical bodies with printed markings and glossy surfaces.",
+    "The heatsinks are metallic silver, appearing to be machined or cast aluminium.",
+    "The handheld screwdriver/drill has an orange and black plastic housing with metallic bit; the bit and shaft are silver metal.",
+    "The tweezers are metallic silver (reflective). The work surface beneath the assembly is a dark, matte material (likely a bench mat)."
+  ],
+  "id": "a084c8086d775acee6fb8b1d",
+  "sha256": "eab63d124868813df45e4c25f53958b6882d7af283fc22135a84ff150de34f4c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:55:35.097062+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "c86ab9543f3d0d8deb08c248447c4e821911c1a7beecd0ae755771e5d210140a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauIVHJVFuniMyqjcTzrjg8BzVcKG",
+  "usage": {
+    "completion_tokens": 1207,
+    "prompt_tokens": 2266,
+    "total_tokens": 3473,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1290,
+      "engine_ttlt_ms": 10698,
+      "pre_inference_ms": 498,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2235,
+      "service_ttlt_ms": 11638,
+      "user_visible_ttft_ms": 1737
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

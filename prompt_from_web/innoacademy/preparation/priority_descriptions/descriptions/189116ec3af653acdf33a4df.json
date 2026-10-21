@@ -1,0 +1,111 @@
+{
+  "title": "Classroom presentation with projection screen and audience",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 18 distinct people are visible in the photographed scene; most are seated facing a projection screen and two people are standing at the front (one holding a microphone).",
+    "One wall-mounted projection screen is visible at the front centre of the room.",
+    "One presenter is holding a handheld microphone at the front right of the screen; a second standing person (near the right edge of the screen) is also visible and appears to be near a laptop or monitor.",
+    "One tripod-style flip chart / whiteboard on a stand is visible to the left of the projection screen.",
+    "Three ceiling-mounted circular fans are visible in the front third of the room (two near the top-right quadrant and one near the top-left quadrant).",
+    "One ceiling-mounted projector unit is visible above the projection screen.",
+    "Multiple identical purple-upholstered chairs with chrome frames are visible; at least 12 full chair backs are individually distinguishable in the central and foreground rows.",
+    "Multiple white rectangular desks/tables are visible in rows; at least eight distinct table surfaces are individually distinguishable.",
+    "One laptop or desktop monitor is visible on a table at the front right of the room next to the standing person.",
+    "Multiple water bottles and personal items are visible on desks; these are treated as transient personal objects and not inventoried exhaustively."
+  ],
+  "visible_text": [
+    "You actually contain even more data...",
+    "Humans have DNA and RNA from hundreds of species of microbes - bacteria, viruses and fungi - living in their body.",
+    "STEM+",
+    "LEADERSHIP W[unreadable]"
+  ],
+  "spatial_relations": [
+    "The projection screen is mounted on the front wall and occupies the central upper portion of the image.",
+    "The presenter holding the microphone stands to the right of the projection screen (image-right) and faces the seated audience.",
+    "A second standing person is positioned further right of the presenter, near a table with a monitor or laptop.",
+    "A flip chart / whiteboard on a stand is positioned to the left of the projection screen (image-left) and slightly forward of the screen plane.",
+    "Audience seating is arranged in rows facing the projection screen; purple chairs and white tables form aligned rows across the image width.",
+    "Ceiling-mounted projector is located roughly centrally above the front rows and slightly forward of the screen; circular ceiling fans are mounted above and slightly forward of the screen area."
+  ],
+  "colours_and_materials": [
+    "Chairs have purple upholstered backs/seats with chrome metal frames.",
+    "Tables have white glossy tops with metal legs.",
+    "Walls and ceiling are white; floor appears to be grey tiles.",
+    "The projection screen background is white with coloured slide content; the presenter is wearing dark-coloured clothing."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible in the image; location therefore listed as unknown from image.",
+    "Exact total number of people in the room cannot be determined from this single image due to partially occluded heads and people outside the frame; 'at least 18' is a conservative visible minimum.",
+    "Some small printed labels and text on clothing (for example the lower line on the STEM+ shirt) and on chair labels are partially obscured or too small to transcribe fully; indicated as 'LEADERSHIP W[unreadable]'.",
+    "Parts of the slide contain non-English text and small captions that are not legible enough for full transcription; only the larger English lines on the slide were transcribed.",
+    "The object identified as a laptop or monitor at the front right is visually consistent with such a device but the exact device type, brand or model is not legible from the image."
+  ],
+  "visual_facts": [
+    "At least 18 distinct people are visible in the photographed scene; most are seated facing a projection screen and two people are standing at the front (one holding a microphone).",
+    "One wall-mounted projection screen is visible at the front centre of the room.",
+    "One presenter is holding a handheld microphone at the front right of the screen; a second standing person (near the right edge of the screen) is also visible and appears to be near a laptop or monitor.",
+    "One tripod-style flip chart / whiteboard on a stand is visible to the left of the projection screen.",
+    "Three ceiling-mounted circular fans are visible in the front third of the room (two near the top-right quadrant and one near the top-left quadrant).",
+    "One ceiling-mounted projector unit is visible above the projection screen.",
+    "Multiple identical purple-upholstered chairs with chrome frames are visible; at least 12 full chair backs are individually distinguishable in the central and foreground rows.",
+    "Multiple white rectangular desks/tables are visible in rows; at least eight distinct table surfaces are individually distinguishable.",
+    "One laptop or desktop monitor is visible on a table at the front right of the room next to the standing person.",
+    "Multiple water bottles and personal items are visible on desks; these are treated as transient personal objects and not inventoried exhaustively.",
+    "Chairs have purple upholstered backs/seats with chrome metal frames.",
+    "Tables have white glossy tops with metal legs.",
+    "Walls and ceiling are white; floor appears to be grey tiles.",
+    "The projection screen background is white with coloured slide content; the presenter is wearing dark-coloured clothing."
+  ],
+  "id": "189116ec3af653acdf33a4df",
+  "sha256": "94217ee6bb5c3effe7cc2de3ced62ec4da7097d8fca8f0470d023eddba6b3360",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:30:00.821708+00:00",
+  "input_resolution": [
+    2400,
+    1617
+  ],
+  "input_sha256": "805d25cc4153cb3f13f4dfc2fc3c07cc7b22379313872101ffc76c307217616a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EattmCToTVOcnbN9Y0ENHPNWXYFZq",
+  "usage": {
+    "completion_tokens": 1086,
+    "prompt_tokens": 2237,
+    "total_tokens": 3323,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1151,
+      "engine_ttlt_ms": 8384,
+      "pre_inference_ms": 343,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2498,
+      "service_ttlt_ms": 9722,
+      "user_visible_ttft_ms": 2155
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

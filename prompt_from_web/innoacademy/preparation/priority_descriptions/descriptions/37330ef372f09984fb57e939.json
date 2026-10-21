@@ -1,0 +1,111 @@
+{
+  "title": "Table display with two Ultimaker 3D printers, laptop and tools",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two white Ultimaker 3D printers are visible on the table, positioned center-left and center-right. Both printers are shown as complete assemblies with visible filament guide tubes entering their tops.",
+    "One laptop computer is visible at the far left of the table; its screen is on and showing a 3D-modeling / printing application.",
+    "One green-and-black handheld power tool (branded 'Ultimaker' on its side) is visible at the far right of the table.",
+    "One single printed lattice sphere (grey) is visible on the table in front of and between the two printers (front-center).",
+    "At least two filament spools are visible stacked at the right rear of the table near the drill; a third spool or disk is partially visible below or behind them (see uncertainties).",
+    "A plate or small turntable with multiple small white printed parts is visible immediately to the left of the filament spools; the exact count of those small white printed parts cannot be determined from the image.",
+    "Two small metallic cylindrical items (appear to be nozzle or connector-like parts) are visible on the table in front of the filament spools and to the right of the lattice sphere.",
+    "Two hand tools (a pair of blue-handled pliers and an orange-handled cutting tool or screwdriver) are visible at the lower-right foreground on the table."
+  ],
+  "visible_text": [
+    "Ultimaker",
+    "Ultimaker 3",
+    "Ultimaker 3 Extended",
+    "Ultimaker"
+  ],
+  "spatial_relations": [
+    "The two Ultimaker printers are placed side-by-side near the center of the table, with a smaller printer at center-left and a taller printer at center-right.",
+    "The laptop sits to the left of the left/center printer, angled toward the viewer on the left edge of the table.",
+    "The printed lattice sphere is positioned on the table in front of and centered between the two printers.",
+    "The filament spools and a plate with small white printed parts are located to the right rear of the right/center printer, near the handheld power tool.",
+    "The green-and-black handheld power tool is at the far right of the table, to the right of the filament spools; two small metallic cylindrical parts are between the sphere and the spools, and two hand tools lie in the lower-right foreground near the power tool."
+  ],
+  "colours_and_materials": [
+    "Both 3D printers are white with translucent or glass build-chamber panels and internal white illumination.",
+    "The table surface is glossy white and reflective.",
+    "The handheld power tool is green with black accents and has the 'Ultimaker' name in white on its side.",
+    "The printed lattice sphere is grey and appears to be a matte or slightly textured plastic or metal print (material not confirmed).",
+    "Filament on the spools appears translucent/white or clear.",
+    "The small metallic cylindrical parts appear silver-metallic."
+  ],
+  "uncertainties": [
+    "No visible room name or number is present in the image; location is therefore unknown from image.",
+    "Some printed labels include additional characters that are partly obscured or too small to read; for example, model suffixes on the printers are partially legible as 'Ultimaker 3' and 'Ultimaker 3 Extended' but smaller text on machine panels is unreadable.",
+    "The exact number of filament spools is uncertain: at least two spools are clearly visible stacked, with a third spool or disk partially visible beneath or behind them.",
+    "The exact count of small white printed parts on the plate to the left of the spools cannot be determined from the image due to partial occlusion and distance.",
+    "The laptop screen contains additional UI text and labels, but only the word 'Ultimaker' is clearly legible; other on-screen text is unreadable from this view.",
+    "I have not attempted to infer equipment specifications, materials, or operational state beyond what is visually apparent."
+  ],
+  "visual_facts": [
+    "Two white Ultimaker 3D printers are visible on the table, positioned center-left and center-right. Both printers are shown as complete assemblies with visible filament guide tubes entering their tops.",
+    "One laptop computer is visible at the far left of the table; its screen is on and showing a 3D-modeling / printing application.",
+    "One green-and-black handheld power tool (branded 'Ultimaker' on its side) is visible at the far right of the table.",
+    "One single printed lattice sphere (grey) is visible on the table in front of and between the two printers (front-center).",
+    "At least two filament spools are visible stacked at the right rear of the table near the drill; a third spool or disk is partially visible below or behind them (see uncertainties).",
+    "A plate or small turntable with multiple small white printed parts is visible immediately to the left of the filament spools; the exact count of those small white printed parts cannot be determined from the image.",
+    "Two small metallic cylindrical items (appear to be nozzle or connector-like parts) are visible on the table in front of the filament spools and to the right of the lattice sphere.",
+    "Two hand tools (a pair of blue-handled pliers and an orange-handled cutting tool or screwdriver) are visible at the lower-right foreground on the table.",
+    "Both 3D printers are white with translucent or glass build-chamber panels and internal white illumination.",
+    "The table surface is glossy white and reflective.",
+    "The handheld power tool is green with black accents and has the 'Ultimaker' name in white on its side.",
+    "The printed lattice sphere is grey and appears to be a matte or slightly textured plastic or metal print (material not confirmed).",
+    "Filament on the spools appears translucent/white or clear.",
+    "The small metallic cylindrical parts appear silver-metallic."
+  ],
+  "id": "37330ef372f09984fb57e939",
+  "sha256": "37f2bdd1f823e850e1cba26974dcba9d7919b7138ce85863cc885e0110065d71",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:09:07.716506+00:00",
+  "input_resolution": [
+    1500,
+    748
+  ],
+  "input_sha256": "14fe4ba8ef6910a7037d6952ad266599c75960e9dd9ca9a2aa66a5c1bf69aaa8",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatZX4M714iUWulVP58F3MsC0MokS",
+  "usage": {
+    "completion_tokens": 1349,
+    "prompt_tokens": 2554,
+    "total_tokens": 3903,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 781,
+      "engine_ttlt_ms": 10048,
+      "pre_inference_ms": 130,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1864,
+      "service_ttlt_ms": 11126,
+      "user_visible_ttft_ms": 1733
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

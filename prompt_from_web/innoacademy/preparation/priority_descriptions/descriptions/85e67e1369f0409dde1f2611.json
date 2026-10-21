@@ -1,0 +1,104 @@
+{
+  "title": "Workshop space with racing simulators, shelving and 3D printers",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Five visible people: two standing near the center of the image (one facing left with hands behind his back and one beside him), two seated at racing simulator rigs (one center-left in a low racing seat and one right in a chair using a wheel), and one person standing at rear-left near shelving. All five people are fully or mostly within the photographed scene; none are only pictured on posters or screens.",
+    "Two visible racing simulator assemblies with steering wheels and pedal units: one assembly is centered (person seated low in a racing frame) and one assembly at right (person seated on a chair using a wheel and pedals). Both assemblies are visible in the photographed scene and not just on posters/screens.",
+    "At least two flat-panel monitors showing a driving/racing simulation: one monitor directly in front of the center racing seat, and one monitor in front of the right-side seated person.",
+    "A row of multiple desktop-type 3D printers or similar frame machines on a table at the right window; three distinct printer frames are visible (some partially obscured by other objects and cables).",
+    "A tall metal shelving/rack unit at left containing boxes, bags and miscellaneous equipment (multiple individual items visible on shelves; exact count of shelf contents not determined).",
+    "One vertical teardrop banner/flag at left with large text (flag fabric is freestanding on the floor).",
+    "Several desks/tables with computer towers, cabling and small electronic devices clustered on and under the tables near the center-right; exact counts of smaller devices are indeterminate from the image."
+  ],
+  "visible_text": [
+    "HKUR"
+  ],
+  "spatial_relations": [
+    "A carpeted rectangular area is placed near the center of the image; the center racing seat assembly sits on that carpet patch while the right-side assembly sits partly off the carpet on the hard floor.",
+    "The tall green teardrop flag is positioned at the left foreground, next to the metal shelving/rack unit and in front of a windowed wall.",
+    "Shelving with boxes and equipment runs along the left side of the image toward the rear-left corner; a person stands near that shelving.",
+    "Two racing simulators are arranged roughly parallel to each other facing toward the right-front area of the image where their monitors are placed on desks; the center simulator faces a monitor on a low desk, and the right simulator faces a monitor on a higher desk beside computer towers.",
+    "A workbench or table with multiple 3D-printer-like frames sits along the right side near the windows, behind the right-hand simulator user.",
+    "Ceiling-mounted lighting panels and exposed ceiling services run above the whole area, with hanging cables descending toward desks and equipment in the center-right."
+  ],
+  "colours_and_materials": [
+    "A bright green fabric teardrop flag with white text is visible at left.",
+    "Flooring consists of a pale grey hard floor with a rectangular brown/beige carpet patch in the center area under one simulator.",
+    "Shelving appears metallic (grey metal frame) holding cardboard boxes and fabric bags.",
+    "3D-printer frames or similar devices along the right appear black or dark-coloured (metal or plastic frames).",
+    "Monitors have black bezels; chairs visible are light grey (right-side chair) and black (racing seat)."
+  ],
+  "uncertainties": [
+    "Exact room name or number is not visible anywhere in the image; location is therefore unknown from image.",
+    "The teardrop banner text is transcribed as \"HKUR\" where letters are legible, but smaller vertical text on the flag and other small labels on boxes, equipment and monitors are unreadable in this view.",
+    "Some objects are partially obscured or overlapping (for example, items on the metal shelving and small devices on workbenches), so exact counts of boxes, tools and small electronics cannot be determined.",
+    "The identification of multiple devices at the right as 3D printers is based on visible frame shapes but could be other framed devices; material identifications (metal versus plastic parts) are visual impressions and not confirmed by labels.",
+    "Shirt text or small printed labels on equipment were not transcribed because they were not legible at the image resolution; other legible text beyond \"HKUR\" was not found despite inspection."
+  ],
+  "visual_facts": [
+    "Five visible people: two standing near the center of the image (one facing left with hands behind his back and one beside him), two seated at racing simulator rigs (one center-left in a low racing seat and one right in a chair using a wheel), and one person standing at rear-left near shelving. All five people are fully or mostly within the photographed scene; none are only pictured on posters or screens.",
+    "Two visible racing simulator assemblies with steering wheels and pedal units: one assembly is centered (person seated low in a racing frame) and one assembly at right (person seated on a chair using a wheel and pedals). Both assemblies are visible in the photographed scene and not just on posters/screens.",
+    "At least two flat-panel monitors showing a driving/racing simulation: one monitor directly in front of the center racing seat, and one monitor in front of the right-side seated person.",
+    "A row of multiple desktop-type 3D printers or similar frame machines on a table at the right window; three distinct printer frames are visible (some partially obscured by other objects and cables).",
+    "A tall metal shelving/rack unit at left containing boxes, bags and miscellaneous equipment (multiple individual items visible on shelves; exact count of shelf contents not determined).",
+    "One vertical teardrop banner/flag at left with large text (flag fabric is freestanding on the floor).",
+    "Several desks/tables with computer towers, cabling and small electronic devices clustered on and under the tables near the center-right; exact counts of smaller devices are indeterminate from the image.",
+    "A bright green fabric teardrop flag with white text is visible at left.",
+    "Flooring consists of a pale grey hard floor with a rectangular brown/beige carpet patch in the center area under one simulator.",
+    "Shelving appears metallic (grey metal frame) holding cardboard boxes and fabric bags.",
+    "3D-printer frames or similar devices along the right appear black or dark-coloured (metal or plastic frames).",
+    "Monitors have black bezels; chairs visible are light grey (right-side chair) and black (racing seat)."
+  ],
+  "id": "85e67e1369f0409dde1f2611",
+  "sha256": "0411395a6e3ae0beb22f8241980ac53e5d47ce6e1c057841c63de7a4d510c0a1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:52:02.463782+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "6418324a265bd58f497fc62390401417fa62d96f8e618932ffbcf62b292b60a8",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauF3FyyFMbBcqfG2bieUYy5qGYPq",
+  "usage": {
+    "completion_tokens": 1338,
+    "prompt_tokens": 2122,
+    "total_tokens": 3460,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1183,
+      "engine_ttlt_ms": 12070,
+      "pre_inference_ms": 344,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2075,
+      "service_ttlt_ms": 12956,
+      "user_visible_ttft_ms": 1731
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

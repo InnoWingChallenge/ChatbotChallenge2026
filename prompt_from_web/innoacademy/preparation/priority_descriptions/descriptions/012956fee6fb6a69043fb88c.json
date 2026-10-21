@@ -1,0 +1,22 @@
+{
+  "id": "012956fee6fb6a69043fb88c",
+  "sha256": "a57af322fe3bf58f7ed7be6c72d7cc62aefb45437420ecdac21e3d0289f67996",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Annotated competition course layout diagram",
+  "visible_text": ["Mirror zone", "Horizontal tunnel zone", "vertical tunnel zone", "Strong wind zone"],
+  "visual_facts": [
+    "A rectangular course plan is drawn on the left side of a white page.",
+    "Dimension lines and numbers surround the rectangular plan.",
+    "Four English labels on the right identify zones: Mirror zone, Horizontal tunnel zone, vertical tunnel zone, and Strong wind zone.",
+    "Arrows point from these labels to areas within the plan.",
+    "Several concentric circular symbols are arranged in a zigzag down the course and joined by blue line segments.",
+    "Chinese text appears inside several outlined rectangles and along the bottom of the plan.",
+    "A Chinese figure caption is printed below the diagram."
+  ],
+  "spatial_relations": ["The four English zone labels form a vertical column to the right of the plan.", "The marked circular positions alternate from right to left and back down the course.", "The Strong wind zone label points to a lower area of the plan."],
+  "uncertainties": ["Most Chinese text and small dimension labels are not legible at this scale.", "The diagram does not identify a specific physical venue in readable text."]
+}

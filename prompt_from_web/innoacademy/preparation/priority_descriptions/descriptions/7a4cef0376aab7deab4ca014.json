@@ -1,0 +1,116 @@
+{
+  "title": "Project display with robotic chassis and poster board",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two people are visible standing behind the table in the midground; both are wearing face masks. The person on the left is wearing a black-and-white horizontally striped sweater; the person in the center is wearing a light grey T-shirt.",
+    "One small freestanding project sign on the table reads 'Project 19' above a blue panel that reads 'VOTE' (see visible_text).",
+    "One large vertical poster board is visible behind and to the right of the two people; it is mounted upright on a support and contains multiple headings and images.",
+    "One robotic chassis / assembled device is on the right foreground of the table. The device assembly includes multiple visible wired components and at least four cylindrical wheel/motor assemblies attached around the base (four wheel-like modules are individually distinguishable).",
+    "At least two tall round stools are visible in the left background next to another table; their tops and legs are visible but partly cropped by the image frame.",
+    "One smaller printed sign or card is visible at left background on another table, but its text is partially cropped and not fully legible."
+  ],
+  "visible_text": [
+    "Automatic Chair Parking System",
+    "The University of Hong Kong",
+    "Department of Mechanical Engineering",
+    "BACKGROUND",
+    "OBJECTIVE",
+    "FUNCTIONS",
+    "Navigation",
+    "Searching",
+    "Lifting",
+    "Chassis",
+    "Project 19",
+    "VOTE",
+    "BRISKNESS",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The two people stand side-by-side behind the central area of the table; the person in the striped sweater is at the left edge of the pair and the person in the light grey T-shirt is at the center of the image.",
+    "The freestanding 'Project 19 / VOTE' sign is placed on the table in front of the poster board and slightly right of the two people; it sits between the people and the robotic device from the camera viewpoint.",
+    "The large vertical poster board stands behind and slightly to the right of the people; the poster is taller than the people's torsos and contains stacked sections arranged vertically (headings and small illustrative panels aligned top to bottom).",
+    "The robotic chassis is on the right foreground portion of the table, occupying the nearest right-side workspace to the camera; its base is aligned along the front edge of the table and is closer to the camera than the people and poster.",
+    "A second table with at least two round stools is located in the left background behind the people; the stools are adjacent to that secondary table surface."
+  ],
+  "colours_and_materials": [
+    "The display table surface appears light beige or pale wood in colour and has a smooth matte finish.",
+    "The large poster board background is predominantly white with a dark blue header strip at the top and smaller blue panels; printed images and coloured boxes appear on the poster.",
+    "The 'VOTE' panel is blue with white lettering and an orange gradient strip at the top where 'Project 19' is printed in white.",
+    "The robotic assembly shows metallic silver components and structural elements, with visible wiring in red, black and green; some small plastic parts appear black or white.",
+    "The left person's sweater is black with white horizontal stripes; the center person's T-shirt is light grey with a dark chest emblem that includes the text 'BRISKNESS' (see visible_text).",
+    "Both people wear disposable face masks—one appears light blue and the other white."
+  ],
+  "uncertainties": [
+    "No explicit room name, room number or signage indicating a specific room is legible in the image; therefore the precise location cannot be determined from this image.",
+    "Paragraph blocks of small body text on the poster board are mostly unreadable at the photographed resolution; only section headings and single-word captions were legible. Those unreadable blocks are represented as '[unreadable]'.",
+    "The exact model or type labels on the robotic components are not legible; small labels or nameplates on the device were inspected but their text could not be transcribed.",
+    "The visible count of four cylindrical wheel/motor assemblies is based on individually distinguishable modules in the foreground; occlusion or cropping might hide additional components not visible in the frame.",
+    "The small printed sign at left background is partly cropped and its full text cannot be determined from the image."
+  ],
+  "visual_facts": [
+    "Two people are visible standing behind the table in the midground; both are wearing face masks. The person on the left is wearing a black-and-white horizontally striped sweater; the person in the center is wearing a light grey T-shirt.",
+    "One small freestanding project sign on the table reads 'Project 19' above a blue panel that reads 'VOTE' (see visible_text).",
+    "One large vertical poster board is visible behind and to the right of the two people; it is mounted upright on a support and contains multiple headings and images.",
+    "One robotic chassis / assembled device is on the right foreground of the table. The device assembly includes multiple visible wired components and at least four cylindrical wheel/motor assemblies attached around the base (four wheel-like modules are individually distinguishable).",
+    "At least two tall round stools are visible in the left background next to another table; their tops and legs are visible but partly cropped by the image frame.",
+    "One smaller printed sign or card is visible at left background on another table, but its text is partially cropped and not fully legible.",
+    "The display table surface appears light beige or pale wood in colour and has a smooth matte finish.",
+    "The large poster board background is predominantly white with a dark blue header strip at the top and smaller blue panels; printed images and coloured boxes appear on the poster.",
+    "The 'VOTE' panel is blue with white lettering and an orange gradient strip at the top where 'Project 19' is printed in white.",
+    "The robotic assembly shows metallic silver components and structural elements, with visible wiring in red, black and green; some small plastic parts appear black or white.",
+    "The left person's sweater is black with white horizontal stripes; the center person's T-shirt is light grey with a dark chest emblem that includes the text 'BRISKNESS' (see visible_text).",
+    "Both people wear disposable face masks—one appears light blue and the other white."
+  ],
+  "id": "7a4cef0376aab7deab4ca014",
+  "sha256": "e4d2729b17bba74ce0bbfeddfeeab626d8993b0d795d50591d7f885e3a912174",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:47:51.479237+00:00",
+  "input_resolution": [
+    1280,
+    853
+  ],
+  "input_sha256": "a401cf435b3884be67f725ab294b898c72bbea5f36978ae8c2a32f90a0ed0845",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauAzKnhVYoZaCiNWLt3u9CH1s8sc",
+  "usage": {
+    "completion_tokens": 1412,
+    "prompt_tokens": 2266,
+    "total_tokens": 3678,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1172,
+      "engine_ttlt_ms": 11851,
+      "pre_inference_ms": 449,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2750,
+      "service_ttlt_ms": 13423,
+      "user_visible_ttft_ms": 2301
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

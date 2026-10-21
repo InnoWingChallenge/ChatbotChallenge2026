@@ -1,0 +1,106 @@
+{
+  "title": "Group seated on stepped benches and cube seats in a space with 'INNOVATION' wall signage",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 25 people are visible in the photographed scene; people appear seated on cube seats in the foreground, seated and standing on multi-level wooden tiers in the midground, and seated along a right-side bench adjacent to a glass partition. (Exact total cannot be determined because several people are partially obscured or cropped.)",
+    "Foreground seating includes at least four distinct cube seats visible (two blue cubes, one teal cube, one light-blue cube) and multiple cushioned bench sections in front of the wooden tiers; exact cube/bench totals cannot be determined from the image because some are cropped at the edges.",
+    "A stepped wooden tier structure with three visible levels is present in the midground and used for seating.",
+    "A glass partition or glass wall is visible at the right side of the image with attached printed notices or signs.",
+    "Several backpacks (at least four clearly visible) sit on the floor next to seated people in the foreground and midground; individual backpacks are distinct and countable where not obscured.",
+    "Small handheld objects (phones) are visible in the hands of several people (multiple visible), but an exact count is not provided because some devices are partially obscured.",
+    "A triangular wall graphic bearing large text is visible on the wall behind the tiers.",
+    "A small sign with a circular pictogram (appears to be a prohibition symbol) is affixed to the front face of one tier step; the pictogram and surrounding small text are partially legible but much of the text is too small to fully transcribe."
+  ],
+  "visible_text": [
+    "INNOVATION",
+    "Innovation"
+  ],
+  "spatial_relations": [
+    "Cube seats occupy the foreground in a row parallel to the image bottom edge; people sit on these cubes facing toward the right side of the image.",
+    "Behind the cube seats is a stepped wooden tier structure with three visible seating levels; people sit and stand on these tiers and face toward the right/front of the scene.",
+    "A triangular wall graphic intersects the wall behind the top tiers and is positioned above the seated people on the tiers; the word 'INNOVATION' appears on that graphic.",
+    "A glass partition or wall runs vertically at the right edge of the image; a bench or row of cushioned seats runs along this glass where several people are seated facing slightly left-of-center.",
+    "Backpack items are placed on the floor immediately in front of and between seated people on the cube seats and lower benches."
+  ],
+  "colours_and_materials": [
+    "Cube seats are solid-coloured in shades of blue and teal (visible: bright blue, darker blue, teal), with fabric or upholstered appearance.",
+    "Stepped tiers appear to be light-coloured wood or wood-finish with a smooth surface.",
+    "Floor covering is a light grey carpet with subtle linear texture.",
+    "A glass partition or wall is transparent with printed paper notices attached; metal or frameless fittings are suggested but not fully visible.",
+    "The triangular wall graphic uses a blue colour palette with white lettering for 'INNOVATION'."
+  ],
+  "uncertainties": [
+    "Exact count of people cannot be determined because several individuals are partially obscured, overlapping, or cropped at image edges; the image supports a visible minimum of at least 25 people.",
+    "Several small signs and labels (for example the small sign with a circular pictogram on the tier and the notices attached to the glass partition) contain text that is too small or blurred to transcribe; those texts are unreadable at this image resolution.",
+    "The left-side triangular graphic also includes partially visible text above 'INNOVATION' that appears to be trimmed by the image crop; that additional text is unreadable.",
+    "The single-word transcriptions 'INNOVATION' and 'Innovation' are the only clearly legible words in the image; other printed content is present but not reliably legible.",
+    "Location is not stated anywhere in the visible text; no room name or number is visible, so the precise location cannot be asserted from this image."
+  ],
+  "visual_facts": [
+    "At least 25 people are visible in the photographed scene; people appear seated on cube seats in the foreground, seated and standing on multi-level wooden tiers in the midground, and seated along a right-side bench adjacent to a glass partition. (Exact total cannot be determined because several people are partially obscured or cropped.)",
+    "Foreground seating includes at least four distinct cube seats visible (two blue cubes, one teal cube, one light-blue cube) and multiple cushioned bench sections in front of the wooden tiers; exact cube/bench totals cannot be determined from the image because some are cropped at the edges.",
+    "A stepped wooden tier structure with three visible levels is present in the midground and used for seating.",
+    "A glass partition or glass wall is visible at the right side of the image with attached printed notices or signs.",
+    "Several backpacks (at least four clearly visible) sit on the floor next to seated people in the foreground and midground; individual backpacks are distinct and countable where not obscured.",
+    "Small handheld objects (phones) are visible in the hands of several people (multiple visible), but an exact count is not provided because some devices are partially obscured.",
+    "A triangular wall graphic bearing large text is visible on the wall behind the tiers.",
+    "A small sign with a circular pictogram (appears to be a prohibition symbol) is affixed to the front face of one tier step; the pictogram and surrounding small text are partially legible but much of the text is too small to fully transcribe.",
+    "Cube seats are solid-coloured in shades of blue and teal (visible: bright blue, darker blue, teal), with fabric or upholstered appearance.",
+    "Stepped tiers appear to be light-coloured wood or wood-finish with a smooth surface.",
+    "Floor covering is a light grey carpet with subtle linear texture.",
+    "A glass partition or wall is transparent with printed paper notices attached; metal or frameless fittings are suggested but not fully visible.",
+    "The triangular wall graphic uses a blue colour palette with white lettering for 'INNOVATION'."
+  ],
+  "id": "268ff5347e4ea27d45a17760",
+  "sha256": "1f532427c1361c6b8d0ab44053aadb70679eb768b7207d89fd8440d2a3b1e889",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:32:37.521875+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "c34b3219b4bdf2c777b0ea43bf611daad74ebf715e5df06cfb35d0911ca6357b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatwItHMWfL9MaaKA7lvf0FtSc4Db",
+  "usage": {
+    "completion_tokens": 1414,
+    "prompt_tokens": 2266,
+    "total_tokens": 3680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1168,
+      "engine_ttlt_ms": 10002,
+      "pre_inference_ms": 377,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2016,
+      "service_ttlt_ms": 10845,
+      "user_visible_ttft_ms": 1639
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "46b680b7c643cbcd52aaee1d",
+  "sha256": "1381935cec29a37dba8f4358665047b9f2f4e8e905992e2213c5c3b1fbe39b20",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Optical experiment setup in an open equipment enclosure",
+  "visible_text": [],
+  "visual_facts": [
+    "A desktop monitor at the lower left displays a dark image with a bright circular spot and ring-like pattern.",
+    "A black rectangular enclosure sits open on the right, exposing mounted components and several colored cables.",
+    "Several small cylindrical optical components rest on the white work surface near the monitor and enclosure.",
+    "The enclosure lid is hinged and propped open."
+  ],
+  "spatial_relations": [
+    "The open instrument enclosure sits beside the monitor on the same counter.",
+    "Small optical components are arranged on the counter in front of the enclosure."
+  ],
+  "uncertainties": [
+    "The optical setup and the meaning of the displayed pattern cannot be determined from this view."
+  ]
+}

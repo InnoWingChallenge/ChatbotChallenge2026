@@ -1,0 +1,105 @@
+{
+  "title": "Close-up of a Robomaster-style robot platform in an empty lab space",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One robotic platform or device dominates the foreground, occupying the center and right of the frame; the device includes a long rectangular boom/arm extending toward the bottom-right corner.",
+    "One circular camera lens or optical element is mounted on top of the device near the upper-center of the image.",
+    "One rectangular module with a front-facing slot/port area and a visible green LED is mounted beneath the lens on the device.",
+    "One bright green LED indicator is visibly illuminated on the device's front port area.",
+    "One set of three vertical display/board panels on wheeled stands is visible in the mid-right background (three distinct panels can be counted).",
+    "One low blue trolley or cart is visible behind the three panel boards in the mid-right background.",
+    "No people are visible in the photographed scene."
+  ],
+  "visible_text": [
+    "ROBOMASTER",
+    "R"
+  ],
+  "spatial_relations": [
+    "The robotic platform fills the foreground and is centered slightly to the right; its long rectangular arm extends from the main body toward the bottom-right corner of the image.",
+    "The circular lens sits on top of the robotic platform toward the upper-center of the device, above the rectangular module that has the illuminated green LED.",
+    "The three vertical display/board panels are positioned in the mid-right background and stand on wheeled bases; the blue trolley is located immediately in front of or beneath those boards.",
+    "The surrounding space beyond the robot is largely open floor area; walls are visible in the distant background with the boards and trolley placed near the right wall."
+  ],
+  "colours_and_materials": [
+    "The robotic platform appears to be primarily black and dark grey with a matte finish on many surfaces.",
+    "The camera lens is dark with a reflective glass element.",
+    "A bright green LED is illuminated on the front of the rectangular module.",
+    "The floor is a light, glossy pale blue colour.",
+    "The three display/board panels in the background are grey or light-coloured with darker frames and sit on a blue trolley or base that is a vivid blue colour.",
+    "Walls and ceiling in the background are white."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; therefore the exact room location cannot be determined from the image.",
+    "Small text on the device near the ports is not legible in this view; port types and any additional labels cannot be reliably transcribed.",
+    "Any printed text on the three background panels is unreadable at this distance and resolution; their content cannot be transcribed.",
+    "The identification 'ROBOMASTER' and the single-letter 'R' are the only legible text elements; it is unclear whether other brand or model labels exist on hidden faces of the device.",
+    "The function or specific equipment types (for example, whether the device is a specific model or what the ports are) are not confirmed by visible labels and are therefore not asserted."
+  ],
+  "visual_facts": [
+    "One robotic platform or device dominates the foreground, occupying the center and right of the frame; the device includes a long rectangular boom/arm extending toward the bottom-right corner.",
+    "One circular camera lens or optical element is mounted on top of the device near the upper-center of the image.",
+    "One rectangular module with a front-facing slot/port area and a visible green LED is mounted beneath the lens on the device.",
+    "One bright green LED indicator is visibly illuminated on the device's front port area.",
+    "One set of three vertical display/board panels on wheeled stands is visible in the mid-right background (three distinct panels can be counted).",
+    "One low blue trolley or cart is visible behind the three panel boards in the mid-right background.",
+    "No people are visible in the photographed scene.",
+    "The robotic platform appears to be primarily black and dark grey with a matte finish on many surfaces.",
+    "The camera lens is dark with a reflective glass element.",
+    "A bright green LED is illuminated on the front of the rectangular module.",
+    "The floor is a light, glossy pale blue colour.",
+    "The three display/board panels in the background are grey or light-coloured with darker frames and sit on a blue trolley or base that is a vivid blue colour.",
+    "Walls and ceiling in the background are white."
+  ],
+  "id": "8bf28b9fc5e2f037a4ea35bd",
+  "sha256": "df0019ba9d564e6eaf892d0e3440be355a15dcb95fed6b3860b7d7662c8d228f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:15:17.431084+00:00",
+  "input_resolution": [
+    1440,
+    1080
+  ],
+  "input_sha256": "5a5104f9ab19387b2611af12397d3fcda0d320b603489c44f828925f14a43552",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatfZW0emKzlyPFRJCdYpVLFd16Xv",
+  "usage": {
+    "completion_tokens": 867,
+    "prompt_tokens": 2122,
+    "total_tokens": 2989,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 893,
+      "engine_ttlt_ms": 6143,
+      "pre_inference_ms": 220,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2074,
+      "service_ttlt_ms": 7319,
+      "user_visible_ttft_ms": 1854
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Interior render showing central stair and mezzanine with 'INNO' panel",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One primary stair assembly is visible: a two-flight stair with a landing, appearing as a single connected staircase running from the lower floor to a mezzanine level; the stair has glass balustrades and metal handrails. (Central image region.)",
+    "One mezzanine/walkway is visible above the stairs with glass balustrade continuing along its edge. (Upper central to upper right region.)",
+    "One large vertical red wall panel with white stylized letters is visible behind the stairs. (Rear central region.)",
+    "One dark rectangular textured panel is visible on the left wall. (Left-central wall region.)",
+    "Multiple floor surface treatments are visible: a light grey striped carpet on the lower floor (majority of lower-left region) and a bright blue floor area at the bottom right corner of the image.",
+    "Two distinct wall-faced room partitions are visible: a tall navy/dark-blue wall at the right foreground forming a room enclosure, and adjacent white partition walls forming corridors/rooms. (Right foreground and upper right regions.)",
+    "Several UI overlay elements from the rendering software are visible in the image corner (top-left and top-right), including small icons and a colored XYZ axis gizmo. These are part of the rendered viewport, not the photographed physical scene."
+  ],
+  "visible_text": [
+    "User Perspective",
+    "(4) Stair | Torus",
+    "Rendering Done",
+    "INNO"
+  ],
+  "spatial_relations": [
+    "The stair assembly is centrally located and ascends from the lower floor area toward the rear mezzanine; the lower flight angles from the front-right toward a mid-landing, then the upper flight continues to the mezzanine at the rear.",
+    "The red vertical panel with white letters is positioned directly behind and slightly left of the stair landing, flush with the rear wall.",
+    "The dark textured rectangular panel is mounted on the left-side wall at ground-floor level and is separate from the red panel behind the stairs.",
+    "A blue-floored area is in the lower-right foreground and is adjacent to a navy/dark-blue partition wall that forms a room or enclosure at the right edge of the image.",
+    "The mezzanine walkway continues to the upper right and connects to corridors/rooms defined by white partition walls; glass balustrades run along the stairs and the mezzanine edge."
+  ],
+  "colours_and_materials": [
+    "Lower floor carpet is light grey with linear stripe pattern.",
+    "A bright light-blue floor area is visible in the lower-right corner.",
+    "A prominent vertical panel behind the stairs is red with white lettering.",
+    "A dark (black or very dark grey) rectangular textured panel is mounted on the left wall.",
+    "Balustrades and handrails along the stairs and mezzanine appear to be glass panels with silver/metal handrails.",
+    "Walls and partition surfaces are primarily white, with at least one large navy/dark-blue painted wall at the right foreground."
+  ],
+  "uncertainties": [
+    "The exact reading of the stylized white letters on the red panel is transcribed as \"INNO\" based on visual appearance; the stylization could make some characters ambiguous.",
+    "It is unclear whether the UI overlay text at top-left (\"User Perspective\", \"(4) Stair | Torus\", \"Rendering Done\") is intended as part of the scene or solely the rendering viewport; these are included as visible text but are not confirmed physical signage.",
+    "No explicit room name or number sign is visible, so the precise room location cannot be determined from the image.",
+    "Material identifications (glass, metal, carpet) are based on visual appearance and are not confirmed by labels or close-up detail.",
+    "Counts refer only to fully visible, individually distinguishable items in the image; overlap or cropping may hide additional elements not visible here."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One primary stair assembly is visible: a two-flight stair with a landing, appearing as a single connected staircase running from the lower floor to a mezzanine level; the stair has glass balustrades and metal handrails. (Central image region.)",
+    "One mezzanine/walkway is visible above the stairs with glass balustrade continuing along its edge. (Upper central to upper right region.)",
+    "One large vertical red wall panel with white stylized letters is visible behind the stairs. (Rear central region.)",
+    "One dark rectangular textured panel is visible on the left wall. (Left-central wall region.)",
+    "Multiple floor surface treatments are visible: a light grey striped carpet on the lower floor (majority of lower-left region) and a bright blue floor area at the bottom right corner of the image.",
+    "Two distinct wall-faced room partitions are visible: a tall navy/dark-blue wall at the right foreground forming a room enclosure, and adjacent white partition walls forming corridors/rooms. (Right foreground and upper right regions.)",
+    "Several UI overlay elements from the rendering software are visible in the image corner (top-left and top-right), including small icons and a colored XYZ axis gizmo. These are part of the rendered viewport, not the photographed physical scene.",
+    "Lower floor carpet is light grey with linear stripe pattern.",
+    "A bright light-blue floor area is visible in the lower-right corner.",
+    "A prominent vertical panel behind the stairs is red with white lettering.",
+    "A dark (black or very dark grey) rectangular textured panel is mounted on the left wall.",
+    "Balustrades and handrails along the stairs and mezzanine appear to be glass panels with silver/metal handrails.",
+    "Walls and partition surfaces are primarily white, with at least one large navy/dark-blue painted wall at the right foreground."
+  ],
+  "id": "b434072bac69594f2bc39c58",
+  "sha256": "7af70f6fa90d450629d3d1a4c476bbf491fee6a6c8614aa8145eb9018931b108",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:59:38.381602+00:00",
+  "input_resolution": [
+    1274,
+    641
+  ],
+  "input_sha256": "0f5ed6a586c23ba1d21d1e07fd9eddd98b68dc5502f60f302968cdf6f38222a7",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauMQQi5TrO0BbTK9yXSB5wHlurHq",
+  "usage": {
+    "completion_tokens": 1186,
+    "prompt_tokens": 2208,
+    "total_tokens": 3394,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 597,
+      "engine_ttlt_ms": 10098,
+      "pre_inference_ms": 111,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1816,
+      "service_ttlt_ms": 11312,
+      "user_visible_ttft_ms": 1704
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

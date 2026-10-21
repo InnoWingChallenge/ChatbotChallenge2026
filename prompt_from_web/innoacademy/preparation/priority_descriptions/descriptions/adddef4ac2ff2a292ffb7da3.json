@@ -1,0 +1,114 @@
+{
+  "title": "Small presentation at a table with a handheld microphone",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Five visibly distinguishable people are present in the photographed scene: one standing person on the right holding a wired handheld microphone (speaking), two standing people to the left of the speaker (one giving a thumbs-up gesture and one standing center facing forward), one standing person on the far right with arms crossed, and one seated person partially visible at lower left (only head/face visible).",
+    "One wired handheld microphone is visible and is held by the speaker (visible cable runs downwards).",
+    "Two laptop computers are visible on the table in the lower foreground (both with lids open; visible on the left half of the table).",
+    "One large black bag is on the table near the center foreground.",
+    "One clear plastic water bottle is standing on the table near the right foreground.",
+    "One paper or cardboard envelope/folder (stacked or folded papers) is on the right front corner of the table.",
+    "One disposable takeaway coffee cup with a printed sleeve is on the left side of the table near the laptops.",
+    "One blue backpack is visible on the floor near the right side of the table/chair.",
+    "At least one chair is visible at the right edge of the image (metal frame with blue seat), and additional seating is implied by seated people but not fully shown.",
+    "Several lanyards with ID badges are worn by multiple standing people (at least three visible badges on the standing individuals).",
+    "A vertical transparent or reflective panel/screen is visible behind the central standing person (behind the group, partially reflective)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A long table runs across the lower foreground of the image; laptops, a black bag, a water bottle and stacked papers rest on this table.",
+    "The speaker holding the microphone stands immediately behind the right side of the table and faces left-of-center in the image.",
+    "Two standing people (one giving a thumbs-up on the far left of the standing group and one directly center) stand to the left of the speaker and slightly behind the table.",
+    "A standing man with arms crossed stands to the right of the speaker and slightly behind the table, near a potted plant.",
+    "A seated person is located at the lower left corner of the image, positioned below and in front of the table.",
+    "A transparent or reflective upright panel is located behind the two central standing people and in front of the windowed wall.",
+    "A tall window is at the far left background; wall space with overhead recessed lights occupies the upper left and center background.",
+    "The blue-seated chair is at the right edge of the table, adjacent to where the blue backpack sits on the floor."
+  ],
+  "colours_and_materials": [
+    "Several people wear white T-shirts with a small orange circular logo on the chest area; one person (the speaker) wears a light blue long-sleeve shirt and dark trousers.",
+    "The table surface appears white with metal legs; the visible chair has a blue seat and metal frame.",
+    "The large bag on the table is black fabric or nylon; the backpack on the floor is blue fabric.",
+    "The water bottle is clear plastic with a white cap; the disposable coffee cup has a white body with a printed sleeve.",
+    "Background wall is light-coloured (off-white) with recessed warm spotlights; a darker textured vertical area (possibly concrete or painted dark grey) is visible behind the speaker and plant.",
+    "A green potted plant with glossy leaves is visible to the right-rear of the speaker."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; location cannot be determined from what is shown.",
+    "Logos and printed text on T-shirts, badges, the coffee cup, the water bottle label and the transparent panel are not legible at the resolution provided; therefore no exact text transcriptions could be made.",
+    "Some people are partially cropped (the seated person at lower left and parts of other seated individuals), so additional people may be present outside the frame; the count of five visible people is a minimum based on clearly distinguishable individuals in this crop.",
+    "The reflective/transparent panel behind the standing participants is only partially visible; its exact nature (glass, acrylic, monitor) is not determinable from the image.",
+    "Objects partly occluded by the bag or each other (for example smaller items on the table) may be present but are not reliably distinguishable, so they are not counted."
+  ],
+  "visual_facts": [
+    "Five visibly distinguishable people are present in the photographed scene: one standing person on the right holding a wired handheld microphone (speaking), two standing people to the left of the speaker (one giving a thumbs-up gesture and one standing center facing forward), one standing person on the far right with arms crossed, and one seated person partially visible at lower left (only head/face visible).",
+    "One wired handheld microphone is visible and is held by the speaker (visible cable runs downwards).",
+    "Two laptop computers are visible on the table in the lower foreground (both with lids open; visible on the left half of the table).",
+    "One large black bag is on the table near the center foreground.",
+    "One clear plastic water bottle is standing on the table near the right foreground.",
+    "One paper or cardboard envelope/folder (stacked or folded papers) is on the right front corner of the table.",
+    "One disposable takeaway coffee cup with a printed sleeve is on the left side of the table near the laptops.",
+    "One blue backpack is visible on the floor near the right side of the table/chair.",
+    "At least one chair is visible at the right edge of the image (metal frame with blue seat), and additional seating is implied by seated people but not fully shown.",
+    "Several lanyards with ID badges are worn by multiple standing people (at least three visible badges on the standing individuals).",
+    "A vertical transparent or reflective panel/screen is visible behind the central standing person (behind the group, partially reflective).",
+    "Several people wear white T-shirts with a small orange circular logo on the chest area; one person (the speaker) wears a light blue long-sleeve shirt and dark trousers.",
+    "The table surface appears white with metal legs; the visible chair has a blue seat and metal frame.",
+    "The large bag on the table is black fabric or nylon; the backpack on the floor is blue fabric.",
+    "The water bottle is clear plastic with a white cap; the disposable coffee cup has a white body with a printed sleeve.",
+    "Background wall is light-coloured (off-white) with recessed warm spotlights; a darker textured vertical area (possibly concrete or painted dark grey) is visible behind the speaker and plant.",
+    "A green potted plant with glossy leaves is visible to the right-rear of the speaker."
+  ],
+  "id": "adddef4ac2ff2a292ffb7da3",
+  "sha256": "3d1b6c16d2d954ab1834a261a54c1184162f4ad4de18de13282711a299429e9c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:58:33.980647+00:00",
+  "input_resolution": [
+    1095,
+    1642
+  ],
+  "input_sha256": "e36cc3dd6cefaef91fafd76ad8d7b49941ee9deeb2781707e388f7fab2a3975e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauLOBNnebdnT7ksX8r5hruZMnEo6",
+  "usage": {
+    "completion_tokens": 1243,
+    "prompt_tokens": 2237,
+    "total_tokens": 3480,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1152,
+      "engine_ttlt_ms": 9775,
+      "pre_inference_ms": 268,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1991,
+      "service_ttlt_ms": 10609,
+      "user_visible_ttft_ms": 1723
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

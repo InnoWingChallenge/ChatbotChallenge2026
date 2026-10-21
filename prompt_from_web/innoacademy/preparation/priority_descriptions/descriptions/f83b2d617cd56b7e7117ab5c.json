@@ -1,0 +1,103 @@
+{
+  "title": "Workstation with monitor and black glass-topped enclosure on white bench",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One computer monitor is visible on the left side of the bench.",
+    "One full-size keyboard is visible on the bench in front of the monitor.",
+    "One wired optical mouse is visible to the right of the keyboard; its cord runs toward the front edge of the bench.",
+    "One black enclosure with a glass top and a central circular metal handle is visible on the right side of the bench.",
+    "Between the monitor and the enclosure there are at least two small cylindrical objects (visible upright) and one small loose circular ring; these objects are partially separated and none are fully occluded.",
+    "One small white rectangular card or label is placed on the bench to the left of the keyboard.",
+    "Two chairs or chair seats are partially visible under the bench (one under each table surface) but only their tops/seats are visible."
+  ],
+  "visible_text": [
+    "FIRE HOSE REEL",
+    "acer"
+  ],
+  "spatial_relations": [
+    "The bench runs horizontally across the image with the monitor positioned on the left half of the bench and the black glass-topped enclosure positioned on the right half.",
+    "The keyboard is placed directly in front of the monitor on the bench; the mouse is to the right of the keyboard and slightly forward toward the bench edge.",
+    "The small cylindrical objects and the circular ring are located on the bench surface between the monitor base and the right-side enclosure, slightly closer to the monitor.",
+    "A glass partition or window runs along the back edge of the bench, with the 'FIRE HOSE REEL' sign visible on the glass in the upper left background.",
+    "The black enclosure's glass lid has a central metal handle; the enclosure sits on the right table surface adjacent to the monitor's table surface with a small visible gap between the two tabletops."
+  ],
+  "colours_and_materials": [
+    "The bench/tabletop surface is a smooth white or light-coloured material.",
+    "The monitor frame, keyboard and mouse are black plastic.",
+    "The enclosure is primarily black with a reflective glass top and a silver-coloured metal circular handle.",
+    "The partition or window behind the bench shows blue panels or reflections in the background and clear glass."
+  ],
+  "uncertainties": [
+    "The exact model text on the monitor stand and small labels on or near the enclosure are partly obscured or too small to read; only the 'acer' brand on the monitor bezel is clearly legible.",
+    "The small cylindrical objects between the monitor and enclosure are identifiable as 'cylindrical objects' but their specific function or exact count beyond 'at least two' cannot be determined because of image scale and partial overlap.",
+    "The white rectangular card or label left of the keyboard contains small text that is not legible at this resolution.",
+    "No explicit room name or number is visible; the only sign-bearing text in the scene is the safety sign 'FIRE HOSE REEL', which is not a room identifier."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One computer monitor is visible on the left side of the bench.",
+    "One full-size keyboard is visible on the bench in front of the monitor.",
+    "One wired optical mouse is visible to the right of the keyboard; its cord runs toward the front edge of the bench.",
+    "One black enclosure with a glass top and a central circular metal handle is visible on the right side of the bench.",
+    "Between the monitor and the enclosure there are at least two small cylindrical objects (visible upright) and one small loose circular ring; these objects are partially separated and none are fully occluded.",
+    "One small white rectangular card or label is placed on the bench to the left of the keyboard.",
+    "Two chairs or chair seats are partially visible under the bench (one under each table surface) but only their tops/seats are visible.",
+    "The bench/tabletop surface is a smooth white or light-coloured material.",
+    "The monitor frame, keyboard and mouse are black plastic.",
+    "The enclosure is primarily black with a reflective glass top and a silver-coloured metal circular handle.",
+    "The partition or window behind the bench shows blue panels or reflections in the background and clear glass."
+  ],
+  "id": "f83b2d617cd56b7e7117ab5c",
+  "sha256": "b6c6b4164f47ed40267abad43681311c66d671fad1f664206f2ed12297168474",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:23:54.455064+00:00",
+  "input_resolution": [
+    1024,
+    768
+  ],
+  "input_sha256": "0d719d994bd14cc0bf440c25b8d0a77f194e139a4a72556127cf03bf3a08a34c",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatnsDOnKKew4tAYlKoVbnt3HXk9U",
+  "usage": {
+    "completion_tokens": 1006,
+    "prompt_tokens": 2122,
+    "total_tokens": 3128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 576,
+      "engine_ttlt_ms": 8255,
+      "pre_inference_ms": 140,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1279,
+      "service_ttlt_ms": 8953,
+      "user_visible_ttft_ms": 1140
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

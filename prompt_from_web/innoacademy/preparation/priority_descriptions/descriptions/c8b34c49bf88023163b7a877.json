@@ -1,0 +1,100 @@
+{
+  "title": "Open lab workspace with multiple people at high tables",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 12 people are visible in the photographed scene; most are seated at tables or standing near the left side of the image. (Count is a visible minimum; some people are partially obscured behind others.)",
+    "Three tall rectangular wooden worktables with metal legs are visible in the foreground and midground; one is closest to the camera at center-right, one immediately behind it, and one further back toward the left-center of the image.",
+    "Two open laptop computers are visibly placed on the nearest table: one laptop with a dark screen at the near-right corner and a second laptop further back on the same table.",
+    "At least three small brown cardboard boxes are visible on the nearest table; the boxes are open and contain smaller items or components.",
+    "Multiple stools (at least 6 stools are clearly visible around the tables) provide seating at the high tables; several stool seats are partially cropped by the image edges.",
+    "Two large wall-mounted or freestanding display monitors are visible toward the right background area (one monitor screen faces the camera at the right edge, another is partially visible behind people).",
+    "A number of smaller objects and supplies are on the tables (not counted individually): papers, small electronic components or kits, and personal items such as a bag on the floor by a stool."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "Three tall worktables run roughly left-to-right across the central area of the image; people are seated on both sides of these tables.",
+    "The nearest table is in the right foreground with people seated facing left and away from the camera; another table is directly behind it with additional seated people, and a third table sits further left with standing people nearby.",
+    "A glass-walled area or series of interior windows runs along the background wall behind the tables; activity or equipment is visible through the glass.",
+    "A circulation aisle runs from the left foreground toward the back center of the image, where several standing people cluster near the left side.",
+    "Ceiling infrastructure (exposed ducts, lighting panels and suspended equipment) is directly above the work area and aligned roughly with the tables below."
+  ],
+  "colours_and_materials": [
+    "Worktable tops are light-coloured wood or wood-like material with white or light grey metal legs.",
+    "Flooring is a smooth light grey material, likely painted concrete or resin.",
+    "Ceiling shows exposed metal ducts and fixtures in metallic grey; rectangular white lighting panels are recessed or suspended.",
+    "Cardboard boxes are brown corrugated material; many personal clothing items are dark or neutral colours (black, grey).",
+    "Glass partitions in the background are transparent with white frames or mullions."
+  ],
+  "uncertainties": [
+    "Some people are partially occluded or standing behind others; the stated count of at least 12 people is a visible minimum and may not represent a precise total.",
+    "Exact counts of small supplies and components on tables cannot be determined from the image.",
+    "Several signs and labels are present on the background walls and glass but the text is not legible in this image; therefore no exact transcriptions are provided.",
+    "Monitors and screens are visible but their displayed content is not readable; similarly, any small equipment nameplates or labels are not legible at this resolution and could not be transcribed."
+  ],
+  "visual_facts": [
+    "At least 12 people are visible in the photographed scene; most are seated at tables or standing near the left side of the image. (Count is a visible minimum; some people are partially obscured behind others.)",
+    "Three tall rectangular wooden worktables with metal legs are visible in the foreground and midground; one is closest to the camera at center-right, one immediately behind it, and one further back toward the left-center of the image.",
+    "Two open laptop computers are visibly placed on the nearest table: one laptop with a dark screen at the near-right corner and a second laptop further back on the same table.",
+    "At least three small brown cardboard boxes are visible on the nearest table; the boxes are open and contain smaller items or components.",
+    "Multiple stools (at least 6 stools are clearly visible around the tables) provide seating at the high tables; several stool seats are partially cropped by the image edges.",
+    "Two large wall-mounted or freestanding display monitors are visible toward the right background area (one monitor screen faces the camera at the right edge, another is partially visible behind people).",
+    "A number of smaller objects and supplies are on the tables (not counted individually): papers, small electronic components or kits, and personal items such as a bag on the floor by a stool.",
+    "Worktable tops are light-coloured wood or wood-like material with white or light grey metal legs.",
+    "Flooring is a smooth light grey material, likely painted concrete or resin.",
+    "Ceiling shows exposed metal ducts and fixtures in metallic grey; rectangular white lighting panels are recessed or suspended.",
+    "Cardboard boxes are brown corrugated material; many personal clothing items are dark or neutral colours (black, grey).",
+    "Glass partitions in the background are transparent with white frames or mullions."
+  ],
+  "id": "c8b34c49bf88023163b7a877",
+  "sha256": "39bdad2c046d01eb2033d8a6901663ae9e59ed3a61969ca2a4b161ce5df23d12",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:04:17.351809+00:00",
+  "input_resolution": [
+    640,
+    480
+  ],
+  "input_sha256": "1dcb4e3967b51b925580c2c0450869b091ed179f51a91e81bba7da11d7128b92",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauQxFGSdQpOwP0tg67NMAMVAg4Qd",
+  "usage": {
+    "completion_tokens": 1065,
+    "prompt_tokens": 1560,
+    "total_tokens": 2625,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 465,
+      "engine_ttlt_ms": 8131,
+      "pre_inference_ms": 96,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1004,
+      "service_ttlt_ms": 8666,
+      "user_visible_ttft_ms": 909
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

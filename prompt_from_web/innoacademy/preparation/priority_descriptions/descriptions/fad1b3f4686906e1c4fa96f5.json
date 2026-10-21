@@ -1,0 +1,106 @@
+{
+  "title": "Outdoor pedestrian plaza with large commercial buildings and many people",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 20 distinct pedestrians are visible across the foreground and midground; several are walking left-to-right while others walk right-to-left. Many are partially occluded by other people or by the frame edges.",
+    "One person in the right foreground is wearing a dark coat and a white face mask and is holding a white umbrella in their right hand and a patterned bag in their left hand.",
+    "Multiple backpacks and shoulder bags are visible on pedestrians; individual bag types cannot be exhaustively counted because some are obscured.",
+    "A continuous metal pedestrian railing runs along the left side of the image at the edge of the plaza; the railing is visible from foreground to midground.",
+    "A row of at least six identical streetlight posts with curved double-arm lamp heads lines the plaza adjacent to the long building on the right (some lamp posts are partially cropped).",
+    "At least five large trimmed round shrubs/trees are planted in a line between the building and the pedestrian walkway; some are partially obscured by people.",
+    "Tiled paving covers the entire visible walking surface; tiles form a repeating square pattern.",
+    "Two large commercial buildings are visible: a multi-storey glass-and-white-clad building on the left and a long brown/tan building with many horizontal windows on the right."
+  ],
+  "visible_text": [
+    "PARCO",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "A wide tiled pedestrian walkway occupies the foreground and center of the image; pedestrians traverse it in both directions.",
+    "On the image right, a long brown/tan building with horizontal window bands runs diagonally from foreground right toward the background center-right; the row of streetlight posts and trimmed shrubs sit between that building and the walkway.",
+    "On the image left, a white and glass multi-storey building (marked with the visible word 'PARCO') sits behind a low concrete balustrade and railing that runs along the left edge of the walkway; the railing separates the walkway from a lower plaza area or water feature not fully visible.",
+    "People cluster more densely toward the midground center where an entrance or corridor into the long building appears to be located; fewer pedestrians are at the extreme left edge near the railing.",
+    "Several pedestrians walking near the center partially occlude the trimmed shrubs and the bases of the lamp posts; some lamp posts are visible in front of the building windows."
+  ],
+  "colours_and_materials": [
+    "The long building on the right has a brown/tan textured facade with dark horizontal window frames and reflective glass windows.",
+    "The building on the left is largely white and glass-clad with light-blue reflective glazing.",
+    "The pedestrian paving is composed of square tiles in varying tones of grey and muted pink.",
+    "The metal pedestrian railing along the left edge appears to be painted or finished in a light beige or off-white.",
+    "Shrubs between the walkway and the building are dark green and appear to be trimmed into rounded forms."
+  ],
+  "uncertainties": [
+    "The exact count of pedestrians cannot be determined precisely because many are partially occluded or cropped at the frame edges; 'at least 20' is a conservative visible minimum.",
+    "Small printed text on banners, posters and on the far building rooftop signage is not legible in the image; only the large 'PARCO' sign is clearly readable.",
+    "Any interior room names, room numbers, or facility identifiers are not visible; therefore the specific location (for example, a named wing or room such as 'Tam Wing Fan Innovation Wing') cannot be confirmed from the image.",
+    "Some streetlight posts and shrubs are partially cropped at top or sides of the frame, so the precise total of those items is uncertain.",
+    "No equipment nameplates, control panels or laboratory fixtures are visible; the scene appears to be an outdoor public plaza rather than an interior lab or workshop space."
+  ],
+  "visual_facts": [
+    "At least 20 distinct pedestrians are visible across the foreground and midground; several are walking left-to-right while others walk right-to-left. Many are partially occluded by other people or by the frame edges.",
+    "One person in the right foreground is wearing a dark coat and a white face mask and is holding a white umbrella in their right hand and a patterned bag in their left hand.",
+    "Multiple backpacks and shoulder bags are visible on pedestrians; individual bag types cannot be exhaustively counted because some are obscured.",
+    "A continuous metal pedestrian railing runs along the left side of the image at the edge of the plaza; the railing is visible from foreground to midground.",
+    "A row of at least six identical streetlight posts with curved double-arm lamp heads lines the plaza adjacent to the long building on the right (some lamp posts are partially cropped).",
+    "At least five large trimmed round shrubs/trees are planted in a line between the building and the pedestrian walkway; some are partially obscured by people.",
+    "Tiled paving covers the entire visible walking surface; tiles form a repeating square pattern.",
+    "Two large commercial buildings are visible: a multi-storey glass-and-white-clad building on the left and a long brown/tan building with many horizontal windows on the right.",
+    "The long building on the right has a brown/tan textured facade with dark horizontal window frames and reflective glass windows.",
+    "The building on the left is largely white and glass-clad with light-blue reflective glazing.",
+    "The pedestrian paving is composed of square tiles in varying tones of grey and muted pink.",
+    "The metal pedestrian railing along the left edge appears to be painted or finished in a light beige or off-white.",
+    "Shrubs between the walkway and the building are dark green and appear to be trimmed into rounded forms."
+  ],
+  "id": "fad1b3f4686906e1c4fa96f5",
+  "sha256": "c02cffe83840777066cd74313389a1aa440b5f77921b8ce9fadb1d93b3b755a7",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:24:27.562724+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "a9d128ad93f0c33fc7ba551a22a3507c5843ae36ca6b5c75ccbcbbec8b8a5194",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatoPoGlHcvQ1uzPgPkDO0Z5O82Gi",
+  "usage": {
+    "completion_tokens": 1178,
+    "prompt_tokens": 2266,
+    "total_tokens": 3444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1120,
+      "engine_ttlt_ms": 9029,
+      "pre_inference_ms": 395,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2040,
+      "service_ttlt_ms": 9945,
+      "user_visible_ttft_ms": 1645
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

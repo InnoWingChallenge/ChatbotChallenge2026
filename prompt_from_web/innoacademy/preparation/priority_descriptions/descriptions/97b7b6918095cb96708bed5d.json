@@ -1,0 +1,106 @@
+{
+  "title": "Exterior photograph of a multi-storey glass-fronted office building with vertical banner",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One large multi-storey building with a continuous grid of rectangular windows occupies the central and upper portions of the image; the building shows recessed or projecting rectangular bay sections in several places on the façade.",
+    "One tall vertical glazed stair/atrium tower is visible at the building's left end (image left); a second glazed vertical tower with a large vertical banner is visible at the building's right end (image right).",
+    "At least three road vehicles are visible in the lower part of the image: one white van near the left foreground, one white car closer to center-right foreground, and a darker vehicle partially visible behind trees near center; the count is a visible minimum of three vehicles.",
+    "A metal chain-link fence with a top rail runs across the immediate foreground; it is cropped at the bottom edge of the image.",
+    "A row of at least six trees is visible between the building and the road; some tree crowns are partially cropped or overlap each other.",
+    "Street furniture and poles are visible near the road in front of the trees (streetlight poles and traffic signage), but specific counts of these items cannot be reliably determined from the image.",
+    "No clearly identifiable people are visible in the scene at a scale that allows reliable counting; if any pedestrians exist they are too small or obscured by trees/vehicles to count."
+  ],
+  "visible_text": [
+    "東京国際交流館",
+    "Miraikan",
+    "日本科学未来館",
+    "徒歩約4分"
+  ],
+  "spatial_relations": [
+    "The building fills the middle-to-upper area of the image, with the foreground showing a road area and a chain-link fence across the bottom of the frame.",
+    "Trees form a continuous row immediately in front of the building, partially obscuring the building's ground-level façade and some parked or moving vehicles.",
+    "The glazed vertical tower with the large vertical banner is attached to the building at the right end; a similar glazed vertical structure is present at the left end of the building.",
+    "Vehicles are located on the road between the fence in the foreground and the trees; the white van is toward the left foreground, the white car is nearer the center-right foreground, and another vehicle is partially visible behind tree crowns near the center.",
+    "Rectangular window bays and several projecting rectangular bays on the building's façade are arranged in horizontal rows across the width of the building."
+  ],
+  "colours_and_materials": [
+    "The building façade appears predominantly grey with many reflective glass window panels.",
+    "Two vertical glazed towers at the ends of the building are lighter, largely transparent/reflective glass.",
+    "The large vertical banner on the right tower is mainly white with blue text and a blue circular logo at the top.",
+    "The chain-link fence in the foreground has a turquoise/green-painted top rail and posts; the fence mesh is metallic.",
+    "Tree crowns in front of the building are green with autumnal brownish areas visible."
+  ],
+  "uncertainties": [
+    "The exact reading of small or distant text on the right-hand banner beyond the four transcriptions provided cannot be confirmed due to distance and image resolution.",
+    "The top-centre building sign is transcribed as '東京国際交流館' based on legible characters; if any characters are partially obscured they may not be fully captured.",
+    "Vehicle counts are a visible minimum (three) based on what can be clearly seen; additional vehicles may be present but obscured by trees or cropping.",
+    "The number of trees counted ('at least six') is a visible minimum because crowns overlap and some trees may be cropped at the image edges.",
+    "No interior room identifiers (room names or numbers) are visible in the image; therefore location is reported as unknown from image."
+  ],
+  "visual_facts": [
+    "One large multi-storey building with a continuous grid of rectangular windows occupies the central and upper portions of the image; the building shows recessed or projecting rectangular bay sections in several places on the façade.",
+    "One tall vertical glazed stair/atrium tower is visible at the building's left end (image left); a second glazed vertical tower with a large vertical banner is visible at the building's right end (image right).",
+    "At least three road vehicles are visible in the lower part of the image: one white van near the left foreground, one white car closer to center-right foreground, and a darker vehicle partially visible behind trees near center; the count is a visible minimum of three vehicles.",
+    "A metal chain-link fence with a top rail runs across the immediate foreground; it is cropped at the bottom edge of the image.",
+    "A row of at least six trees is visible between the building and the road; some tree crowns are partially cropped or overlap each other.",
+    "Street furniture and poles are visible near the road in front of the trees (streetlight poles and traffic signage), but specific counts of these items cannot be reliably determined from the image.",
+    "No clearly identifiable people are visible in the scene at a scale that allows reliable counting; if any pedestrians exist they are too small or obscured by trees/vehicles to count.",
+    "The building façade appears predominantly grey with many reflective glass window panels.",
+    "Two vertical glazed towers at the ends of the building are lighter, largely transparent/reflective glass.",
+    "The large vertical banner on the right tower is mainly white with blue text and a blue circular logo at the top.",
+    "The chain-link fence in the foreground has a turquoise/green-painted top rail and posts; the fence mesh is metallic.",
+    "Tree crowns in front of the building are green with autumnal brownish areas visible."
+  ],
+  "id": "97b7b6918095cb96708bed5d",
+  "sha256": "864b1afe912c5635f6bd0ae547fcbb76f61343f1bfcf90b02698fad063aa9bcb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:54:07.558786+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "d679a629ffbec982d39153449877d27d9b749f789d6aa250bb1f3f73e696b176",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauH6IaRBj2tgGHB8fMRlOf5V2sGo",
+  "usage": {
+    "completion_tokens": 1032,
+    "prompt_tokens": 2266,
+    "total_tokens": 3298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1159,
+      "engine_ttlt_ms": 9539,
+      "pre_inference_ms": 557,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2293,
+      "service_ttlt_ms": 10659,
+      "user_visible_ttft_ms": 1736
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Commercial Hobart mixer with person pouring from plastic jug",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One large floor-standing commercial mixer is visible centrally in the image; it bears visible nameplates and a control panel on its front right side.",
+    "One stainless-steel mixing bowl is installed in the mixer head (visible inside the mixer guard).",
+    "One translucent plastic measuring/pouring jug is held in the left foreground by a gloved hand; the jug is partially cropped by the left image edge.",
+    "One human arm wearing a single blue disposable glove is visible in the left foreground holding the jug; the person is otherwise out of frame.",
+    "One chrome-plated lever/handle is mounted on the mixer’s right side (vertical), visible from mid-right to lower-right of the machine.",
+    "Two circular control knobs are visible on the mixer’s front control panel (positioned left and right of the panel), plus one red push button to the left of the knobs.",
+    "One red digital display is visible on the control panel above the knobs.",
+    "One metal shelf or trough and one wall-mounted metal box are visible on the tiled wall to the left rear; both are partially visible and somewhat stained."
+  ],
+  "visible_text": [
+    "HOBART",
+    "SPEED",
+    "TIME",
+    "HOBART"
+  ],
+  "spatial_relations": [
+    "The mixer occupies the central portion of the image; its control panel faces the camera and is slightly right of center.",
+    "The gloved hand and translucent jug are in the left foreground and extend toward the open mixer bowl, appearing to pour into it.",
+    "A chrome lever is attached to the mixer on the right side and projects downward and slightly forward from the right mid-panel.",
+    "A tiled wall forms the background across the upper half of the image; a small metal shelf/box is mounted on that wall to the left rear of the mixer.",
+    "The stainless-steel bowl sits within the mixer base directly below the mixer head and control panel."
+  ],
+  "colours_and_materials": [
+    "The mixer is predominantly medium-to-dark grey, with a matte painted or plastic-coated housing and chrome or stainless-steel functional parts (lever and bowl).",
+    "The mixing bowl is stainless steel with a metallic finish.",
+    "The pouring jug is translucent white plastic.",
+    "The glove on the visible hand is blue (disposable nitrile or latex appearance).",
+    "The wall tiles behind the mixer are white or off-white ceramic and show visible staining and grime."
+  ],
+  "uncertainties": [
+    "Small printed labels, model numbers or serial stickers on the machine (for example a small rectangular sticker near the upper-right of the mixer head) are present but not legible in the image; their exact text cannot be read.",
+    "The red digital display characters are partially legible but not certain; the exact digits shown cannot be transcribed confidently from the image.",
+    "Some warning labels with yellow backgrounds and small black text/icons are visible on the mixer’s right panel but their wording is unreadable at this resolution.",
+    "There may be additional attachments or tools near the lower-right of the frame (partially visible metal pieces on the floor) but they are cropped and cannot be reliably counted or identified."
+  ],
+  "visual_facts": [
+    "One large floor-standing commercial mixer is visible centrally in the image; it bears visible nameplates and a control panel on its front right side.",
+    "One stainless-steel mixing bowl is installed in the mixer head (visible inside the mixer guard).",
+    "One translucent plastic measuring/pouring jug is held in the left foreground by a gloved hand; the jug is partially cropped by the left image edge.",
+    "One human arm wearing a single blue disposable glove is visible in the left foreground holding the jug; the person is otherwise out of frame.",
+    "One chrome-plated lever/handle is mounted on the mixer’s right side (vertical), visible from mid-right to lower-right of the machine.",
+    "Two circular control knobs are visible on the mixer’s front control panel (positioned left and right of the panel), plus one red push button to the left of the knobs.",
+    "One red digital display is visible on the control panel above the knobs.",
+    "One metal shelf or trough and one wall-mounted metal box are visible on the tiled wall to the left rear; both are partially visible and somewhat stained.",
+    "The mixer is predominantly medium-to-dark grey, with a matte painted or plastic-coated housing and chrome or stainless-steel functional parts (lever and bowl).",
+    "The mixing bowl is stainless steel with a metallic finish.",
+    "The pouring jug is translucent white plastic.",
+    "The glove on the visible hand is blue (disposable nitrile or latex appearance).",
+    "The wall tiles behind the mixer are white or off-white ceramic and show visible staining and grime."
+  ],
+  "id": "10b74e11556d16b7ed20500c",
+  "sha256": "84b40eb16bfccdced71cd765b5bcf088a827406d5cc865b6b570ab7204268d3b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:04:01.081800+00:00",
+  "input_resolution": [
+    768,
+    1024
+  ],
+  "input_sha256": "f334c025ca43a25cad7e46fa0b730db2f25d99a06b2a32ac4151ba776c5558a4",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatUcPrFA1euiXAusV97ZgGoJible",
+  "usage": {
+    "completion_tokens": 1036,
+    "prompt_tokens": 2122,
+    "total_tokens": 3158,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 563,
+      "engine_ttlt_ms": 9316,
+      "pre_inference_ms": 97,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1210,
+      "service_ttlt_ms": 9959,
+      "user_visible_ttft_ms": 1113
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

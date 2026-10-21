@@ -1,0 +1,105 @@
+{
+  "title": "Open lab classroom with central round tables, wall monitors and bench workstations",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least two large wall-mounted flat-screen displays are visible (one on the left wall and one on the right wall); both show photographic images rather than live room occupants.",
+    "At least three desktop computer monitors are visible on the right-side bench line (one is turned to show a camera image, two appear to be turned off or showing dark screens).",
+    "There are multiple bench workstations along the right wall with under-bench drawers/cabinets; at least five separate bench segments are visible along that wall.",
+    "Three circular/rounded group tables are visible in the center area, each composed of multiple wedge-shaped segments.",
+    "At least eleven office/task chairs with five-star wheeled bases are visible around the central tables and along the benches (chairs are partially overlapping and some are obscured).",
+    "Several pieces of bench-top equipment or instruments are visible on the right bench (multiple rectangular boxes with displays or controls), but model names or types are not legible from the image.",
+    "A red vertical storage rack or cabinet with multiple hanging items is visible back-right near the wall; a tall blue rack or shelving unit with small drawers is visible further toward the back center.",
+    "Multiple printed posters are mounted along the right wall above the bench workstations (many distinct posters in a row).",
+    "A small freestanding lectern or equipment stand is visible near the far-left wall below the left wall-mounted screen."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "Central area: three round/wedge-segment group tables occupy the middle of the room; chairs are placed around these tables.",
+    "Right wall: a continuous row of bench workstations runs along the right side of the image, with monitors and bench-top equipment placed on the bench tops and posters mounted on the wall above them.",
+    "Left and back walls: two large wall-mounted displays are positioned—one on the left/back area and one on the right/back area—each above or near bench surfaces and storage units.",
+    "Back center/right: a tall blue storage rack with small drawers stands near a red vertical storage unit/cabinet; both are positioned against or close to the back wall between the two wall displays.",
+    "The floor area between the central tables and the right benches is open for circulation; chairs and stools are arranged between tables and benches allowing access to the benches."
+  ],
+  "colours_and_materials": [
+    "Flooring appears to be a dark blue carpet.",
+    "Tables have light grey or pale blue tabletops with darker edging; table segments form circular shapes.",
+    "Most chairs are black or dark grey with plastic or fabric seats and five-star wheeled bases.",
+    "Walls are painted white or off-white and display multiple colourful printed posters.",
+    "A red vertical storage unit or cabinet is visible near the back-right; a blue storage rack with many small blue drawers is visible toward the back center."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number text is legible in the image; location cannot be determined from visible signage.",
+    "Exact counts for chairs, monitors, bench segments and bench-top instruments are limited by partial occlusion and overlap; counts given are minimum visible quantities.",
+    "Printed poster text and small labels on equipment are not legible at this resolution; no exact textual transcriptions could be confirmed.",
+    "Some objects (bench-top boxes/instruments) could not be identified to type or model from the image alone; their presence is noted without specification.",
+    "The two large wall displays show photographic or video content of people and interior scenes; those people are depicted only on screens and are not present in the photographed physical room itself."
+  ],
+  "visual_facts": [
+    "At least two large wall-mounted flat-screen displays are visible (one on the left wall and one on the right wall); both show photographic images rather than live room occupants.",
+    "At least three desktop computer monitors are visible on the right-side bench line (one is turned to show a camera image, two appear to be turned off or showing dark screens).",
+    "There are multiple bench workstations along the right wall with under-bench drawers/cabinets; at least five separate bench segments are visible along that wall.",
+    "Three circular/rounded group tables are visible in the center area, each composed of multiple wedge-shaped segments.",
+    "At least eleven office/task chairs with five-star wheeled bases are visible around the central tables and along the benches (chairs are partially overlapping and some are obscured).",
+    "Several pieces of bench-top equipment or instruments are visible on the right bench (multiple rectangular boxes with displays or controls), but model names or types are not legible from the image.",
+    "A red vertical storage rack or cabinet with multiple hanging items is visible back-right near the wall; a tall blue rack or shelving unit with small drawers is visible further toward the back center.",
+    "Multiple printed posters are mounted along the right wall above the bench workstations (many distinct posters in a row).",
+    "A small freestanding lectern or equipment stand is visible near the far-left wall below the left wall-mounted screen.",
+    "Flooring appears to be a dark blue carpet.",
+    "Tables have light grey or pale blue tabletops with darker edging; table segments form circular shapes.",
+    "Most chairs are black or dark grey with plastic or fabric seats and five-star wheeled bases.",
+    "Walls are painted white or off-white and display multiple colourful printed posters.",
+    "A red vertical storage unit or cabinet is visible near the back-right; a blue storage rack with many small blue drawers is visible toward the back center."
+  ],
+  "id": "23f0ecad560c57eb19edf901",
+  "sha256": "902e2b67e0d5b491db55a41ba1c97433e374e953c0d14270c03f1accfb2fd202",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:31:49.016275+00:00",
+  "input_resolution": [
+    1024,
+    427
+  ],
+  "input_sha256": "67ef82e29b31a9abce5d04bb0be79a9e8343d12f1f761f477a030d8a9385b950",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatvVkj3JiegN9hE5uAx45bpKYWNC",
+  "usage": {
+    "completion_tokens": 1266,
+    "prompt_tokens": 1738,
+    "total_tokens": 3004,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 474,
+      "engine_ttlt_ms": 10285,
+      "pre_inference_ms": 119,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1162,
+      "service_ttlt_ms": 10937,
+      "user_visible_ttft_ms": 1043
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

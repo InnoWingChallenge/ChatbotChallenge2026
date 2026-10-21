@@ -1,0 +1,115 @@
+{
+  "title": "Stage presentation with large projection screen showing 'The World of Future Tomorrow'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One standing person (speaker) is visible on the front of the stage, centered horizontally and slightly right of center; the speaker is holding a microphone on a stand.",
+    "A large projection screen occupies the full rear of the stage and displays a colorful infographic.",
+    "One grand piano is visible on the right side of the stage (viewer right).",
+    "One drum kit (drum set) is positioned center stage in front of the projection screen.",
+    "At least three guitar amplifiers or speaker cabinets are visible left-of-center on the stage in front of the screen (they appear side-by-side; some are partially obscured).",
+    "Two floor monitor speakers are visible on the front edge of the stage: one left front and one right front (the right-front monitor is partly cropped by the image edge).",
+    "A row of stackable chairs is visible on the viewer-right side of the stage (at least six individual chairs can be distinguished).",
+    "A small number of handheld cameras or mobile devices are visible at the very bottom edge of the image (two devices or heads are partially visible and cropped by the image edge).",
+    "Several instrument stands and cables are visible on the stage floor around the drum kit and amplifiers.",
+    "A xylophone-like instrument or gamelan instrument with wooden/gilded frame is visible at left-front of stage."
+  ],
+  "visible_text": [
+    "The World of Future Tomorrow",
+    "In 2200",
+    "TTLR"
+  ],
+  "spatial_relations": [
+    "The large projection screen fills the entire rear wall of the stage and serves as the backdrop for all stage equipment and performers.",
+    "The drum kit is centered in front of the projection screen; the speaker stands in front of the drum kit near the front edge of the stage.",
+    "The grand piano is located to the viewer-right of the drum kit and slightly behind the speaker.",
+    "The amplifiers/speaker cabinets are positioned to the viewer-left of the drum kit in a cluster near the screen.",
+    "Two floor monitors sit on the stage floor at the front edge, roughly left-front and right-front relative to the stage.",
+    "A line of chairs is arranged along the viewer-right side of the stage, behind the piano and toward the screen.",
+    "Instrument stands and cable runs are concentrated around the drum kit and amplifiers, crossing the stage floor toward the front monitors."
+  ],
+  "colours_and_materials": [
+    "The projection background is predominantly dark blue with multicolored infographic elements.",
+    "The stage floor is light brown wood (visible planks) with a polished appearance.",
+    "The grand piano and most electronic equipment (amplifiers, monitors, drum hardware) are black.",
+    "The projection text 'The World of Future Tomorrow' is yellow.",
+    "The amplifiers and many cables appear black or dark coloured; chairs on the right are dark (black or dark grey).",
+    "An instrument with a gilded or carved wooden frame (gold/brown) is visible left-front on the stage."
+  ],
+  "uncertainties": [
+    "Many smaller labels and blocks of text on the projection infographic are not legible at this resolution; only the largest headings ('The World of Future Tomorrow', 'In 2200', 'TTLR') could be transcribed reliably.",
+    "Exact count of amplifier/speaker cabinets is uncertain because some are partially obscured by cables and other equipment; I state 'at least three' based on visually distinct front faces.",
+    "The exact number of chairs in the right-side row is uncertain; at least six individual chair seats are distinguishable but chairs toward the rear may be obscured.",
+    "Some objects at the extreme left and bottom edges of the image are cropped and only partially visible (including audience devices and possibly additional instruments), so their full identity and counts cannot be determined.",
+    "Any small labels on equipment, microphone brand/text on the stand, or printed lanyard text on the speaker are unreadable in the image."
+  ],
+  "visual_facts": [
+    "One standing person (speaker) is visible on the front of the stage, centered horizontally and slightly right of center; the speaker is holding a microphone on a stand.",
+    "A large projection screen occupies the full rear of the stage and displays a colorful infographic.",
+    "One grand piano is visible on the right side of the stage (viewer right).",
+    "One drum kit (drum set) is positioned center stage in front of the projection screen.",
+    "At least three guitar amplifiers or speaker cabinets are visible left-of-center on the stage in front of the screen (they appear side-by-side; some are partially obscured).",
+    "Two floor monitor speakers are visible on the front edge of the stage: one left front and one right front (the right-front monitor is partly cropped by the image edge).",
+    "A row of stackable chairs is visible on the viewer-right side of the stage (at least six individual chairs can be distinguished).",
+    "A small number of handheld cameras or mobile devices are visible at the very bottom edge of the image (two devices or heads are partially visible and cropped by the image edge).",
+    "Several instrument stands and cables are visible on the stage floor around the drum kit and amplifiers.",
+    "A xylophone-like instrument or gamelan instrument with wooden/gilded frame is visible at left-front of stage.",
+    "The projection background is predominantly dark blue with multicolored infographic elements.",
+    "The stage floor is light brown wood (visible planks) with a polished appearance.",
+    "The grand piano and most electronic equipment (amplifiers, monitors, drum hardware) are black.",
+    "The projection text 'The World of Future Tomorrow' is yellow.",
+    "The amplifiers and many cables appear black or dark coloured; chairs on the right are dark (black or dark grey).",
+    "An instrument with a gilded or carved wooden frame (gold/brown) is visible left-front on the stage."
+  ],
+  "id": "9f161b4fbdf043b4aad67ca8",
+  "sha256": "29220123b5645e8efbe8d9642ba207c39050781f547d33ba25d84215ce1d5e44",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:55:06.455617+00:00",
+  "input_resolution": [
+    1024,
+    683
+  ],
+  "input_sha256": "a061b7b3ed04b0bad96e39ad2fcdd96ba141e5150eda48e5ff1e8fe7a54b7bd9",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauI4Huk5eACzI4y7K9VnKWOES2H2",
+  "usage": {
+    "completion_tokens": 1272,
+    "prompt_tokens": 2045,
+    "total_tokens": 3317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 546,
+      "engine_ttlt_ms": 8964,
+      "pre_inference_ms": 127,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1115,
+      "service_ttlt_ms": 9529,
+      "user_visible_ttft_ms": 989
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Lobby display with world map flanked by rows of national flags",
+  "suitable": true,
+  "location": "WEST HALL",
+  "objects_and_counts": [
+    "One person visible standing with their back to the camera, centered-left in front of the display; the person is not identified.",
+    "One large freestanding display board with a world map and a prominent heading, positioned near the center of the image.",
+    "A cluster of flagpoles with flags to the left of the display: 8 individual flagpoles with flags are visibly distinct and standing on gold-coloured round bases.",
+    "A cluster of flagpoles with flags to the right of the display: 13 individual flagpoles with flags are visibly distinct and standing on gold-coloured round bases.",
+    "One small round table on casters is visible to the left of the central display, between the left flag cluster and the display board.",
+    "Multiple architectural columns, staircase/railing and balcony openings are visible in the background as fixed building features."
+  ],
+  "visible_text": [
+    "WHERE IN THE WORLD ARE YOU FROM?",
+    "WEST HALL",
+    "FIND US ON:",
+    "CHECK OUT",
+    "ASEE"
+  ],
+  "spatial_relations": [
+    "The large world-map display board is centered in the foreground; the person stands slightly left of the display facing it.",
+    "A left cluster of flagpoles is positioned to the left of the display board, between the board and the left-side architectural opening and stair railings.",
+    "A right cluster of flagpoles forms an arc to the right of the display board and extends toward the right edge of the image.",
+    "The small round table on casters is located between the left flag cluster and the left side of the display board.",
+    "Background architecture (columns, balcony, stair railings) is behind the display and flag clusters, indicating the scene is in a multi-level hall area."
+  ],
+  "colours_and_materials": [
+    "The flags show a variety of vivid colours (red, green, blue, white, yellow, etc.) and fabric texture consistent with cloth flags.",
+    "Flagpoles have gold-coloured round bases and appear to have wooden or wood-coloured poles with finials.",
+    "The floor has a dark brown, wood-like appearance (matte finish).",
+    "The display board has a purple and yellow header area and a predominantly light-coloured world map panel."
+  ],
+  "uncertainties": [
+    "Some small text on the lower portion of the map display and on logos is partially legible; portions are unreadable at this resolution (transcribed items 'FIND US ON:', 'CHECK OUT', 'ASEE' are visible but additional social media handles or smaller captions are not fully legible).",
+    "Counts of flagpoles (8 left, 13 right, total 21) are made from visually distinct, non-overlapping poles visible in this single image; some poles at the extreme edges are partially cropped and additional poles could exist outside the frame.",
+    "There are other small labels or logos on the display board and on the background architecture that are not readable; exact social media handles and smaller captions could not be transcribed and are omitted or summarized.",
+    "The person is not identified and no personal name or role is legible on clothing; any small bags or accessories on the person were not counted as equipment.",
+    "The presence of additional furniture or signage beyond what is visible in the frame cannot be determined from this single image."
+  ],
+  "visual_facts": [
+    "Visible location text: WEST HALL",
+    "One person visible standing with their back to the camera, centered-left in front of the display; the person is not identified.",
+    "One large freestanding display board with a world map and a prominent heading, positioned near the center of the image.",
+    "A cluster of flagpoles with flags to the left of the display: 8 individual flagpoles with flags are visibly distinct and standing on gold-coloured round bases.",
+    "A cluster of flagpoles with flags to the right of the display: 13 individual flagpoles with flags are visibly distinct and standing on gold-coloured round bases.",
+    "One small round table on casters is visible to the left of the central display, between the left flag cluster and the display board.",
+    "Multiple architectural columns, staircase/railing and balcony openings are visible in the background as fixed building features.",
+    "The flags show a variety of vivid colours (red, green, blue, white, yellow, etc.) and fabric texture consistent with cloth flags.",
+    "Flagpoles have gold-coloured round bases and appear to have wooden or wood-coloured poles with finials.",
+    "The floor has a dark brown, wood-like appearance (matte finish).",
+    "The display board has a purple and yellow header area and a predominantly light-coloured world map panel."
+  ],
+  "id": "6b1e7599de731d1eab29cbe2",
+  "sha256": "b9fc2640517637daf95fc750fd356383a2093067853ab0cd795b2d3bf0499695",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:44:44.206508+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "6d1e14c47cd5580338f880f560319c573fdefe7cf0bec05cc13e7585e1ed32b1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau81MDHEg1hmw14LCV4XbxE0eWsS",
+  "usage": {
+    "completion_tokens": 1077,
+    "prompt_tokens": 2122,
+    "total_tokens": 3199,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1098,
+      "engine_ttlt_ms": 9760,
+      "pre_inference_ms": 323,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1972,
+      "service_ttlt_ms": 10624,
+      "user_visible_ttft_ms": 1649
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

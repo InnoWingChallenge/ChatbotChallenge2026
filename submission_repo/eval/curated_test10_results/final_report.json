@@ -1,0 +1,1479 @@
+{
+  "mode": "local_lexical_top5_plus_subagent_answers",
+  "answer_model": "gpt-6-luna",
+  "answer_effort": "low",
+  "grader_model": "gpt-6-luna",
+  "grader_effort": "low",
+  "agents": [
+    "/root/test10_design",
+    "/root/test10_answer",
+    "/root/test10_grade"
+  ],
+  "summary": {
+    "questions": 10,
+    "fully_correct": 4,
+    "partially_correct": 1,
+    "zero_credit": 5,
+    "mean_score": 0.45,
+    "abstentions_including_partial": 6,
+    "evidence_complete_at_k": {
+      "1": 0.2,
+      "5": 0.4,
+      "20": 0.8
+    },
+    "retrieval_errors": 0,
+    "lexical_mean_seconds": 0.22073325999081134,
+    "language_matches": 6
+  },
+  "limitations": [
+    "No query embedding API or production main.py execution; not full hybrid-RAG accuracy.",
+    "Gold answers are description-grounded, not original-photo verified.",
+    "Five local-photo and five new-image cases; small smoke-test sample.",
+    "Answer agent received only question and top-five evidence, no gold.",
+    "Grader language flags were corrected after root review."
+  ],
+  "dataset_sha256": "dd396fdec5e79db0628a48952c356d87361d9950471531080907f68c3002f69f",
+  "records_sha256": "357509d5647fd3ae55ead6089d8d2bc716f0164f0c98c2da0b4585f16eb43e6d",
+  "questions": [
+    {
+      "id": "image_curated_001",
+      "question": "在头脑风暴区的活动告示上，列出的三种获准用途是什么？",
+      "expected_answer": "学习、小组讨论和协作学习。",
+      "answer": "所提供的证据中没有这张活动告示的内容，无法确认。",
+      "abstained": true,
+      "evidence_labels": [],
+      "grade": {
+        "id": "image_curated_001",
+        "score": 0,
+        "grounded": true,
+        "reason": "Abstains; supplied top-five evidence is empty, so it does not support the three permitted activities.",
+        "language_match": true
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "5": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "20": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        }
+      },
+      "evidence": []
+    },
+    {
+      "id": "image_curated_002",
+      "question": "Digital Learning Studio 的白色吊顶投影仪上可读到什么品牌？",
+      "expected_answer": "SONY。",
+      "answer": "SONY。",
+      "abstained": false,
+      "evidence_labels": [
+        "E2"
+      ],
+      "grade": {
+        "id": "image_curated_002",
+        "score": 1,
+        "grounded": true,
+        "reason": "Correctly gives SONY; the supplied Digital Learning Studio evidence explicitly identifies SONY on the white ceiling-mounted projector.",
+        "language_match": true
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "5": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        },
+        "20": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "text": "Title: Digital Learning Studio\nSection: Text information: room identity\nImage-derived evidence:\nThe Digital Learning Studio plaque reads \"IW-LG07\" and \"Digital Learning Studio\". It has a black upper band with white room-number lettering and a light wood-grain lower panel with black lettering, mounted on a white wall.",
+          "metadata": {
+            "chunk_id": "revimg_4f3d3cf743a5c906b0056267",
+            "document_id": "imgtopic_6f4e84411ed3400552c1",
+            "kind": "image",
+            "title": "Digital Learning Studio",
+            "section": "Text information: room identity",
+            "url": "image_source/Digital_Learning_Studio/微信图片_20261013104628_71_35.jpg",
+            "record_path": "prompt/Digital_Learning_Studio/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Digital_Learning_Studio/微信图片_20261013104628_71_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Digital Learning Studio",
+            "description_sha256": "7219750f97e9a04ae50c33f14646f9b37c86b17565b09f4004e5cb4d39f65422",
+            "content_years_json": "[]",
+            "position": 20
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.02785245901639344
+        },
+        {
+          "text": "Title: Digital Learning Studio\nSection: Text and spatial information: computer hardware close-ups\nImage-derived evidence:\nIMG_2658 shows a white ceiling-mounted projector labeled \"SONY\" in Digital Learning Studio, with connected cables, ceiling tiles and a nearby round speaker grille. The projector model number is not reliably legible.",
+          "metadata": {
+            "chunk_id": "revimg_6e1e3a0a403852e842a19fd8",
+            "document_id": "imgtopic_cb6a51eaf32a288173d4",
+            "kind": "image",
+            "title": "Digital Learning Studio",
+            "section": "Text and spatial information: computer hardware close-ups",
+            "url": "image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC",
+            "record_path": "prompt/Digital_Learning_Studio/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC\", \"image_source/Pictures_Hzx/Digital studio/IMG_2657.HEIC\", \"image_source/Pictures_Hzx/Digital studio/IMG_2658.HEIC\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Digital Learning Studio",
+            "description_sha256": "7219750f97e9a04ae50c33f14646f9b37c86b17565b09f4004e5cb4d39f65422",
+            "content_years_json": "[]",
+            "position": 26
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.027548387096774193
+        },
+        {
+          "text": "Page title: Digital Learning Studio (Treasure Hunt)\nPage type: facility\nMission (All Teams) Please proceed to the Digital Learning Studio of virtual InnoWing. Watch the video and answer the question.",
+          "metadata": {
+            "chunk_id": "txt_doc_ab5a2b73c79ad121_3",
+            "document_id": "doc_ab5a2b73c79ad121",
+            "position": 3,
+            "title": "Digital Learning Studio (Treasure Hunt)",
+            "section": "",
+            "url": "https://innoacademy.engg.hku.hk/digitalstudio/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.027253968253968253
+        },
+        {
+          "text": "Title: Digital Learning Studio\nSection: Text and spatial information: computer hardware close-ups\nImage-derived evidence:\nIMG_2656 shows a transparent-sided computer tower in the Digital studio source group. The graphics-card area visibly bears \"INNO3D\" and \"GEFORCE RTX\". Reflections partly obscure the interior. The image does not identify the exact graphics-card model, processor, memory capacity or specifications of every computer in Digital Learning Studio.",
+          "metadata": {
+            "chunk_id": "revimg_4db414b9009b7cb4e6df80f9",
+            "document_id": "imgtopic_cb6a51eaf32a288173d4",
+            "kind": "image",
+            "title": "Digital Learning Studio",
+            "section": "Text and spatial information: computer hardware close-ups",
+            "url": "image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC",
+            "record_path": "prompt/Digital_Learning_Studio/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC\", \"image_source/Pictures_Hzx/Digital studio/IMG_2657.HEIC\", \"image_source/Pictures_Hzx/Digital studio/IMG_2658.HEIC\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Digital Learning Studio",
+            "description_sha256": "7219750f97e9a04ae50c33f14646f9b37c86b17565b09f4004e5cb4d39f65422",
+            "content_years_json": "[]",
+            "position": 24
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.027253968253968253
+        },
+        {
+          "text": "Page title: Digital Learning Studio (Treasure Hunt)\nPage type: facility\nDescription There are a total of 28 desktop computers for study purposes.",
+          "metadata": {
+            "chunk_id": "txt_doc_ab5a2b73c79ad121_2",
+            "document_id": "doc_ab5a2b73c79ad121",
+            "position": 2,
+            "title": "Digital Learning Studio (Treasure Hunt)",
+            "section": "",
+            "url": "https://innoacademy.engg.hku.hk/digitalstudio/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02696875
+        }
+      ]
+    },
+    {
+      "id": "image_curated_003",
+      "question": "What destination does the Brainstorming Area notice direct visitors to for practical making?",
+      "expected_answer": "Maker Space A.",
+      "answer": "Maker Space A。",
+      "abstained": false,
+      "evidence_labels": [
+        "E3"
+      ],
+      "grade": {
+        "id": "image_curated_003",
+        "score": 1,
+        "grounded": true,
+        "reason": "Correctly gives Maker Space A; supplied Brainstorm Space notice evidence explicitly directs visitors there.",
+        "language_match": true
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "5": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        },
+        "20": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "text": "Page title: Brainstorming Area\nPage type: other\nSection: Digital Learning Studio\nThe Digital Project Studio in Tam Wing Fan Innovation Wing is a state-of-the-art facility designed for engineering experiments. It is equipped with next generation computer with software that allows researchers to study and analyze for their project. The facility is available to researchers and students from multiple disciplines and offers a platform for interdisciplinary collaborations.",
+          "metadata": {
+            "chunk_id": "txt_doc_d3ef178f70d3d3f1_0",
+            "document_id": "doc_d3ef178f70d3d3f1",
+            "position": 0,
+            "title": "Brainstorming Area",
+            "section": "Digital Learning Studio",
+            "url": "https://innowings.engg.hku.hk/brainstorming/",
+            "page_type": "other",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02425396825396825
+        },
+        {
+          "text": "Title: Brainstorm Space / Brainstorming Area\nSection: Text information: belongings\nImage-derived evidence:\nAt Brainstorm Space, a blue \"NOTICE\" reads: \"PLEASE KEEP YOUR PERSONAL BELONGINGS WITH YOU AT ALL TIMES.\" It warns, \"ANY ITEMS LEFT UNATTENDED WILL BE CLEARED WITHOUT NOTICE\", and directs readers to contact the office for further information. A warning triangle and silhouettes of bags, luggage, electronics and other belongings illustrate the message; they do not establish an inventory of items in the space.",
+          "metadata": {
+            "chunk_id": "revimg_acff4f1bf03c7e4ba17c118d",
+            "document_id": "imgtopic_71688f46c918a0498260",
+            "kind": "image",
+            "title": "Brainstorm Space / Brainstorming Area",
+            "section": "Text information: belongings",
+            "url": "image_source/Brainstorm_Space/微信图片_20261013104621_63_35.jpg",
+            "record_path": "prompt/Brainstorm_Space/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Brainstorm_Space/微信图片_20261013104621_63_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Brainstorm Space / Brainstorming Area",
+            "description_sha256": "c58f5433a3f97fc720886ed4ca04aecbfad697730c34a4e8785309bfc76b4fcd",
+            "content_years_json": "[]",
+            "position": 2
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.02425396825396825
+        },
+        {
+          "text": "Title: Brainstorm Space / Brainstorming Area\nSection: Text information: activities\nImage-derived evidence:\nAt Brainstorm Space, a blue \"NOTICE\" sign states: \"NO HANDS-ON ACTIVITIES OR TOOL USE(NO CUTTERS, GLUE, MODEL-BUILDING, ETC.)\" and \"PLEASE PROCEED TO MAKER SPACE A\". The permitted activities named on the sign are \"STUDY\", \"GROUP DISCUSSION\" and \"COLLABORATIVE LEARNING\". The footer directs readers to contact the office for further information. Red prohibition icons depict glue, cutting tools and a hammer, while a green check accompanies an illustration of students. These are instructional illustrations, not objects observed in the room.",
+          "metadata": {
+            "chunk_id": "revimg_da2e070bb669022a1a91e519",
+            "document_id": "imgtopic_06a2088c18531b158151",
+            "kind": "image",
+            "title": "Brainstorm Space / Brainstorming Area",
+            "section": "Text information: activities",
+            "url": "image_source/Brainstorm_Space/微信图片_20261013104620_62_35.jpg",
+            "record_path": "prompt/Brainstorm_Space/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Brainstorm_Space/微信图片_20261013104620_62_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Brainstorm Space / Brainstorming Area",
+            "description_sha256": "c58f5433a3f97fc720886ed4ca04aecbfad697730c34a4e8785309bfc76b4fcd",
+            "content_years_json": "[]",
+            "position": 1
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.023968749999999997
+        },
+        {
+          "text": "Title: Brainstorm Space / Brainstorming Area\nSection: Text information: project items\nImage-derived evidence:\nAt Brainstorm Space, an orange \"ATTENTION\" notice states: \"DO NOT LEAVE YOUR PROJECT ITEMS\" and \"ANY UNAUTHORIZED ITEMS FOUND WILL BE DISPOSED OF WITHOUT NOTICE.\" It concludes, \"FOR FURTHER INFORMATION, PLEASE CONTACT THE OFFICE.\" The words \"WITHOUT NOTICE\" are highlighted in yellow. A box pictogram has a red prohibition symbol, and the notice is mounted on a white perforated panel.",
+          "metadata": {
+            "chunk_id": "revimg_b86737a30fbb6eaee86163d5",
+            "document_id": "imgtopic_5eab9a0235b5d41ffe10",
+            "kind": "image",
+            "title": "Brainstorm Space / Brainstorming Area",
+            "section": "Text information: project items",
+            "url": "image_source/Brainstorm_Space/微信图片_20261013104619_61_35.jpg",
+            "record_path": "prompt/Brainstorm_Space/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Brainstorm_Space/微信图片_20261013104619_61_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Brainstorm Space / Brainstorming Area",
+            "description_sha256": "c58f5433a3f97fc720886ed4ca04aecbfad697730c34a4e8785309bfc76b4fcd",
+            "content_years_json": "[]",
+            "position": 0
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.023164179104477614
+        },
+        {
+          "text": "Title: Brainstorm Space / Brainstorming Area\nSection: Text and spatial information: kitchenette notices\nImage-derived evidence:\nThe Brainstorming Area countertop in IMG_2641 has light wood-grain base cabinets, a white surface, a purple water dispenser and a rectangular dark sink. Four notices run horizontally along the hexagonal-patterned backsplash, and a fifth orange notice is mounted above the sink. IMG_2642 shows the four notices more closely: project items must not be left, unauthorized items may be disposed of without notice, hands-on activities and tool use are prohibited, and users should proceed to Maker Space A. The permitted activities listed are study, group discussion and collaborative learning. Personal belongings must be kept with users; unattended items will be cleared without notice. Food and drink are prohibited, and users are told to keep the area clean.",
+          "metadata": {
+            "chunk_id": "revimg_9240ddea0933beafcfe6b198",
+            "document_id": "imgtopic_87ed3d2cc285b726fe28",
+            "kind": "image",
+            "title": "Brainstorm Space / Brainstorming Area",
+            "section": "Text and spatial information: kitchenette notices",
+            "url": "image_source/Pictures_Hzx/brain storming area/IMG_2641.HEIC",
+            "record_path": "prompt/Brainstorm_Space/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Pictures_Hzx/brain storming area/IMG_2641.HEIC\", \"image_source/Pictures_Hzx/brain storming area/IMG_2642.HEIC\", \"image_source/Pictures_Hzx/brain storming area/IMG_2643.HEIC\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Brainstorm Space / Brainstorming Area",
+            "description_sha256": "c58f5433a3f97fc720886ed4ca04aecbfad697730c34a4e8785309bfc76b4fcd",
+            "content_years_json": "[]",
+            "position": 10
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.022911764705882354
+        }
+      ]
+    },
+    {
+      "id": "image_curated_004",
+      "question": "在一张展示白色封闭式 3D 打印机、铝框架货架和黑色开放式机器的照片中，哪些两个 Ultimaker 型号被列为可见文字？",
+      "expected_answer": "Ultimaker 2 extended+ 和 Ultimaker 3 extended。",
+      "answer": "所提供的证据无法确认该照片中列出的两个 Ultimaker 型号；其中只提到 Ultimaker 3 Extended，未能确认题目所问的两个型号。",
+      "abstained": true,
+      "evidence_labels": [
+        "E3",
+        "E4"
+      ],
+      "grade": {
+        "id": "image_curated_004",
+        "score": 0.5,
+        "grounded": true,
+        "reason": "Identifies Ultimaker 3 Extended but omits Ultimaker 2 extended+ and abstains on the pair. The supplied equipment evidence supports the Ultimaker 3 model only; the answer does not claim the unsupported second model.",
+        "language_match": true
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "5": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "20": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "text": "Verified fact: 3D printing is also known as additive manufacturing.\nSupporting evidence: Allow for better knowledge in additive manufacturing (aka 3D printing)",
+          "metadata": {
+            "chunk_id": "fact_additive_manufacturing_alias",
+            "fact_id": "fact_additive_manufacturing_alias",
+            "document_id": "term_additive_manufacturing",
+            "title": "additive manufacturing",
+            "url": "https://innoacademy.engg.hku.hk/cad_competition-2025/",
+            "kind": "fact",
+            "status": "verified",
+            "confidence": 1.0
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "knowledge"
+          ],
+          "hybrid_score": 0.031045433255269324
+        },
+        {
+          "text": "Page title: 3D printing area (Treasure Hunt)\nPage type: facility\nDescription There are a total of fourteen 3D printers in Innovation Wing for student use. Eight 3D printers are located at Makerspace B. Six 3D printers are located at Makerspace A. Please contact one of our tutors in Innovation Wing if you would like to try 3D printing. Learn more about our 3D printers: https://innowings.engg.hku.hk/equipment/#ultimaker",
+          "metadata": {
+            "chunk_id": "txt_doc_f75c3911d0cbd5fb_2",
+            "document_id": "doc_f75c3911d0cbd5fb",
+            "position": 2,
+            "title": "3D printing area (Treasure Hunt)",
+            "section": "",
+            "url": "https://innoacademy.engg.hku.hk/3dprinting/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02125396825396825
+        },
+        {
+          "text": "Page title: Equipment/ facilities in Innovation Wing\nPage type: facility\nEquipment/ facilities in Innovation Wing List of equipment and facilities 3D printers (Ultimaker 3 extended) 3D printers (Raise 3D pro 2+) Acrylic laser cutting and engraving machine (GCC LaserPro Spirit) Metal laser cutting and engraving machine (GCC LaserPro FMS280) Electronic workbenches Low-risk hand power tools More to be added soon... 3D printer (Ultimaker 3 extended) Ultimaker 3 Extended is engineered for high uptime and reliable, industrial-grade results. Active leveling Wifi & USB connection Live camera Optimized Cura material profiles Material recognition with NFC scanner FOR ALL MEMBERS Access permission CHECK-IN-OUT WITH STAFF Requirement before usage TUTOR’S SUPERVISION Buddy system requirement 3D printer",
+          "metadata": {
+            "chunk_id": "txt_doc_bcc4a9a84677642f_0",
+            "document_id": "doc_bcc4a9a84677642f",
+            "position": 0,
+            "title": "Equipment/ facilities in Innovation Wing",
+            "section": "",
+            "url": "https://innoacademy.engg.hku.hk/equipment/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.01885245901639344
+        },
+        {
+          "text": "Title: Equipment and facilities\nSection: Selected visual observations\nImage-derived evidence:\nModel-described observations of this image; location and current facility inventory are not established by these observations. User interface elements visible on a mobile device screen include: at least three dropdown boxes (visible labels: \"Choose 3D Slicer:\", \"Choose 3D Printer:\", and the location dropdown showing \"Tam Wing Fan Innovation Wing One\"), one horizontal progress bar (green) labelled by nearby text \"Slice completed.\", and one large green rectangular button labelled \"Submit Job.\" Additional UI sections visible: a heading \"Preferences\", a subheading/list item area labelled \"Available Locations:\", a field labelled \"Material:\" with value \"PLA\", and a section heading \"Slice Settings\" containing two collapsed rows labelled \"Machine Settings\" and \"Resolution.\" Under that, a boxed control labelled \"Choose 3D Slicer:\" contains the value \"Ultimaker CuraEngine\" followed by the text \"Slice completed.\" and a full-width green horizontal progress bar directly underneath that caption. A separate boxed panel titled \"Preferences\" appears below the slicer area; inside it the left-aligned label \"Choose 3D Printer:\" is followed by a dropdown field showing \"Ultimaker 3 Extended.\" Within the same Preferences box the label \"Available Locations:\" appears above a dropdown showing \"Tam Wing Fan Innovation Wing One\", and further down the label \"Material:\" appears above a field with value \"PLA.\" Reported visible text: Choose 3D Slicer:; Ultimaker CuraEngine; Ultimaker 3 Extended; Tam Wing Fan Innovation Wing One; PLA.",
+          "metadata": {
+            "chunk_id": "revimg_644979cec8f1ba77b3aa7fe5",
+            "document_id": "imgtopic_6975cfe1afa3fc3dba58",
+            "kind": "image",
+            "title": "Equipment and facilities",
+            "section": "Selected visual observations",
+            "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/11/28.-3DuPrint-HKU-3D-Print-Cloud-Submission-System-IMG-02.png",
+            "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/ae2b094c1fe08f52c8f6fc10.json",
+            "source_type": "web_image",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"webimg_7f339f352c51d5b33b05f3ae\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-20",
+            "capture_date": "unknown",
+            "status": "text_curated_not_visual_verified",
+            "page_type": "image_record",
+            "location": "unknown",
+            "description_model": "gpt-5-mini",
+            "description_prompt_version": "equipment-space-api-v3",
+            "curator_model": "gpt-6-luna",
+            "curator_reasoning_effort": "low",
+            "curation_version": "image-text-curation-v1",
+            "image_sha256": "7f339f352c51d5b33b05f3aeaf583a8b7166c6d0128c18263eac68e8746bd16b",
+            "description_sha256": "6b9fa97ccc5bc7646b75526c7cc7d6ee110234b4451cd53d442b0f25f973434a",
+            "visual_reverified": false,
+            "source_pages_json": "[\"https://innoacademy.engg.hku.hk/28-3duprint-hku-3d-print-cloud-submission-system-img-02/\"]",
+            "uncertainties_json": "[\"The top file chooser row shows a filename that appears to be \\\"SDBenchy.stl\\\" but part of that area is slightly cropped and the exact capitalization is taken from visible pixels.\", \"Small icons in the phone status bar (cellular, Wi‑Fi) are visible but their exact signal values other than the battery number \\\"82\\\" are not fully legible.\", \"Any additional small labels or helper text within dropdown fields (such as downward arrows or truncated helper text) are not legible and therefore not transcribed.\", \"No physical room signage, hardware nameplates, or real-world equipment are visible; all counted 'objects' are elements of the mobile app UI. If the request expected identification of physical machines or signage in a room, that information is unknown from the image.\"]",
+            "content_years_json": "[]",
+            "position": 274
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.01885245901639344
+        },
+        {
+          "text": "Page title: Welcome students from the Mahidol Wittayanusorn School\nPage type: other\nSection: Bambu Lab 3D Printer\nUltimaker is a leading manufacturer of 3D printers, known for producing high-quality, reliable, and easy-to-use machines. Their flagship model, the Ultimaker 3, is a dual-extrusion printer that offers incredible flexibility and precision for a wide range of applications. With a build volume of up to 215 x 215 x 300 mm, the Ultimaker 3 can print using a variety of materials, including PLA, ABS, Nylon, and more. It also features an intuitive touchscreen interface, a heated build plate, and a range of connectivity options, making it an excellent choice for both beginners and advanced users looking to produce high-quality 3D prints.",
+          "metadata": {
+            "chunk_id": "txt_doc_f8b1f9a61f643698_4",
+            "document_id": "doc_f8b1f9a61f643698",
+            "position": 4,
+            "title": "Welcome students from the Mahidol Wittayanusorn School",
+            "section": "Bambu Lab 3D Printer",
+            "url": "https://innowings.engg.hku.hk/mahidol-wittayanusorn-school/",
+            "page_type": "other",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.018548387096774192
+        }
+      ]
+    },
+    {
+      "id": "image_curated_005",
+      "question": "For the blue GCC LaserPro unit described as a laser cutter/engraver, where is its red emergency-stop button positioned?",
+      "expected_answer": "Recessed in the machine's right front corner, slightly below the control-panel level.",
+      "answer": "所提供的证据提到紧急按钮，但没有说明它在机器上的位置，无法确认。",
+      "abstained": true,
+      "evidence_labels": [
+        "E4",
+        "E5"
+      ],
+      "grade": {
+        "id": "image_curated_005",
+        "score": 0,
+        "grounded": true,
+        "reason": "Abstains on the button position. Supplied evidence mentions an emergency button but gives no location.",
+        "language_match": false
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "5": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "20": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "text": "Verified fact: The acrylic laser cutter instructions say not to laser PVC or Teflon because they may generate toxic fumes.\nSupporting evidence: Do not laser heat-sensitive surfaces or materials that may generate toxic fumes, such as PVC and Teflon.",
+          "metadata": {
+            "chunk_id": "fact_laser_cutter_prohibited_materials_web",
+            "fact_id": "fact_laser_cutter_prohibited_materials_web",
+            "document_id": "equipment_acrylic_laser_cutter",
+            "title": "Acrylic laser cutting and engraving machine",
+            "url": "https://innowings.engg.hku.hk/acrylic/",
+            "kind": "fact",
+            "status": "verified",
+            "confidence": 1.0
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "knowledge"
+          ],
+          "hybrid_score": 0.038845433255269325
+        },
+        {
+          "text": "Page title: Acrylic laser cutting and engraving machine Session2\nPage type: facility\nacrylic sheet, please mark the number on the registration form. Innovation Wing Office may request the user to restock new acrylic sheets from the same vendor used by the Innovation Wing. Members please come to Innovation Wing and talk to our on-duty tutors/technicians. Innovation Wing tutor/technician will go through the cutting file with members and do a final confirmation of the cutting parameters. Once confirmed, members can fill the acrylic laser cutting registration form Registration of use of equipment in Innovation Wing User manual of GCC LaserPro Spirit Please click the following button to access the official user manual for GCC LaserPro Spirit User manual of GCC LaserPro Spirit Safety rules",
+          "metadata": {
+            "chunk_id": "txt_doc_6d699897874a4237_2",
+            "document_id": "doc_6d699897874a4237",
+            "position": 2,
+            "title": "Acrylic laser cutting and engraving machine Session2",
+            "section": "",
+            "url": "https://innowings.engg.hku.hk/acrylic-laser-cutting-and-engraving-machine-session2/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02185245901639344
+        },
+        {
+          "text": "Page title: Acrylic laser cutting and engraving machine\nPage type: facility\nSection: TUTORS\nthe cutting file with members and do a final confirmation of the cutting parameters. Once confirmed, members can fill the acrylic laser cutting registration form Please click the following button to access the official user manual for GCC LaserPro Spirit",
+          "metadata": {
+            "chunk_id": "txt_doc_d9f5e54f1376d013_3",
+            "document_id": "doc_d9f5e54f1376d013",
+            "position": 3,
+            "title": "Acrylic laser cutting and engraving machine",
+            "section": "TUTORS",
+            "url": "https://innowings.engg.hku.hk/acrylic/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02154838709677419
+        },
+        {
+          "text": "Page title: Acrylic laser cutting and engraving machine Session2\nPage type: facility\nClick Apply and then Print in the software, 5.3. The machine panel would indicate ‘ File order + File name ’. If you cannot see it, you may press F1 to back to the main panel and you will see the file name. 5.4. Trial run without the laser Switch off the laser key to perform a trial run without a laser. Press ‘ Start/Stop ’ to start a trial run. The laser cutter will start running a path without laser Inspect and check the path to see if the settings are correct 5.5. ATTENTION: In case of any accident or abnormal situations, press the Emergency button to stop the machine and report to on duty tutors and technicians at once 5.6. Real laser cutting Switch on the laser key Press ‘ Start/Stop ’ to start",
+          "metadata": {
+            "chunk_id": "txt_doc_6d699897874a4237_20",
+            "document_id": "doc_6d699897874a4237",
+            "position": 20,
+            "title": "Acrylic laser cutting and engraving machine Session2",
+            "section": "",
+            "url": "https://innowings.engg.hku.hk/acrylic-laser-cutting-and-engraving-machine-session2/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02125396825396825
+        },
+        {
+          "text": "Page title: Acrylic laser cutting and engraving machine\nPage type: facility\nSection: Step 6. Start the cutting job and monitor the cutting process.\nsoftware, 6.3. The machine panel would indicate ‘ File order + File name ’. If you cannot see it, you may press F1 to back to the main panel and you will see the file name. 6.4. Trial run without the laser Switch off the laser key to perform a trial run without a laser. Press ‘ Start/Stop ’ to start a trial run. The laser cutter will start running a path without laser Inspect and check the path to see if the settings are correct 6.5. ATTENTION: In case of any accident or abnormal situations, press the Emergency button to stop the machine and report to on duty tutors and technicians at once 6.6. Real laser cutting Switch on the laser key Press ‘",
+          "metadata": {
+            "chunk_id": "txt_doc_d9f5e54f1376d013_33",
+            "document_id": "doc_d9f5e54f1376d013",
+            "position": 33,
+            "title": "Acrylic laser cutting and engraving machine",
+            "section": "Step 6. Start the cutting job and monitor the cutting process.",
+            "url": "https://innowings.engg.hku.hk/acrylic/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.020968749999999998
+        }
+      ]
+    },
+    {
+      "id": "image_curated_006",
+      "question": "A safety display has two white pegboards, red first-aid boxes, and protective goggles. What exact label is reported for the safety station?",
+      "expected_answer": "SAFETY STATION.",
+      "answer": "所提供的证据没有报告该安全站的确切标牌文字，无法确认。",
+      "abstained": true,
+      "evidence_labels": [
+        "E1"
+      ],
+      "grade": {
+        "id": "image_curated_006",
+        "score": 0,
+        "grounded": true,
+        "reason": "Abstains; supplied evidence does not report the exact safety-station label.",
+        "language_match": false
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "5": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "20": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "text": "Page title: Safety Station (Treasure Hunt)\nPage type: facility\nDescription It contains first aid kits, safety goggles, and simple wound handling materials such as plaster and sanitizer.",
+          "metadata": {
+            "chunk_id": "txt_doc_f19a25d1c4a3c5f6_2",
+            "document_id": "doc_f19a25d1c4a3c5f6",
+            "position": 2,
+            "title": "Safety Station (Treasure Hunt)",
+            "section": "",
+            "url": "https://innoacademy.engg.hku.hk/saftetystation/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.024852459016393443
+        },
+        {
+          "text": "Page title: Safety Arrangement V2 – Backup\nPage type: policy\nSection: 5.2 Electrical Safety Regulations\n“High Voltage” warning label. A warning notice in 50 mm red characters and letters and white background bearing “DANGER UNDER REPAIR” and “危險-在維修中”must be displayed in a visible position at or near any conductor, apparatus or switch board being worked on.",
+          "metadata": {
+            "chunk_id": "txt_doc_e441d191d2163102_125",
+            "document_id": "doc_e441d191d2163102",
+            "position": 125,
+            "title": "Safety Arrangement V2 – Backup",
+            "section": "5.2 Electrical Safety Regulations",
+            "url": "https://innowings.engg.hku.hk/safety-arrangement-v2-backup/",
+            "page_type": "policy",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02154838709677419
+        },
+        {
+          "text": "Page title: Safety Arrangement\nPage type: policy\nSection: Contents\nvoltage equipment and appliances must bear the “High Voltage” warning label. A warning notice in 50 mm red characters and letters and white background bearing “DANGER UNDER REPAIR” and “危險–在維修中” must be displayed in a visible position at or near any conductor, apparatus or switchboard being worked on. Further guidelines on electrical safety can be viewed at www.safety.hku.hk/homepage/manual_EH.html . All users of machinery must wear safety spectacles. Long hair and loose clothes (including scarves, ties, sleeves) must be carefully tied. Suitable personal protective equipment should be worn. Working alone in using/operating any powered machinery with exposed high speed moving/rotating part(s) is prohibited. Never put your",
+          "metadata": {
+            "chunk_id": "txt_doc_ba0ed9abcd5f3b60_39",
+            "document_id": "doc_ba0ed9abcd5f3b60",
+            "position": 39,
+            "title": "Safety Arrangement",
+            "section": "Contents",
+            "url": "https://innowings.engg.hku.hk/safety-arrangement/",
+            "page_type": "policy",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02125396825396825
+        },
+        {
+          "text": "Page title: Safety Arrangement V2 – Backup\nPage type: policy\nSection: 5.2 Electrical Safety\nevery 6 months for loose connection/fault. All high voltage equipment and appliances must bear the “High Voltage” warning label. A warning notice in 50 mm red characters and letters and white background bearing “DANGER UNDER REPAIR” and “ 危險 – 在維修中 ” must be displayed in a visible position at or near any conductor, apparatus or switchboard being worked on. Further guidelines on electrical safety can be viewed at www.safety.hku.hk/homepage/manual_EH.html .",
+          "metadata": {
+            "chunk_id": "txt_doc_e441d191d2163102_49",
+            "document_id": "doc_e441d191d2163102",
+            "position": 49,
+            "title": "Safety Arrangement V2 – Backup",
+            "section": "5.2 Electrical Safety",
+            "url": "https://innowings.engg.hku.hk/safety-arrangement-v2-backup/",
+            "page_type": "policy",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02042424242424242
+        },
+        {
+          "text": "Page title: Safety Arrangement V2 – Backup\nPage type: policy\nSection: 3.5 Technical Manager\nwww.safety.hku.hk/homepage/pdf/CHWD.pdf; • ensuring adequate first-aid materials are provided in all first-aid boxes and that they are regularly renewed (duty of the First-Aid Box Coordinator) • enforcing and participating in the In-house Inspection System (see Section 6); • enforcing and observing the In-house Incidents Report Procedure (see Section 7); • enforcing and participating in the Laboratory Safety Awareness Declaration (see Section 9).",
+          "metadata": {
+            "chunk_id": "txt_doc_e441d191d2163102_96",
+            "document_id": "doc_e441d191d2163102",
+            "position": 96,
+            "title": "Safety Arrangement V2 – Backup",
+            "section": "3.5 Technical Manager",
+            "url": "https://innowings.engg.hku.hk/safety-arrangement-v2-backup/",
+            "page_type": "policy",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.02016417910447761
+        }
+      ]
+    },
+    {
+      "id": "image_curated_007",
+      "question": "一张透过玻璃隔断拍摄的室内照片中，前景有彩色方凳，左侧玻璃墙上有字并在下方设有书架。玻璃上的名称是什么？",
+      "expected_answer": "Dream Chamber。",
+      "answer": "所提供的证据中没有这张照片的描述，无法确认。",
+      "abstained": true,
+      "evidence_labels": [],
+      "grade": {
+        "id": "image_curated_007",
+        "score": 0,
+        "grounded": true,
+        "reason": "Abstains; there is no supplied evidence for the described glass partition or its lettering.",
+        "language_match": true
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "5": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "20": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        }
+      },
+      "evidence": []
+    },
+    {
+      "id": "image_curated_008",
+      "question": "In a presentation photo with a large screen on the left and a long blue bench in the foreground, what is positioned directly above the three grey visitor chairs along the right wall?",
+      "expected_answer": "A Tam Wing Fan Innovation Wing sign with an attached bell.",
+      "answer": "Tam Wing Fan Innovation Wing 标牌，旁边附有一个铃。",
+      "abstained": false,
+      "evidence_labels": [
+        "E1"
+      ],
+      "grade": {
+        "id": "image_curated_008",
+        "score": 1,
+        "grounded": true,
+        "reason": "Correctly identifies the Tam Wing Fan Innovation Wing sign with an attached bell; supplied visual description places it above the chairs on the right wall.",
+        "language_match": false
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        },
+        "5": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        },
+        "20": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "text": "Title: Space and layout\nSection: Selected visual observations\nImage-derived evidence:\nModel-described observations of this image; location and current facility inventory are not established by these observations. One large projected screen or display at the left of the image occupying most of the left half of the scene, showing a drone image and presentation text. One freestanding vertical banner located to the right of the screen (behind the standing person). One wall sign reading 'Tam Wing Fan Innovation Wing' with an attached bell mounted on the right wall above two chairs. Three identical grey visitor chairs arranged against the right wall beneath the Tam Wing Fan sign (two directly visible; a third is partially visible behind a monitor stand). One wheeled monitor/TV on a rolling stand on the far right of the image. One small square upholstered ottoman (blue/grey) on the floor in front of the chairs on the right. A long bench with blue cushioned seating composed of multiple joined segments running across the foreground; at least two joined cushion segments are clearly visible where people are seated. The large projected screen fills the left half of the image and faces the seating area in the foreground. Three people sit along the central section of the long blue bench with their backs to the camera; they are centrally positioned relative to the screen. A standing person is to the right-front of the screen (from the viewer's perspective) and appears to be demonstrating or photographing something toward the screen while standing between the screen and the vertical banner. The vertical 'Innovation Academy' banner is positioned behind the standing person, roughly between the screen and the right wall. On the right wall above two chairs is the 'Tam Wing Fan Innovation Wing' sign with a bell; the three grey chairs are arranged beneath that sign and adjacent to the wheeled monitor on the far right. The long bench runs parallel to the screen across the foreground; the grey backpack sits on the left portion of that bench and a person is seated at the right end of the bench facing the screen. Reported visible text: Innovation Academy; Faculty of Engineering, HKU; Faculty of Engineering; Tam Wing Fan; Innovation Wing.",
+          "metadata": {
+            "chunk_id": "revimg_79e3f5931b75735c4310775c",
+            "document_id": "imgtopic_b56e7d23010a5bc08789",
+            "kind": "image",
+            "title": "Space and layout",
+            "section": "Selected visual observations",
+            "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/07/SUV-5.jpg",
+            "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/07c2b7e7fb2fe3a73c831ae6.json",
+            "source_type": "web_image",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"webimg_48b85c30d7391f84d056eed5\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-20",
+            "capture_date": "unknown",
+            "status": "text_curated_not_visual_verified",
+            "page_type": "image_record",
+            "location": "unknown",
+            "description_model": "gpt-5-mini",
+            "description_prompt_version": "equipment-space-api-v3",
+            "curator_model": "gpt-6-luna",
+            "curator_reasoning_effort": "low",
+            "curation_version": "image-text-curation-v1",
+            "image_sha256": "48b85c30d7391f84d056eed56a42bcb1c835891a16d6e14e12bf401bec19870c",
+            "description_sha256": "4de4af90c26576577114f947aca23534977f99628d4880028c8622f6fd94c565",
+            "visual_reverified": false,
+            "source_pages_json": "[\"https://innoacademy.engg.hku.hk/suv-5/\"]",
+            "uncertainties_json": "[\"The leftmost large-screen text appears cropped; the visible fragments are transcribed as 'ection 6:' and 'ight Practice' because the initial letters are out of frame and not fully legible.\", \"The small Chinese line of text beneath the presentation image is transcribed as '章節6：飛行練習' but parts are small and could be partially obscured—confidence moderate.\", \"The full white t-shirt text on the back of the central seated person is small and partly unclear; the transcription 'We'll be making a motion detector but there is no because this is a telephone.' preserves visible words but some words may be misread or missing.\", \"A small purple sign on the wall near the 'Tam Wing Fan' sign is visible but its text is unreadable at this resolution; it is not transcribed.\", \"Some objects (for example the laptop on the right bench segment and the partially visible third chair) are partially occluded; counts reflect only clearly visible items and do not claim full room inventory.\"]",
+            "content_years_json": "[]",
+            "position": 234
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.01885245901639344
+        },
+        {
+          "text": "Title: Space and layout\nSection: Selected visual observations\nImage-derived evidence:\nModel-described observations of this image; location and current facility inventory are not established by these observations. One large wall-mounted or floor-to-ceiling digital display screen is at right showing a slide with the words \"Thank You.\" One freestanding banner stand is positioned at far right next to the presenters. One small mobile lectern/stand with a laptop or monitor on it is immediately in front of the presenters. One visible wall- or ceiling-mounted loudspeaker is mounted near the top right corner above the display screen. Several visible cables lie on the floor crossing from the left foreground toward the presentation area. The main floor covering is a light grey carpet with linear texture. Upholstered seating uses blue and teal tones: three square ottomans in foreground are blue, light grey, blue; the long bench segments down the center are shades of blue/teal. Upper wall area appears a pale mint green; lower wall and stair/bench surfaces are light grey. The large display screen has a white background with black text; the freestanding banner is dark (near black or very dark grey) with bright yellow-green text for \"Innovation Academy.\" The large digital display screen occupies the right-center wall and faces left toward the audience. A glass-walled room is centered at the back of the space behind the presentation area; the glass partition has visible interior furniture and a door. Reported visible text: Thank You; Innovation Academy; Faculty of Engineering, HKU; Faculty of Engineering.",
+          "metadata": {
+            "chunk_id": "revimg_651f3faa4e95483ceb97784f",
+            "document_id": "imgtopic_ffba4d2bc5fdd291eb32",
+            "kind": "image",
+            "title": "Space and layout",
+            "section": "Selected visual observations",
+            "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/07/Post-trip-image-3.jpeg",
+            "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/7f8c7e3c4ac7f0fc91ccd5f7.json",
+            "source_type": "web_image",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"webimg_d394c1335150c46d55f0c9a7\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-20",
+            "capture_date": "unknown",
+            "status": "text_curated_not_visual_verified",
+            "page_type": "image_record",
+            "location": "unknown",
+            "description_model": "gpt-5-mini",
+            "description_prompt_version": "equipment-space-api-v3",
+            "curator_model": "gpt-6-luna",
+            "curator_reasoning_effort": "low",
+            "curation_version": "image-text-curation-v1",
+            "image_sha256": "d394c1335150c46d55f0c9a763b6f2cf13b2bea592facc397e775f1204c8c0f1",
+            "description_sha256": "5aef0ab55644037154fb3f4148631439f237c123c1e7c8328e0ab4e2ffc4f43b",
+            "visual_reverified": false,
+            "source_pages_json": "[\"https://innoacademy.engg.hku.hk/post-trip-image-3/\"]",
+            "uncertainties_json": "[\"The exact room name or number is not visible; a faint label or sign on the glass door is present but unreadable in this image.\", \"The count of seated people is based on individually distinguishable persons visible in the current view; occlusion and cropping might hide additional people.\", \"Small text on the banner consists of a repeated small pattern of words that are not fully legible at this resolution; only the larger words transcribed are clearly readable.\", \"There is reflected or reversed text on the glass partition (\\\"Thank you\\\" appears faintly in reverse), creating potential duplication of the on-screen text; this reflection has been noted but is not a separate physical sign.\", \"Any small labels, model names or additional signage on equipment (camera, lectern, speaker) are not legible; counts and identifications avoid inferring equipment specifications.\"]",
+            "content_years_json": "[]",
+            "position": 255
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.018548387096774192
+        },
+        {
+          "text": "Title: Three-person trophy presentation\nSection: Visible image description\nImage-derived evidence:\nNo room name is visible. Three masked people stand closely together in front of a pale-blue event backdrop. One small trophy is held between the middle and right participants. Two dark chairs are visible behind the group, one toward each side.",
+          "metadata": {
+            "chunk_id": "revimg_f12153451849b94613449585",
+            "document_id": "imgtopic_0d288de71092a5ddd315",
+            "kind": "image",
+            "title": "Three-person trophy presentation",
+            "section": "Visible image description",
+            "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/20210203InauguralInnoSharing/20210203HKU4477.jpg",
+            "record_path": "prompt_from_web/innoacademy/descriptions/9b80748730b616a7b124eb4a/prompt.md",
+            "source_type": "web_image",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"webimg_362772a64a6ec52acf612565\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "image_record",
+            "image_type": "event_photo",
+            "location": "unknown",
+            "description_sha256": "2ebf5fb7547dafa2e376d47b4d5df85579f07a20ac061eab7611991fd1e3a66a",
+            "content_years_json": "[]",
+            "position": 178
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.018365591397849462
+        },
+        {
+          "text": "Title: Space and layout\nSection: Selected visual observations\nImage-derived evidence:\nModel-described observations of this image; location and current facility inventory are not established by these observations. Visible location text: DREAMLab Three office chairs are clearly visible in the central area (one grey swivel chair near the presenter, one behind it, and one slightly right of center). At least two laptops are visible on left-side desks (one open on the leftmost bench and one on the bench behind the presenter). Several cardboard boxes and packing materials (including a box wrapped in brown tape on the foreground chassis and bubble wrap) are visible on tables and frames. Various loose electronic components and wiring bundles are visible on the foreground chassis and tables (count not precisely determinable from the image). The presenter stands at the left foreground facing right toward a line of students standing along the right side of the image. Long workbenches/tables run from the foreground to the midground roughly along the central axis of the image, with equipment and assemblies placed on top of them. Monitors and a wall-mounted display are along the left wall above a continuous left-side workbench; posters line the wall above that bench. Reported visible text: DREAMLab; SF.",
+          "metadata": {
+            "chunk_id": "revimg_d5f3ef47f1bdc971c143b7ea",
+            "document_id": "imgtopic_d5e2233e002baab3be25",
+            "kind": "image",
+            "title": "Space and layout",
+            "section": "Selected visual observations",
+            "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/06/IMG_1534-e1563436706957.jpg",
+            "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/800249e1c26c9e8034822f69.json",
+            "source_type": "web_image",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"webimg_6ab8aa8bd8002289d59d8e95\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-20",
+            "capture_date": "unknown",
+            "status": "text_curated_not_visual_verified",
+            "page_type": "image_record",
+            "location": "unknown",
+            "description_model": "gpt-5-mini",
+            "description_prompt_version": "equipment-space-api-v3",
+            "curator_model": "gpt-6-luna",
+            "curator_reasoning_effort": "low",
+            "curation_version": "image-text-curation-v1",
+            "image_sha256": "6ab8aa8bd8002289d59d8e9559dbf34649612491d27373a3759ff77d5c2146da",
+            "description_sha256": "b8610fc53a1cc0fc0c292fafe25d29f871880a05747892c893f3e8edfef02071",
+            "visual_reverified": false,
+            "source_pages_json": "[\"https://innoacademy.engg.hku.hk/ktslcgss-visit/img_1534/\"]",
+            "uncertainties_json": "[\"Exact count of people: at least 12 are visible, but several heads at the right edge and partially obscured bodies make a precise count uncertain.\", \"Many small labels and screen captions are not legible in the provided image; only 'DREAMLab' and a two-letter 'SF' on a box are clearly readable.\", \"Text on the large left wall display and on posters above the left bench is not fully legible; several single-word fragments could not be confidently transcribed and are omitted.\", \"Some mechanical assemblies and electronic components are partially occluded or cropped at the image edges; the minimum number of distinct assemblies reported (three) is conservative and may undercount items outside the frame.\", \"A circular sign on the rear wall is visible but its exact lettering is unreadable from this image.\"]",
+            "content_years_json": "[]",
+            "position": 356
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.01825396825396825
+        },
+        {
+          "text": "Title: Space and layout\nSection: Selected visual observations\nImage-derived evidence:\nModel-described observations of this image; location and current facility inventory are not established by these observations. One large projection screen is visible on the far wall showing a multi-image slide; the projected image is centered on the front wall beneath windows. Two laptop screens or small monitors are visible on the long bench beneath the windows at the right side of the image (one clearly visible, one partially visible). Multiple large benches/tables are visible: at least four distinct rectangular light-wood tables are shown in the foreground and midground. Numerous stools are visible around the benches; at least 11 individual stools are clearly distinguishable in the image (some stools are partially cropped or behind tables). A long bench or counter runs along the windowed wall at the rear with transparent vertical acrylic partitions or screens placed along it; multiple partitions are visible (at least 4 segments visible). The projection screen is placed on the front wall roughly centered horizontally beneath a row of tall windows; seated people face the screen. Long tables/benches run roughly parallel to the projection screen; stools are placed around these benches on both near and far sides. A long counter or bench runs directly under the windows at the rear of the room with transparent acrylic partitions standing on it; two laptops/monitors sit on that counter spaced apart. Reported visible text: \"Types of simulator software\"; \"HKU R\" [on the back of the central standing person's shirt; additional smaller text and logos below are present but not fully legible].",
+          "metadata": {
+            "chunk_id": "revimg_948867f2ac85a25a343c9e1f",
+            "document_id": "imgtopic_327143c1b980a0b303ca",
+            "kind": "image",
+            "title": "Space and layout",
+            "section": "Selected visual observations",
+            "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/07/20220629_143242-scaled.jpg",
+            "record_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/descriptions/a60139f440cae211fd3d7359.json",
+            "source_type": "web_image",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"webimg_2e6c5ad6bfc82806e9488e8c\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-20",
+            "capture_date": "unknown",
+            "status": "text_curated_not_visual_verified",
+            "page_type": "image_record",
+            "location": "unknown",
+            "description_model": "gpt-5-mini",
+            "description_prompt_version": "equipment-space-api-v3",
+            "curator_model": "gpt-6-luna",
+            "curator_reasoning_effort": "low",
+            "curation_version": "image-text-curation-v1",
+            "image_sha256": "2e6c5ad6bfc82806e9488e8c7c2629393ee404f6b3b9650677e592c1a36244ee",
+            "description_sha256": "f3e6a2fee57c715d12818b4c5bf3ff4c813aa38bb4feae9482880d15a5836ecc",
+            "visual_reverified": false,
+            "source_pages_json": "[\"https://innoacademy.engg.hku.hk/20220629_143242/\"]",
+            "uncertainties_json": "[\"Exact person count is limited to those individually distinguishable in this view; additional people may be present outside the frame or obscured by others.\", \"Several small texts (logos on the standing person's shirt, small captions and thumbnails on the projected slide, sanitizer label) are partially legible or too small to transcribe fully; I have preserved clearly readable fragments and marked the rest as [unreadable].\", \"No explicit room name, room number, or signage identifying the space is legible in the image, so the location is recorded as unknown from the image.\", \"The exact number of acrylic partition segments along the rear counter cannot be confirmed beyond the visible segments because of partial cropping and perspective.\", \"I did not infer equipment types beyond visible features; for example, the presence of a projector is inferred from the projected image but no projector unit label or model text is legible in the photo.\", \"The transcription \\\"HKU R\\\" on the shirt may be incomplete or partially obscured; additional words and logos on the shirt are present but unreadable.\"]",
+            "content_years_json": "[]",
+            "position": 300
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.01796875
+        }
+      ]
+    },
+    {
+      "id": "image_curated_009",
+      "question": "Podcast Studio 门牌上的房间编号是什么？",
+      "expected_answer": "IW-LG10。",
+      "answer": "IW-LG10。",
+      "abstained": false,
+      "evidence_labels": [
+        "E1"
+      ],
+      "grade": {
+        "id": "image_curated_009",
+        "score": 1,
+        "grounded": true,
+        "reason": "Correctly gives IW-LG10; supplied Podcast Studio plaque evidence states that room identifier.",
+        "language_match": true
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        },
+        "5": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        },
+        "20": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "text": "Title: Podcast Studio\nSection: Text information\nImage-derived evidence:\nThe plaque for Podcast Studio reads \"IW-LG10\" and \"Podcast Studio\". These are the room identifier and name visible in the photograph.",
+          "metadata": {
+            "chunk_id": "revimg_3d6dc7fa8256615393bd3f27",
+            "document_id": "imgtopic_64c967428ca90a937cbd",
+            "kind": "image",
+            "title": "Podcast Studio",
+            "section": "Text information",
+            "url": "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg",
+            "record_path": "prompt/Podcast_Studio/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Podcast Studio",
+            "description_sha256": "217594fb22e24dd58def98a96d96683ad220277e2109cf629b42052a106fe8b5",
+            "content_years_json": "[]",
+            "position": 111
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.024852459016393443
+        },
+        {
+          "text": "Title: Podcast Studio\nSection: Spatial information\nImage-derived evidence:\nThe Podcast Studio plaque is a horizontal rectangular sign with a dark frame, mounted on a white wall. Its upper black band carries the room identifier in white, and its lower light-brown wood-grain panel carries the room name in black. The image shows the plaque rather than the room interior, so equipment, seating capacity and interior layout cannot be determined.",
+          "metadata": {
+            "chunk_id": "revimg_7f5d91ea341d4afc8737e36e",
+            "document_id": "imgtopic_934fec76682dce27ecfb",
+            "kind": "image",
+            "title": "Podcast Studio",
+            "section": "Spatial information",
+            "url": "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg",
+            "record_path": "prompt/Podcast_Studio/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Podcast Studio",
+            "description_sha256": "217594fb22e24dd58def98a96d96683ad220277e2109cf629b42052a106fe8b5",
+            "content_years_json": "[]",
+            "position": 112
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.02454838709677419
+        },
+        {
+          "text": "Page title: Podcast Studio (Treasure Hunt)\nPage type: facility\nDescription The InnoWing Podcast Studio provides professional and high quality equipment for users with uses case not limited to: Producing Pre-Recorded Videos/Audio Podcast Hosting Live Video Streaming/Podcasting Events High Quality Zoom Meetings etc... You may apply to Innovation Wing if you have projects which would like the support of these equipment.",
+          "metadata": {
+            "chunk_id": "txt_doc_932940370cfb09c1_2",
+            "document_id": "doc_932940370cfb09c1",
+            "position": 2,
+            "title": "Podcast Studio (Treasure Hunt)",
+            "section": "",
+            "url": "https://innoacademy.engg.hku.hk/podcaststudio/",
+            "page_type": "facility",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.023968749999999997
+        },
+        {
+          "text": "Title: Project Studio A\nSection: Text information\nImage-derived evidence:\nThe plaque for Project Studio A reads \"IW-LG05\" and \"Project Studio A\". These are the room identifier and name visible in the photograph.",
+          "metadata": {
+            "chunk_id": "revimg_b2e6079eb140bb70bb5cbb53",
+            "document_id": "imgtopic_5fa9cc175c953a0ddf03",
+            "kind": "image",
+            "title": "Project Studio A",
+            "section": "Text information",
+            "url": "image_source/Project_Studio_A/微信图片_20261013104633_76_35.jpg",
+            "record_path": "prompt/Project_Studio_A/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Project_Studio_A/微信图片_20261013104633_76_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Project Studio A",
+            "description_sha256": "a42c41ec9435c84f66649d05ee0d28af8549cfdda666a686b90c23dae3d3ae2a",
+            "content_years_json": "[]",
+            "position": 113
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.02125396825396825
+        },
+        {
+          "text": "Title: Project Studio B\nSection: Text information\nImage-derived evidence:\nThe plaque for Project Studio B reads \"IW-LG06\" and \"Project Studio B\". These are the room identifier and name visible in the photograph.",
+          "metadata": {
+            "chunk_id": "revimg_c31b92ad65e7eeb3f637861f",
+            "document_id": "imgtopic_d1c3ad197b059d9e6839",
+            "kind": "image",
+            "title": "Project Studio B",
+            "section": "Text information",
+            "url": "image_source/Project_Studio_B/微信图片_20261013104631_74_35.jpg",
+            "record_path": "prompt/Project_Studio_B/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Project_Studio_B/微信图片_20261013104631_74_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Project Studio B",
+            "description_sha256": "6564d10df5de5a58ac911f5a9e63ac4324de96e377cd089bc989e1af5454208b",
+            "content_years_json": "[]",
+            "position": 115
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.020968749999999998
+        }
+      ]
+    },
+    {
+      "id": "image_curated_010",
+      "question": "What should a maker place on the work surface to prevent damage, according to the rules sign?",
+      "expected_answer": "A mat.",
+      "answer": "所提供的证据没有说明应在工作台面上放置什么以防止损坏，无法确认。",
+      "abstained": true,
+      "evidence_labels": [
+        "E2"
+      ],
+      "grade": {
+        "id": "image_curated_010",
+        "score": 0,
+        "grounded": true,
+        "reason": "Abstains on what to place on the work surface. Supplied evidence describes the rules sign but does not provide its caption about a mat.",
+        "language_match": false
+      },
+      "evidence_at_k": {
+        "1": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "5": {
+          "hit": false,
+          "complete": false,
+          "group_recall": 0.0,
+          "groups": [
+            false
+          ]
+        },
+        "20": {
+          "hit": true,
+          "complete": true,
+          "group_recall": 1.0,
+          "groups": [
+            true
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "text": "Page title: Electronic workbench\nPage type: other\nsupply. Set the voltage and current adjustment knobs as you desire. The unit should be stored in a dry and well-ventilated place and the power cord removed if stored for long periods. Assessment How can a user become a trained operator? (E.g., online quiz + onsite demo) Join our workshop ! Complete the above model. Safety rules for DIGITAL MULTIMETER DIGITAL MULTIMETER The meters can be safe only according to standard procedures when used in conjunctions with the supplied test leads. To replace damaged test leads with only the same model or the same electric specifications. To avoid the risk of electric shock, do not use the meters before the cover is in place. The range switch should be the right position for the testing. To avoid electric",
+          "metadata": {
+            "chunk_id": "txt_doc_75247f02028e66eb_6",
+            "document_id": "doc_75247f02028e66eb",
+            "position": 6,
+            "title": "Electronic workbench",
+            "section": "",
+            "url": "https://innowings.engg.hku.hk/electronic-workbench/",
+            "page_type": "other",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.01885245901639344
+        },
+        {
+          "text": "Title: Makerspace A\nSection: Location attribution and exact text: maker-space rules\nImage-derived evidence:\nThe maker-space rules sign has eight instruction panels arranged in two rows of four. The upper row uses four red prohibition symbols with pictures of food and drink, a table, luggage, and powered tools including a glue gun. The lower row uses four green rings with headphones, a key and phone, a person disposing of rubbish, and a shield. The title band is blue, the body is white with a black border, and each caption sits on a black rectangle. The laminated sheet rests against a light wood surface. These pictograms illustrate rules and are not an equipment inventory. The specific power-tool and glue-gun restriction should retain its sign attribution rather than becoming an inferred prohibition on every tool everywhere in Innovation Wing.",
+          "metadata": {
+            "chunk_id": "revimg_8c9805229581583f0a320e16",
+            "document_id": "imgtopic_657d5700f078fb052393",
+            "kind": "image",
+            "title": "Makerspace A",
+            "section": "Location attribution and exact text: maker-space rules",
+            "url": "submission_repo/image_hzq/maker_space/sign.jpg",
+            "record_path": "prompt/Makerspace_A/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"submission_repo/image_hzq/maker_space/sign.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Makerspace A",
+            "description_sha256": "8ef073a7eb8ca3752dd4474b967a6f57250344350af01f10f3880eb408f7bb6a",
+            "content_years_json": "[]",
+            "position": 91
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.01885245901639344
+        },
+        {
+          "text": "Page title: Safety Arrangement\nPage type: policy\nSection: Contents\nthe working platform must be used. Another staff should stay on the ground/floor level to prevent the working platform from being hit or struck by moving persons and objects. When a working platform is being moved to another workplace, do not allow any persons to stay thereon, any objects that may increase the risk of overturning the platform and loosen objects that may fall while moving the platform to be placed thereon; All the castors should be firmly locked in position while ascending/descending and using the working platforms; The outriggers of working platforms should be fully extended in accordance with the manufacturer’s requirements to ensure their secure foundation and stability. The height-to-base ratio of mobile",
+          "metadata": {
+            "chunk_id": "txt_doc_ba0ed9abcd5f3b60_53",
+            "document_id": "doc_ba0ed9abcd5f3b60",
+            "position": 53,
+            "title": "Safety Arrangement",
+            "section": "Contents",
+            "url": "https://innowings.engg.hku.hk/safety-arrangement/",
+            "page_type": "policy",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.018548387096774192
+        },
+        {
+          "text": "Title: Dream Chamber\nSection: Text information: meeting and conference room rules\nImage-derived evidence:\nAccording to the rules sheet photographed for Dream Chamber, Conference Room and Meeting Room use is limited to academic purposes, such as work or discussions related to hands-on projects. Bookings may be made at the Reception counter or by email to innowing@hku.hk on a first-come-first-served basis. Each eligible user may book a maximum of two sessions per day, with each session lasting 60 minutes. The Meeting Room is designated for team meetings or hands-on work activities rather than individual use; the sheet suggests learning commons or library facilities for individual work.",
+          "metadata": {
+            "chunk_id": "revimg_784b5d17b67a01fe93ff2c00",
+            "document_id": "imgtopic_8fed5479b3c387be6018",
+            "kind": "image",
+            "title": "Dream Chamber",
+            "section": "Text information: meeting and conference room rules",
+            "url": "image_source/Dream_Chamber/微信图片_20261013104614_56_35.jpg",
+            "record_path": "prompt/Dream_Chamber/prompt.md",
+            "source_type": "physical_photo",
+            "evidence_type": "visual_description",
+            "source_ids_json": "[\"image_source/Dream_Chamber/微信图片_20261013104614_56_35.jpg\"]",
+            "evidence_pipeline": "reviewed_images_v1",
+            "review_date": "2026-10-13",
+            "capture_date": "unknown",
+            "status": "assistant_reviewed",
+            "page_type": "facility",
+            "location": "Dream Chamber",
+            "description_sha256": "790d831565c9b1e6bcc4d91f98a76b26f08256f2d760f9ec3e34595c321ded0b",
+            "content_years_json": "[]",
+            "position": 33
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "image_bm25"
+          ],
+          "hybrid_score": 0.018548387096774192
+        },
+        {
+          "text": "Page title: Safety Arrangement\nPage type: policy\nSection: Contents\nand descending purposes only. They should not be used for work-above-ground unless in very exceptional circumstances and after having conducted a task-specific risk assessment by the Technical Manager. If the use of ladders is unavoidable, stringent control should be implemented to ensure that adequate and suitable control and safety measures are in place. In particular, another technical staff should stay on the ground/floor level to prevent the ladder from being hit or struck by moving persons and objects. In InnoWing, only full-time technical staff trained in using its working platform are allowed to work-at-height and the working platform must be used. Another staff should stay on the ground/floor level to prevent the",
+          "metadata": {
+            "chunk_id": "txt_doc_ba0ed9abcd5f3b60_52",
+            "document_id": "doc_ba0ed9abcd5f3b60",
+            "position": 52,
+            "title": "Safety Arrangement",
+            "section": "Contents",
+            "url": "https://innowings.engg.hku.hk/safety-arrangement/",
+            "page_type": "policy",
+            "status": "ready",
+            "kind": "text"
+          },
+          "distance": null,
+          "retrieval_sources": [
+            "bm25"
+          ],
+          "hybrid_score": 0.01825396825396825
+        }
+      ]
+    }
+  ]
+}

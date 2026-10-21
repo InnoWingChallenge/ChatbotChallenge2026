@@ -1,0 +1,25 @@
+{
+  "id": "2b1ceeeb6b7f53fe355062f6",
+  "sha256": "382b2d6de85b56ebac32b003cd55c1251005d387b5310693acec2d28b58678d3",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": false,
+  "title": "Festive robot greeting graphic",
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "Innovation Academy",
+    "FACULTY OF ENGINEERING",
+    "MERRY CHRISTMAS",
+    "AND HAPPY NEW YEAR",
+    "2024"
+  ],
+  "visual_facts": [],
+  "spatial_relations": [
+    "A large blue cartoon robot holding a wrapped gift fills the right side; greeting text occupies the left side."
+  ],
+  "uncertainties": [
+    "This is a digitally composed seasonal greeting image rather than a photograph of equipment or a space layout."
+  ]
+}

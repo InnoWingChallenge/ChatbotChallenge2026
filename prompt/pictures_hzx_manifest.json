@@ -1,0 +1,686 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-10-13",
+  "source_collection": "image_source/Pictures_Hzx",
+  "image_count": 75,
+  "description_language": "en",
+  "description_format": "paragraphs",
+  "notes": "This source-to-record manifest is provenance metadata, not building knowledge. Some sections explicitly retain unresolved room identity. No Chroma ingestion was performed.",
+  "images": [
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2627.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Spatial information: wide view and circulation",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "69aa2d4a2d1882c844ae391f75078a466d54057f0957b74ef5ca3972d8b340e9"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2628.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Text information: wall notices and posted requirements",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "8cc0ad6002f579e5301056b07405e1dc1157948a6f1ff81eb11f9aa6b2030c16"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2629.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Text information: table-mounted dos and don'ts",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "fe9a59f39fc63d1d6beb51d6491cd8caf06af85a3fbc92c2b2ff01857242633a"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2631.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Spatial information: tables, project storage and model aircraft",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "c1571a0e8ca14307648c8f65b4d7e362b109c4f1faf8909e92165e678bee3bf9"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2632.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Spatial information: tables, project storage and model aircraft",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "6469b021585162aca76ce3bb0c82a5adbbd0dab350cc3529cd232af51e8ae59c"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2633.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Spatial information: tables, project storage and model aircraft",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "4e007457f51d75bb5c897f9a57fd7ccf86d0a1c106878026c7332f126551d4d9"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2634.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Spatial information: projector and exit doors",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "d8aad6e6bb435387f3e498811bd48e9847fec4366cb06c82b161c482701f395a"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2635.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Spatial information: tables, project storage and model aircraft",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "a929de39a6ef64e91e4810418694b5edc746238de79175d1bf6c86988ba854e4"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Open event area/IMG_2636.HEIC",
+      "record": "prompt/Open_Event_Area/prompt.md",
+      "section": "Spatial information: projector and exit doors",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "d2742645e44872f78f1c1adcabde4633512b7ebec17f2a0bec360ca7fbaa3cfb"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2637.HEIC",
+      "record": "prompt/微信图片_20261013104634_77_35/prompt.md",
+      "section": "Text and spatial information: wider restricted-door view",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "0793ffb78eadc9abac8421602bb69d74a8366ad42ca0067f4bae2259cf28a9b3"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2638.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Spatial information: overview and connection to the open area",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "0eea8111b33b17a5e3eaeffc66a743b078d32a5727b2ffe1de2d33a25744ed9b"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2639.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Spatial information: overview and connection to the open area",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "d986b42eb2000d80a6ec27cd453b43ad21591ec82ee97ca53c352578a6e04511"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2640.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Spatial information: overview and connection to the open area",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "a7e1c5a5454fdeb443d3b677ec151d9583c48baa98c82bd236a10cbf14b262fd"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2641.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Text and spatial information: kitchenette notices",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "4c8ec26bb231d553762c66598050c4bee8a3f52b01490482ccbc4903982d3e25"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2642.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Text and spatial information: kitchenette notices",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "f25dff05f257fa88cabb2fa460bd539b1dcfeba4b26af3fa8a69272f6b52af29"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2643.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Text and spatial information: kitchenette notices",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "7b0ad05b80d63cf2179cf53c6854bc3b0f20c6c1eb622ec7c8c6ff9792b46fc3"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2644.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Text and spatial information: display, lectern and bell",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "30a56a4cb8591651b8849147e604bca9a5ddbd4ccdf05a18ef5bfa8c4b7581d9"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2645.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Text and spatial information: display, lectern and bell",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "72f83e0d988c591d6c9522430f42aeb7f84b20770bdbae7bbd8180c39ae38d67"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2646.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Text and spatial information: display, lectern and bell",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "0f71f1a43c6ea1ace2e3ca527e7fa153e6122490315b257f5c0a032e6bfac21d"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2647.HEIC",
+      "record": "prompt/Thematic_Workshop_H/prompt.md",
+      "section": "Text and spatial information: confirmed entrance",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "0f8a99203f7398eae4626328b5acc602b86a2c06793770ee0be1667f125dff32"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2648.HEIC",
+      "record": "prompt/Thematic_Workshop_H/prompt.md",
+      "section": "Text information: dated team-specific workspace notice",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "fb91122f014138addd28f8706a595b74cf781d3857febcaca08be8691e1bcc77"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2649.HEIC",
+      "record": "prompt/Thematic_Workshop_H/prompt.md",
+      "section": "Text information: Ryan poster and safety contacts",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "5e9d26ffa98d1f148ff4ecc7ab4414bec256b0e3c554a71b05c2aaaddfe21c5d"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2650.HEIC",
+      "record": "prompt/Thematic_Workshop_H/prompt.md",
+      "section": "Text information: Ryan poster and safety contacts",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "3841bc312fee44facaeeb63cf8fa5b006c99eed05518b9efbed7acc7ae241767"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2651.HEIC",
+      "record": "prompt/Dream_Chamber/prompt.md",
+      "section": "Text and spatial information: confirmed LG14 entrance",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "edb32c7af7a955436c48d2d5256f69351dcf65048fe762a73d99f5bb62d1444a"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2652.HEIC",
+      "record": "prompt/Dream_Chamber/prompt.md",
+      "section": "Text and spatial information: confirmed LG14 entrance",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "31e26da8f99b1fa972458b6672662fc072c4d4bda27b8c115af0baf1ffb1e39b"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2653.HEIC",
+      "record": "prompt/Dream_Chamber/prompt.md",
+      "section": "Text information: dated rules and safety card",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "af6b14460e4d075026eeab6280a42dfbf585893d1729386e52b2e2ca48a7f20d"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2654.HEIC",
+      "record": "prompt/Dream_Chamber/prompt.md",
+      "section": "Text information: dated rules and safety card",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "deea6ddc675b99913fd1f1f53ce3c8b79cc2e7bba34819b540c477801afa24f6"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/brain storming area/IMG_2655.HEIC",
+      "record": "prompt/Brainstorm_Space/prompt.md",
+      "section": "Text and spatial information: display, lectern and bell",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "b1a3248021beffe652d6ced3163db5138eeef8f5d61443a70c5273c722049da4"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC",
+      "record": "prompt/Digital_Learning_Studio/prompt.md",
+      "section": "Text and spatial information: computer hardware close-ups",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "6dcc874c8d54ca35866b1c63420d1faddc53d72f1efa393cc94cde90a02b2b4b"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Digital studio/IMG_2657.HEIC",
+      "record": "prompt/Digital_Learning_Studio/prompt.md",
+      "section": "Text and spatial information: computer hardware close-ups",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "2ffae77b31b42eee5be1e3bbb6e2b58a7a949566c93459c11c9b12b312595ba9"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Digital studio/IMG_2658.HEIC",
+      "record": "prompt/Digital_Learning_Studio/prompt.md",
+      "section": "Text and spatial information: computer hardware close-ups",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "fa87ad668b96b7351eca420b38d34efde77b72dff19503ae95fb3649e1b938c4"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Digital studio/IMG_2659.HEIC",
+      "record": "prompt/Digital_Learning_Studio/prompt.md",
+      "section": "Spatial information: room overview",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "ddccc8fabc2b94f3cf2cff22a31716645562307a2c9d2b7e2351cc8a1d67145b"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Digital studio/IMG_2660.HEIC",
+      "record": "prompt/Digital_Learning_Studio/prompt.md",
+      "section": "Text information: food, support and project-item notices",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "c13c630fcd16c532d6847c218b2eac6d1ce38379d65c18b5b058eead942a714f"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Digital studio/IMG_2661.HEIC",
+      "record": "prompt/Digital_Learning_Studio/prompt.md",
+      "section": "Text information: food, support and project-item notices",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "ea79a1bec427904ccdd70a565b2764449cfd71e95369feb28115df661407b5d4"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Digital studio/IMG_2662.HEIC",
+      "record": "prompt/Digital_Learning_Studio/prompt.md",
+      "section": "Text and spatial information: escape plan and wall controls",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "6d65305d885649b9720d06a7d3f24cabd3f1735aff4519f7d665a06e2eaf8c6c"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Digital studio/IMG_2663.HEIC",
+      "record": "prompt/Digital_Learning_Studio/prompt.md",
+      "section": "Text information: food, support and project-item notices",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "9cf9e4f963abaa17d938a6d013c92d7994b289a148abb0048e3e06093b4d4b56"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2665.HEIC",
+      "record": "prompt/Thematic_Workshop_G/prompt.md",
+      "section": "Text information: room identity and health and safety card",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "c5155deb090e4eb859c52429977e954473b658745645414218fc6051abf86f1b"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2666.HEIC",
+      "record": "prompt/Thematic_Workshop_G/prompt.md",
+      "section": "Spatial information: additional laboratory views",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "5c6878a89f6a1df12029da6e1c1c1d35fe3cef08275f46291f64a9c3f1a766cd"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2667.HEIC",
+      "record": "prompt/Thematic_Workshop_G/prompt.md",
+      "section": "Spatial information: additional laboratory views",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "1c2e2ef6d9d076fa5db7de5fb1d662dc782291a479d4d83db939ffb78817f6ba"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G entrance nearby/IMG_2668.HEIC",
+      "record": "prompt/Ground_Floor_Entrance/prompt.md",
+      "section": "Text and spatial information: reception and wayfinding",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "acd8853c7902116f3606cbb28ae7398ffc18c07e45e1dfa6e29f3a45ac99de43"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G entrance nearby/IMG_2669.HEIC",
+      "record": "prompt/Ground_Floor_Entrance/prompt.md",
+      "section": "Spatial information: staircase and view below",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "2f45e48cbef0cb5df6237e046980706286344b40a23dbe72458fb814f70a145a"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G entrance nearby/IMG_2670.HEIC",
+      "record": "prompt/微信图片_20261013104643_86_35/prompt.md",
+      "section": "Text and spatial information: stair-side wayfinding and membership",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "8a340adf4d0fa4118f7fcc2dc69c62cf94bafb0ef0b80d74d3aa083c80b2d2a4"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G conference room/IMG_2671.HEIC",
+      "record": "prompt/Conference_Room/prompt.md",
+      "section": "Text information: identity and food restriction",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "fc84dd3576356d2ab910a4228303e761da8bb6f2ed78276b9183bbb8eab5870a"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G conference room/IMG_2672.HEIC",
+      "record": "prompt/Conference_Room/prompt.md",
+      "section": "Spatial information: long meeting table",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "ba163d3b065e5068ac32750308530465c175f48fb6797ecdd82178ac8ef63304"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G conference room/IMG_2673.HEIC",
+      "record": "prompt/Conference_Room/prompt.md",
+      "section": "Text and spatial information: trophy display",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "09b6c49e718b68d0ef0805b77ca3da9d94866c424573caecc3c2e5b3cead3003"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G conference room/IMG_2674.HEIC",
+      "record": "prompt/Conference_Room/prompt.md",
+      "section": "Text and spatial information: certificates and shelving",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "3567a99d41f8ae8dd5fe1e17d51d52f8fe4c11e12f712421c535fb3ec37ee67d"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G entrance nearby/IMG_2675.HEIC",
+      "record": "prompt/Entrance_History_Display/prompt.md",
+      "section": "Text and spatial information: early engineering history",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "b326145c27da3cfdf01cd76b4916596d204f12d39668c632f8f85daff00e8314"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G entrance nearby/IMG_2676.HEIC",
+      "record": "prompt/Entrance_History_Display/prompt.md",
+      "section": "Text and spatial information: buildings and departments",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "194f22741b5917df6fe2e517e23d69cb94f7063636024ed72070213dc41cc5ca"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G entrance nearby/IMG_2677.HEIC",
+      "record": "prompt/Entrance_History_Display/prompt.md",
+      "section": "Text and spatial information: ceremonies and student activities",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "0fdd7b786a7ef91c55d2152b131f85c850bdad48ad76deed6e2823ece087f255"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Maker sapce/IMG_2678.HEIC",
+      "record": "prompt/Makerspace_A/prompt.md",
+      "section": "Text information: named space and surveillance",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "32eef15f04984d05d35798d9cb6e1678abdb97fea4f1256c0c497a33eed23477"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Maker sapce/IMG_2679.HEIC",
+      "record": "prompt/Makerspace_A/prompt.md",
+      "section": "Spatial information: shared work tables",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "1f5ae68f7d634ffa75b846d5c68f848dd6cd00a4b72d30e28dfd2352c856f7e4"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/G entrance nearby/IMG_2680.HEIC",
+      "record": "prompt/Entrance_History_Display/prompt.md",
+      "section": "Text and spatial information: Innovation Wing events and donations",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "f9a4b486c380e64e17b1bdd7e5a0331f49618c52d89da96f4e2fe1c723fedabf"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2681.HEIC",
+      "record": "prompt/Thematic_Workshop_A/prompt.md",
+      "section": "Spatial information: workstation room",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "d95848d60616e8f1110e03a5b9472b410ce8e44f531d046e7cf30f735407bbec"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2682.HEIC",
+      "record": "prompt/Thematic_Workshop_A/prompt.md",
+      "section": "Text information: room identity",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "dfa1785531759b0e75709ff145b2ef9d2fba87b54d6c3c0356d0dcbea15e0910"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2683.HEIC",
+      "record": "prompt/Thematic_Workshop_A/prompt.md",
+      "section": "Spatial information: workstation room",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "f602ca08cb15112da0457186805c3b27cdf6f3a4b50f43ad5bc3bc462c3b5fe7"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Restroom/IMG_2685.HEIC",
+      "record": "prompt/Restrooms/prompt.md",
+      "section": "Text and spatial information: directional sign and doorway",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "fc477fe037fc39b78688e948d7476f4c8389a5cab04ba9f17d31508735ed9f03"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Restroom/IMG_2686.HEIC",
+      "record": "prompt/Restrooms/prompt.md",
+      "section": "Text and spatial information: directional sign and doorway",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "82ab75cb01eb4c7a3ab19931dd02c0949eb09f09fe6396bd2b81d0965cf82682"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2687.HEIC",
+      "record": "prompt/Thematic_Workshop_B/prompt.md",
+      "section": "Text information: room plaque and named person",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "91342eb28599957a62fb739f906727cf3953614bd246319d914b5165dc88aabf"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2688.HEIC",
+      "record": "prompt/Thematic_Workshop_B/prompt.md",
+      "section": "Spatial information: workstations",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "cac6ddb3f76db7e1fbef350456cfcbb5f883a1fc418e70d3ede952c05ae6e52b"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2689.HEIC",
+      "record": "prompt/Dream_Chamber/prompt.md",
+      "section": "Unresolved location: glazing bearing the same name",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "bfec2919aaa86ce969fddf2b6d8f807d22bb1b23e3fa9d8a85f373fc32bce68a"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Fire exit/IMG_2690.HEIC",
+      "record": "prompt/Fire_Exits/prompt.md",
+      "section": "Text and spatial information: glazed doors in the source group",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "6fc01aa3c9ffa2b8187d46b89c35925fdf0759d69ca7f4815ea5b262e1fdba5c"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2691.HEIC",
+      "record": "prompt/Thematic_Workshop_C/prompt.md",
+      "section": "Text information: room identity",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "584235b597b627b2ab27c481988c613e1f802f0a98b4651386dcfd4a15dcfa5d"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2692.HEIC",
+      "record": "prompt/Thematic_Workshop_C/prompt.md",
+      "section": "Text information: SLA printing poster and safety card",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "5974534fab0bdb1dc7002246c2586d7e4fcc1d07d353e579614f9b64611fccf2"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2693.HEIC",
+      "record": "prompt/Thematic_Workshop_C/prompt.md",
+      "section": "Text information: induction requirements and printed floor plan",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "2b07d4c86626b58d62c93741385d0dafbc7a31337463cf97009b1011c8840ed9"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2694.HEIC",
+      "record": "prompt/Thematic_Workshop_C/prompt.md",
+      "section": "Spatial information: printers and work surfaces",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "f55a6b831af1094903215cb7a048aff4629913f22c1d00fc6b1bc18d9d926cc9"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2695.HEIC",
+      "record": "prompt/Thematic_Workshop_C/prompt.md",
+      "section": "Spatial information: printers and work surfaces",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "57d6807305e9a63d49818914e3e4b3fff4e35a986252970828324e319bdd109c"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Fire exit/IMG_2696.HEIC",
+      "record": "prompt/Fire_Exits/prompt.md",
+      "section": "Text and spatial information: first exit-door view and nearby window",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "2f43d81497a891e8e6599336ecddd594858d778b7be1b02ed1220983298a9f1c"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Fire exit/IMG_2697.HEIC",
+      "record": "prompt/Fire_Exits/prompt.md",
+      "section": "Text and spatial information: first exit-door view and nearby window",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "17629d9e899c759f02035f2724d74749144b1fc7fd7933891bae5ba1dad133b0"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2698.HEIC",
+      "record": "prompt/Machine_Workshop/prompt.md",
+      "section": "Text information: identity and help contact",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "f4470fa4aa55d8826c6200b6fdfbc578d464ee3da01b508bcdb7993c23978487"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2699.HEIC",
+      "record": "prompt/Machine_Workshop/prompt.md",
+      "section": "Text information: four machine induction cards",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "112478f056255b275683935c8deff4b3634d36ec56cc6b00e9775d1419c92659"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2700.HEIC",
+      "record": "prompt/Machine_Workshop/prompt.md",
+      "section": "Text information: access, clothing and safety card",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "1f08da0a311dbfb3523c0cdbc69e92106a5840103cb7f86d41837c91bf77b81a"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2701.HEIC",
+      "record": "prompt/Machine_Workshop/prompt.md",
+      "section": "Spatial information: workshop interiors and material storage",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "0f938bf21a6b84449e812f5ab4627fbf07b70ee543b713cad9f819ccd5e6671b"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2702.HEIC",
+      "record": "prompt/Machine_Workshop/prompt.md",
+      "section": "Spatial information: workshop interiors and material storage",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "ff8c9a74c8afe0ecb6a48db9af9e1182f160567cca70c1494c4a1fac7a8a71df"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/All kinds of rooms/IMG_2703.HEIC",
+      "record": "prompt/Machine_Workshop/prompt.md",
+      "section": "Spatial information: workshop interiors and material storage",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "a3fc1518ca443e263cde68e854640314278d5d077b813c03d61f5d45e217c5ed"
+    },
+    {
+      "source_id": "image_source/Pictures_Hzx/Fire exit/IMG_2704.HEIC",
+      "record": "prompt/Fire_Exits/prompt.md",
+      "section": "Text and spatial information: another exit-door view",
+      "content_type": "image/heic",
+      "review_date": "2026-10-13",
+      "capture_date": null,
+      "sha256": "2e2d18e1e631990628f718e740c266c207f798f1c0f62ea534945967caab8bce"
+    }
+  ]
+}

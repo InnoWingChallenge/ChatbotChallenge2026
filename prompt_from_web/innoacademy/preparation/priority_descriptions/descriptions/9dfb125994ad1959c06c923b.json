@@ -1,0 +1,98 @@
+{
+  "title": "Ultimaker 3 enclosed 3D printer",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One enclosed desktop 3D printer is visible occupying the frame; the front face shows a rectangular door/opening and internal build area.",
+    "No people are visible in the image.",
+    "Inside the printer, visible components include one build plate (glass-looking, horizontal) and one print head/carriage assembly suspended on horizontal rails; two vertical guide rods are visible at the rear of the build area.",
+    "An external-looking clear/transparent upper enclosure panel is visible attached to the top of the printer (count: one).",
+    "There are multiple fasteners/screws visible on the machine panels (individually visible but not counted as repeated inventory)."
+  ],
+  "visible_text": [
+    "Ultimaker 3",
+    "Ultimaker"
+  ],
+  "spatial_relations": [
+    "The transparent front panel forms the main viewing window; the build plate lies horizontally near the bottom of the interior directly behind this front window.",
+    "The printer carriage with the 'Ultimaker' label is mounted on a horizontal rail spanning the upper interior and sits above the build plate.",
+    "Two vertical metal rods are positioned toward the rear of the interior, behind the carriage, running from the base toward the top of the enclosure.",
+    "A tall cylindrical/box-shaped white component is located at the right-rear interior, behind the carriage and near the right interior wall.",
+    "A clear/transparent top panel is attached above the main body, forming an upper enclosure that sits above the visible interior components."
+  ],
+  "colours_and_materials": [
+    "The printer's exterior body is predominantly white plastic.",
+    "Front and upper panels appear to be clear transparent material (likely acrylic or polycarbonate) allowing an unobstructed view of the interior.",
+    "Interior guide rods and some structural rails are metallic (silver/steel appearance).",
+    "The build plate appears dark on its surface and rests on a glass-looking substrate with a greenish tinge at the front edge."
+  ],
+  "uncertainties": [
+    "Small text, iconography and labels on the lower front panel (near the display and control knob) are not legible at this image resolution and are transcribed here as [unreadable] if needed; the display itself is blank or too low-contrast to read.",
+    "The precise wording/format of the printer model marking (for example superscript formatting) is interpreted as 'Ultimaker 3' but exact glyph details may differ.",
+    "Some interior parts (for example whether the cylindrical rear unit is a filament spool holder or another component) cannot be identified confidently from appearance alone.",
+    "Fasteners, small stickers and any fine-print safety or certification labels are present but unreadable in this image.",
+    "Because only a single viewpoint is provided, counts reflect only individually distinguishable visible objects and do not imply total room inventory or the presence of other equipment outside the frame."
+  ],
+  "visual_facts": [
+    "One enclosed desktop 3D printer is visible occupying the frame; the front face shows a rectangular door/opening and internal build area.",
+    "No people are visible in the image.",
+    "Inside the printer, visible components include one build plate (glass-looking, horizontal) and one print head/carriage assembly suspended on horizontal rails; two vertical guide rods are visible at the rear of the build area.",
+    "An external-looking clear/transparent upper enclosure panel is visible attached to the top of the printer (count: one).",
+    "There are multiple fasteners/screws visible on the machine panels (individually visible but not counted as repeated inventory).",
+    "The printer's exterior body is predominantly white plastic.",
+    "Front and upper panels appear to be clear transparent material (likely acrylic or polycarbonate) allowing an unobstructed view of the interior.",
+    "Interior guide rods and some structural rails are metallic (silver/steel appearance).",
+    "The build plate appears dark on its surface and rests on a glass-looking substrate with a greenish tinge at the front edge."
+  ],
+  "id": "9dfb125994ad1959c06c923b",
+  "sha256": "5164660092b575162b4cfeb46abd49de31acef4147da2decb880be12238de6a6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:17:07.811284+00:00",
+  "input_resolution": [
+    578,
+    749
+  ],
+  "input_sha256": "92d5aca6b949e9d9cd04e7fb5ef1b6cb4c2a1c01499bec115bbfd2308a38394e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EathLfUVbN8lTd8HIyk7UPo1MJ0xS",
+  "usage": {
+    "completion_tokens": 975,
+    "prompt_tokens": 1748,
+    "total_tokens": 2723,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 301,
+      "engine_ttlt_ms": 7250,
+      "pre_inference_ms": 131,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 968,
+      "service_ttlt_ms": 7913,
+      "user_visible_ttft_ms": 837
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

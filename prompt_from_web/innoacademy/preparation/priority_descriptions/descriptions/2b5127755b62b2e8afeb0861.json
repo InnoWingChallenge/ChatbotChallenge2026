@@ -1,0 +1,107 @@
+{
+  "title": "Two-tier metal cart loaded with many green cylindrical items in a storage/work area",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One two-tier metal cart with tubular metal frame and two flat shelves; the cart has four caster wheels (two caster wheels with red rims are visible in the lower-left and lower-right foreground).",
+    "Top shelf of the cart holds 25 individually distinguishable green cylindrical objects with wider bases and narrower tops, each covered on top with a clear or translucent film or tape (count stated for the top shelf only).",
+    "Bottom shelf of the cart holds 28 individually distinguishable green cylindrical objects with similar appearance to those on the top shelf, many with clear or translucent coverings on top (count stated for the bottom shelf only).",
+    "No people are visible in the photographed scene.",
+    "At least two large blue plastic drums or barrels are visible on shelving behind the cart (two located upper-left to center background).",
+    "Multiple rectangular plastic storage boxes with blue lids are visible on shelving and on the floor to the right and rear of the cart (at least four distinct boxes with blue lids are visible).",
+    "A metal shelving unit in the background contains various buckets, cardboard boxes and containers (multiple items, not individually counted).",
+    "Several paint cans or similar cylindrical containers are visible on the floor and shelves to the right and rear (at least two visible).",
+    "A small beige plastic stool or step is visible on the left background near the floor level."
+  ],
+  "visible_text": [
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The metal cart is in the foreground and centered in the image, occupying most of the lower two-thirds of the frame.",
+    "The top shelf of the cart is above the bottom shelf; the green cylindrical objects are arranged in rows on each shelf.",
+    "Two blue drums are positioned on shelving behind and slightly left of the cart; the shelving runs horizontally across the mid-background.",
+    "Several blue-lidded plastic storage boxes are positioned on the floor to the right and behind the cart, and additional boxes are on the shelving behind the cart.",
+    "A beige small stool is on the floor behind and to the left of the cart, partially behind the shelving area.",
+    "Caster wheels of the cart sit directly on a worn beige/tan floor surface; the left front caster is nearer the viewer than the other wheels."
+  ],
+  "colours_and_materials": [
+    "The green cylindrical objects are painted green and each has a clear or translucent covering on its top (likely plastic wrap or tape).",
+    "The cart frame and shelf supports appear to be chrome or polished metal; the shelf surfaces show paint splatters and wear.",
+    "Two large drums in the background are blue plastic.",
+    "Several rectangular storage boxes have blue lids and translucent or opaque plastic bodies.",
+    "The floor is a beige/tan hard surface with visible dirt, paint splatters, and wear."
+  ],
+  "uncertainties": [
+    "No clear room name or number is visible in the image; location cannot be determined from what is visible.",
+    "The exact printed text on containers, boxes or labels in the background is not legible in the image; transcriptions of those texts are marked as [unreadable].",
+    "Counts for the green cylindrical objects on each shelf are based on visually distinguishable items in the photograph; overlap or partial occlusion may affect exact totals.",
+    "Some background objects (boxes, buckets, cans) are partially obscured by shelving or other containers; their full quantity and any labeling are uncertain."
+  ],
+  "visual_facts": [
+    "One two-tier metal cart with tubular metal frame and two flat shelves; the cart has four caster wheels (two caster wheels with red rims are visible in the lower-left and lower-right foreground).",
+    "Top shelf of the cart holds 25 individually distinguishable green cylindrical objects with wider bases and narrower tops, each covered on top with a clear or translucent film or tape (count stated for the top shelf only).",
+    "Bottom shelf of the cart holds 28 individually distinguishable green cylindrical objects with similar appearance to those on the top shelf, many with clear or translucent coverings on top (count stated for the bottom shelf only).",
+    "No people are visible in the photographed scene.",
+    "At least two large blue plastic drums or barrels are visible on shelving behind the cart (two located upper-left to center background).",
+    "Multiple rectangular plastic storage boxes with blue lids are visible on shelving and on the floor to the right and rear of the cart (at least four distinct boxes with blue lids are visible).",
+    "A metal shelving unit in the background contains various buckets, cardboard boxes and containers (multiple items, not individually counted).",
+    "Several paint cans or similar cylindrical containers are visible on the floor and shelves to the right and rear (at least two visible).",
+    "A small beige plastic stool or step is visible on the left background near the floor level.",
+    "The green cylindrical objects are painted green and each has a clear or translucent covering on its top (likely plastic wrap or tape).",
+    "The cart frame and shelf supports appear to be chrome or polished metal; the shelf surfaces show paint splatters and wear.",
+    "Two large drums in the background are blue plastic.",
+    "Several rectangular storage boxes have blue lids and translucent or opaque plastic bodies.",
+    "The floor is a beige/tan hard surface with visible dirt, paint splatters, and wear."
+  ],
+  "id": "2b5127755b62b2e8afeb0861",
+  "sha256": "b82303d8b646a2961423df950611aa61d561fc1c3791d375a738a9e9383bc3c9",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:08:24.341235+00:00",
+  "input_resolution": [
+    768,
+    1024
+  ],
+  "input_sha256": "8e42ee798a337007dc480af751275dd89932e69c23a12f5b11a8c8252d81474f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatYsY2m3QaIhWEVpCQu7IgfXIHy5",
+  "usage": {
+    "completion_tokens": 1164,
+    "prompt_tokens": 2122,
+    "total_tokens": 3286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 749,
+      "engine_ttlt_ms": 8486,
+      "pre_inference_ms": 148,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1903,
+      "service_ttlt_ms": 9611,
+      "user_visible_ttft_ms": 1755
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

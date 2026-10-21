@@ -1,0 +1,99 @@
+{
+  "title": "Classroom scene with seated masked participants and a handheld audio pack",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least six people are visible and individually distinguishable: one male in the foreground (wearing glasses and a blue surgical mask) and at least five others seated behind him (three women clearly visible and two partially visible people at the far left and right edges).",
+    "One person in the foreground is holding a small black electronic unit with a short coiled cable and a clip; the device is held in his right hand at chest height and a small lapel microphone or cable is visible running toward his collar.",
+    "Two long light-coloured wooden tables are visible: one in the foreground (occupied by the foreground speaker) and one behind it (where several seated people rest their hands).",
+    "At least three chairs are visible (one behind each seated person in the mid/background and one for the foreground person); some chair backs are partially obscured.",
+    "One flat-panel computer monitor is visible on the rear table roughly centered behind the foreground subject; the monitor is grey/black and is seen facing away from the camera.",
+    "One smartphone or small rectangular device is visible lying on the rear table near the hands of the woman in dark clothing (center-left of the image).",
+    "Multiple face masks are present: every clearly visible person is wearing a mask (counts match the visible people described)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The male foreground subject is seated at the front table, occupying the right-central foreground of the image; he faces slightly left of camera and holds an electronic unit near his chest.",
+    "Directly behind the foreground table is a second table where three seated people form a row across the midground; their hands rest on that rear table.",
+    "A computer monitor stands on a table in the background, positioned roughly behind the head of the foreground subject and between the foreground and a windowed wall.",
+    "People are arranged roughly in rows: foreground speaker closest to camera, a row of seated participants behind him, and background room furnishings further back.",
+    "Partial people appear cropped at the left and right image edges, indicating additional occupants or seating beyond the frame."
+  ],
+  "colours_and_materials": [
+    "The foreground table surfaces appear to be light-coloured wood or wood laminate.",
+    "The foreground male subject wears a muted rose/pink short-sleeve shirt and black-framed glasses.",
+    "Face masks are predominantly light blue surgical-style and grey cloth; the woman at center-left wears a blue surgical mask and a dark navy top.",
+    "The visible computer monitor is matte grey/black; background walls appear white."
+  ],
+  "uncertainties": [
+    "No room name, number or sign is legible in the image; the specific location cannot be determined from visible signage.",
+    "Exact headcount beyond the six individually distinguishable people cannot be determined because two people are partially cropped at the image edges and additional occupants may be out of frame.",
+    "The black device held by the foreground person is described by appearance only; its exact make, model or function cannot be confirmed from the image.",
+    "Small labels or stickers (for example a small yellow label on the table edge) are visible but their text is not legible in the image.",
+    "There may be additional equipment or objects on the rear tables that are obscured by people or the monitor and therefore not reliably counted or identified."
+  ],
+  "visual_facts": [
+    "At least six people are visible and individually distinguishable: one male in the foreground (wearing glasses and a blue surgical mask) and at least five others seated behind him (three women clearly visible and two partially visible people at the far left and right edges).",
+    "One person in the foreground is holding a small black electronic unit with a short coiled cable and a clip; the device is held in his right hand at chest height and a small lapel microphone or cable is visible running toward his collar.",
+    "Two long light-coloured wooden tables are visible: one in the foreground (occupied by the foreground speaker) and one behind it (where several seated people rest their hands).",
+    "At least three chairs are visible (one behind each seated person in the mid/background and one for the foreground person); some chair backs are partially obscured.",
+    "One flat-panel computer monitor is visible on the rear table roughly centered behind the foreground subject; the monitor is grey/black and is seen facing away from the camera.",
+    "One smartphone or small rectangular device is visible lying on the rear table near the hands of the woman in dark clothing (center-left of the image).",
+    "Multiple face masks are present: every clearly visible person is wearing a mask (counts match the visible people described).",
+    "The foreground table surfaces appear to be light-coloured wood or wood laminate.",
+    "The foreground male subject wears a muted rose/pink short-sleeve shirt and black-framed glasses.",
+    "Face masks are predominantly light blue surgical-style and grey cloth; the woman at center-left wears a blue surgical mask and a dark navy top.",
+    "The visible computer monitor is matte grey/black; background walls appear white."
+  ],
+  "id": "9e888f455565a81a3a8929ae",
+  "sha256": "767cadcd471ffc6ab2eaaa3df2da7f25b8c7382c45ce50b4173845f894452127",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:54:55.816968+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "38df20dd28091a76e92c32e819054420f29fd354e9ba7f1f1f4fc8fbcd93da7c",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauHulWmAP4BK7N9USjKtLz6pqPpg",
+  "usage": {
+    "completion_tokens": 1005,
+    "prompt_tokens": 2237,
+    "total_tokens": 3242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1167,
+      "engine_ttlt_ms": 7494,
+      "pre_inference_ms": 314,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2035,
+      "service_ttlt_ms": 8356,
+      "user_visible_ttft_ms": 1720
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

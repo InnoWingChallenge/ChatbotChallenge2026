@@ -1,0 +1,107 @@
+{
+  "title": "Outdoor pedestrian bridge, covered escalator and station frontage with surrounding buildings",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 6 people are visible in the right foreground standing in a line on the walkway; heads and shoulders are visible and some are partially cropped by the image edge.",
+    "One long covered inclined escalator/covered walkway structure is visible sloping from foreground toward the mid-right of the image; its glass/metal canopy is continuous and clearly visible.",
+    "Two exterior stair runs are visible adjacent to the covered escalator: one downwards run to the left of the escalator canopy and one upwards run to the right of it (both risers and handrails visible).",
+    "A horizontal pedestrian bridge / elevated walkway spans the image foreground with metal railings along its edge; the railing runs across the bottom third of the image.",
+    "One multistory station or public building with a long brown facade and many windows stretches across the middle-right of the image.",
+    "At least three multistory commercial buildings are visible in the left and center background (including a white cylindrical/curved facade, a light-blue glass-clad block, and a taller office tower behind them).",
+    "One small glazed elevator or glass shaft structure is visible in the mid-left of the image near the base of the escalator/stair complex.",
+    "Multiple vertical signage panels are mounted on building facades at left; one square green sign with a numeric '15' is visible near the lower-left corner of the image."
+  ],
+  "visible_text": [
+    "PARCO",
+    "Loft",
+    "15",
+    "SENDAI STATION"
+  ],
+  "spatial_relations": [
+    "The covered escalator/covered walkway runs from the lower center foreground up and right toward the mid-ground, with stair runs alongside it on both sides.",
+    "The long brown station building occupies the mid-right horizontal band of the image behind the escalator/stairs; windows and signage are arranged along its length.",
+    "Tall commercial buildings are grouped to the left and center background behind a plaza area; the white cylindrical/curved building with 'PARCO' is in front of a light-blue glass-clad block.",
+    "A short glazed elevator or glass shaft sits near the base of the escalator complex between the plaza and the station building.",
+    "A metal railing runs along the foreground edge of the pedestrian bridge where people are standing in a line on the right side of the image."
+  ],
+  "colours_and_materials": [
+    "The covered escalator canopy appears to be glass panels set in white metal framing.",
+    "The pedestrian railings in the foreground are metallic silver/grey.",
+    "The large station building has a brown facade with many glass windows.",
+    "The tower and box buildings in the background show light-blue reflective glass and white cladding.",
+    "Stair walls adjacent to the escalator are a pale peach or beige colour."
+  ],
+  "uncertainties": [
+    "The transcription 'SENDAI STATION' is taken from orange letters on the brown building; portions are small and could be partially obscured or stylized.",
+    "Several vertical signs with Japanese characters on the left building are present but not fully legible; those texts were not transcribed.",
+    "Some people at the far right are partially cropped by the image edge; the exact count of people in the scene cannot be determined beyond the at-least-6 visible in the foreground.",
+    "Smaller text on windows, shopfronts and signs along the station facade and in the distant buildings is present but not readable at this image resolution and was not transcribed."
+  ],
+  "visual_facts": [
+    "At least 6 people are visible in the right foreground standing in a line on the walkway; heads and shoulders are visible and some are partially cropped by the image edge.",
+    "One long covered inclined escalator/covered walkway structure is visible sloping from foreground toward the mid-right of the image; its glass/metal canopy is continuous and clearly visible.",
+    "Two exterior stair runs are visible adjacent to the covered escalator: one downwards run to the left of the escalator canopy and one upwards run to the right of it (both risers and handrails visible).",
+    "A horizontal pedestrian bridge / elevated walkway spans the image foreground with metal railings along its edge; the railing runs across the bottom third of the image.",
+    "One multistory station or public building with a long brown facade and many windows stretches across the middle-right of the image.",
+    "At least three multistory commercial buildings are visible in the left and center background (including a white cylindrical/curved facade, a light-blue glass-clad block, and a taller office tower behind them).",
+    "One small glazed elevator or glass shaft structure is visible in the mid-left of the image near the base of the escalator/stair complex.",
+    "Multiple vertical signage panels are mounted on building facades at left; one square green sign with a numeric '15' is visible near the lower-left corner of the image.",
+    "The covered escalator canopy appears to be glass panels set in white metal framing.",
+    "The pedestrian railings in the foreground are metallic silver/grey.",
+    "The large station building has a brown facade with many glass windows.",
+    "The tower and box buildings in the background show light-blue reflective glass and white cladding.",
+    "Stair walls adjacent to the escalator are a pale peach or beige colour."
+  ],
+  "id": "a9980c7224e39ab119b3ef90",
+  "sha256": "bd21c6e66efe6eaa4fb1ea75d75af31e1caf31ee9c7504b0b001b9854d325374",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:57:47.962542+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "97645814bc563c97b057b9cc9edb44634a87e73e9a969f76680789026eaf41f2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauKiu7qotDl0WSS3PbcL7zvE8wDV",
+  "usage": {
+    "completion_tokens": 1108,
+    "prompt_tokens": 2122,
+    "total_tokens": 3230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 297,
+      "engine_ttlt_ms": 6839,
+      "pre_inference_ms": 342,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 825,
+      "service_ttlt_ms": 7362,
+      "user_visible_ttft_ms": 483
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

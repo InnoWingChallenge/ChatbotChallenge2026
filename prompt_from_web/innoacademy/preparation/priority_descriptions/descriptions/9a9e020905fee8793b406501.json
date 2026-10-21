@@ -1,0 +1,115 @@
+{
+  "title": "Group around prototyping table at DREAMLab",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "At least ten people are visible standing around a central work table; several faces are partially obscured by other people or by the table edges.",
+    "One large red, torpedo- or hull-shaped prototype device sits on the table near the right-center of the image (cropped on the right edge).",
+    "One handheld flashlight on the table is turned on and emitting light toward the left side of the image.",
+    "One black plastic basket containing hand tools and small electronic components is on the table near the foreground center.",
+    "One magnifying glass on a stand is visible near the right-front edge of the table.",
+    "One cylindrical clear container (glass or plastic) is visible on the table near the front left of the image.",
+    "One desktop computer monitor is visible on a back counter toward the left-center of the image (screen dark).",
+    "One yellow propeller- or fin-shaped plastic part is visible on the table toward the left of the central prototype device.",
+    "Two framed certificates or awards are mounted on the wall at the right side of the image.",
+    "Multiple posters are mounted on the back wall above the counter; at least eight distinct poster panels are visible in a row."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "UNIVERSITY OF HONG KONG",
+    "CERTIFICATE",
+    "3rd PRIZE"
+  ],
+  "spatial_relations": [
+    "A central work table occupies the foreground and middle of the image with people gathered around all visible sides of the table.",
+    "The large red prototype device lies on the table toward the right-center; a person in a red shirt is standing behind it and pointing at components on its top surface.",
+    "The black tool basket is on the table in front of the person in the red shirt, between the camera and the prototype device.",
+    "The desktop monitor is positioned on a counter directly behind the people on the left side of the image, beneath a row of posters on the back wall.",
+    "Two framed certificates hang on the wall behind the group at the right; the word 'DREAMLab' is displayed above and to the right on a light-coloured wall or glass panel.",
+    "A magnifying glass on its stand is near the right-front edge of the table, partially in front of the red prototype device.",
+    "People form roughly a semicircle around the table, with at least three people on the left side, the instructor/lead in the center rear, and several observers on the right side."
+  ],
+  "colours_and_materials": [
+    "The large prototype device visible on the table is predominantly red.",
+    "A noticeable yellow plastic part (propeller- or fin-shaped) is on the table to the left of the red device.",
+    "The work surface appears to be a light wood-coloured table.",
+    "The back wall area with the DREAMLab sign is light green or pale aqua, appearing as painted wall or glass panel.",
+    "The tool basket is black plastic and contains a variety of coloured tools and wires; the magnifier has a black handle or stand."
+  ],
+  "uncertainties": [
+    "Exact number of people cannot be determined precisely because several individuals are partially obscured; 'at least ten' is a conservative visible minimum.",
+    "Some small printed text on posters and on the whiteboard or wall is not legible at this resolution; only the larger words 'DREAMLab', 'UNIVERSITY OF HONG KONG', 'CERTIFICATE' and '3rd PRIZE' could be transcribed reliably.",
+    "The precise content of the framed certificates and most poster captions is unreadable from this view.",
+    "The identification of the clear cylindrical container's material (glass or plastic) is uncertain from the image.",
+    "The red prototype device is cropped at the right edge of the image so its full shape and any labels on its right side are not visible."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "At least ten people are visible standing around a central work table; several faces are partially obscured by other people or by the table edges.",
+    "One large red, torpedo- or hull-shaped prototype device sits on the table near the right-center of the image (cropped on the right edge).",
+    "One handheld flashlight on the table is turned on and emitting light toward the left side of the image.",
+    "One black plastic basket containing hand tools and small electronic components is on the table near the foreground center.",
+    "One magnifying glass on a stand is visible near the right-front edge of the table.",
+    "One cylindrical clear container (glass or plastic) is visible on the table near the front left of the image.",
+    "One desktop computer monitor is visible on a back counter toward the left-center of the image (screen dark).",
+    "One yellow propeller- or fin-shaped plastic part is visible on the table toward the left of the central prototype device.",
+    "Two framed certificates or awards are mounted on the wall at the right side of the image.",
+    "Multiple posters are mounted on the back wall above the counter; at least eight distinct poster panels are visible in a row.",
+    "The large prototype device visible on the table is predominantly red.",
+    "A noticeable yellow plastic part (propeller- or fin-shaped) is on the table to the left of the red device.",
+    "The work surface appears to be a light wood-coloured table.",
+    "The back wall area with the DREAMLab sign is light green or pale aqua, appearing as painted wall or glass panel.",
+    "The tool basket is black plastic and contains a variety of coloured tools and wires; the magnifier has a black handle or stand."
+  ],
+  "id": "9a9e020905fee8793b406501",
+  "sha256": "242a8d67348de2eed989f24263c443c15be864183c4dda2dd47c620811800c38",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:54:33.670734+00:00",
+  "input_resolution": [
+    2400,
+    1540
+  ],
+  "input_sha256": "edd8379aa1628e841366befe89f87927dbbd2bcc1e6a60a2a6ebc08dc245932b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauHXbebnTUcse83fmJaGaZMmo4AN",
+  "usage": {
+    "completion_tokens": 1374,
+    "prompt_tokens": 2295,
+    "total_tokens": 3669,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 378,
+      "engine_ttlt_ms": 9524,
+      "pre_inference_ms": 423,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 997,
+      "service_ttlt_ms": 10138,
+      "user_visible_ttft_ms": 574
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

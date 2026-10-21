@@ -1,0 +1,106 @@
+{
+  "title": "Group at tables with handheld microphone and hanging white cables",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least eight people are visible in the photographed scene: one standing woman at left foreground (black top), two young men seated in the right-mid foreground (one in a white/grey T-shirt, one in a navy T-shirt holding a handheld microphone), one person seated behind them wearing a green jacket and a white face mask, one woman with glasses seated behind the central table facing the camera, one woman in a pale pink top seated at the left background, and at least two additional partially visible people in the background (backs or heads only).",
+    "One handheld microphone is visible and is being held by the seated young man in the navy T-shirt (right-mid foreground).",
+    "Two large wooden-topped tables are visible in the foreground/midground: one table runs across the lower foreground and another is immediately behind it where several people are seated.",
+    "At least three seats/chairs or stools are visible where people are seated around the tables (counts are based on individually visible seated people, not on unseen chairs).",
+    "One backpack is visible on the foreground table next to the seated person in the white/grey T-shirt; it shows colored straps or items clipped to it.",
+    "One clear or translucent plastic bottle with a white label and pump or cap is visible on the right foreground table near the person holding the microphone.",
+    "Multiple hanging white cables or cords (at least two) descend from the ceiling into the scene and are visible over the tables.",
+    "Printed photographic posters or mounted images are visible on the far wall behind the group; these are distinct from objects present in the photographed scene."
+  ],
+  "visible_text": [
+    "[unreadable] (small text on green T-shirt worn by the woman seated center; partial letters visible but not fully legible)",
+    "[unreadable] (label on the clear bottle at right foreground; not legible in the image)",
+    "[unreadable] (any small logos or patches on clothing and backpack are present but not legible at this resolution)"
+  ],
+  "spatial_relations": [
+    "A standing woman in a black top is at the left foreground and faces slightly right toward the seated group at the central table.",
+    "Two young men are seated at the right-mid foreground along the same table: the man in the white/grey T-shirt is closer to the camera's center-left and the man in the navy T-shirt (holding the microphone) is to his right (image right).",
+    "The backpack rests on the table surface in front of the seated man in the white/grey T-shirt, between him and the man holding the microphone.",
+    "A seated woman with glasses occupies a position behind the central table, roughly centered in the midground, looking toward the camera.",
+    "A person wearing a green jacket and a white face mask is seated behind and to the right of the man holding the microphone, at a rear table against a glass partition.",
+    "Photographic posters or mounted images are arranged on the far wall behind the group; the posters appear in a row above the heads of the background figures.",
+    "White hanging cables descend vertically into the scene above and between the tables; one is visible near the left foreground and another near the right foreground."
+  ],
+  "colours_and_materials": [
+    "Two large tabletops appear to be light-coloured wood or wood laminate with visible wood grain.",
+    "The standing woman at left wears a black top and pale grey/green jeans; the seated man holding the microphone wears a navy T-shirt; another seated man wears a light grey/white T-shirt.",
+    "A glass or clear partition is visible at the right rear of the image, producing reflections and separating rear seating from the foreground area.",
+    "Multiple photographic prints or posters on the far wall show a variety of colours; the wall behind them appears pale blue or light coloured."
+  ],
+  "uncertainties": [
+    "Exact total number of people in the room cannot be determined because some people are partially occluded or visible only as backs; I report 'at least eight' based on clearly visible heads/bodies.",
+    "Text present on clothing (green T-shirt), on the bottle label, and on small logos or patches is not legible enough to transcribe exactly; I have recorded these as [unreadable].",
+    "Some objects (chairs, small desk items) are partially obscured or cropped at the image edges; counts for seats and small items are minimum visible counts, not room inventory.",
+    "I did not infer a room name or number because no explicit, fully legible room sign or number is visible in the image."
+  ],
+  "visual_facts": [
+    "At least eight people are visible in the photographed scene: one standing woman at left foreground (black top), two young men seated in the right-mid foreground (one in a white/grey T-shirt, one in a navy T-shirt holding a handheld microphone), one person seated behind them wearing a green jacket and a white face mask, one woman with glasses seated behind the central table facing the camera, one woman in a pale pink top seated at the left background, and at least two additional partially visible people in the background (backs or heads only).",
+    "One handheld microphone is visible and is being held by the seated young man in the navy T-shirt (right-mid foreground).",
+    "Two large wooden-topped tables are visible in the foreground/midground: one table runs across the lower foreground and another is immediately behind it where several people are seated.",
+    "At least three seats/chairs or stools are visible where people are seated around the tables (counts are based on individually visible seated people, not on unseen chairs).",
+    "One backpack is visible on the foreground table next to the seated person in the white/grey T-shirt; it shows colored straps or items clipped to it.",
+    "One clear or translucent plastic bottle with a white label and pump or cap is visible on the right foreground table near the person holding the microphone.",
+    "Multiple hanging white cables or cords (at least two) descend from the ceiling into the scene and are visible over the tables.",
+    "Printed photographic posters or mounted images are visible on the far wall behind the group; these are distinct from objects present in the photographed scene.",
+    "Two large tabletops appear to be light-coloured wood or wood laminate with visible wood grain.",
+    "The standing woman at left wears a black top and pale grey/green jeans; the seated man holding the microphone wears a navy T-shirt; another seated man wears a light grey/white T-shirt.",
+    "A glass or clear partition is visible at the right rear of the image, producing reflections and separating rear seating from the foreground area.",
+    "Multiple photographic prints or posters on the far wall show a variety of colours; the wall behind them appears pale blue or light coloured."
+  ],
+  "id": "33c11ea038381030593ef62a",
+  "sha256": "29e1483c970a1f197df3a8415918ac80b485aa5fc5eaa56c07e2fa1aa0cf0e42",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:34:43.113060+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "3de34cb158d45ef595d355d310b8c7a97165843f7a3b8e62714d493b0bc73847",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatyKQAEptxCZlBVYu76PX94GOUh2",
+  "usage": {
+    "completion_tokens": 1453,
+    "prompt_tokens": 2237,
+    "total_tokens": 3690,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 416,
+      "engine_ttlt_ms": 9759,
+      "pre_inference_ms": 319,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 854,
+      "service_ttlt_ms": 10179,
+      "user_visible_ttft_ms": 535
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

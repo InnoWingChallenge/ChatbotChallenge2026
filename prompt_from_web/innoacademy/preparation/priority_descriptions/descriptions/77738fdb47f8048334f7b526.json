@@ -1,0 +1,94 @@
+{
+  "title": "Small group conversation in a glass-walled interior with four masked people",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Four visibly distinguishable people are present: three adult men in the foreground and one adult woman partially visible behind the central man. All four people are wearing face masks.",
+    "One man (centre) is holding a small stack of circular flat items in his right hand (appears as a single stacked bundle) and is gesturing with his left hand; the stack is partially obscured by his hand.",
+    "One pen is visible in the breast pocket of the man on the left.",
+    "One vertical metal door handle or standoff is visible behind the central person, attached to a glass partition.",
+    "One metallic cylindrical object (possibly a thermos or tumbler) is visible behind the leftmost person, seen through the gap between people."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A glass partition or wall forms the background across the image; a vertical metal door handle or standoff is mounted on that glass behind the central figure.",
+    "The central man stands near the middle of the frame, facing slightly right; he is gesturing with his left hand and holding the circular items in his right hand.",
+    "A man on the left edge of the frame faces toward the central man and is positioned slightly forward of the glass partition.",
+    "A man on the right faces left toward the central man and stands slightly closer to the camera than the central man's right side.",
+    "A woman is partially visible behind the central man, her head and shoulders appearing between the central and right figures and slightly set back from the foreground plane."
+  ],
+  "colours_and_materials": [
+    "The central man's jacket is brown tweed-like material; his shirt is light blue with white stripes.",
+    "The left man wears a black jacket and a white shirt; the right man wears a dark navy suit and a patterned purple tie.",
+    "Face masks are visible in light blue on three people and a green surgical-style mask on the leftmost man; the woman in back appears to have a pale-coloured mask (light purple or white) but it is partially obscured.",
+    "The background partition is transparent glass with a pale neutral wall showing through; the visible metal door handle or standoff is silver/metallic."
+  ],
+  "uncertainties": [
+    "No room name, room number or signage is legible in the image; the exact location cannot be determined from the visible content.",
+    "The circular items held by the central man are visually identifiable as a stack of flat circular pieces but their exact nature (stickers, cards, coasters or another object) is not readable and is uncertain.",
+    "Text on any small labels (for example on the cylindrical object behind the left person) is not legible in the image and could not be transcribed.",
+    "Counts refer only to clearly visible, separately distinguishable objects in this single view; occluded or out-of-frame items are not counted."
+  ],
+  "visual_facts": [
+    "Four visibly distinguishable people are present: three adult men in the foreground and one adult woman partially visible behind the central man. All four people are wearing face masks.",
+    "One man (centre) is holding a small stack of circular flat items in his right hand (appears as a single stacked bundle) and is gesturing with his left hand; the stack is partially obscured by his hand.",
+    "One pen is visible in the breast pocket of the man on the left.",
+    "One vertical metal door handle or standoff is visible behind the central person, attached to a glass partition.",
+    "One metallic cylindrical object (possibly a thermos or tumbler) is visible behind the leftmost person, seen through the gap between people.",
+    "The central man's jacket is brown tweed-like material; his shirt is light blue with white stripes.",
+    "The left man wears a black jacket and a white shirt; the right man wears a dark navy suit and a patterned purple tie.",
+    "Face masks are visible in light blue on three people and a green surgical-style mask on the leftmost man; the woman in back appears to have a pale-coloured mask (light purple or white) but it is partially obscured.",
+    "The background partition is transparent glass with a pale neutral wall showing through; the visible metal door handle or standoff is silver/metallic."
+  ],
+  "id": "77738fdb47f8048334f7b526",
+  "sha256": "9b59631e89af63f81783a8a4f5d09b5ee6f8d3e5defcd1632b315013884f0c07",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:47:01.438706+00:00",
+  "input_resolution": [
+    1280,
+    853
+  ],
+  "input_sha256": "2656f66b30e0924ba34d33ae1c366ba1be423f8a568157f58a275cdb87d09b6f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauAGf5Wy90tYbF3SGzWEuFMj4oOu",
+  "usage": {
+    "completion_tokens": 850,
+    "prompt_tokens": 2266,
+    "total_tokens": 3116,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1158,
+      "engine_ttlt_ms": 7988,
+      "pre_inference_ms": 369,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2081,
+      "service_ttlt_ms": 8905,
+      "user_visible_ttft_ms": 1712
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,268 @@
+{
+  "download:b5b98522f894923eae84a902": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/20210929_Sharing-by-Robotic-Student-Teams_v4.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:20:31.229098+00:00"
+  },
+  "download:462bc2478387d56bd7db4eb3": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/10/20211027_Mindfulness-Workshop_v2.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:20:31.537173+00:00"
+  },
+  "download:24132b636d24b4e0c0341668": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/20210929_SIG_Poster_v3-scaled.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:20:32.172086+00:00"
+  },
+  "download:0bbb2d3d0a34897b2affc138": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/04/20220427_Zhang-Shiming-1.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:20:33.610338+00:00"
+  },
+  "download:00ea82f1d0672cf2a32407ae": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/06/20220618_Sandbox.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:20:33.795646+00:00"
+  },
+  "download:9f3e4d467f458c9265fc7724": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/09/20221005_Rex-Sham_Poster-1-1.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:20:34.348022+00:00"
+  },
+  "download:518e78d28e3408a1de73c55f": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/12/20230111_InnoHub-Event.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:20:37.222464+00:00"
+  },
+  "download:a797ac37229369a5a30d02f1": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/09/20231006_Sharing-by-Timothy-1.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:20:40.159876+00:00"
+  },
+  "download:9cf1d8159b453cf6c35ea857": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/10/check-300x300-1.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:21:56.936815+00:00"
+  },
+  "download:15103b205b3cad5e8ab5767b": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/Booking.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:21:57.688084+00:00"
+  },
+  "download:8e3116683e240447d2a5265e": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/buddy3.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:21:57.875550+00:00"
+  },
+  "download:6d1025e58ef5f7c358907377": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/buddy1.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:21:58.036588+00:00"
+  },
+  "download:0ffee339a9e32323233f38c7": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/09/IW-Showcase-Series-02-Intelligent-Robot-and-IoT-resized.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:22:32.444385+00:00"
+  },
+  "download:8f7a9293dc24e405f5856b4a": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/Cover-Image-InnoShow-min-Sheung-Ching-Yim.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:23:52.423976+00:00"
+  },
+  "download:0bfe7a04607c13f59bc6efeb": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/09/tutor.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:24:03.309011+00:00"
+  },
+  "download:2341234950d696e36c871d36": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/09/trainedmember.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:24:03.730114+00:00"
+  },
+  "download:9c53f9a5393e81075b51cf85": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/03/Screenshot-2025-03-02-at-12.00.56",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:24:21.972254+00:00"
+  },
+  "download:0be770173fa9e105a0639f5b": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/12/Robomaster-Poster_HKU-RoboMaster-scaled.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:24:57.832164+00:00"
+  },
+  "download:d59ddb1cf584d7c8d68ab951": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/12/assembling.jpg-scaled.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:24:58.231885+00:00"
+  },
+  "download:ecf5df07954ebb2b85a152a2": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/08/2023-2024_SIG-September-Calender.png",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:25:13.624082+00:00"
+  },
+  "download:df06738174b8726dd8fb5615": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/2021_Pitching-for-TPg_Poster-scaled.jpg",
+    "error_type": "HTTPError",
+    "http_status": 404,
+    "attempted_at": "2026-10-13T13:25:42.256678+00:00"
+  },
+  "download:dbe8f5ff39984fb646f024da": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6149-2.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:20.882622+00:00"
+  },
+  "download:42a32af192b74699d79c03cb": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6147-2.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:21.193011+00:00"
+  },
+  "download:594a05c19c61c7ba8fd80ab8": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6157-1.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:21.394742+00:00"
+  },
+  "download:b8aee0690ee7a13a1e70d9ce": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6130.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:21.812531+00:00"
+  },
+  "download:d6de046fc2bb46395a3893ce": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6152.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:21.947867+00:00"
+  },
+  "download:f5fd3c40bba4ba922d5b3b8b": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6149-1.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:22.379271+00:00"
+  },
+  "download:f72d778b6add84c1acc46dac": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6150.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:22.502999+00:00"
+  },
+  "download:4101d45309bf8784bfee5fa8": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6151.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:22.717549+00:00"
+  },
+  "download:a74ff36a994aeb8bcf41a02e": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6139.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:23.484199+00:00"
+  },
+  "download:39bc17344845cf09714af289": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6147.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:23.498761+00:00"
+  },
+  "download:fc18929ce44663f3b5fc15f6": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6149.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:23.525629+00:00"
+  },
+  "download:9fc9fcadd8288b5d98d36abc": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6157.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:23.532873+00:00"
+  },
+  "download:8fe11391b7faccef4918a3e9": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6131.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:24.221006+00:00"
+  },
+  "download:1ae2f69011b25c4825ffe3ef": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/11/IMG_6119.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:26:24.222638+00:00"
+  },
+  "download:7cc357438a1a7ac7846fef85": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/12/IMG_1554.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:27:33.078824+00:00"
+  },
+  "download:8dfb6e7ce80ea74637b65687": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/12/IMG_1447.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:27:33.586144+00:00"
+  },
+  "download:c8b496027698c17aae6b12b5": {
+    "stage": "download",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/12/IMG_1407.heic",
+    "error_type": "ValueError",
+    "http_status": null,
+    "attempted_at": "2026-10-13T13:27:33.626451+00:00"
+  }
+}

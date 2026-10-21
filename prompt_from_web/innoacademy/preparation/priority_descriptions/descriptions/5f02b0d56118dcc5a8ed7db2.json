@@ -1,0 +1,95 @@
+{
+  "title": "Outdoor group in front of ornate multi-gabled building",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Eleven people are visible standing in a single row across the central foreground; all are full or near-full body views and none are cropped at the image edges.",
+    "Multiple people wear lanyards with vertical badge holders; the exact count of lanyards visible is nine when inspected on the individuals but some badges are partly obscured.",
+    "One large multi-gabled building occupies most of the mid- and background; no interior signage or room numbers are visible on the building.",
+    "Two palm trees are visible: one roughly centered behind the group and another at the right edge of the frame (the second is partly cropped by the image edge).",
+    "Paved open plaza or courtyard surfacing is visible in the foreground covering the full width of the image; no fixed indoor equipment is visible."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The eleven people form a roughly single-file horizontal line in the image foreground; they are standing shoulder-to-shoulder with small gaps between most individuals.",
+    "Directly behind the group and occupying most of the background is a large white building with decorative multi-tiered roofs; the building runs diagonally from left rear toward the right rear of the image.",
+    "A tall palm tree is almost centered behind the group and in front of the building façade; another palm is on the far right edge behind a tree.",
+    "Green hedges and low shrubbery run along the left background between the paved foreground and the building.",
+    "The paved courtyard extends from the foreground up to the base of the building with no visible barriers between the people and the building."
+  ],
+  "colours_and_materials": [
+    "The building façade is primarily white with ornate trim and roof edges in red and terracotta tones; the main roof tiles appear dark blue or dark grey with lighter orange or red ridge accents.",
+    "The palm trees and other vegetation are green; hedges at left are medium to dark green.",
+    "The foreground paving is light grey or beige, appearing as concrete or stone tiles.",
+    "People's clothing includes a noticeable bright yellow polo on one individual near the center; other clothing includes white, navy blue and black shirts and dark trousers or shorts."
+  ],
+  "uncertainties": [
+    "No room name, room number, or internal signage is legible in the image, so the precise location within any campus or facility is unknown from the image.",
+    "Logos or small printed text on clothing and badges are not legible at this resolution; attempts to read brand names, team names or badge text did not yield reliable text to transcribe.",
+    "Some badge holders and lanyards are partially obscured by hands or body position, so the count of visible badges (nine) may be an undercount.",
+    "The material identification of the paving and roof tiles is based on visual appearance only and is not certain.",
+    "No equipment nameplates, control panels, or facility room signs are visible to provide equipment/facility identifiers."
+  ],
+  "visual_facts": [
+    "Eleven people are visible standing in a single row across the central foreground; all are full or near-full body views and none are cropped at the image edges.",
+    "Multiple people wear lanyards with vertical badge holders; the exact count of lanyards visible is nine when inspected on the individuals but some badges are partly obscured.",
+    "One large multi-gabled building occupies most of the mid- and background; no interior signage or room numbers are visible on the building.",
+    "Two palm trees are visible: one roughly centered behind the group and another at the right edge of the frame (the second is partly cropped by the image edge).",
+    "Paved open plaza or courtyard surfacing is visible in the foreground covering the full width of the image; no fixed indoor equipment is visible.",
+    "The building façade is primarily white with ornate trim and roof edges in red and terracotta tones; the main roof tiles appear dark blue or dark grey with lighter orange or red ridge accents.",
+    "The palm trees and other vegetation are green; hedges at left are medium to dark green.",
+    "The foreground paving is light grey or beige, appearing as concrete or stone tiles.",
+    "People's clothing includes a noticeable bright yellow polo on one individual near the center; other clothing includes white, navy blue and black shirts and dark trousers or shorts."
+  ],
+  "id": "5f02b0d56118dcc5a8ed7db2",
+  "sha256": "205afcc5d22f184157b3b7592f12f5581ffb2625717eb44b40284adf8df8bc96",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:42:01.612312+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "fa124fb2aab7b7d473f2d485d6fab9b496d5c3b5e0c405999a7d222774f0b0b2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau5RCV4RyFiJ3m46cwE7hFpQoRL0",
+  "usage": {
+    "completion_tokens": 930,
+    "prompt_tokens": 2266,
+    "total_tokens": 3196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 374,
+      "engine_ttlt_ms": 6927,
+      "pre_inference_ms": 352,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 921,
+      "service_ttlt_ms": 7470,
+      "user_visible_ttft_ms": 569
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

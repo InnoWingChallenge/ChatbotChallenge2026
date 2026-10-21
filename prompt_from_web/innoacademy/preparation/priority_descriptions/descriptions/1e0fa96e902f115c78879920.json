@@ -1,0 +1,103 @@
+{
+  "title": "Group in glass-walled room with turnstiles and folding table",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Eight visible people in the photographed scene: one tall person standing at far left foreground (fully visible), one person in a yellow shirt standing in the background near glass double-doors (visible from back), one person partially visible through the glass door at far left background, and five people grouped to the right (two standing and three seated or crouched). None of the people are identified by name in the image.",
+    "Two stainless-steel waist-high turnstile/gate posts are visible in the central foreground (one on the left side of the walkway and one on the right side); each post is a complete visible assembly with glass gate panels between them.",
+    "One rectangular folding table with metal legs and wheels is visible at the right side of the image.",
+    "One blue cube-shaped seat or ottoman is visible near the centre-right where a person is sitting.",
+    "One office swivel chair is visible behind the glass partition on the left side of the image.",
+    "One red plastic bucket on the floor at lower-left with a white cloth or mop draped on or near it; a separate white cloth is draped over the glass partition at left.",
+    "Several people are wearing lanyards with visible ID cards/badges (multiple badges visible, but text on the badges is not fully legible in the photo)."
+  ],
+  "visible_text": [
+    "A3",
+    "A2"
+  ],
+  "spatial_relations": [
+    "A pair of stainless-steel turnstile posts with glass panels forms a gated walkway across the centre of the image; the taller standing person at left is positioned immediately in front of the left turnstile post.",
+    "The group of five people is to the right of the turnstiles, with two standing near the gates and three seated or crouched closer to the right wall and folding table.",
+    "The folding table on wheels is flush against the right wall and is to the right of the seated individuals; the blue cube seat is between the turnstiles and the table, and one person is seated on it.",
+    "Glass partitions and glass doors occupy the left and central background; an office chair is visible behind the left glass partition and a person in a yellow shirt stands near the central glass doors.",
+    "A red bucket sits on the floor in the lower-left foreground near the glass partition and the left turnstile; a white cloth is draped over the top of the glass partition just above the bucket."
+  ],
+  "colours_and_materials": [
+    "Floor is a pale light-blue smooth surface.",
+    "Walls and large partitions are glass (transparent) and frosted/opaque glass panels; the right wall appears to be a large pale greenish or pale blue glazed panel.",
+    "Turnstile posts and gate frames are stainless-steel or metal with a brushed/silver appearance.",
+    "The folding table has a white or light-coloured top and metal legs; the blue cube seat is solid blue fabric or plastic.",
+    "A red plastic bucket and white cloths are visible; many people are wearing light-blue disposable surgical face masks."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is legible in the image; location cannot be determined from visible signage.",
+    "Some people are partially occluded or seen from the back (for example the person in the yellow shirt and the person visible through the left glass door), so a definitive headcount could be affected by occlusion, but eight distinct people are visible.",
+    "Text on ID badges, t-shirts and small printed material on walls or screens is not clearly legible at the image resolution; only the small labels 'A3' and 'A2' on the turnstile housings were clearly readable.",
+    "There may be additional chairs, equipment or signage outside the photographed area or obscured by people and glass reflections; the inventory above covers only clearly visible items in this image."
+  ],
+  "visual_facts": [
+    "Eight visible people in the photographed scene: one tall person standing at far left foreground (fully visible), one person in a yellow shirt standing in the background near glass double-doors (visible from back), one person partially visible through the glass door at far left background, and five people grouped to the right (two standing and three seated or crouched). None of the people are identified by name in the image.",
+    "Two stainless-steel waist-high turnstile/gate posts are visible in the central foreground (one on the left side of the walkway and one on the right side); each post is a complete visible assembly with glass gate panels between them.",
+    "One rectangular folding table with metal legs and wheels is visible at the right side of the image.",
+    "One blue cube-shaped seat or ottoman is visible near the centre-right where a person is sitting.",
+    "One office swivel chair is visible behind the glass partition on the left side of the image.",
+    "One red plastic bucket on the floor at lower-left with a white cloth or mop draped on or near it; a separate white cloth is draped over the glass partition at left.",
+    "Several people are wearing lanyards with visible ID cards/badges (multiple badges visible, but text on the badges is not fully legible in the photo).",
+    "Floor is a pale light-blue smooth surface.",
+    "Walls and large partitions are glass (transparent) and frosted/opaque glass panels; the right wall appears to be a large pale greenish or pale blue glazed panel.",
+    "Turnstile posts and gate frames are stainless-steel or metal with a brushed/silver appearance.",
+    "The folding table has a white or light-coloured top and metal legs; the blue cube seat is solid blue fabric or plastic.",
+    "A red plastic bucket and white cloths are visible; many people are wearing light-blue disposable surgical face masks."
+  ],
+  "id": "1e0fa96e902f115c78879920",
+  "sha256": "a7765c982acd2a13011067cc95f449178dce597c00861a4b859afc016dbf6f01",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:30:15.498932+00:00",
+  "input_resolution": [
+    2400,
+    1079
+  ],
+  "input_sha256": "4a3b900543e6d12454ebd515a32f56d6e5baf272f317452f784fab616b21eaad",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eattydq0hYUuZg9junPykYzq8Bdex",
+  "usage": {
+    "completion_tokens": 1442,
+    "prompt_tokens": 2756,
+    "total_tokens": 4198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1256,
+      "engine_ttlt_ms": 12243,
+      "pre_inference_ms": 386,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2092,
+      "service_ttlt_ms": 13074,
+      "user_visible_ttft_ms": 1705
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -32,7 +32,7 @@ grader uses.
 | `lab2_test_and_iterate.ipynb` | 1 | 5 | 25 min |
 | `lab3_diagnosing_image_failures.ipynb` | 2 | 2 | 25 min |
 | `lab4_description_prompt.ipynb` | 2 | 3 | 20 min |
-| `lab5_query_decomposition.ipynb` | 2 | 4 | 20 min |
+| `lab5_counting_questions.ipynb` | 2 | 4 | 20 min |
 
 Each notebook is self-contained. The setup and helper cells are repeated
 in full, so you can open any one of them on its own and run it top to

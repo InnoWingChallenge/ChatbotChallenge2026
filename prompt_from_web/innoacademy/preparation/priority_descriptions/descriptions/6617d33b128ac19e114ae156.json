@@ -1,0 +1,105 @@
+{
+  "title": "Hand tools on a wooden slatted surface",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One pair of combination pliers with black-and-orange handles is visible in the lower-left quadrant; the pliers are fully visible and not cropped.",
+    "One claw hammer is visible in the upper-left quadrant; the hammer head and part of the handle are visible and the tool is partially cropped at the top edge.",
+    "One black rubber mallet (or similar soft-faced hammer) is visible near the top center; the mallet head and part of the handle are visible and the handle is cropped by the top edge.",
+    "One set of hex/Allen keys in an orange holder is visible near the top center-right; at least six individual hex keys are visible protruding from the orange holder.",
+    "One black round tape measure with a partially extended metal tape is visible in the upper-right quadrant; the tape measure body is fully visible and the metal tape is extended to the right and visible.",
+    "One orange rectangular case or toolbox corner is visible in the top-left corner and is cropped by the image edge."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The wooden slatted surface fills the entire image and all tools rest directly on it.",
+    "The pliers lie in the lower-left area, with their jaws pointing toward the top center of the image.",
+    "The claw hammer is positioned above and slightly left of the pliers, with the hammer head nearer the top-left and the handle extending down toward the left edge.",
+    "The black rubber mallet is located near the top center, roughly above the gap between two wood slats and to the right of the claw hammer.",
+    "The orange hex key holder and its keys are located to the right of the mallet, closer to the upper-right quadrant.",
+    "The black round tape measure sits to the far right of the hex key holder, with its extended metal tape pointing rightward toward the image edge.",
+    "The orange rectangular case or toolbox corner is at the extreme top-left edge, adjacent to the claw hammer head."
+  ],
+  "colours_and_materials": [
+    "The surface is a brown wooden slatted tabletop with visible grain and narrow gaps between slats.",
+    "The pliers have silver metal jaws and black-and-orange plastic or rubber handles.",
+    "The claw hammer has a metallic (silver) head and a handle with visible black grip material; an orange object is adjacent at the top-left.",
+    "The mallet appears to have a black rubber or dense polymer head and a darker handle (material uncertain).",
+    "The hex/Allen keys are metallic silver and held in an orange plastic holder.",
+    "The tape measure body is black plastic with a visible silver metal measuring tape."
+  ],
+  "uncertainties": [
+    "No room name, number or other location identifier is visible in the image; location cannot be determined from the image.",
+    "The exact number of hex/Allen keys is inferred as at least six from visible protruding keys; some keys could be obscured and the full set count is not guaranteed.",
+    "The orange rectangular object in the top-left appears to be a case or toolbox but the full object is cropped and its exact identity is uncertain.",
+    "Material identifications (for example, rubber for the mallet head and plastic for tool handles) are visual approximations and not confirmed by labels.",
+    "There are no legible textual labels, brand names or model numbers visible to transcribe; small labels, if present, are not readable at this image resolution."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One pair of combination pliers with black-and-orange handles is visible in the lower-left quadrant; the pliers are fully visible and not cropped.",
+    "One claw hammer is visible in the upper-left quadrant; the hammer head and part of the handle are visible and the tool is partially cropped at the top edge.",
+    "One black rubber mallet (or similar soft-faced hammer) is visible near the top center; the mallet head and part of the handle are visible and the handle is cropped by the top edge.",
+    "One set of hex/Allen keys in an orange holder is visible near the top center-right; at least six individual hex keys are visible protruding from the orange holder.",
+    "One black round tape measure with a partially extended metal tape is visible in the upper-right quadrant; the tape measure body is fully visible and the metal tape is extended to the right and visible.",
+    "One orange rectangular case or toolbox corner is visible in the top-left corner and is cropped by the image edge.",
+    "The surface is a brown wooden slatted tabletop with visible grain and narrow gaps between slats.",
+    "The pliers have silver metal jaws and black-and-orange plastic or rubber handles.",
+    "The claw hammer has a metallic (silver) head and a handle with visible black grip material; an orange object is adjacent at the top-left.",
+    "The mallet appears to have a black rubber or dense polymer head and a darker handle (material uncertain).",
+    "The hex/Allen keys are metallic silver and held in an orange plastic holder.",
+    "The tape measure body is black plastic with a visible silver metal measuring tape."
+  ],
+  "id": "6617d33b128ac19e114ae156",
+  "sha256": "3b7e33ddbc4c243c7052e9a87933485e934e8461b125ce60d2a20c317dd03d0a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:43:32.140189+00:00",
+  "input_resolution": [
+    2048,
+    1329
+  ],
+  "input_sha256": "443ae0eaa95e9edaa427ddf3bc92badb5b36b1a5c15b3427ab88a8ce3419c2d9",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau6sPBr8j9fn81DpMQJUx1Cnht1U",
+  "usage": {
+    "completion_tokens": 1037,
+    "prompt_tokens": 2266,
+    "total_tokens": 3303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1172,
+      "engine_ttlt_ms": 8617,
+      "pre_inference_ms": 510,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2153,
+      "service_ttlt_ms": 9592,
+      "user_visible_ttft_ms": 1642
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

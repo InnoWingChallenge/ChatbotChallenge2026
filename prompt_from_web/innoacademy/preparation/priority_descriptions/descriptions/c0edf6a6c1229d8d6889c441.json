@@ -1,0 +1,104 @@
+{
+  "title": "Seated group in tiered seating area with glass-walled room labelled 'innovation'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "15 visible people are present in the photographed scene; 15 individual heads/bodies are distinguishable and counted across the stepped bleacher seating, the foreground cube seats and beside the glass partition. None of these are cropped such that their presence is uncertain, though some are partially occluded by other people or seating.",
+    "At least six individual blue upholstered cube seats are visible in the foreground and middle ground (three clearly in the immediate foreground and at least three more nearer the stepped seating); some cubes are partially occluded by people.",
+    "A multi-tiered stepped seating structure (bleacher-style steps) with integrated bench surfaces and backrests runs from left toward the centre of the image; multiple people are seated on its tiers.",
+    "A glass partition or glass-walled room is visible on the right side of the image, including a glass door and internal furnishings (tables and chairs) visible through the glass.",
+    "Two small white notices or sheets are affixed to the glass partition near the right edge of the image (both are visible as mounted papers).",
+    "One backpack is visible on the floor in the lower-left foreground, leaning against a blue cube seat; an additional backpack or bag is visible on the stepped seating toward the upper middle of the image.",
+    "Several personal items such as jackets and a white tote bag are visible on seats or next to people (a white bag is on the cube nearest the woman wearing a mask)."
+  ],
+  "visible_text": [
+    "INNOVATION",
+    "innovation",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "Foreground: three blue cube seats occupy the nearest visible floor area; people sit on and around these cubes facing toward the right side of the image.",
+    "Middle ground: a row of stepped bleacher seating extends left-to-right behind the foreground cubes; multiple people are seated on successive tiers of this stepped seating, with two people on the topmost visible tier toward the centre-left.",
+    "Background-right: a glass partition with a glass door separates the seating area from an interior room; through the glass, interior tables and chairs are visible and two notices are mounted on the glass near the right edge.",
+    "Upper-left: a wall with a large triangular graphic is present behind the stepped seating; the triangular graphic with the text 'INNOVATION' is above and behind the seated people.",
+    "Objects such as backpacks and bags are placed adjacent to cube seats or on the stepped seating, not blocking the glass partition."
+  ],
+  "colours_and_materials": [
+    "Blue upholstered cube seats in varying shades of blue (medium to darker blue) are used as movable seating in the foreground.",
+    "Stepped seating surfaces appear to be light wood or wood-coloured laminate with pale grey/blue upholstered back cushions on some tiers.",
+    "The floor appears to be a light grey carpet or carpet tile in the seating area.",
+    "The right-side partition is glass with metal framing; a greenish-yellow 'innovation' sign or decal is visible on the glass in the background."
+  ],
+  "uncertainties": [
+    "The exact room name or number is not visible in the image; although the word 'INNOVATION' or 'innovation' appears on a wall graphic and on the glass, no formal room sign or room number that would identify a specific room is legible, so the precise location cannot be confirmed from this image alone.",
+    "Two small mounted notices on the glass are visible but their text is unreadable at this resolution; they are listed in visible_text as '[unreadable]'.",
+    "The triangular wall graphic shows the letters 'INNOVATION' clearly in the upper-left region; the right-side glass sign shows 'innovation' in lowercase green text. It is unclear whether these represent the same program name or different labels.",
+    "Some people and objects are partially occluded by others or by seating; while 15 people were counted as individually distinguishable in this image, occlusion could hide additional individuals beyond the counted set.",
+    "A small logo or text on the backpack in the lower-left foreground is visible but not legible enough to transcribe, so no brand or label is recorded for that item."
+  ],
+  "visual_facts": [
+    "15 visible people are present in the photographed scene; 15 individual heads/bodies are distinguishable and counted across the stepped bleacher seating, the foreground cube seats and beside the glass partition. None of these are cropped such that their presence is uncertain, though some are partially occluded by other people or seating.",
+    "At least six individual blue upholstered cube seats are visible in the foreground and middle ground (three clearly in the immediate foreground and at least three more nearer the stepped seating); some cubes are partially occluded by people.",
+    "A multi-tiered stepped seating structure (bleacher-style steps) with integrated bench surfaces and backrests runs from left toward the centre of the image; multiple people are seated on its tiers.",
+    "A glass partition or glass-walled room is visible on the right side of the image, including a glass door and internal furnishings (tables and chairs) visible through the glass.",
+    "Two small white notices or sheets are affixed to the glass partition near the right edge of the image (both are visible as mounted papers).",
+    "One backpack is visible on the floor in the lower-left foreground, leaning against a blue cube seat; an additional backpack or bag is visible on the stepped seating toward the upper middle of the image.",
+    "Several personal items such as jackets and a white tote bag are visible on seats or next to people (a white bag is on the cube nearest the woman wearing a mask).",
+    "Blue upholstered cube seats in varying shades of blue (medium to darker blue) are used as movable seating in the foreground.",
+    "Stepped seating surfaces appear to be light wood or wood-coloured laminate with pale grey/blue upholstered back cushions on some tiers.",
+    "The floor appears to be a light grey carpet or carpet tile in the seating area.",
+    "The right-side partition is glass with metal framing; a greenish-yellow 'innovation' sign or decal is visible on the glass in the background."
+  ],
+  "id": "c0edf6a6c1229d8d6889c441",
+  "sha256": "b172e55fd31a2d2f2089456a40277096976803ba88c741ed88ec25e58074820e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:02:58.761477+00:00",
+  "input_resolution": [
+    1620,
+    1080
+  ],
+  "input_sha256": "a5976763ff71cf9fa67c30c690ea1f1b824bb4a8d1036d131631cafc1299d404",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauPa4aWU31nVLYhHsaIiL6cqTgFo",
+  "usage": {
+    "completion_tokens": 1506,
+    "prompt_tokens": 2237,
+    "total_tokens": 3743,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1121,
+      "engine_ttlt_ms": 14511,
+      "pre_inference_ms": 433,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 2079,
+      "service_ttlt_ms": 15467,
+      "user_visible_ttft_ms": 1646
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

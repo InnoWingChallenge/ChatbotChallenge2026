@@ -1,0 +1,113 @@
+{
+  "title": "Conference room with projection screen, long marble table and multiple chairs",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One ceiling-mounted projector is visible near the centre of the ceiling (mounted above the far end of the table).",
+    "One large retractable projection screen is visible on the far wall, lowered.",
+    "One long rectangular conference table with a white marble-like surface is visible occupying the centre of the room.",
+    "At least eleven individual office chairs with black seats/backs and five-star caster bases are visible around the table: six chairs are along the left side of the table (image left, some partially cropped) and five chairs are along the right side of the table (image right).",
+    "One small wheeled floor device (likely an air purifier or similar) is visible on the floor at the near-right corner of the table (partly in front of the table leg).",
+    "Three small potted plants or planters are visible on the centre strip of the table (two nearer the far end, one nearer the near end).",
+    "One hand-sanitiser or liquid bottle is visible on the table near the centre toward the near end.",
+    "One red rectangular box (possibly a tissue or supply box) is visible on the table near the far half.",
+    "One black cable runs along the table from near the near end toward the centre channel in the tabletop.",
+    "Glass partition walls are visible on both the left and the right sides of the room (full-height glazing on the right with an interior view beyond; left side shows a frosted/transparent glazed wall)."
+  ],
+  "visible_text": [
+    "Dettol"
+  ],
+  "spatial_relations": [
+    "The projection screen is mounted on the far wall and is directly aligned with the long axis of the conference table.",
+    "The ceiling-mounted projector is centred over the far half of the table and projects toward the lowered screen on the far wall.",
+    "The long table occupies the central floor area, with a row of chairs on each long side: six along the image-left side and five along the image-right side as counted in the photograph.",
+    "A glass partition runs along the right side of the room, with visible interior space beyond the glass; a glazed wall or door is on the left side of the room.",
+    "The wheeled floor device (air-purifier-like) is positioned at the near-right corner of the table, directly in front of the near table leg and slightly intruding into the walkway beside the table.",
+    "Small plants and supply items are placed along a recessed centre channel on the tabletop, roughly spaced along the middle of the table."
+  ],
+  "colours_and_materials": [
+    "Tabletop appears white with grey marble-like veining; surface has a glossy appearance.",
+    "Chairs are black with mesh or fabric backs and black caster bases.",
+    "Carpet is a light-to-medium grey with a low-pile texture.",
+    "Walls and lower wall panels are white; the projection screen is white.",
+    "Right and left side walls are glass (transparent on the right, partially frosted or coated on the left).",
+    "Ceiling is white with rectangular recessed lighting panels; the projector has a light grey or white casing."
+  ],
+  "uncertainties": [
+    "The single transcribed visible text 'Dettol' is identified from the liquid bottle label; smaller labels and brand markings on the projector and the wheeled floor device are not legible at this resolution.",
+    "Counts of chairs (six left, five right) are based on individually distinguishable chairs visible in this image; some chairs at the far ends or behind the table may be partially obscured or cropped and the total may not represent all chairs in the room.",
+    "The wheeled floor device is visually identified by form only; its exact function, model or brand is unreadable and therefore not confirmed.",
+    "Small printed text on the projector housing and on the near-floor device is present but unreadable in this photo; other small labels in the scene were not legible on a second visual pass."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One ceiling-mounted projector is visible near the centre of the ceiling (mounted above the far end of the table).",
+    "One large retractable projection screen is visible on the far wall, lowered.",
+    "One long rectangular conference table with a white marble-like surface is visible occupying the centre of the room.",
+    "At least eleven individual office chairs with black seats/backs and five-star caster bases are visible around the table: six chairs are along the left side of the table (image left, some partially cropped) and five chairs are along the right side of the table (image right).",
+    "One small wheeled floor device (likely an air purifier or similar) is visible on the floor at the near-right corner of the table (partly in front of the table leg).",
+    "Three small potted plants or planters are visible on the centre strip of the table (two nearer the far end, one nearer the near end).",
+    "One hand-sanitiser or liquid bottle is visible on the table near the centre toward the near end.",
+    "One red rectangular box (possibly a tissue or supply box) is visible on the table near the far half.",
+    "One black cable runs along the table from near the near end toward the centre channel in the tabletop.",
+    "Glass partition walls are visible on both the left and the right sides of the room (full-height glazing on the right with an interior view beyond; left side shows a frosted/transparent glazed wall).",
+    "Tabletop appears white with grey marble-like veining; surface has a glossy appearance.",
+    "Chairs are black with mesh or fabric backs and black caster bases.",
+    "Carpet is a light-to-medium grey with a low-pile texture.",
+    "Walls and lower wall panels are white; the projection screen is white.",
+    "Right and left side walls are glass (transparent on the right, partially frosted or coated on the left).",
+    "Ceiling is white with rectangular recessed lighting panels; the projector has a light grey or white casing."
+  ],
+  "id": "b2a789b085f3640979d6c8b0",
+  "sha256": "5ee53d2b70a6b68cb37a749d77b44d4731cc53e74d3cf230c65e81a441e127d7",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:59:14.381199+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "32da6b54990b3805c6b39427ca017567775c6cdf7f85b90c0e7f8f6975b86813",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauM1gU3ZxCtRzQ7UFA0ySxfv9gwR",
+  "usage": {
+    "completion_tokens": 1211,
+    "prompt_tokens": 2122,
+    "total_tokens": 3333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 952,
+      "engine_ttlt_ms": 11365,
+      "pre_inference_ms": 331,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1841,
+      "service_ttlt_ms": 12249,
+      "user_visible_ttft_ms": 1510
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Machine workshop with benches, mobile tool cabinets and overhead ducting",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Three mobile black metal tool cabinets on casters are individually visible: one in the left foreground (partially cropped by the image edge), one directly in front of the central wooden workbench, and one at the right side of the image near the front of a wooden workbench.",
+    "Two light-coloured wooden workbenches are visible: one large central bench with parts and jigs on top, and one bench farther back against the right side of the image.",
+    "At least three larger stationary machines are visible along the back and left sides of the room: one large machine with a vertical column and a control panel at the left rear, one machine with a headstock-like component near the center-back, and another machine with a vertical head near the right-back area. Exact machine types are not legible from the image.",
+    "Two red multi-drawer tool trolleys or chests are visible stacked or grouped at the far right background (one directly visible, another partially visible behind it).",
+    "Multiple smaller fixtures and items on the central workbench are visible, including small wooden jigs/boxes (at least three small wooden boxed fixtures on the bench), a yellow tape measure, and various small tools and plastic containers; exact counts of small loose items cannot be reliably determined from the image.",
+    "Three large windows are visible along the rear wall providing exterior view of palm tree foliage.",
+    "Overhead suspended lighting fixtures are visible: at least five linear LED light fixtures suspended from the ceiling in the photographed area.",
+    "A perforated metal pegboard (or tool backboard) is mounted on the right-side bench and is visible above the bench surface."
+  ],
+  "visible_text": [
+    "AP 修理房"
+  ],
+  "spatial_relations": [
+    "A large machine with a vertical column and control panel is located at the left rear of the room adjacent to the windows.",
+    "The central light-coloured wooden workbench sits roughly in the middle of the floor area; a black mobile tool cabinet is positioned at its near-right corner and another black cabinet appears in the left foreground near the bench.",
+    "A second wooden bench runs along the right side or right-rear area of the room; a perforated metal backboard is mounted on or just behind this right-side bench.",
+    "Two red tool chests are positioned toward the far right background near the windows and the right-side bench.",
+    "Linear suspended light fixtures and exposed metal ducting run across the ceiling above the benches and machines.",
+    "The windows run along the back wall behind the machines and workbenches, placing the primary machine line directly in front of the windows."
+  ],
+  "colours_and_materials": [
+    "Floor appears to be a smooth light grey surface (likely painted or sealed concrete).",
+    "Workbenches are light-coloured wood (natural wood tone) with visible wooden legs and shelving.",
+    "Several mobile tool cabinets and drawer units are black metal with silver drawer handles; two tool chests at the far right are red metal.",
+    "Ceiling shows exposed metal ducting and structural elements in metallic grey/silver, with suspended white linear light fixtures and yellow pendant components near some ducts.",
+    "Windows reveal green palm-tree foliage outside, visible through clear glazing."
+  ],
+  "uncertainties": [
+    "Many small text labels on machines, tool cabinets and binder spines are not legible at this resolution; only a wall sign by the left window reads clearly enough to transcribe as \"AP 修理房.\"",
+    "Exact equipment types (e.g., specific models or whether a given machine is a mill, drill press, lathe, bandsaw, etc.) cannot be determined reliably from their visible appearance in this image and were not assumed.",
+    "Counts of small loose items on benches (tools, parts, containers) are not given precisely because objects overlap and are partially obscured.",
+    "The leftmost black tool cabinet in the foreground is partially cropped by the image edge; its full height and any labels on its front are not fully visible.",
+    "The transcribed text \"AP 修理房\" is taken from a small sign on or near the left window; portions of nearby signage include characters or labels that are unreadable and therefore omitted."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Three mobile black metal tool cabinets on casters are individually visible: one in the left foreground (partially cropped by the image edge), one directly in front of the central wooden workbench, and one at the right side of the image near the front of a wooden workbench.",
+    "Two light-coloured wooden workbenches are visible: one large central bench with parts and jigs on top, and one bench farther back against the right side of the image.",
+    "At least three larger stationary machines are visible along the back and left sides of the room: one large machine with a vertical column and a control panel at the left rear, one machine with a headstock-like component near the center-back, and another machine with a vertical head near the right-back area. Exact machine types are not legible from the image.",
+    "Two red multi-drawer tool trolleys or chests are visible stacked or grouped at the far right background (one directly visible, another partially visible behind it).",
+    "Multiple smaller fixtures and items on the central workbench are visible, including small wooden jigs/boxes (at least three small wooden boxed fixtures on the bench), a yellow tape measure, and various small tools and plastic containers; exact counts of small loose items cannot be reliably determined from the image.",
+    "Three large windows are visible along the rear wall providing exterior view of palm tree foliage.",
+    "Overhead suspended lighting fixtures are visible: at least five linear LED light fixtures suspended from the ceiling in the photographed area.",
+    "A perforated metal pegboard (or tool backboard) is mounted on the right-side bench and is visible above the bench surface.",
+    "Floor appears to be a smooth light grey surface (likely painted or sealed concrete).",
+    "Workbenches are light-coloured wood (natural wood tone) with visible wooden legs and shelving.",
+    "Several mobile tool cabinets and drawer units are black metal with silver drawer handles; two tool chests at the far right are red metal.",
+    "Ceiling shows exposed metal ducting and structural elements in metallic grey/silver, with suspended white linear light fixtures and yellow pendant components near some ducts.",
+    "Windows reveal green palm-tree foliage outside, visible through clear glazing."
+  ],
+  "id": "7b179e38cde92dbbdb7bce7e",
+  "sha256": "6a5420acabae77b29af77e5f241f58e3bc3632985fcd10b1ccd3e5440094d14a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:48:03.946296+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "c6d0c712de4700dbb698bb60e26aac7bc2aeacdecee95eb4eb8863ed45f10287",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauBFmLkh51I53gZgsIDz3YccQ2w6",
+  "usage": {
+    "completion_tokens": 1327,
+    "prompt_tokens": 2122,
+    "total_tokens": 3449,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 340,
+      "engine_ttlt_ms": 9663,
+      "pre_inference_ms": 323,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 842,
+      "service_ttlt_ms": 10161,
+      "user_visible_ttft_ms": 519
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

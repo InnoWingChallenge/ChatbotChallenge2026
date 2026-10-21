@@ -1,0 +1,98 @@
+{
+  "title": "Crushed concrete specimen between compression platens with debris",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One crushed/consolidated concrete specimen is visible in the centre of the image, vertically compressed between two square metal platen faces.",
+    "Two metal platen faces are visible: one at the top of the specimen and one at the bottom; both platen faces are roughly square and show metallic/brown discoloration.",
+    "Two vertical cylindrical/round columns with a dark blue colour are visible at the left and right edges of the image; both are partially visible and appear to be part of the test frame.",
+    "Many broken fragments and flakes of concrete debris lie around the base platen and on the lower surface; an exact count cannot be determined from the image.",
+    "One red insulated wire is visible running across the foreground over the debris toward the bottom centre of the image.",
+    "One circular lower platen or base plate is visible under the debris at the bottom of the image (partially obscured by rubble)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The crushed concrete specimen is located centrally and is directly between the upper square platen face and the lower square platen face, indicating a vertical compression orientation.",
+    "Broken concrete fragments are scattered around and on top of the lower platen and lie in the foreground in front of the specimen.",
+    "The red wire lies across the lower platen area and across the debris toward the front edge of the image.",
+    "The two dark blue vertical columns are positioned left and right near the specimen and appear to form the vertical supports of the test frame; the upper platen is attached above the specimen and the lower platen sits on a circular base under the debris."
+  ],
+  "colours_and_materials": [
+    "The specimen and fragments are predominantly grey concrete with visible lighter-coloured aggregate pieces (white and light grey) and occasional small orange-brown particles.",
+    "The upper and lower platen faces have a brownish/metallic discoloration (possible rust or patina) and appear metallic.",
+    "The vertical support columns are a dark blue colour.",
+    "A conspicuous red insulated wire is visible across the lower area.",
+    "The lower circular base/plate under the debris appears dark grey to black."
+  ],
+  "uncertainties": [
+    "No room name, room number, equipment nameplate, brand or model numbers are legible in the image; the precise test machine identity cannot be determined from this view.",
+    "Exact count of concrete fragments is not determinable because many pieces overlap and are partially obscured.",
+    "It is unclear whether there are additional wires or sensors concealed under the debris beyond the single visible red wire.",
+    "The material identification of the platens and columns (specific metal type) is inferred visually but not confirmed by legible labels.",
+    "No printed signage or textual labels are readable; any small labels that might exist on the equipment are not visible or are unreadable in this photograph."
+  ],
+  "visual_facts": [
+    "One crushed/consolidated concrete specimen is visible in the centre of the image, vertically compressed between two square metal platen faces.",
+    "Two metal platen faces are visible: one at the top of the specimen and one at the bottom; both platen faces are roughly square and show metallic/brown discoloration.",
+    "Two vertical cylindrical/round columns with a dark blue colour are visible at the left and right edges of the image; both are partially visible and appear to be part of the test frame.",
+    "Many broken fragments and flakes of concrete debris lie around the base platen and on the lower surface; an exact count cannot be determined from the image.",
+    "One red insulated wire is visible running across the foreground over the debris toward the bottom centre of the image.",
+    "One circular lower platen or base plate is visible under the debris at the bottom of the image (partially obscured by rubble).",
+    "The specimen and fragments are predominantly grey concrete with visible lighter-coloured aggregate pieces (white and light grey) and occasional small orange-brown particles.",
+    "The upper and lower platen faces have a brownish/metallic discoloration (possible rust or patina) and appear metallic.",
+    "The vertical support columns are a dark blue colour.",
+    "A conspicuous red insulated wire is visible across the lower area.",
+    "The lower circular base/plate under the debris appears dark grey to black."
+  ],
+  "id": "5a93cfaf8705bae243b09bc2",
+  "sha256": "cfefd88a5d37a7903821131cd8ff8acace229d7d0660f4f83dd71088c81bd581",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:11:21.468399+00:00",
+  "input_resolution": [
+    768,
+    1024
+  ],
+  "input_sha256": "7e5d775df678d428fd4407dd7fb20e2b3a614bc1d53644fac89ef07d443e1bde",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatbmwURpYIYmo9KCe4Hmnz00SXP3",
+  "usage": {
+    "completion_tokens": 771,
+    "prompt_tokens": 2122,
+    "total_tokens": 2893,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 622,
+      "engine_ttlt_ms": 5499,
+      "pre_inference_ms": 131,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1759,
+      "service_ttlt_ms": 6627,
+      "user_visible_ttft_ms": 1628
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

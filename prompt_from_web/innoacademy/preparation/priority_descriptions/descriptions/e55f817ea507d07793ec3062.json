@@ -1,0 +1,106 @@
+{
+  "title": "College Mate promotional poster with two smartphone mockups",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Two full smartphone mockups are visible near the lower center of the image; both are shown upright and slightly tilted. Both devices are complete (not cropped) and display application screens.",
+    "One large diagonal ribbon or band crosses the image from lower-left to upper-right; it is behind the smartphone mockups and occupies the left portion of the image.",
+    "The image is primarily a poster with heading text and a subtitle; no physical room fixtures, equipment nameplates or safety signage are present."
+  ],
+  "visible_text": [
+    "College Mate",
+    "Helping students navigate and",
+    "budget their Higher Education plans",
+    "College Mate",
+    "What college are you looking for?",
+    "Bachelor's Degree",
+    "$30K",
+    "$50K",
+    "Texas, USA",
+    "RESET FILTERS",
+    "APPLY FILTERS",
+    "College Mate",
+    "THE UNIVERSITY OF TEXAS AT AUSTIN",
+    "Average Daily Views",
+    "Source: QS"
+  ],
+  "spatial_relations": [
+    "A diagonal purple-to-blue ribbon runs from the lower-left corner toward the upper-right, positioned behind the other elements.",
+    "The main heading 'College Mate' is centered near the top-right quadrant of the image with the subtitle immediately below it.",
+    "Two smartphone mockups are placed near the lower-center area of the poster; the left phone is slightly lower and tilted to the left, the right phone is slightly higher and tilted to the right, and they overlap the diagonal ribbon.",
+    "Text blocks visible on the phones appear inside their screen areas; the phones are visually foregrounded above the ribbon and the plain white background."
+  ],
+  "colours_and_materials": [
+    "Background is predominantly white.",
+    "A wide diagonal ribbon shows a purple-to-blue gradient (purple at left transitioning to blue toward the right).",
+    "The two smartphone mockups have black bezels and white screen backgrounds with dark text.",
+    "Typography for the heading and subtitle appears in black."
+  ],
+  "uncertainties": [
+    "Many small labels and numeric details inside the smartphone screens are partly legible or too small to read precisely; only the larger items were transcribed.",
+    "On the phones there are additional lines of text and small charts or icons that could not be reliably transcribed at this image resolution.",
+    "No room signage, equipment nameplates or facility identifiers are visible; therefore the image does not provide verifiable evidence of a physical location or facility."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Two full smartphone mockups are visible near the lower center of the image; both are shown upright and slightly tilted. Both devices are complete (not cropped) and display application screens.",
+    "One large diagonal ribbon or band crosses the image from lower-left to upper-right; it is behind the smartphone mockups and occupies the left portion of the image.",
+    "The image is primarily a poster with heading text and a subtitle; no physical room fixtures, equipment nameplates or safety signage are present.",
+    "Background is predominantly white.",
+    "A wide diagonal ribbon shows a purple-to-blue gradient (purple at left transitioning to blue toward the right).",
+    "The two smartphone mockups have black bezels and white screen backgrounds with dark text.",
+    "Typography for the heading and subtitle appears in black."
+  ],
+  "id": "e55f817ea507d07793ec3062",
+  "sha256": "57988f5aae898e1c00dc42d09d0b744c7b16bf093d74468e84950bb93be178bd",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:22:06.689636+00:00",
+  "input_resolution": [
+    1697,
+    2400
+  ],
+  "input_sha256": "5ec69ab65ebe7685870325354dc6d31a6ac306d4541581b41e2eb12064a10c22",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatmAbdsTgXjSe9qWYGin2HZZDY1p",
+  "usage": {
+    "completion_tokens": 835,
+    "prompt_tokens": 2180,
+    "total_tokens": 3015,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 893,
+      "engine_ttlt_ms": 6514,
+      "pre_inference_ms": 208,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1584,
+      "service_ttlt_ms": 7197,
+      "user_visible_ttft_ms": 1376
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

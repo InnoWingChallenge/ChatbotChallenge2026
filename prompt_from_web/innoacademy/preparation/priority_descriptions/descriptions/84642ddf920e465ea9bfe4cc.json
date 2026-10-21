@@ -1,0 +1,118 @@
+{
+  "title": "Computer lab classroom with students at workstations and a presenter",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 10 people are visible in the photographed scene; several faces and heads are visible across foreground, midground and background. Some people are partially obscured by monitors or turned away from the camera.",
+    "At least 12 desktop computer monitors are visible across workstations: two prominent monitors in the front-left region, two central monitors on the nearest triangular table, multiple monitors in the mid-row and back row (minimum counts seen in the front, mid and back rows). Some monitors are cropped by the image edges or partly obscured by other monitors.",
+    "At least 6 desktop computer towers or cases are visible or partially visible behind monitors (several with illuminated fans or front lighting); some towers are partly obscured.",
+    "At least 8 task chairs are visible: one orange chair in the left foreground, at least two red chairs (one central, one mid-back), and several grey/black wheeled chairs at workstations. Some chair backs are obscured so total may be higher.",
+    "One freestanding projection screen is visible on the front wall showing a projected computer interface.",
+    "One standing presenter near the front of the room holding a marker or pointing device is visible.",
+    "One small countertop sign/display on the nearest triangular table reads 'Please Sign Your Name' (see visible_text). It appears as a printed stand-up sign.",
+    "One backpack is visible on the floor under the central table and one yellow-topped water bottle next to it.",
+    "Multiple keyboards and mice are visible at several desks (individual keyboards and mice are visible at many workstations but exact total cannot be determined from this single view).",
+    "One printed circular 'no' symbol sign is visible on the right wall (pictogram sign), partly legible but text around it is not fully readable.",
+    "Whiteboards cover multiple wall panels at the left and back, with handwriting and sketches visible but mostly unreadable."
+  ],
+  "visible_text": [
+    "Please Sign Your Name",
+    "ALLPPT",
+    "FREE POWERPOINT",
+    "[unreadable]",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "A projector screen is mounted on the front wall; the standing presenter is positioned slightly left of center in front of the screen.",
+    "The nearest triangular table occupies the lower-left to center foreground; two students sit at that table facing monitors, and a printed sign is placed near the middle of that table.",
+    "Rows of workstations extend from the midground to the back wall; monitors and desktop towers are placed on rectangular desks in those rows.",
+    "Red wheeled chairs are located centrally and slightly to the right; an orange chair is at the left foreground workstation.",
+    "Workstations line the right wall with students seated facing the wall monitors; a pictogram sign is mounted on the right wall above those desks.",
+    "Whiteboard panels span the left and back walls behind the presenter; writing and sketches are present on those boards."
+  ],
+  "colours_and_materials": [
+    "Floor appears to be a light grey carpet.",
+    "Walls are predominantly white with vertical colored acoustic or panel strips in blue and pale mint/green on the right rear wall.",
+    "Many computer cases show illuminated lighting — some warm yellow LED fans and at least one purple-lit PC interior are visible.",
+    "Chairs include an orange plastic chair at the left, red plastic/metal wheeled chairs in the central area, and grey/black office chairs at multiple desks.",
+    "Desks and table surfaces are white with metal legs (light-coloured frames)."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is legible in the image; therefore location is unknown from image.",
+    "Several small text regions (projected screen, whiteboard handwriting, small labels on monitors and signs) are partly legible or unreadable in this view; only the larger printed sign and a few monitor headings could be transcribed reliably.",
+    "Exact counts for monitors, towers, keyboards, mice and chairs may be higher than reported because some are occluded by people or other equipment; stated counts are minimums based on individually distinguishable items visible in the image.",
+    "The 'ALLPPT' and 'FREE POWERPOINT' text appears on a computer screen in the lower-right region but some surrounding words are unreadable; other visible text fragments on screens and stickers could not be accurately transcribed.",
+    "The printed circular sign on the right wall contains a pictogram and possible text, but the textual content is not legible from this image.",
+    "The visible_text array contains placeholders [unreadable] for multiple smaller text regions that could not be resolved at this scale."
+  ],
+  "visual_facts": [
+    "At least 10 people are visible in the photographed scene; several faces and heads are visible across foreground, midground and background. Some people are partially obscured by monitors or turned away from the camera.",
+    "At least 12 desktop computer monitors are visible across workstations: two prominent monitors in the front-left region, two central monitors on the nearest triangular table, multiple monitors in the mid-row and back row (minimum counts seen in the front, mid and back rows). Some monitors are cropped by the image edges or partly obscured by other monitors.",
+    "At least 6 desktop computer towers or cases are visible or partially visible behind monitors (several with illuminated fans or front lighting); some towers are partly obscured.",
+    "At least 8 task chairs are visible: one orange chair in the left foreground, at least two red chairs (one central, one mid-back), and several grey/black wheeled chairs at workstations. Some chair backs are obscured so total may be higher.",
+    "One freestanding projection screen is visible on the front wall showing a projected computer interface.",
+    "One standing presenter near the front of the room holding a marker or pointing device is visible.",
+    "One small countertop sign/display on the nearest triangular table reads 'Please Sign Your Name' (see visible_text). It appears as a printed stand-up sign.",
+    "One backpack is visible on the floor under the central table and one yellow-topped water bottle next to it.",
+    "Multiple keyboards and mice are visible at several desks (individual keyboards and mice are visible at many workstations but exact total cannot be determined from this single view).",
+    "One printed circular 'no' symbol sign is visible on the right wall (pictogram sign), partly legible but text around it is not fully readable.",
+    "Whiteboards cover multiple wall panels at the left and back, with handwriting and sketches visible but mostly unreadable.",
+    "Floor appears to be a light grey carpet.",
+    "Walls are predominantly white with vertical colored acoustic or panel strips in blue and pale mint/green on the right rear wall.",
+    "Many computer cases show illuminated lighting — some warm yellow LED fans and at least one purple-lit PC interior are visible.",
+    "Chairs include an orange plastic chair at the left, red plastic/metal wheeled chairs in the central area, and grey/black office chairs at multiple desks.",
+    "Desks and table surfaces are white with metal legs (light-coloured frames)."
+  ],
+  "id": "84642ddf920e465ea9bfe4cc",
+  "sha256": "39ec6efc4a1fc4365c0d168e477fc80d27898610e8d3ee66d0a48a9d5f89ed91",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:51:12.698378+00:00",
+  "input_resolution": [
+    2054,
+    1385
+  ],
+  "input_sha256": "22a392093f0174998248369ec04b3e428ac79999081ff154a0fd78fff35b6eb2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauEHRYRnMj1lhc8bGY5tTcdAUVg0",
+  "usage": {
+    "completion_tokens": 1351,
+    "prompt_tokens": 2237,
+    "total_tokens": 3588,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 367,
+      "engine_ttlt_ms": 9825,
+      "pre_inference_ms": 563,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1035,
+      "service_ttlt_ms": 10487,
+      "user_visible_ttft_ms": 472
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Classroom or lab with projected 'Prerequisites' slide and multiple students at tables",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 16 individual people are visible in the photographed scene; this count is a minimum based on individually distinguishable heads and torsos across the room (several people are partially obscured or seen from the back).",
+    "Two large projected screens are visible: one large screen at the left foreground and a second projection visible through the glass partition toward the center-right background; both show the same slide content.",
+    "Two ceiling-mounted projectors are visible: one above the foreground screen and one farther back above the center of the room.",
+    "Multiple long rectangular tables are visible; at least six table surfaces are individually distinguishable in the image (foreground, two center rows, left, and background tables).",
+    "At least four laptop or tablet devices are visible on table surfaces (one tablet being used by a person at the right foreground, one laptop near the left foreground projection, and at least two other laptop screens or devices on center/back tables).",
+    "At least four stools or chairs are visible around tables (several are partially obscured; full seating count cannot be determined reliably).",
+    "One camera or tripod-mounted device is visible standing near the left foreground projection screen (tripod with attached device is partially visible).",
+    "Multiple personal items such as water bottles and bags are visible on tables (for example, one red/orange water bottle on a center-right table and several backpacks), but incidental small items are not counted exhaustively."
+  ],
+  "visible_text": [
+    "Prerequisites",
+    "Pre-requisites",
+    "1. Download the code folder",
+    "https://shorturl.at/sgqi1",
+    "2. Open the folder in VScode",
+    "3. Install the required packages",
+    "conda create -n dobot python=3.10",
+    "conda activate dobot",
+    "pip install -r requirements.txt"
+  ],
+  "spatial_relations": [
+    "A large projection screen is on the left foreground wall; the presenter area is immediately in front of the left screen.",
+    "A glass partition runs vertically near the center of the image, creating a visual separation between the left/front area and the right/back area; the projection from the left screen is reflected or repeated on a surface visible through the glass partition.",
+    "Rows of long tables run roughly left-to-right across the image; people are seated at both sides of these tables facing toward the screens and front of the room.",
+    "Ceiling-mounted projectors are located above the central aisle and above the front projection area, with exposed ductwork and ceiling fixtures visible between them.",
+    "The tripod-mounted camera or device is positioned on the left side of the front table, between the leftmost projection screen and the nearest student seating area."
+  ],
+  "colours_and_materials": [
+    "Tables have light-coloured (off-white or pale wood) tops with metal legs.",
+    "The ceiling shows exposed metallic ducts and piping, with white rectangular acoustic panels and white ceiling-mounted projector housings.",
+    "The glass partition is clear and reflective, showing a mirrored view of the projection and seating on its surface.",
+    "Most visible clothing colors include dark jackets, a patterned orange/black/cream sweater in the left foreground, and a dark blue jacket with a yellow circular emblem reading 'THE BAY' on the back of a person in the foreground.",
+    "Projection slide background appears white with dark text; a QR code and a pale blue highlighted box are visible on the slide."
+  ],
+  "uncertainties": [
+    "Exact count of people is a minimum; several people are partially obscured or seen only from the back so the true total visible may be higher.",
+    "Some text on the projected slide is small or partially obscured; the short URL transcribed as 'https://shorturl.at/sgqi1' may have characters that are unclear in parts of the image.",
+    "The command line text transcriptions (for example the environment name 'dobot' and the Python version '3.10') are legible but could contain minor character ambiguities due to image resolution.",
+    "Smaller labels, name badges, or device brand/model labels were not legible on a second visual pass and therefore are not transcribed.",
+    "The purpose or official room name of the space is not visible anywhere in the image; location is therefore reported as unknown from image."
+  ],
+  "visual_facts": [
+    "At least 16 individual people are visible in the photographed scene; this count is a minimum based on individually distinguishable heads and torsos across the room (several people are partially obscured or seen from the back).",
+    "Two large projected screens are visible: one large screen at the left foreground and a second projection visible through the glass partition toward the center-right background; both show the same slide content.",
+    "Two ceiling-mounted projectors are visible: one above the foreground screen and one farther back above the center of the room.",
+    "Multiple long rectangular tables are visible; at least six table surfaces are individually distinguishable in the image (foreground, two center rows, left, and background tables).",
+    "At least four laptop or tablet devices are visible on table surfaces (one tablet being used by a person at the right foreground, one laptop near the left foreground projection, and at least two other laptop screens or devices on center/back tables).",
+    "At least four stools or chairs are visible around tables (several are partially obscured; full seating count cannot be determined reliably).",
+    "One camera or tripod-mounted device is visible standing near the left foreground projection screen (tripod with attached device is partially visible).",
+    "Multiple personal items such as water bottles and bags are visible on tables (for example, one red/orange water bottle on a center-right table and several backpacks), but incidental small items are not counted exhaustively.",
+    "Tables have light-coloured (off-white or pale wood) tops with metal legs.",
+    "The ceiling shows exposed metallic ducts and piping, with white rectangular acoustic panels and white ceiling-mounted projector housings.",
+    "The glass partition is clear and reflective, showing a mirrored view of the projection and seating on its surface.",
+    "Most visible clothing colors include dark jackets, a patterned orange/black/cream sweater in the left foreground, and a dark blue jacket with a yellow circular emblem reading 'THE BAY' on the back of a person in the foreground.",
+    "Projection slide background appears white with dark text; a QR code and a pale blue highlighted box are visible on the slide."
+  ],
+  "id": "b58588c522d3d85e0eb84b05",
+  "sha256": "6330ceb7b1f5a02e0eae3e28441f5a06b340bcb1867ad7e2fe3ae080327730a7",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:00:00.652834+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "98a801a6621da6f260adb1190802d6fde8a074b2d0a57a196561870bc6994ba2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauMnrjy3B2ltNAHX7y0nR3nI7DcQ",
+  "usage": {
+    "completion_tokens": 1283,
+    "prompt_tokens": 2266,
+    "total_tokens": 3549,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1177,
+      "engine_ttlt_ms": 9191,
+      "pre_inference_ms": 392,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2105,
+      "service_ttlt_ms": 10115,
+      "user_visible_ttft_ms": 1713
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

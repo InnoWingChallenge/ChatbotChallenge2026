@@ -1,0 +1,111 @@
+{
+  "title": "Three vacuum-sealed packs of cylindrical samples on a concrete floor",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Twelve visible cylindrical samples arranged as three separate vacuum-sealed plastic packs; each pack contains four cylinders arranged in a 2-by-2 grid (three packs × four cylinders = 12 cylinders visible).",
+    "Top pack (grey cylinders) is vacuum-sealed in transparent plastic and sits nearest the top of the image.",
+    "Middle pack (blue-green/teal cylinders with surface wear) is vacuum-sealed in transparent plastic and lies centrally in the image.",
+    "Bottom pack (light grey cylinders) is vacuum-sealed in transparent plastic and lies nearest the bottom of the image.",
+    "One partial shoe visible in the top-right corner of the image (cropped; only the sole/side visible).",
+    "One white perforated plastic bin or basket visible and cropped at the top-left corner of the image.",
+    "The background surface is a stained concrete floor covering the full image area."
+  ],
+  "visible_text": [
+    "OPC",
+    "OPC",
+    "OPC",
+    "OPC",
+    "AAS",
+    "AAS",
+    "AAS",
+    "AAS",
+    "80 FA",
+    "80 FA"
+  ],
+  "spatial_relations": [
+    "The three vacuum-sealed packs are stacked vertically with some gap between them: a grey pack at the top, a blue-green pack in the middle, and a light-grey pack at the bottom.",
+    "Within each pack, the four cylinders are arranged in a 2-by-2 grid so that two cylinders are adjacent horizontally and two vertically.",
+    "The partial white perforated bin is located outside the top-left edge of the top pack and is cropped by the image border.",
+    "The partial shoe is located outside the top-right edge of the image, adjacent to the top pack and cropped by the image border.",
+    "All packs rest directly on the concrete floor; no shelving or tables are visible."
+  ],
+  "colours_and_materials": [
+    "Top pack cylinders are medium grey with a slightly polished or dusty surface.",
+    "Middle pack cylinders are blue-green / teal with white surface abrasion or residue visible.",
+    "Bottom pack cylinders are light grey with a matte finish.",
+    "All three packs are enclosed in transparent vacuum-seal plastic that produces highlights and creases over the cylinders.",
+    "Floor is a beige-to-brown stained concrete with visible scuffs and darker spots."
+  ],
+  "uncertainties": [
+    "The exact wording on the top-row cylinders appears as '80 FA' on two visible positions; portions of top-pack handwriting may be partially obscured by reflections from the vacuum-seal film.",
+    "Some handwritten labels are partly obscured by plastic creases or angle; counts given are of clearly distinguishable cylinder faces visible in this single image and do not assert unseen items outside the frame.",
+    "The label transcriptions 'AAS' and 'OPC' are repeated on multiple cylinders; handwriting style and occlusion make it possible that small adjacent characters are present but unreadable.",
+    "The partial shoe and plastic bin are cropped and not fully visible; their exact types and counts beyond the cropped portions cannot be determined from this image."
+  ],
+  "visual_facts": [
+    "Twelve visible cylindrical samples arranged as three separate vacuum-sealed plastic packs; each pack contains four cylinders arranged in a 2-by-2 grid (three packs × four cylinders = 12 cylinders visible).",
+    "Top pack (grey cylinders) is vacuum-sealed in transparent plastic and sits nearest the top of the image.",
+    "Middle pack (blue-green/teal cylinders with surface wear) is vacuum-sealed in transparent plastic and lies centrally in the image.",
+    "Bottom pack (light grey cylinders) is vacuum-sealed in transparent plastic and lies nearest the bottom of the image.",
+    "One partial shoe visible in the top-right corner of the image (cropped; only the sole/side visible).",
+    "One white perforated plastic bin or basket visible and cropped at the top-left corner of the image.",
+    "The background surface is a stained concrete floor covering the full image area.",
+    "Top pack cylinders are medium grey with a slightly polished or dusty surface.",
+    "Middle pack cylinders are blue-green / teal with white surface abrasion or residue visible.",
+    "Bottom pack cylinders are light grey with a matte finish.",
+    "All three packs are enclosed in transparent vacuum-seal plastic that produces highlights and creases over the cylinders.",
+    "Floor is a beige-to-brown stained concrete with visible scuffs and darker spots."
+  ],
+  "id": "cedef8550e73dad8b6462c27",
+  "sha256": "351a8e3358889e40aad5736c989e4915e64dd39ee5679f448aa019b6881c60fd",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:20:45.320163+00:00",
+  "input_resolution": [
+    768,
+    1024
+  ],
+  "input_sha256": "63f056327fc184d781704e64fde1b45e1abe46e6e1f01425ee0c79eaeb647b33",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatkql0iZ0IDQBDaIHnOPC78R8qLv",
+  "usage": {
+    "completion_tokens": 903,
+    "prompt_tokens": 2122,
+    "total_tokens": 3025,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 742,
+      "engine_ttlt_ms": 7959,
+      "pre_inference_ms": 123,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1415,
+      "service_ttlt_ms": 8626,
+      "user_visible_ttft_ms": 1292
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

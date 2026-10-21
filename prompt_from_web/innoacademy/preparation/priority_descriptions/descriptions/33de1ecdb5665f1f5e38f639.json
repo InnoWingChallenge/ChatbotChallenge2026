@@ -1,0 +1,24 @@
+{
+  "id": "33de1ecdb5665f1f5e38f639",
+  "sha256": "8b0594b6d40c2d8850f9e9318cd4c62f9967f7b9e9e953ef03ffbbd59a1617d3",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Optical components and colored cables on a perforated table",
+  "visible_text": [],
+  "visual_facts": [
+    "A black perforated optical table holds several compact cylindrical and rectangular devices on adjustable mounts.",
+    "A yellow rectangular module with a warning label sits near the upper center.",
+    "Blue, red, white, and tan cables run between components and across the table.",
+    "A transparent protective cover is visible along the top and right edges."
+  ],
+  "spatial_relations": [
+    "The yellow module is near the center, with mounted components placed to its left, right, and lower side.",
+    "Colored cables connect or pass between devices across the tabletop."
+  ],
+  "uncertainties": [
+    "Labels are too small to read, so the optical setup and component functions cannot be identified."
+  ]
+}

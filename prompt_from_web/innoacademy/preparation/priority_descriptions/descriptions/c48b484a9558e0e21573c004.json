@@ -1,0 +1,110 @@
+{
+  "title": "Exterior entrance and glass-fronted rooms under canopy with Tam Wing Fan signage",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No identifiable people are visible in the photographed scene.",
+    "Three green chairs are visible inside the glass-fronted room on the right (they are arranged in a row and fully visible).",
+    "One red chair or seat back is partially visible inside the glass-fronted room near a desk (cropped by the glass partition and interior furnishings).",
+    "One desk or work surface is visible inside the glass-fronted room behind the glass.",
+    "One flat rectangular screen or monitor is mounted on the inside wall along the left corridor (visible on the interior wall under the canopy).",
+    "Two large square/rectangular structural columns are visible under the canopy in the midground (one at left foreground with a dotted pattern, one at center-right supporting the canopy).",
+    "Multiple vertical glass panels form the entrance façade and room partition on the right (at least four distinct glass panels are visible in the façade).",
+    "A stepped brick paving area with at least two visible step risers is visible in the foreground (the exact total number of steps beyond the visible risers cannot be determined).",
+    "Several recessed ceiling light panels are visible in the covered corridor ceiling (a repeated grid of rectangular light fixtures is visible)."
+  ],
+  "visible_text": [
+    "TAM WING FAN INNOVATION WING TWO",
+    "Tam Wing Fan Technology Wing",
+    "FACULTY OF ENGIN EERIN G"
+  ],
+  "spatial_relations": [
+    "A covered corridor runs left from the main entrance area under a horizontal canopy; the corridor opening is on the left side of the image and appears to lead into a darker interior space.",
+    "The glass-fronted room is located immediately to the right of the central supporting column under the canopy; its glass panels form the façade facing the paved forecourt.",
+    "The signage reading 'TAM WING FAN INNOVATION WING TWO' is mounted along the horizontal edge of the canopy above the glass-fronted room and entrance.",
+    "The rectangular monitor is mounted on the interior wall along the left side corridor, positioned between the corridor opening and the glass-fronted room.",
+    "The foreground shows a terracotta brick-paved plaza with stepped risers leading up toward the canopy and entrance area."
+  ],
+  "colours_and_materials": [
+    "Exterior walls are covered in reddish-brown brick (running bond pattern) on the building façade.",
+    "Ground paving is terracotta-coloured brick or tile arranged in a herringbone or similar rectangular pattern.",
+    "Supporting columns and canopy underside are finished in light grey or off-white smooth material.",
+    "Glass panels are clear/transparent, forming the entrance façade and interior partitions; interior furniture includes green and red coloured seating.",
+    "Ceiling lighting panels under the canopy are white and form a grid of rectangular illuminated elements."
+  ],
+  "uncertainties": [
+    "The captured signage above the canopy includes additional Chinese characters to the right of 'TAM WING FAN INNOVATION WING TWO' that are not legible at this resolution.",
+    "The transcription 'FACULTY OF ENGIN EERIN G' is taken from partially obscured or fragmented letters on the glass; spacing and some letters are unreadable and may be incorrectly separated.",
+    "The exact number of glass panels making up the façade is at least four but could be more beyond the visible crop.",
+    "The number of step risers visible in the foreground is at least two; the full flight and total steps are not fully visible so an exact count cannot be determined.",
+    "The red object inside the glass room is identified visually as a chair or seat back but its exact type cannot be confirmed from the image.",
+    "No room name or room number sign that would precisely identify the location is legible in the image; therefore the location field is reported as 'unknown from image'."
+  ],
+  "visual_facts": [
+    "No identifiable people are visible in the photographed scene.",
+    "Three green chairs are visible inside the glass-fronted room on the right (they are arranged in a row and fully visible).",
+    "One red chair or seat back is partially visible inside the glass-fronted room near a desk (cropped by the glass partition and interior furnishings).",
+    "One desk or work surface is visible inside the glass-fronted room behind the glass.",
+    "One flat rectangular screen or monitor is mounted on the inside wall along the left corridor (visible on the interior wall under the canopy).",
+    "Two large square/rectangular structural columns are visible under the canopy in the midground (one at left foreground with a dotted pattern, one at center-right supporting the canopy).",
+    "Multiple vertical glass panels form the entrance façade and room partition on the right (at least four distinct glass panels are visible in the façade).",
+    "A stepped brick paving area with at least two visible step risers is visible in the foreground (the exact total number of steps beyond the visible risers cannot be determined).",
+    "Several recessed ceiling light panels are visible in the covered corridor ceiling (a repeated grid of rectangular light fixtures is visible).",
+    "Exterior walls are covered in reddish-brown brick (running bond pattern) on the building façade.",
+    "Ground paving is terracotta-coloured brick or tile arranged in a herringbone or similar rectangular pattern.",
+    "Supporting columns and canopy underside are finished in light grey or off-white smooth material.",
+    "Glass panels are clear/transparent, forming the entrance façade and interior partitions; interior furniture includes green and red coloured seating.",
+    "Ceiling lighting panels under the canopy are white and form a grid of rectangular illuminated elements."
+  ],
+  "id": "c48b484a9558e0e21573c004",
+  "sha256": "e5dfd6a8c4ceb7186dec2c629bfe2a65579eda80431930483c53d419868564f1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:03:46.442729+00:00",
+  "input_resolution": [
+    2400,
+    1251
+  ],
+  "input_sha256": "934ea9dd1cad012eb792d4770d3aedb709af3da98a92757c2a5bd32928fbe29b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauQQ8sInBmkto9N9xN5c49jjEsCC",
+  "usage": {
+    "completion_tokens": 1110,
+    "prompt_tokens": 2554,
+    "total_tokens": 3664,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1203,
+      "engine_ttlt_ms": 10310,
+      "pre_inference_ms": 583,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2239,
+      "service_ttlt_ms": 11338,
+      "user_visible_ttft_ms": 1655
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

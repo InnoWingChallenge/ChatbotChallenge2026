@@ -1,0 +1,117 @@
+{
+  "title": "Lecture/group session facing large world-map display",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 11 people are visible in the photographed scene; they are seated on tiered benches and small cube seats or standing near the front. (Counts given are of distinct, visible persons and do not attempt to include people who may be cropped or out of frame.)",
+    "One presenter at the front right is holding a handheld microphone (presenter is standing and pointing at the display).",
+    "One large wall-sized digital display (LED or screen) dominates the front wall and shows a world map with overlaid red spots and text panels.",
+    "One person in the foreground (lower left) is using a laptop on their lap; the laptop screen is visible and open.",
+    "Three blue cube seats are visible in front of the screen (two fully visible, one partially visible).",
+    "Tiered padded bench seating is present on the left side of the image (three stepped levels are visible) and people are seated on those steps.",
+    "At least two backpacks are visible on the floor near seated people (one black backpack at left of the lower step, one dark backpack near the blue cubes).",
+    "One small cylindrical bottle (green cap) is visible on the bench next to a seated person near the center front.",
+    "One wall-mounted speaker is visible above the large screen (centered on the wall area above the display).",
+    "One glass partition or glass wall is visible behind the seating area, with at least one small sign posted on it.",
+    "One chair with armrests is visible to the far right near the presenter."
+  ],
+  "visible_text": [
+    "FIRMS Web Fire Mapper",
+    "Big Fires",
+    "burnt each year.",
+    "ENGINEERING",
+    "HKU",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The presenter stands at the front right of the image, facing the audience and pointing toward the large wall display; the audience is seated facing the screen.",
+    "Tiered stepped seating runs along the left side of the image, with people seated on multiple stepped levels; this stepped seating is adjacent to a glass partition that runs behind the audience.",
+    "Small blue cube seats are positioned in front of the stepped benches and directly in front of the large wall display; two cubes appear side-by-side with a third partially visible closer to the right edge.",
+    "A glass wall or partition is behind the audience and separates the seating area from an adjacent space; a small sign is affixed to that glass near center-left of the image.",
+    "A wall-mounted speaker is centered above the large display; a single chair with armrests is placed near the presenter on the right side of the display."
+  ],
+  "colours_and_materials": [
+    "The stepped seating and some benches are upholstered in light blue fabric.",
+    "Three small cube seats in front of the display are different shades of blue (two medium blue, one lighter blue visible at right).",
+    "The large front display shows a predominantly blue world map with red overlay markings and black caption panels at the bottom.",
+    "The floor appears covered in a grey carpet with a linear texture; the glass partition behind the seating is transparent with metal fittings.",
+    "Most visible backpacks and the presenter's clothing are dark-coloured (black or navy)."
+  ],
+  "uncertainties": [
+    "Exact people count is a minimum of 11 based on distinctly visible heads; some people are partially cropped or obscured which could change the total.",
+    "The transcription 'HKU' and 'ENGINEERING' come from lettering visible on a black garment; portions of the garment text are obscured and other letters may be present but unreadable.",
+    "Small signs on the glass partition and the detailed text on the large display's side panels are partly unreadable at this resolution; those have been marked as [unreadable].",
+    "The exact label on the bottom-right corner of the large display (a small logo) is not legible and therefore not transcribed.",
+    "Material identifications (e.g., that the display is LED) are visual impressions only and have not been verified by any visible nameplate or model information.",
+    "If no explicit room name or number is visible, the location is reported as 'unknown from image'."
+  ],
+  "visual_facts": [
+    "At least 11 people are visible in the photographed scene; they are seated on tiered benches and small cube seats or standing near the front. (Counts given are of distinct, visible persons and do not attempt to include people who may be cropped or out of frame.)",
+    "One presenter at the front right is holding a handheld microphone (presenter is standing and pointing at the display).",
+    "One large wall-sized digital display (LED or screen) dominates the front wall and shows a world map with overlaid red spots and text panels.",
+    "One person in the foreground (lower left) is using a laptop on their lap; the laptop screen is visible and open.",
+    "Three blue cube seats are visible in front of the screen (two fully visible, one partially visible).",
+    "Tiered padded bench seating is present on the left side of the image (three stepped levels are visible) and people are seated on those steps.",
+    "At least two backpacks are visible on the floor near seated people (one black backpack at left of the lower step, one dark backpack near the blue cubes).",
+    "One small cylindrical bottle (green cap) is visible on the bench next to a seated person near the center front.",
+    "One wall-mounted speaker is visible above the large screen (centered on the wall area above the display).",
+    "One glass partition or glass wall is visible behind the seating area, with at least one small sign posted on it.",
+    "One chair with armrests is visible to the far right near the presenter.",
+    "The stepped seating and some benches are upholstered in light blue fabric.",
+    "Three small cube seats in front of the display are different shades of blue (two medium blue, one lighter blue visible at right).",
+    "The large front display shows a predominantly blue world map with red overlay markings and black caption panels at the bottom.",
+    "The floor appears covered in a grey carpet with a linear texture; the glass partition behind the seating is transparent with metal fittings.",
+    "Most visible backpacks and the presenter's clothing are dark-coloured (black or navy)."
+  ],
+  "id": "17c0a3d5aad416777d4286a4",
+  "sha256": "d58b536fd92ac3f9e96c6b30012a41cd1866abfd944e053dbc69e9b859a340ce",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:29:49.070172+00:00",
+  "input_resolution": [
+    2000,
+    1126
+  ],
+  "input_sha256": "06b145f9b6d3b3b9dbdcaa60f2b4412b730bbc97799bd5e2350547434af724e0",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EattYWuXFJuPZKu1xgYaEiS8NhMEP",
+  "usage": {
+    "completion_tokens": 1317,
+    "prompt_tokens": 2439,
+    "total_tokens": 3756,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1197,
+      "engine_ttlt_ms": 10249,
+      "pre_inference_ms": 468,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2796,
+      "service_ttlt_ms": 11843,
+      "user_visible_ttft_ms": 2328
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

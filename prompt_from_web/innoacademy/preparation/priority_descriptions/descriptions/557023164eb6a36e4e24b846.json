@@ -1,0 +1,97 @@
+{
+  "title": "Metal cutting head producing sparks over slatted support bed",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One cutting head or nozzle assembly is visible near the top-centre of the image; the nozzle is engaged in a cut and emitting sparks.",
+    "Multiple metal workpiece fragments are visible on the support bed immediately under the cutting head; at least three distinct flat metal pieces can be individually seen in the immediate cutting area.",
+    "One cylindrical metal tool or component lies on the support bed in the lower-right foreground; it is partially cropped by the frame on its right side.",
+    "The support bed consists of a dense array of short vertical slats or pins (a slatted or pin-type bed) occupying the central and background image regions; individual pins are numerous and not counted exactly.",
+    "Numerous bright orange sparks are visible radiating from the cutting point; these are transient particles in the scene rather than separate fixed objects."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The cutting head/nozzle assembly is located near the top-centre of the image and projects downward toward the support bed.",
+    "The active cutting point is located slightly below and to the right of the cutting head centre, with sparks radiating outward from that point across the bed.",
+    "Flat metal workpiece fragments lie directly underneath and slightly forward of the cutting point on the slatted/pin bed.",
+    "A cylindrical metal object lies in the lower-right foreground on top of the support bed and is closer to the viewer than the cutting point and workpieces.",
+    "The slatted or pin-type support bed fills the central portion of the image and extends into the background behind the cutting head."
+  ],
+  "colours_and_materials": [
+    "The machine cutting head and surrounding hardware appear metallic silver/grey.",
+    "The support bed and many components appear dark grey to bluish-grey; fine debris on the bed gives a textured, granular appearance.",
+    "Sparks from the cut are bright orange-yellow and create high-contrast streaks against the darker bed.",
+    "The visible metal workpieces under the nozzle appear silver to grey, consistent with bare metal."
+  ],
+  "uncertainties": [
+    "No room sign, nameplate, model number, brand or other textual identifier is legible in the image; therefore the precise room or equipment model cannot be determined from this image.",
+    "The exact count of the slats or pins in the support bed cannot be determined due to their large number and overlap.",
+    "The cylindrical object in the foreground is partially cropped and its exact identity or function is not clear from the image.",
+    "It is not possible to confirm from visible labels whether this device is a laser, plasma, or other type of cutting head; identification is based only on visible form and sparks.",
+    "No readable printed text is visible; any small labels on the machine cannot be transcribed from this view."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One cutting head or nozzle assembly is visible near the top-centre of the image; the nozzle is engaged in a cut and emitting sparks.",
+    "Multiple metal workpiece fragments are visible on the support bed immediately under the cutting head; at least three distinct flat metal pieces can be individually seen in the immediate cutting area.",
+    "One cylindrical metal tool or component lies on the support bed in the lower-right foreground; it is partially cropped by the frame on its right side.",
+    "The support bed consists of a dense array of short vertical slats or pins (a slatted or pin-type bed) occupying the central and background image regions; individual pins are numerous and not counted exactly.",
+    "Numerous bright orange sparks are visible radiating from the cutting point; these are transient particles in the scene rather than separate fixed objects.",
+    "The machine cutting head and surrounding hardware appear metallic silver/grey.",
+    "The support bed and many components appear dark grey to bluish-grey; fine debris on the bed gives a textured, granular appearance.",
+    "Sparks from the cut are bright orange-yellow and create high-contrast streaks against the darker bed.",
+    "The visible metal workpieces under the nozzle appear silver to grey, consistent with bare metal."
+  ],
+  "id": "557023164eb6a36e4e24b846",
+  "sha256": "c3c99760eb17ec5bdcce82e0236946d35ea8f3f76186853f62396ad0d11094db",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:10:28.803571+00:00",
+  "input_resolution": [
+    1920,
+    1280
+  ],
+  "input_sha256": "428f42768daebd46fb2415912cada3bcf52d2f51a9004fb203ca7874f0a76e5f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatavJwS5s9QdLPm5LcliZCOE8YCm",
+  "usage": {
+    "completion_tokens": 772,
+    "prompt_tokens": 2237,
+    "total_tokens": 3009,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1160,
+      "engine_ttlt_ms": 5982,
+      "pre_inference_ms": 422,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2049,
+      "service_ttlt_ms": 6865,
+      "user_visible_ttft_ms": 1627
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

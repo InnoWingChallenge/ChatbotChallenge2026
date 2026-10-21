@@ -1,0 +1,104 @@
+{
+  "title": "Computer lab with multiple workstations and projection screen",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 13 people are visible and individually distinguishable in the photographed scene; some are seated at workstations and others are standing near the rear right area.",
+    "At least 13 distinct computer monitors or display screens are visible in the room; some are desktop monitors on desks and one large projected display is visible on the front wall.",
+    "One large wall-mounted projection screen is visible at the front of the room showing a projected desktop or slide.",
+    "Multiple office chairs are visible: at least 11 wheeled task chairs with visible backs (including red, blue, black and light grey chairs).",
+    "Multiple rectangular white tables/desks are visible; at least six separate desk surfaces can be individually distinguished in the foreground and middle of the room.",
+    "Several backpacks or bags are visible on or near chairs and the floor; at least three backpacks can be seen near seated people.",
+    "A small white plastic basket and a takeaway cup are visible on the rightmost foreground desk.",
+    "Wires, keyboards and mice are visible at several desks; individually distinguishable keyboards are visible at at least five workstations."
+  ],
+  "visible_text": [
+    "ENGINEERING",
+    "Teaching Material - Part"
+  ],
+  "spatial_relations": [
+    "A large projection screen is located on the front wall; rows of desks and monitors face toward that front wall.",
+    "Two clusters of desks form an open central circulation area; one cluster is at the left foreground and another cluster occupies the right foreground and middle; an aisle runs roughly down the center of the room from front to back.",
+    "Several seated workstations line the right wall in a row, with monitors positioned on the desks against that wall.",
+    "A group of four people are standing near the back-right area of the room behind seated users.",
+    "The projection screen is above and behind several centrally placed monitors; the projected image is higher on the front wall than the desktop monitors."
+  ],
+  "colours_and_materials": [
+    "Task chairs are multiple colours including red, blue, black and light grey plastic backs.",
+    "Tables/desks have white tabletops with light-coloured metal legs.",
+    "Flooring appears to be a beige or light-brown textured carpet.",
+    "Walls include whiteboard or white glossy panels and vertical coloured acoustic or fabric panels in blue and pale green."
+  ],
+  "uncertainties": [
+    "Location is not visible anywhere in the image; no room name or number can be read, so the location is unknown from the image.",
+    "The projected text on the front screen is partly legible as 'Teaching Material - Part' but the remainder of the projected text is unreadable and may be incomplete.",
+    "The overall counts for people and monitors are presented as minimum visible counts ('at least') because some objects may be partially obscured behind others and additional devices or people may be out of frame.",
+    "Some small printed labels or signs (for example a small green sign on a monitor stand and text on the takeaway cup) are not legible at this resolution and have not been transcribed.",
+    "The single-word transcription 'ENGINEERING' comes from text on clothing worn by one or more people; other clothing text is not legible."
+  ],
+  "visual_facts": [
+    "At least 13 people are visible and individually distinguishable in the photographed scene; some are seated at workstations and others are standing near the rear right area.",
+    "At least 13 distinct computer monitors or display screens are visible in the room; some are desktop monitors on desks and one large projected display is visible on the front wall.",
+    "One large wall-mounted projection screen is visible at the front of the room showing a projected desktop or slide.",
+    "Multiple office chairs are visible: at least 11 wheeled task chairs with visible backs (including red, blue, black and light grey chairs).",
+    "Multiple rectangular white tables/desks are visible; at least six separate desk surfaces can be individually distinguished in the foreground and middle of the room.",
+    "Several backpacks or bags are visible on or near chairs and the floor; at least three backpacks can be seen near seated people.",
+    "A small white plastic basket and a takeaway cup are visible on the rightmost foreground desk.",
+    "Wires, keyboards and mice are visible at several desks; individually distinguishable keyboards are visible at at least five workstations.",
+    "Task chairs are multiple colours including red, blue, black and light grey plastic backs.",
+    "Tables/desks have white tabletops with light-coloured metal legs.",
+    "Flooring appears to be a beige or light-brown textured carpet.",
+    "Walls include whiteboard or white glossy panels and vertical coloured acoustic or fabric panels in blue and pale green."
+  ],
+  "id": "4a3b26782820e39f22531d60",
+  "sha256": "b77d6e688164124c129f2f1ffb1e1cad8b6bea5b18582c9b26fbbe985d16633a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:37:53.626497+00:00",
+  "input_resolution": [
+    2000,
+    1125
+  ],
+  "input_sha256": "49ed7daee6d0c0513024f08fba78c7cbe50d4c789924f15dc665927b80863916",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau1OfZGMbhY5DxEyp8aVHiSLRnMc",
+  "usage": {
+    "completion_tokens": 1104,
+    "prompt_tokens": 2439,
+    "total_tokens": 3543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 911,
+      "engine_ttlt_ms": 9642,
+      "pre_inference_ms": 456,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1490,
+      "service_ttlt_ms": 10198,
+      "user_visible_ttft_ms": 1034
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

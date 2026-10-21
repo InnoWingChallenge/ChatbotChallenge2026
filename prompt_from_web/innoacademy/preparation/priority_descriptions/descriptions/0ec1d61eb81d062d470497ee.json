@@ -1,0 +1,106 @@
+{
+  "title": "Classroom with projection 'Welcome to Astar!' and students at high tables",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 17 people are visible in the photographed scene; they are seated at and around the work tables. Several people are partially obscured by others or by furniture.",
+    "At least 8 laptop computers are visible on tables (visible in foreground and midground).",
+    "One large projection screen is visible at the front of the room showing a presentation slide.",
+    "Two ceiling-mounted projectors or projector housings are visible above the seating area (one near center, one slightly left of center).",
+    "At least six tall rectangular work tables with light wood tops and metal frames are visible (several tables are partially cropped at the image edges).",
+    "Multiple tall round stools are visible; at least 15 distinct stools can be counted, some are partially obscured.",
+    "At least 6 backpacks or bags are visible on the floor next to tables or on chairs.",
+    "Several ceiling-mounted rectangular light panels are visible (more than six across the visible ceiling area).",
+    "A freestanding monitor or poster on an easel is visible near the far-left wall (image shows its screen/poster face but details are small)."
+  ],
+  "visible_text": [
+    "Welcome to Astar!"
+  ],
+  "spatial_relations": [
+    "The projection screen is at the front of the room, roughly centered horizontally in the image; seating and tables face toward it.",
+    "Long high tables are arranged in parallel rows running roughly front-to-back in the image; people sit on tall stools at these tables.",
+    "Windows occupy the right side and rear of the room, providing daylight from the right and behind the projection screen.",
+    "A glass partition or glass wall runs along the left side of the room; a poster or monitor is positioned near that left glass wall.",
+    "Ceiling fixtures (lights, projectors and exposed ductwork) run above the central aisle between tables."
+  ],
+  "colours_and_materials": [
+    "Floor appears to be a smooth light grey material, possibly painted concrete or epoxy.",
+    "Work tables have light-coloured wood tops with white or light grey metal frames.",
+    "Stools are predominantly black or dark brown with metal legs.",
+    "Ceiling shows exposed metal ductwork and structural elements in metallic and dark tones; rectangular light panels are white.",
+    "Projection screen background is green on the visible slide with white text."
+  ],
+  "uncertainties": [
+    "People count is a minimum visible count (some people are partially obscured by others or out of frame), so the total present in the room cannot be determined exactly from this image.",
+    "Some small text on the projection slide (below or near the 'Welcome to Astar!' heading) and text on posters or laptop screens are too small or blurred to transcribe and are therefore not included.",
+    "The exact number and model/brand of the ceiling-mounted projectors and other fixtures cannot be determined from their visible housings.",
+    "Table and stool totals are based on clearly distinguishable items in the photo; additional identical items may exist outside the frame or be obscured."
+  ],
+  "visual_facts": [
+    "At least 17 people are visible in the photographed scene; they are seated at and around the work tables. Several people are partially obscured by others or by furniture.",
+    "At least 8 laptop computers are visible on tables (visible in foreground and midground).",
+    "One large projection screen is visible at the front of the room showing a presentation slide.",
+    "Two ceiling-mounted projectors or projector housings are visible above the seating area (one near center, one slightly left of center).",
+    "At least six tall rectangular work tables with light wood tops and metal frames are visible (several tables are partially cropped at the image edges).",
+    "Multiple tall round stools are visible; at least 15 distinct stools can be counted, some are partially obscured.",
+    "At least 6 backpacks or bags are visible on the floor next to tables or on chairs.",
+    "Several ceiling-mounted rectangular light panels are visible (more than six across the visible ceiling area).",
+    "A freestanding monitor or poster on an easel is visible near the far-left wall (image shows its screen/poster face but details are small).",
+    "Floor appears to be a smooth light grey material, possibly painted concrete or epoxy.",
+    "Work tables have light-coloured wood tops with white or light grey metal frames.",
+    "Stools are predominantly black or dark brown with metal legs.",
+    "Ceiling shows exposed metal ductwork and structural elements in metallic and dark tones; rectangular light panels are white.",
+    "Projection screen background is green on the visible slide with white text."
+  ],
+  "id": "0ec1d61eb81d062d470497ee",
+  "sha256": "ffb465cd70d23388ad4a1a83dbb9e5a47c05bd5c7bccab1849d317aa7e0fa313",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:27:53.224880+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "350bc564c7a8a1616f51b86c249cee4dc2e25775f620255bd751d390ac8ee6f1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatrhuDBYzXgq2WFmMLFgJ4LKHRgE",
+  "usage": {
+    "completion_tokens": 952,
+    "prompt_tokens": 2122,
+    "total_tokens": 3074,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1176,
+      "engine_ttlt_ms": 10041,
+      "pre_inference_ms": 332,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 1976,
+      "service_ttlt_ms": 10837,
+      "user_visible_ttft_ms": 1644
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

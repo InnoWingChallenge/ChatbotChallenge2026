@@ -1,0 +1,102 @@
+{
+  "title": "Hands manipulating a wired finger sleeve and electronics on a table",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two adult hands are clearly visible in the foreground (one left, one right) holding a small black fabric finger sleeve; a third hand is partially visible at the top-right holding a yellow pencil-like object (so at least two people are present).",
+    "One black fabric finger sleeve with a single visible metal snap/button mounted on its outer surface is held in the foreground (the sleeve covers two finger openings and is shown on the palm side).",
+    "Two insulated wires (one red, one black) are connected to the sleeve's snap and are visible running from it.",
+    "One partial silver laptop is visible at the left edge of the image (only the keyboard deck and trackpad area are visible, the laptop is cropped).",
+    "One USB-C (or multiport) hub/dock is visible near the top-left background with multiple ports and a cable attached (the hub is cropped by the image boundary).",
+    "Multiple loose cables are visible on the tabletop behind the hands (several black cables, exact count indeterminate because of overlap and partial cropping).",
+    "One small electronic assembly or circuit board with colored components is partially visible behind the hands (cropped and partly obscured)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The two adult hands are centered in the foreground, with the left hand palm-up and the right hand manipulating the finger sleeve from the right side of the frame.",
+    "The black finger sleeve with the metal snap rests across the left-hand fingers while the red and black wires extend back toward the upper center of the image.",
+    "The partial silver laptop occupies the left edge of the frame and lies on the same beige tabletop as the hands and electronics.",
+    "The USB-C / multiport hub is positioned behind the laptop near the top-left quadrant; cables from the hub run toward the center of the image and intermingle with other loose wires.",
+    "The small electronic assembly or circuit board is immediately behind and slightly above the hands, partially obscured by cables and out of sharp focus.",
+    "A cropped hand holding a yellow pencil-like object appears at the top-right corner, positioned behind the right-hand subject and above the table surface."
+  ],
+  "colours_and_materials": [
+    "The tabletop is a light beige color with a smooth, matte appearance.",
+    "The laptop has a silver metallic (aluminum-like) finish.",
+    "The finger sleeve is black fabric; the visible snap/button on it is metallic silver.",
+    "Wires visible are black and red insulated conductors.",
+    "Cables and the USB-C hub are predominantly black plastic; the hub has metallic-port accents."
+  ],
+  "uncertainties": [
+    "No room name, number or sign is visible in the image; location cannot be determined from the image.",
+    "It is unclear whether the two prominent hands belong to the same person or to two different people; a third hand is partially visible but not identifiable.",
+    "The small electronic assembly/circuit board behind the hands is partially obscured and out of focus; component labels or identifying text on it are unreadable.",
+    "The exact number of loose cables in the background cannot be determined due to overlap and cropping.",
+    "No legible printed or displayed text was visible for transcription; small text on devices (laptop, hub, circuit board) is not readable at this resolution."
+  ],
+  "visual_facts": [
+    "Two adult hands are clearly visible in the foreground (one left, one right) holding a small black fabric finger sleeve; a third hand is partially visible at the top-right holding a yellow pencil-like object (so at least two people are present).",
+    "One black fabric finger sleeve with a single visible metal snap/button mounted on its outer surface is held in the foreground (the sleeve covers two finger openings and is shown on the palm side).",
+    "Two insulated wires (one red, one black) are connected to the sleeve's snap and are visible running from it.",
+    "One partial silver laptop is visible at the left edge of the image (only the keyboard deck and trackpad area are visible, the laptop is cropped).",
+    "One USB-C (or multiport) hub/dock is visible near the top-left background with multiple ports and a cable attached (the hub is cropped by the image boundary).",
+    "Multiple loose cables are visible on the tabletop behind the hands (several black cables, exact count indeterminate because of overlap and partial cropping).",
+    "One small electronic assembly or circuit board with colored components is partially visible behind the hands (cropped and partly obscured).",
+    "The tabletop is a light beige color with a smooth, matte appearance.",
+    "The laptop has a silver metallic (aluminum-like) finish.",
+    "The finger sleeve is black fabric; the visible snap/button on it is metallic silver.",
+    "Wires visible are black and red insulated conductors.",
+    "Cables and the USB-C hub are predominantly black plastic; the hub has metallic-port accents."
+  ],
+  "id": "38e647c9937c90a78f702c77",
+  "sha256": "a7e9217fd20a7e3fc84bfc67daa8089bc9dcab6b6d647b5a0ac7f346de73a58a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:35:57.043024+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "633a5e5f5e9957c414dd5a528e2672f04f9902e5084c7d0c3c5640b4967ddeb2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatzYaEbey4vGWc8jLp6zv7foArJf",
+  "usage": {
+    "completion_tokens": 942,
+    "prompt_tokens": 2237,
+    "total_tokens": 3179,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1158,
+      "engine_ttlt_ms": 7409,
+      "pre_inference_ms": 322,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1949,
+      "service_ttlt_ms": 8201,
+      "user_visible_ttft_ms": 1628
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

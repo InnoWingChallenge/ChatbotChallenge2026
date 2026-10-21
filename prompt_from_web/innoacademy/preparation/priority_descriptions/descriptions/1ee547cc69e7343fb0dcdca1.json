@@ -1,0 +1,107 @@
+{
+  "title": "Classroom lecture with projected slide and two presenters",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two standing presenters are visible at the front of the room; one presenter at center-right is holding a handheld microphone and pointing toward the screen, a second presenter stands at far right near a table or podium.",
+    "A single large projection screen is mounted on the front wall and displays a slide.",
+    "One freestanding flip chart / whiteboard on an easel is visible to the left of the projection screen.",
+    "At least eighteen seated people are visible in the audience (many are seen from the back or in three-quarter view); several audience members are partially occluded by others and by chair backs.",
+    "Multiple rows of tables and purple-back chairs are present; at least nine purple chairs with visible round metal frames can be individually distinguished in the photographed scene.",
+    "One tabletop lectern or small table is visible at the front-right beside the second presenter, with at least one water bottle on it.",
+    "Ceiling-mounted projector and two ceiling fans are visible above the projection screen area.",
+    "A wall-mounted digital clock or display is visible high on the far left wall (red numerals), but its digits are not legible in the image."
+  ],
+  "visible_text": [
+    "You actually contain even more data",
+    "Humans have DNA and RNA from hundreds of species of microbes -",
+    "bacteria, viruses and fungi - living in their body.",
+    "STEM+",
+    "LEADERSHIP"
+  ],
+  "spatial_relations": [
+    "The projection screen is centered on the front wall; the flip chart is positioned just to the left of the screen.",
+    "One presenter stands slightly right-of-center in front of the screen while holding a microphone and facing the seated audience; the second presenter stands further right, next to a small table or lectern.",
+    "Audience seating is arranged in rows facing the screen; tables run horizontally across the image and chairs are placed along those tables.",
+    "A central aisle appears between groups of tables and chairs, with seated people on both sides of that aisle.",
+    "Ceiling-mounted equipment (projector) is aligned above the projection screen; two ceiling fans are mounted near the front ceiling area, one left and one right of the projector."
+  ],
+  "colours_and_materials": [
+    "Chair backs and seats are purple with visible chrome or metallic circular frames on the top of the chair backs.",
+    "Tables have white tabletops with darker edging, likely laminate surfaces.",
+    "Walls and projection screen are white; floor has grey tiles.",
+    "Presenters are wearing dark-coloured clothing; one presenter has a navy or dark blue top."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible in the image; location cannot be determined from the photographed content.",
+    "Exact audience headcount cannot be precisely determined because many individuals are partially occluded by others and by chair backs; the statement 'at least eighteen' is a conservative visible minimum.",
+    "Small text on the projected slide beyond the main English sentences is too small or low-contrast to transcribe reliably; any unreadable slide fragments were omitted.",
+    "Text on small labels (for example on chair backs, the digital display/clock, and any equipment nameplates) is not legible in this image and was not transcribed.",
+    "Some printed elements on clothing and on the slide include additional words or logos that are partially visible but not fully legible; only fully legible strings were transcribed above."
+  ],
+  "visual_facts": [
+    "Two standing presenters are visible at the front of the room; one presenter at center-right is holding a handheld microphone and pointing toward the screen, a second presenter stands at far right near a table or podium.",
+    "A single large projection screen is mounted on the front wall and displays a slide.",
+    "One freestanding flip chart / whiteboard on an easel is visible to the left of the projection screen.",
+    "At least eighteen seated people are visible in the audience (many are seen from the back or in three-quarter view); several audience members are partially occluded by others and by chair backs.",
+    "Multiple rows of tables and purple-back chairs are present; at least nine purple chairs with visible round metal frames can be individually distinguished in the photographed scene.",
+    "One tabletop lectern or small table is visible at the front-right beside the second presenter, with at least one water bottle on it.",
+    "Ceiling-mounted projector and two ceiling fans are visible above the projection screen area.",
+    "A wall-mounted digital clock or display is visible high on the far left wall (red numerals), but its digits are not legible in the image.",
+    "Chair backs and seats are purple with visible chrome or metallic circular frames on the top of the chair backs.",
+    "Tables have white tabletops with darker edging, likely laminate surfaces.",
+    "Walls and projection screen are white; floor has grey tiles.",
+    "Presenters are wearing dark-coloured clothing; one presenter has a navy or dark blue top."
+  ],
+  "id": "1ee547cc69e7343fb0dcdca1",
+  "sha256": "f5fd1caf429b3136ab09bd785c833fd2dc47264359d224f66a5dcba0f4bdb94a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:30:57.323823+00:00",
+  "input_resolution": [
+    1024,
+    690
+  ],
+  "input_sha256": "54803c52e3c34a82c647f2fc9ddca116e3ad111a6664b03292c354853bcb89ea",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatugwjrkS6qvYSJzHxhQv3Y0EL9W",
+  "usage": {
+    "completion_tokens": 1216,
+    "prompt_tokens": 2045,
+    "total_tokens": 3261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 542,
+      "engine_ttlt_ms": 9733,
+      "pre_inference_ms": 110,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1181,
+      "service_ttlt_ms": 10364,
+      "user_visible_ttft_ms": 1071
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

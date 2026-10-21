@@ -1,0 +1,111 @@
+{
+  "title": "Outdoor plaza with modern multi-storey building and metallic sphere in background",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One visible person walking near the center of the image (appears uncropped and unobscured).",
+    "A multi-storey building with a large metallic spherical structure in its upper levels is visible in the background across the entire image width.",
+    "At least eight vertical lamp posts or streetlights are visible at various distances across the scene (several are partially obscured by trees; counted distinct visible posts: one far left, three in the midground row, one large post at right foreground, plus others visible near center and background).",
+    "One long bench-like structure dominates the foreground center and appears intact and unobscured; it has a slatted front face.",
+    "Three short cylindrical bollards are visible near the foreground left of the bench (two clearly visible, a third partially visible behind chain), and one additional short bollard is visible immediately left of the bench (total distinctly visible bollards: three).",
+    "One blue pedestrian crossing sign mounted on a pole is visible to the right of center at roughly mid-height of the image.",
+    "Multiple large trees form a continuous tree line in the midground; the exact number cannot be determined from this single view because of overlap and partial occlusion.",
+    "Several rectangular planters with plants and flowers are visible along the walkway in the midground (at least three distinct white planters are observable).",
+    "A cylindrical trash bin or receptacle is visible to the right of the bench near the pedestrian sign (partly obscured).",
+    "Multiple vertical poles and posts (including signage poles and lighting columns) are present throughout the paved plaza area; exact total not determined due to partial occlusion and distance."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A large modern multi-storey building with a metallic sphere is situated in the background across the top third of the image, behind a continuous band of trees.",
+    "The band of trees occupies the midground horizontally, standing between the distant building and the paved plaza/foreground.",
+    "The long bench-like structure is in the foreground center, parallel to the bottom edge of the image; the walking person is just behind and slightly left of this bench.",
+    "Lamp posts form a rough row running from the foreground toward the background along the paved walkway; some are closer to the camera and some are further back among the trees.",
+    "The blue pedestrian crossing sign is mounted on a pole to the right of the bench and in front of the tree band; a large lamp post is immediately adjacent to that sign pole.",
+    "White planters and smaller posts are distributed along the paved walkway behind the bench, creating a visual line that leads into the tree area.",
+    "The left edge of the image contains a vertical pole and some tree branches that are cropped by the frame; similar cropping occurs at the far right where background buildings extend beyond the image edge."
+  ],
+  "colours_and_materials": [
+    "Sky is a clear light blue with few small clouds.",
+    "The distant building appears light grey or white with vertical glazing; the spherical element is metallic silver in appearance.",
+    "Trees are various shades of green; one tree at right-center shows lighter yellow-green foliage.",
+    "The foreground bench is brown with a slatted front face; materials appear wood-like or composite but material identification is uncertain.",
+    "Lamp posts and poles are mostly grey or metallic; the pedestrian crossing sign is blue with a white pictogram.",
+    "Paved walkway and curbs are grey concrete or cement in appearance."
+  ],
+  "uncertainties": [
+    "No legible textual signs, room names or room numbers are readable in the image; small labels on posts or equipment, if present, are not legible from this view.",
+    "Exact counts for trees, lamp posts and smaller posts cannot be precisely determined because of overlap, distance and partial occlusion; the lamp post count given is a minimum visible count based on distinct, separately visible posts.",
+    "Some objects are partially cropped at image edges (left vertical pole and right-side background building) and one bollard is partially obscured behind a chain, limiting exact counting.",
+    "The bench material is described by appearance only; material identification (wood, composite, metal) is uncertain.",
+    "The scene shows an outdoor plaza and distant building but does not display any internal room identifier or laboratory signage; therefore the image cannot be tied to a specific indoor lab or room."
+  ],
+  "visual_facts": [
+    "One visible person walking near the center of the image (appears uncropped and unobscured).",
+    "A multi-storey building with a large metallic spherical structure in its upper levels is visible in the background across the entire image width.",
+    "At least eight vertical lamp posts or streetlights are visible at various distances across the scene (several are partially obscured by trees; counted distinct visible posts: one far left, three in the midground row, one large post at right foreground, plus others visible near center and background).",
+    "One long bench-like structure dominates the foreground center and appears intact and unobscured; it has a slatted front face.",
+    "Three short cylindrical bollards are visible near the foreground left of the bench (two clearly visible, a third partially visible behind chain), and one additional short bollard is visible immediately left of the bench (total distinctly visible bollards: three).",
+    "One blue pedestrian crossing sign mounted on a pole is visible to the right of center at roughly mid-height of the image.",
+    "Multiple large trees form a continuous tree line in the midground; the exact number cannot be determined from this single view because of overlap and partial occlusion.",
+    "Several rectangular planters with plants and flowers are visible along the walkway in the midground (at least three distinct white planters are observable).",
+    "A cylindrical trash bin or receptacle is visible to the right of the bench near the pedestrian sign (partly obscured).",
+    "Multiple vertical poles and posts (including signage poles and lighting columns) are present throughout the paved plaza area; exact total not determined due to partial occlusion and distance.",
+    "Sky is a clear light blue with few small clouds.",
+    "The distant building appears light grey or white with vertical glazing; the spherical element is metallic silver in appearance.",
+    "Trees are various shades of green; one tree at right-center shows lighter yellow-green foliage.",
+    "The foreground bench is brown with a slatted front face; materials appear wood-like or composite but material identification is uncertain.",
+    "Lamp posts and poles are mostly grey or metallic; the pedestrian crossing sign is blue with a white pictogram.",
+    "Paved walkway and curbs are grey concrete or cement in appearance."
+  ],
+  "id": "bc968ba1dab9ed1450f8c41a",
+  "sha256": "a93f90df3353eeb2c9206721cb9ea2e718815e2a274983c7653624660e9d01a6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:02:01.190350+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "d72144efef53921c534c898480edb130b2ab8e3cc2e07c0cfdc5f2faf427f440",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauOkMdMFwjweZNP5b2CAlBbZdjox",
+  "usage": {
+    "completion_tokens": 1286,
+    "prompt_tokens": 2266,
+    "total_tokens": 3552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1188,
+      "engine_ttlt_ms": 9195,
+      "pre_inference_ms": 416,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2165,
+      "service_ttlt_ms": 10168,
+      "user_visible_ttft_ms": 1750
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

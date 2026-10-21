@@ -1,0 +1,91 @@
+{
+  "title": "Rows of small bright pink vehicle-shaped printed parts on a tabletop",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 11 small bright pink vehicle-shaped objects are visible; they appear arranged in parallel rows on a flat surface. The objects nearest the camera are partially cropped by the bottom edge of the image.",
+    "In the background there are at least four yellow rectangular cards or pieces of paper with blue printed/painted shapes; these are blurred and partially obscured by depth of field.",
+    "No people are visible in the photographed scene.",
+    "No other equipment such as tools, machines, or electronics is clearly visible in the scene; only the flat surface supporting the pink objects and the blurred cards behind them are evident."
+  ],
+  "visible_text": [
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The pink vehicle-shaped objects are placed in multiple parallel rows running roughly left-to-right across the image; the nearest row occupies the lower third of the frame and subsequent rows are behind it toward the top of the frame.",
+    "The yellow cards with blue shapes lie behind the rows of pink objects, further toward the top/back of the image and appear to run roughly parallel to the rows of pink parts.",
+    "Individual pink objects sit directly adjacent to one another along each row with small gaps between them; some objects at the image edges are cropped and only partially visible."
+  ],
+  "colours_and_materials": [
+    "The small vehicle-shaped objects are a vivid neon/magenta pink color and have a matte, slightly layered texture consistent with fused filament (3D printed) plastic; the material identification is tentative based on visible surface texture.",
+    "Background cards are yellow with blue printed or painted shapes; they are out of focus so exact finish (gloss/matte) is not distinguishable.",
+    "The tabletop or surface visible between and under the parts appears to be a pale beige or light cream colour."
+  ],
+  "uncertainties": [
+    "No room name, number, sign or other location identifier is legible in the image, so the precise location is unknown from the image.",
+    "The count 'at least 11' for the pink objects is based on individually distinguishable, in-focus objects; some objects are cropped at the edges and others are out of focus, so a full room inventory cannot be determined from this single view.",
+    "The yellow cards in the background are blurred; any text or finer detail on them is unreadable from this image.",
+    "Material identification of the pink parts as 3D-printed plastic (e.g., PLA) is tentative and based only on visible layered texture; it is not confirmed by any readable label.",
+    "No legible printed text was found in the image; the only textual transcriptions are unreadable at the resolution/blur present."
+  ],
+  "visual_facts": [
+    "At least 11 small bright pink vehicle-shaped objects are visible; they appear arranged in parallel rows on a flat surface. The objects nearest the camera are partially cropped by the bottom edge of the image.",
+    "In the background there are at least four yellow rectangular cards or pieces of paper with blue printed/painted shapes; these are blurred and partially obscured by depth of field.",
+    "No people are visible in the photographed scene.",
+    "No other equipment such as tools, machines, or electronics is clearly visible in the scene; only the flat surface supporting the pink objects and the blurred cards behind them are evident.",
+    "The small vehicle-shaped objects are a vivid neon/magenta pink color and have a matte, slightly layered texture consistent with fused filament (3D printed) plastic; the material identification is tentative based on visible surface texture.",
+    "Background cards are yellow with blue printed or painted shapes; they are out of focus so exact finish (gloss/matte) is not distinguishable.",
+    "The tabletop or surface visible between and under the parts appears to be a pale beige or light cream colour."
+  ],
+  "id": "2c2c0ed6b9109310b57f8b44",
+  "sha256": "ecca3a2683c916769e81a5ed4a8e83c14bd685698ceb04bd51542d625f01ee06",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:08:35.176835+00:00",
+  "input_resolution": [
+    1280,
+    853
+  ],
+  "input_sha256": "eb5314884e7bdec64edbdf99a79d9b65c208baf5ad4c42ba665b3e63b770beec",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatZ3RPIGwiUX6ifydxizAkMhwOa9",
+  "usage": {
+    "completion_tokens": 872,
+    "prompt_tokens": 2266,
+    "total_tokens": 3138,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 966,
+      "engine_ttlt_ms": 8078,
+      "pre_inference_ms": 303,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1726,
+      "service_ttlt_ms": 8833,
+      "user_visible_ttft_ms": 1423
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

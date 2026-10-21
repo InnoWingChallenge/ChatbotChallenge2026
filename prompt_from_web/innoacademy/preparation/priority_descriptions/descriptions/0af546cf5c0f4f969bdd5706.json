@@ -1,0 +1,18 @@
+{
+  "id": "0af546cf5c0f4f969bdd5706",
+  "sha256": "2ece0ba180497454aeba82747a67bf864c141c4cb342acdddca9d63acd2f1ff9",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": false,
+  "title": "Stylized fantasy character illustration",
+  "visible_text": [],
+  "visual_facts": [],
+  "spatial_relations": [
+    "A single vertically oriented illustration is centered on a plain white background."
+  ],
+  "uncertainties": [
+    "This is a fantasy character or creature illustration rather than visible equipment or a room layout; no identifiable facility details are shown."
+  ]
+}

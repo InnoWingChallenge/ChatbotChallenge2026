@@ -1,0 +1,109 @@
+{
+  "title": "Classroom or lab session with projection screen reading 'Astar!'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 21 people are visible seated or standing in the photographed scene; several are wearing face masks. (Exact count limited by partial occlusion and people near the image edges.)",
+    "Two large projection screens are visible at the front of the room; the left screen shows a presentation slide and the right screen is blank or retracted.",
+    "Multiple long rectangular work tables are present; four full-length tables are clearly visible (two in the foreground, two further back).",
+    "Many high stools are present; at least 18 individually distinguishable stools are visible around the tables (some stools are partially obscured).",
+    "Ceiling-mounted rectangular LED light panels are visible across the room (at least eight panels are visible).",
+    "Two ceiling-mounted projectors are visible above the central aisle.",
+    "Numerous backpacks are visible on the floor next to tables; at least six distinct backpacks can be seen.",
+    "Several laptops are visible in use on tables (at least four distinct laptops can be identified).",
+    "A person near the left front appears to be speaking and holding a handheld object (possibly a microphone or phone); the object is partially visible and cannot be precisely identified."
+  ],
+  "visible_text": [
+    "Welcome to",
+    "Astar!",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The primary presentation screen with the 'Welcome to Astar!' slide is at the front-left of the image; a second screen is to its right at the front of the room.",
+    "Long work tables run roughly left-to-right across the image; people sit on stools on both sides of these tables facing toward the front screens.",
+    "Large windows run along the left side of the room behind the front presentation area, providing natural light and showing exterior foliage.",
+    "Ceiling fixtures (light panels and projectors) are aligned along the central axis of the room, above the central aisle between tables.",
+    "Backpacks and personal items are placed on the floor next to the stools, primarily near the table edges and aisles."
+  ],
+  "colours_and_materials": [
+    "Tables have light wood-coloured tops with white or light grey metal legs.",
+    "Stools have black metal legs and darker seats.",
+    "Flooring is a smooth light grey or white surface.",
+    "Ceiling exposes metal ducts and structural elements in a metallic/grey finish; rectangular white LED light panels are recessed or surface-mounted.",
+    "The left presentation slide background is green with white text."
+  ],
+  "uncertainties": [
+    "Exact person count is uncertain due to partial occlusion, people near image edges and overlapping seating; I report 'at least 21' rather than an exact room total.",
+    "Small text on clothing (for example the text on the green shirt worn by a person in the foreground) is not fully legible from this view; I have not transcribed shirt labels beyond marking unreadable.",
+    "Some objects (handheld object near the speaker, small items on tables) are partially obscured and cannot be reliably identified or named.",
+    "No explicit room name, number or sign is legible in the image; therefore the location is listed as 'unknown from image'.",
+    "The right front screen appears blank or retracted from this viewpoint; it is not possible to determine whether it is powered or simply showing a blank surface."
+  ],
+  "visual_facts": [
+    "At least 21 people are visible seated or standing in the photographed scene; several are wearing face masks. (Exact count limited by partial occlusion and people near the image edges.)",
+    "Two large projection screens are visible at the front of the room; the left screen shows a presentation slide and the right screen is blank or retracted.",
+    "Multiple long rectangular work tables are present; four full-length tables are clearly visible (two in the foreground, two further back).",
+    "Many high stools are present; at least 18 individually distinguishable stools are visible around the tables (some stools are partially obscured).",
+    "Ceiling-mounted rectangular LED light panels are visible across the room (at least eight panels are visible).",
+    "Two ceiling-mounted projectors are visible above the central aisle.",
+    "Numerous backpacks are visible on the floor next to tables; at least six distinct backpacks can be seen.",
+    "Several laptops are visible in use on tables (at least four distinct laptops can be identified).",
+    "A person near the left front appears to be speaking and holding a handheld object (possibly a microphone or phone); the object is partially visible and cannot be precisely identified.",
+    "Tables have light wood-coloured tops with white or light grey metal legs.",
+    "Stools have black metal legs and darker seats.",
+    "Flooring is a smooth light grey or white surface.",
+    "Ceiling exposes metal ducts and structural elements in a metallic/grey finish; rectangular white LED light panels are recessed or surface-mounted.",
+    "The left presentation slide background is green with white text."
+  ],
+  "id": "b010f188ac62a184b2bf82c6",
+  "sha256": "3af3118e2c757dc36d0a568e6e8ed297fb81b2300af2c5e3822dee17b24fe26e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:58:46.756569+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "6211dcd6fa587eaf8c09e4f3a829287dc396b7d2165a7751c31abf4c91e62cf5",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauLbLigwciY26Hs7cQRJ5IocmgqO",
+  "usage": {
+    "completion_tokens": 1076,
+    "prompt_tokens": 2122,
+    "total_tokens": 3198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1137,
+      "engine_ttlt_ms": 10269,
+      "pre_inference_ms": 345,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2009,
+      "service_ttlt_ms": 11136,
+      "user_visible_ttft_ms": 1664
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

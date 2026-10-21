@@ -1,0 +1,20 @@
+{
+  "id": "03624ee3d2b53600cbe4cfb6",
+  "sha256": "a7e4a4f68f705e037adc2efde010ef7532935bb687ce4a6bf40d35e340d29c58",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Device labeled LAVENDER",
+  "visible_text": ["LAVENDER"],
+  "visual_facts": [
+    "A close view shows a tall cylindrical device with a wide rounded rectangular housing at the top.",
+    "The housing is light gray and bears the word LAVENDER in dark letters.",
+    "Several small round components are visible underneath the housing.",
+    "Clear vertical tubes or columns extend down from the housing.",
+    "The device is photographed against a plain gray wall."
+  ],
+  "spatial_relations": ["The small round components are arranged beneath the upper housing.", "The clear vertical columns descend from the housing."],
+  "uncertainties": ["The function, manufacturer, and model of the device are not established by visible text.", "Small markings on the clear columns are unreadable."]
+}

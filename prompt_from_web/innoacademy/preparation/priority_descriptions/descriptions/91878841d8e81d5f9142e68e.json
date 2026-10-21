@@ -1,0 +1,122 @@
+{
+  "title": "Poster for 'Pitch New Tech Ideas' workshop with photo of six people and two QR codes",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing One",
+  "objects_and_counts": [
+    "Six visible people pictured in the large inset photograph at left of the poster; all six are standing, facing the camera and holding signs or placards. The people are fully visible within the inset photograph and not cropped by the poster edge.",
+    "One large inset photographic display or projection screen behind the six people in the photograph (occupies the rear of the inset photo).",
+    "Two QR codes visible in the lower right quadrant of the poster; both QR codes are fully visible and appear as square black-and-white codes.",
+    "Several printed placards or handheld signs held by the people in the inset photograph; at least five distinct handheld signs are visible though some signs overlap and exact count of individual sign faces is limited to what is visible in the photo.",
+    "One small rectangular logo badge or panel in the poster top-right corner reading 'Innovation Academy Faculty of Engineering, HKU' (appears as a printed logo element on the poster, not part of the inset photograph).",
+    "One large headline text block at top reading 'PITCH NEW TECH IDEAS' and multiple blocks of poster text and graphic elements across the poster.",
+    "One small horizontal web-address label at bottom-left of the poster: 'https://innoacademy.engg.hku.hk'."
+  ],
+  "visible_text": [
+    "PITCH NEW TECH IDEAS",
+    "Pitching Workshop Series —",
+    "Sharing Session by the Champion Team",
+    "Team Innogrow, winner of the HKAE Pitching Competition 2024–25, will share their journey about how they started from initial inspiration to developing a successful innovation.",
+    "This session will offer exclusive insights into how a real student-led idea transformed into a viable, award-winning project:",
+    "“Smart Weeding Solutions for a Sustainable Future”",
+    "REGISTER",
+    "NOW",
+    "PITCH NEW",
+    "TECH IDEA 2026",
+    "Date: February 3, 2026 (Tuesday)",
+    "Time: 3:00 - 4:00 pm",
+    "Venue: Tam Wing Fan Innovation Wing One",
+    "https://innoacademy.engg.hku.hk",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "HKA E Pitch Competition on Grand Challenge Engineering Topics for University Students 2024-25",
+    "COMPETITION",
+    "The activity is supported by Tam Wing Fan Innovation Fund and Philomathia Foundation Innovation Fund."
+  ],
+  "spatial_relations": [
+    "A large headline 'PITCH NEW TECH IDEAS' is centered across the very top of the poster.",
+    "Below the headline, a left-aligned inset photograph occupies the left third to half of the poster; the photograph shows six people standing in front of a large screen.",
+    "To the right of the inset photograph is the main descriptive text block starting with 'Team Innogrow, winner of the HKAE Pitching Competition 2024–25...' continuing downward; this text is right of the inset photograph and roughly centered vertically in the poster.",
+    "The date, time and venue lines are placed near the lower-left quadrant of the poster, beneath the inset photograph area.",
+    "Two QR codes are arranged side-by-side in the lower-right quadrant of the poster; above each QR code are small headings reading 'REGISTER NOW' (left) and 'PITCH NEW TECH IDEA 2026' (right).",
+    "A small rectangular logo panel reading 'Innovation Academy Faculty of Engineering, HKU' is located in the top-right corner of the poster."
+  ],
+  "colours_and_materials": [
+    "Background: predominantly dark blue with lighter blue node-and-line network graphics and curved light streaks across the poster.",
+    "Headline text 'PITCH NEW TECH IDEAS' is white with a slight light-blue outline effect.",
+    "Descriptive paragraph text is primarily white; emphasized phrase 'HKAE Pitching Competition 2024–25' appears in red, and the project title '“Smart Weeding Solutions for a Sustainable Future”' appears in yellow.",
+    "The inset photograph shows people wearing dark-coloured clothing (black, navy suits) and the screen behind them is predominantly white with text and logos.",
+    "QR codes are black on white square backgrounds with small yellow headings above them."
+  ],
+  "uncertainties": [
+    "Several small logos and lines of text inside the inset photograph (upper-left of the photograph) are partially legible but not fully readable at this image resolution; examples include smaller institutional logos and any small caption text on the projection screen behind the people.",
+    "Some handheld placard text in the inset photograph overlaps or is angled; while larger words are visible, smaller printed lines on those placards are not fully readable from this view.",
+    "The tiny footer text at the very bottom of the poster is partially legible ('The activity is supported by Tam Wing Fan Innovation Fund and Philomathia Foundation Innovation Fund.'), but any additional small-print terms or sponsor names adjacent to that line are not fully readable.",
+    "I have transcribed visible text exactly as printed where legible; if additional fine-print or labels exist at the edges of the inset photograph, they could not be reliably read at this resolution."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing One",
+    "Six visible people pictured in the large inset photograph at left of the poster; all six are standing, facing the camera and holding signs or placards. The people are fully visible within the inset photograph and not cropped by the poster edge.",
+    "One large inset photographic display or projection screen behind the six people in the photograph (occupies the rear of the inset photo).",
+    "Two QR codes visible in the lower right quadrant of the poster; both QR codes are fully visible and appear as square black-and-white codes.",
+    "Several printed placards or handheld signs held by the people in the inset photograph; at least five distinct handheld signs are visible though some signs overlap and exact count of individual sign faces is limited to what is visible in the photo.",
+    "One small rectangular logo badge or panel in the poster top-right corner reading 'Innovation Academy Faculty of Engineering, HKU' (appears as a printed logo element on the poster, not part of the inset photograph).",
+    "One large headline text block at top reading 'PITCH NEW TECH IDEAS' and multiple blocks of poster text and graphic elements across the poster.",
+    "One small horizontal web-address label at bottom-left of the poster: 'https://innoacademy.engg.hku.hk'.",
+    "Background: predominantly dark blue with lighter blue node-and-line network graphics and curved light streaks across the poster.",
+    "Headline text 'PITCH NEW TECH IDEAS' is white with a slight light-blue outline effect.",
+    "Descriptive paragraph text is primarily white; emphasized phrase 'HKAE Pitching Competition 2024–25' appears in red, and the project title '“Smart Weeding Solutions for a Sustainable Future”' appears in yellow.",
+    "The inset photograph shows people wearing dark-coloured clothing (black, navy suits) and the screen behind them is predominantly white with text and logos.",
+    "QR codes are black on white square backgrounds with small yellow headings above them."
+  ],
+  "id": "91878841d8e81d5f9142e68e",
+  "sha256": "920d429a6f07736d80d7c70719b60f5ce7f14e793ee6a1d2718115492cc4b565",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:15:48.702450+00:00",
+  "input_resolution": [
+    2048,
+    1448
+  ],
+  "input_sha256": "e22d041a4ab060fca32f7a1ce12c906b30b6dac1fa1db90b57a877d2cc55c5b3",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatg2zLwRtJgSm2DqZxQH821Rm36B",
+  "usage": {
+    "completion_tokens": 1334,
+    "prompt_tokens": 2180,
+    "total_tokens": 3514,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1169,
+      "engine_ttlt_ms": 9339,
+      "pre_inference_ms": 416,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2046,
+      "service_ttlt_ms": 10210,
+      "user_visible_ttft_ms": 1630
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

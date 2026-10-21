@@ -1,0 +1,96 @@
+{
+  "title": "Circular microscope field showing many spherical droplets",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "A circular illuminated field (microscope eyepiece or objective view) occupies the center of the image; the outer rim of this circle is dark and forms a clear boundary between the field and surrounding area.",
+    "Within the circular field there are many discrete spherical objects (droplets or beads) of varying diameters; these are present across the entire visible field.",
+    "Some of the spherical objects are visibly larger (several distinct larger spheres) and many more are smaller, including numerous very small spheres clustered between larger ones.",
+    "No equipment nameplates, room signs, control panels or other fixed laboratory hardware with legible labels are visible in the scene.",
+    "No posters, printed sheets, or screens with legible content are present; any text is not visible."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The circular illuminated field is centered in the image and surrounded by a dark border; the photographed scene outside this circle is mostly black.",
+    "Spherical objects are distributed across the entire circular field with no obvious single cluster dominating; some local clustering occurs where small spheres surround larger spheres.",
+    "Several larger spheres are isolated and have smaller spheres adjacent to or touching their perimeters; smaller spheres frequently fill gaps between larger spheres.",
+    "A few spheres overlap the bright/dark boundary near the rim, appearing cropped by the circular field edge."
+  ],
+  "colours_and_materials": [
+    "The circular field has a pale grey to off-white background.",
+    "The spherical objects appear translucent to transparent with darker grey outlines or halos.",
+    "The outer rim and surrounding area are dark to black, creating a strong vignette around the circular field.",
+    "Some small areas show a faint purple or blue tint on or near a few spheres (possibly chromatic reflection or illumination artifact)."
+  ],
+  "uncertainties": [
+    "No room name, room number, sign or other explicit location identifier is visible, so the location is unknown from the image.",
+    "The circular illuminated field strongly suggests a microscope view, but the image contains no legible equipment labels or nameplates to confirm the imaging device or its model.",
+    "Exact counting of the spherical objects is not possible from this single image because many objects are small, densely clustered, overlapping, or partially cropped at the field edge.",
+    "Some spheres are cropped by the circular field boundary and some small features may be imaging artifacts or debris rather than droplets; their identities cannot be determined from the photo alone.",
+    "This image does not show any facility layout, fixed equipment, or signage normally required to provide reliable evidence for a specific room or wing, therefore it is not suitable as equipment/facility/layout evidence."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "A circular illuminated field (microscope eyepiece or objective view) occupies the center of the image; the outer rim of this circle is dark and forms a clear boundary between the field and surrounding area.",
+    "Within the circular field there are many discrete spherical objects (droplets or beads) of varying diameters; these are present across the entire visible field.",
+    "Some of the spherical objects are visibly larger (several distinct larger spheres) and many more are smaller, including numerous very small spheres clustered between larger ones.",
+    "No equipment nameplates, room signs, control panels or other fixed laboratory hardware with legible labels are visible in the scene.",
+    "No posters, printed sheets, or screens with legible content are present; any text is not visible.",
+    "The circular field has a pale grey to off-white background.",
+    "The spherical objects appear translucent to transparent with darker grey outlines or halos.",
+    "The outer rim and surrounding area are dark to black, creating a strong vignette around the circular field.",
+    "Some small areas show a faint purple or blue tint on or near a few spheres (possibly chromatic reflection or illumination artifact)."
+  ],
+  "id": "621cbc790fcb5ff34d4fb41c",
+  "sha256": "d1b1f1b7a3fa4a6a27e367124c9f1498c9aa5460019fd7b79e49174c0d758f0f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:11:30.134683+00:00",
+  "input_resolution": [
+    1200,
+    1600
+  ],
+  "input_sha256": "1f8408ab595d5fdc139b19496fbd60ce27e788c929f1ea8c879ab3788b5ff76b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatbupUbmZEbY5q0ilzNhKfscIfcz",
+  "usage": {
+    "completion_tokens": 871,
+    "prompt_tokens": 2122,
+    "total_tokens": 2993,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1159,
+      "engine_ttlt_ms": 6419,
+      "pre_inference_ms": 393,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2100,
+      "service_ttlt_ms": 7354,
+      "user_visible_ttft_ms": 1707
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

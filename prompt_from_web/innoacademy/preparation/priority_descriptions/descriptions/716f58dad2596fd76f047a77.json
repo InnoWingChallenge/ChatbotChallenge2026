@@ -1,0 +1,108 @@
+{
+  "title": "Outdoor campus plaza with tiled forecourt, steps and lawn",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 5 distinct people are visibly present and individually distinguishable: one adult seen from behind in the center foreground wearing a dark hoodie and carrying a vertical backpack; one person walking ahead of that person toward the steps (center-left); one person walking on the right foreground wearing a face mask; one person near the far right by bicycle racks or a path; and one small figure near the center-left background on the raised lawn area. Additional very small background figures are visible but not individually distinguishable for a reliable exact count.",
+    "One large vertical fabric backpack in the center foreground is visible; white vertical letters on the backpack read 'CHUM'. The bottom portion of the backpack is visible; the top is not cropped.",
+    "A paved tiled forecourt made of square grey tiles fills the foreground.",
+    "A short flight of concrete steps with two central metal handrails (silver-coloured) leads up from the tiled forecourt to a raised paved area and lawn.",
+    "Two long rectangular concrete planters or low retaining walls with planted hedges border the paved approach on the left and right sides of the steps.",
+    "Multiple tall lamp posts with banners are visible across the lawn and along paths (at least 6 lamp posts or banner poles are visible across the scene, several partly cropped at the image edges).",
+    "Bicycles and a bicycle rack or parking area are visible at the far right background (several bicycles, not individually counted due to overlap and distance).",
+    "Park benches or seating appear at least on the left side of the raised paved area (one bench area visible near left background)."
+  ],
+  "visible_text": [
+    "CHUM"
+  ],
+  "spatial_relations": [
+    "A broad tiled forecourt occupies the foreground and extends to a short flight of stairs centered in the image.",
+    "Two metal handrails are mounted on the central stair flight and are aligned roughly along the image's central axis.",
+    "Rectangular concrete planters with low hedges run parallel to the stairs on both the left and right sides, forming raised planted borders between the forecourt and adjacent paths.",
+    "Beyond the stairs is a raised paved area that opens onto a grassy lawn with scattered trees; lamp posts with banners line the paved area and paths across the lawn.",
+    "People are distributed along a central axis: one person in the foreground facing away from the camera, another walking ahead toward the stairs, and additional pedestrians on the right side and farther back near the bicycle area.",
+    "Bicycle parking and bicycles are positioned to the far right background beyond the planted border and paved paths."
+  ],
+  "colours_and_materials": [
+    "The ground is covered with light- to medium-grey square tiles forming the forecourt surface.",
+    "Concrete appears to be used for the stair construction and the low retaining walls/planters; these surfaces are light grey.",
+    "Handrails and other metal fittings are silvery/metal-coloured.",
+    "The lawn beyond the steps is green; trees in the background show green and some autumnal orange/red foliage.",
+    "The sky is clear and deep blue.",
+    "The central foreground backpack is black with white vertical lettering."
+  ],
+  "uncertainties": [
+    "No explicit room name, room number or indoor sign is visible; the exact location within any named facility cannot be determined from the image.",
+    "Some small background figures and bicycles are distant and partially occluded; exact counts for people and bicycles cannot be reliably determined beyond the stated minimum of five distinct people.",
+    "Text on banners attached to lamp posts is not legible at the image resolution; any logo or wording there could not be transcribed.",
+    "The backpack lettering reads 'CHUM' as visible; it is uncertain whether additional letters (e.g., a trailing 'S') are present but out of frame or obscured.",
+    "Some lamp posts and banner poles are partially cropped at the top or sides of the image, so their full signage and any small labels on fixtures could not be read."
+  ],
+  "visual_facts": [
+    "At least 5 distinct people are visibly present and individually distinguishable: one adult seen from behind in the center foreground wearing a dark hoodie and carrying a vertical backpack; one person walking ahead of that person toward the steps (center-left); one person walking on the right foreground wearing a face mask; one person near the far right by bicycle racks or a path; and one small figure near the center-left background on the raised lawn area. Additional very small background figures are visible but not individually distinguishable for a reliable exact count.",
+    "One large vertical fabric backpack in the center foreground is visible; white vertical letters on the backpack read 'CHUM'. The bottom portion of the backpack is visible; the top is not cropped.",
+    "A paved tiled forecourt made of square grey tiles fills the foreground.",
+    "A short flight of concrete steps with two central metal handrails (silver-coloured) leads up from the tiled forecourt to a raised paved area and lawn.",
+    "Two long rectangular concrete planters or low retaining walls with planted hedges border the paved approach on the left and right sides of the steps.",
+    "Multiple tall lamp posts with banners are visible across the lawn and along paths (at least 6 lamp posts or banner poles are visible across the scene, several partly cropped at the image edges).",
+    "Bicycles and a bicycle rack or parking area are visible at the far right background (several bicycles, not individually counted due to overlap and distance).",
+    "Park benches or seating appear at least on the left side of the raised paved area (one bench area visible near left background).",
+    "The ground is covered with light- to medium-grey square tiles forming the forecourt surface.",
+    "Concrete appears to be used for the stair construction and the low retaining walls/planters; these surfaces are light grey.",
+    "Handrails and other metal fittings are silvery/metal-coloured.",
+    "The lawn beyond the steps is green; trees in the background show green and some autumnal orange/red foliage.",
+    "The sky is clear and deep blue.",
+    "The central foreground backpack is black with white vertical lettering."
+  ],
+  "id": "716f58dad2596fd76f047a77",
+  "sha256": "113a28f473b18f940a3283663d60e2469f8865103c5988f684182a819e28010c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:13:05.754084+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "e18b425c9e17404d0381824ca5ec6be1c7b3721bba7cb3c2145a98a0f95ec856",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatdMQWBBUn5g5djMgSNoUezriVKM",
+  "usage": {
+    "completion_tokens": 1202,
+    "prompt_tokens": 2266,
+    "total_tokens": 3468,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1233,
+      "engine_ttlt_ms": 11425,
+      "pre_inference_ms": 401,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2221,
+      "service_ttlt_ms": 12407,
+      "user_visible_ttft_ms": 1820
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

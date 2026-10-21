@@ -1,0 +1,123 @@
+{
+  "title": "Classroom presentation with projector screen and seated audience",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 16 people are visible in the photographed scene: one standing presenter at the front right of the screen and at least 15 seated audience members seen from the rear or in profile. Some seated people are partially cropped at image edges.",
+    "One presenter is holding a handheld microphone (visible in the presenter’s right hand) and pointing to the projection with the left hand.",
+    "One projected image/screen is visible centered on the front wall.",
+    "One ceiling-mounted projector unit is visible near the ceiling central line above the screen.",
+    "Three ceiling-mounted circular fans are visible (two on the right side of the image, one on the left).",
+    "Multiple rectangular ceiling light fixtures are visible (at least five fixtures across the ceiling).",
+    "One instructor/AV desk at the front right contains one laptop (closed or partially closed), one separate computer monitor, and assorted small items (one visible large water bottle).",
+    "One wall-mounted electronic device or display (rectangular, with illuminated segments) is visible on the right wall near the instructor desk.",
+    "A number of wooden student chairs with attached wooden backs are visible; at least 12 individual wooden chairs can be distinguished in the room.",
+    "Three orange student tablet/desk surfaces are visible in the foreground (plastic or laminate), each attached to a chair.",
+    "At least one backpack is visible on or near the instructor desk and at least one water bottle (plastic) is visible on the instructor desk and one on an audience desk."
+  ],
+  "visible_text": [
+    "The IBL-CAMBRIDGE INNOVATION",
+    "Challenge",
+    "We need YOU!!!",
+    "to tackle ANY disease you choose",
+    "$1.2 billion USD",
+    "MAJOR CHALLENGES:",
+    "Cancer",
+    "Brain diseases: Alzheimer’s",
+    "Malaria",
+    "STEM+",
+    "LEADERSHIP WEEK"
+  ],
+  "spatial_relations": [
+    "The projection screen is centered on the front wall; the presenter stands to the right of the screen (from the viewer’s perspective).",
+    "The instructor/AV desk is positioned front-right of the room (to the right of the presenter) against the front wall.",
+    "Audience seating is arranged in rows facing the screen; orange tablet desks are in the front-most row in the foreground of the image.",
+    "Ceiling-mounted fans are positioned along the ceiling roughly above the seating area, two grouped toward the right side and one toward the left.",
+    "Ceiling light fixtures run in parallel rows along the ceiling approximately aligned with the rows of seats."
+  ],
+  "colours_and_materials": [
+    "Walls are white and the ceiling is white; floor appears to be grey tiled.",
+    "Front projection screen is white with a black border or casing at top.",
+    "Orange plastic or laminate tablet desk surfaces are visible in the foreground.",
+    "Student chairs and attached backs appear brown wood or wood-finish.",
+    "Presenter is wearing a dark (navy or black) shirt; several audience members wear white or dark-coloured shirts.",
+    "The instructor desk appears dark-coloured (black or dark brown) with miscellaneous items including a translucent plastic water bottle."
+  ],
+  "uncertainties": [
+    "Exact total number of people in the room cannot be determined because some attendees are partially cropped at the image edges and some heads overlap; the report uses 'at least' counts.",
+    "Small printed text on the slide beyond the main headings is not fully legible and has not been transcribed; longer sentences and some bullet details are partially unreadable.",
+    "Text on chair backs contains small numbers/letters that are not legible at this image resolution.",
+    "The rectangular wall-mounted device on the right has illuminated segments but its label or purpose is unreadable.",
+    "The lower portion of the slide contains small captions and possibly logos that are not fully legible; only larger headings and clear bullet fragments were transcribed."
+  ],
+  "visual_facts": [
+    "At least 16 people are visible in the photographed scene: one standing presenter at the front right of the screen and at least 15 seated audience members seen from the rear or in profile. Some seated people are partially cropped at image edges.",
+    "One presenter is holding a handheld microphone (visible in the presenter’s right hand) and pointing to the projection with the left hand.",
+    "One projected image/screen is visible centered on the front wall.",
+    "One ceiling-mounted projector unit is visible near the ceiling central line above the screen.",
+    "Three ceiling-mounted circular fans are visible (two on the right side of the image, one on the left).",
+    "Multiple rectangular ceiling light fixtures are visible (at least five fixtures across the ceiling).",
+    "One instructor/AV desk at the front right contains one laptop (closed or partially closed), one separate computer monitor, and assorted small items (one visible large water bottle).",
+    "One wall-mounted electronic device or display (rectangular, with illuminated segments) is visible on the right wall near the instructor desk.",
+    "A number of wooden student chairs with attached wooden backs are visible; at least 12 individual wooden chairs can be distinguished in the room.",
+    "Three orange student tablet/desk surfaces are visible in the foreground (plastic or laminate), each attached to a chair.",
+    "At least one backpack is visible on or near the instructor desk and at least one water bottle (plastic) is visible on the instructor desk and one on an audience desk.",
+    "Walls are white and the ceiling is white; floor appears to be grey tiled.",
+    "Front projection screen is white with a black border or casing at top.",
+    "Orange plastic or laminate tablet desk surfaces are visible in the foreground.",
+    "Student chairs and attached backs appear brown wood or wood-finish.",
+    "Presenter is wearing a dark (navy or black) shirt; several audience members wear white or dark-coloured shirts.",
+    "The instructor desk appears dark-coloured (black or dark brown) with miscellaneous items including a translucent plastic water bottle."
+  ],
+  "id": "704f52c5c234b1d75e565a44",
+  "sha256": "32c3e32fe20c1d9bca5e044e54c789495473f8c4032eb1ebe698dc5b5a42c36f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:46:10.268010+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "20baead523244562cbea1b7d56fc5b5da15f52c12e75a47477e7c92252393466",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau9Oni29WsZvGw6DJaxxuspPGYOq",
+  "usage": {
+    "completion_tokens": 1260,
+    "prompt_tokens": 2266,
+    "total_tokens": 3526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1180,
+      "engine_ttlt_ms": 10125,
+      "pre_inference_ms": 499,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2155,
+      "service_ttlt_ms": 11110,
+      "user_visible_ttft_ms": 1656
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

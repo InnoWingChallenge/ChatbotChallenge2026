@@ -1,0 +1,116 @@
+{
+  "title": "Reception/entrance area with thermal CCTV monitor and turnstiles",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "In the photographed scene (not counting images shown on displays) there are at least two visible people: one person seated at a desk behind glass (center left region, partially obscured by a dual-monitor stand) and one person standing near the turnstiles (center right region) wearing a face mask; both are fully visible in the scene.",
+    "A large flat-panel monitor is visible in the foreground (occupying lower half of the image) displaying a multi-view CCTV/thermal application; a separate pair of monitors is mounted on a tall stand in the mid-background (near the center of the image) and are visible as two black screens back-facing the camera.",
+    "There is a reception/console counter in the foreground right that contains a desk telephone (visible keypad and handset) and a control panel with multiple labeled push buttons and indicators (panel located inside the console, lower right region).",
+    "Four waist-high glass-and-stainless-steel turnstile gates are visible in a row immediately beyond the reception area (center-right region); the visible portion shows at least three clear gate assemblies and parts of a fourth, some with green indicator lights on top.",
+    "Seating: one blue cube seat (right region) and one grey ottoman or bench (right region) are visible near the far right wall.",
+    "One desk and chair are visible behind the glass partition where a seated person is working (center-left background).",
+    "On-screen video feeds show additional people who are present only in the displayed footage: the monitor foreground shows at least two people in the camera views (one standing in a corridor and one captured in a thermal view) — these are part of the displayed CCTV images, not additional people physically present in the photographed scene."
+  ],
+  "visible_text": [
+    "IVMS-4200",
+    "Maintenance and Management",
+    "Main View",
+    "Remote Playback",
+    "Resource",
+    "Auto-Switch",
+    "Custom View",
+    "Thermal CAM",
+    "Camera1_Thermal CAM",
+    "Camera2_Thermal CAM",
+    "DVR_Group",
+    "11-24-2020 Tue 13:22:39",
+    "Main Stream(400,15kbps, 2688*1520,25fps)",
+    "Camera 02"
+  ],
+  "spatial_relations": [
+    "A large foreground monitor occupies the lower third of the image and blocks the lower-central sightline into the space; behind that monitor and slightly left is a tall stand with two back-facing monitors positioned centrally in the mid-background.",
+    "The reception/console counter is in the foreground right; the control panel and telephone are recessed into this counter and the counter surface extends left-to-right across the mid-foreground.",
+    "A row of glass-and-stainless-steel turnstiles is directly beyond the reception counter toward the center-right of the image; the seated desk and worker are visible behind glass to the left of the turnstiles.",
+    "Informal seating (blue cube and grey ottoman) sits against the far right wall beyond the turnstiles and reception area.",
+    "The glass partition separates the reception/monitor area (foreground) from the workspace and circulation corridor behind it; the person standing near the turnstiles is between the glass partition and the far wall."
+  ],
+  "colours_and_materials": [
+    "Flooring appears to be a pale blue smooth surface across the area visible to the right and background.",
+    "Walls and large panels are white; the partition between reception and the workspace is glass.",
+    "The large foreground monitor and mid-background monitors have black bezels; the dual-monitor stand is black.",
+    "Turnstiles have stainless-steel or metallic frames with transparent glass panels and visible green indicator lights on top.",
+    "A vertical red wall or column is visible at the far right edge; seating includes a blue fabric-covered cube and a grey fabric ottoman."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible in the image; therefore location is unknown from image.",
+    "The exact count of the turnstile assemblies is uncertain because portions of some gates are cropped by the image edges; at least three full gate assemblies are clearly visible and parts of a fourth are visible.",
+    "Small labels on the control panel inside the reception console are partially unreadable at this resolution; the panel contains multiple labeled buttons and indicators but their exact text is not legible from the image.",
+    "Some text on the CCTV application window (for example small status lines and menu items) is partially obscured or too small to transcribe accurately; lines transcribed reflect the clearly legible fragments only.",
+    "The on-screen thermal image contains small captions and numbers (for example near the thermal subject) that are only partially legible; 'Camera 02' and the timestamp are legible, other small annotations are not."
+  ],
+  "visual_facts": [
+    "In the photographed scene (not counting images shown on displays) there are at least two visible people: one person seated at a desk behind glass (center left region, partially obscured by a dual-monitor stand) and one person standing near the turnstiles (center right region) wearing a face mask; both are fully visible in the scene.",
+    "A large flat-panel monitor is visible in the foreground (occupying lower half of the image) displaying a multi-view CCTV/thermal application; a separate pair of monitors is mounted on a tall stand in the mid-background (near the center of the image) and are visible as two black screens back-facing the camera.",
+    "There is a reception/console counter in the foreground right that contains a desk telephone (visible keypad and handset) and a control panel with multiple labeled push buttons and indicators (panel located inside the console, lower right region).",
+    "Four waist-high glass-and-stainless-steel turnstile gates are visible in a row immediately beyond the reception area (center-right region); the visible portion shows at least three clear gate assemblies and parts of a fourth, some with green indicator lights on top.",
+    "Seating: one blue cube seat (right region) and one grey ottoman or bench (right region) are visible near the far right wall.",
+    "One desk and chair are visible behind the glass partition where a seated person is working (center-left background).",
+    "On-screen video feeds show additional people who are present only in the displayed footage: the monitor foreground shows at least two people in the camera views (one standing in a corridor and one captured in a thermal view) — these are part of the displayed CCTV images, not additional people physically present in the photographed scene.",
+    "Flooring appears to be a pale blue smooth surface across the area visible to the right and background.",
+    "Walls and large panels are white; the partition between reception and the workspace is glass.",
+    "The large foreground monitor and mid-background monitors have black bezels; the dual-monitor stand is black.",
+    "Turnstiles have stainless-steel or metallic frames with transparent glass panels and visible green indicator lights on top.",
+    "A vertical red wall or column is visible at the far right edge; seating includes a blue fabric-covered cube and a grey fabric ottoman."
+  ],
+  "id": "f5458de03db4287b8c66de71",
+  "sha256": "0ac3671b67dd97ded8919d4c3be414df154e7e8a049c68d89a5c0d26eb7793f8",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:23:32.686005+00:00",
+  "input_resolution": [
+    2048,
+    921
+  ],
+  "input_sha256": "08af2977cb417d187bf15b6f9dcb806499fbb7f235193aa0fc551a72bcb9f415",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatnT6Ilr3UZD0CoRbPcJCt9RhNLW",
+  "usage": {
+    "completion_tokens": 1515,
+    "prompt_tokens": 2756,
+    "total_tokens": 4271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1291,
+      "engine_ttlt_ms": 11259,
+      "pre_inference_ms": 377,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2758,
+      "service_ttlt_ms": 12721,
+      "user_visible_ttft_ms": 2381
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

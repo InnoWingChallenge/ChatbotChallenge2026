@@ -1,0 +1,109 @@
+{
+  "title": "Entrance facade showing Tam Wing Fan Innovation Wing, Faculty of Engineering",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing",
+  "objects_and_counts": [
+    "At least seven human figures or representations are visible: (1) a silhouetted pedestrian far left in the corridor, (2) a darker silhouette closer to the left foreground on the walkway, (3) a white mannequin or human-form figure standing inside near the main entrance, (4) a second white mannequin or human-form figure further inside to the left, (5) a silhouette of a person shown walking through the interior doorway to the right of the main entrance, (6) a shadowed silhouette of a person walking on the right background along the balustrade, and (7) a large foreground shadowed silhouette carrying a briefcase on the plaza. Some of these are ghosted silhouettes and all are visually distinct from printed images on posters or screens.",
+    "Four vertically oriented perforated metal/cladding panels are visible on the front elevation near the entrance (two at the corner and two flanking the glass entrance area); these panels are partially cropped by the image edges in places.",
+    "At least one freestanding red rectangular/cube object is visible immediately to the right of the white mannequin inside the entrance area.",
+    "Multiple glass panels and glazed doors form the entrance face: at least three full-height glass panes/door sections are visible across the front elevation.",
+    "Three large rectangular brick-faced building windows are visible on the right-hand brick façade (two stacked vertically nearer the top right and one lower-right), though part of the façade extends beyond the image.",
+    "A translucent canopy/awning structure projects above the entrance, spanning the front elevation and supported by visible beams.",
+    "A wall-mounted sign or plaque with a green logo and text is visible to the left of the entrance interior (affixed to the glass or wall)."
+  ],
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "FACULTY OF ENGINEERING",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "Tam Wing Fan Innovation Wing"
+  ],
+  "spatial_relations": [
+    "The main entrance is centered in the mid-right of the image beneath a projecting translucent canopy; the entrance opens onto a small interior lobby area visible through full-height glass panels.",
+    "Perforated metal/cladding panels are mounted vertically at the building corner and along the front elevation, with two panels forming the near corner and additional panels flanking the glass entrance.",
+    "The white mannequin is positioned immediately inside the glass entrance area near the right side of the central bay, with a red rectangular/cube object directly to its right (from the viewer's perspective).",
+    "Silhouetted pedestrians appear on the external walkway to the left of the entrance and on the plaza in the foreground; one silhouette is shown walking through an interior doorway at the right side of the entrance lobby.",
+    "A brick-faced multi-storey façade rises above and behind the translucent canopy; windows in that brick façade are to the right of the entrance and align vertically."
+  ],
+  "colours_and_materials": [
+    "The building exterior above the entrance is red brick (rectangular brick pattern).",
+    "Perforated panels and much of the entrance framing appear white or light grey metallic.",
+    "The canopy is translucent with white structural beams.",
+    "The ground plaza is laid with orange-brown herringbone-pattern paving (terracotta-colour bricks or tiles).",
+    "Glass is used extensively at the entrance (transparent/reflective panes) and interior walls are light-coloured (pale grey or off-white).",
+    "A red rectangular/cube object is visible inside the entrance near the mannequin."
+  ],
+  "uncertainties": [
+    "The exact total count of human figures could be ambiguous due to ghosted/translucent silhouettes and partial occlusion; I report at least seven distinguishable figures but overlapping silhouettes may represent compositing rather than distinct people.",
+    "Small labels, logos and any fine-print text near the green logo plaque and on internal signage are partially legible; fragments beyond the transcribed phrases could not be clearly read from this image.",
+    "The identity or nature of the white human-form figures (mannequins vs. statues) cannot be confirmed from appearance alone.",
+    "The exact number of glass panes/door sections and perforated panels may extend beyond the visible crop; counts above reflect only clearly visible, individually distinguishable items within the image frame."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing",
+    "At least seven human figures or representations are visible: (1) a silhouetted pedestrian far left in the corridor, (2) a darker silhouette closer to the left foreground on the walkway, (3) a white mannequin or human-form figure standing inside near the main entrance, (4) a second white mannequin or human-form figure further inside to the left, (5) a silhouette of a person shown walking through the interior doorway to the right of the main entrance, (6) a shadowed silhouette of a person walking on the right background along the balustrade, and (7) a large foreground shadowed silhouette carrying a briefcase on the plaza. Some of these are ghosted silhouettes and all are visually distinct from printed images on posters or screens.",
+    "Four vertically oriented perforated metal/cladding panels are visible on the front elevation near the entrance (two at the corner and two flanking the glass entrance area); these panels are partially cropped by the image edges in places.",
+    "At least one freestanding red rectangular/cube object is visible immediately to the right of the white mannequin inside the entrance area.",
+    "Multiple glass panels and glazed doors form the entrance face: at least three full-height glass panes/door sections are visible across the front elevation.",
+    "Three large rectangular brick-faced building windows are visible on the right-hand brick façade (two stacked vertically nearer the top right and one lower-right), though part of the façade extends beyond the image.",
+    "A translucent canopy/awning structure projects above the entrance, spanning the front elevation and supported by visible beams.",
+    "A wall-mounted sign or plaque with a green logo and text is visible to the left of the entrance interior (affixed to the glass or wall).",
+    "The building exterior above the entrance is red brick (rectangular brick pattern).",
+    "Perforated panels and much of the entrance framing appear white or light grey metallic.",
+    "The canopy is translucent with white structural beams.",
+    "The ground plaza is laid with orange-brown herringbone-pattern paving (terracotta-colour bricks or tiles).",
+    "Glass is used extensively at the entrance (transparent/reflective panes) and interior walls are light-coloured (pale grey or off-white).",
+    "A red rectangular/cube object is visible inside the entrance near the mannequin."
+  ],
+  "id": "b02da49b0ea532f8b6eec20c",
+  "sha256": "869f899ce27658bd2d4250c97aa6771195675f019e3cfe1fc0261bfafe14731d",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:59:00.717423+00:00",
+  "input_resolution": [
+    2400,
+    1235
+  ],
+  "input_sha256": "c97d54c42af948fcf1a6db1bc14d5f6ed9e699e55c0a6888e169fdfc18f2fc63",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauLox1xrR2H2k7jBWvBsdmrhF2iP",
+  "usage": {
+    "completion_tokens": 1466,
+    "prompt_tokens": 2554,
+    "total_tokens": 4020,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1381,
+      "engine_ttlt_ms": 11360,
+      "pre_inference_ms": 532,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2441,
+      "service_ttlt_ms": 12414,
+      "user_visible_ttft_ms": 1909
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

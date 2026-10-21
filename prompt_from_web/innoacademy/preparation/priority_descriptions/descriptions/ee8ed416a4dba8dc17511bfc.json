@@ -1,0 +1,103 @@
+{
+  "title": "Group holding InnoShow winner sign and framed certificate in lab-like room",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Four adult people are visible standing in a row across the foreground, each wearing a face mask.",
+    "One person at the far left is holding a white skateboard-like assembly (two white curved board sections visible) in front of their torso; portions of that assembly are visible and not fully cropped.",
+    "One person (second from left) is holding a large freestanding sign at waist height that reads 'WINNER' and 'InnoShow Award'.",
+    "One person (second from right) together with the person at far right are holding a framed certificate in a brown frame; the certificate is visible and held upright by both people.",
+    "At least one large computer monitor is visible on a bench or desk behind the group at the left side of the image; additional monitor hardware and cables are partially visible but not fully countable."
+  ],
+  "visible_text": [
+    "WINNER",
+    "InnoShow Award",
+    "ENGINEERING",
+    "INNOSHOW",
+    "CERTIFICATE"
+  ],
+  "spatial_relations": [
+    "Four people stand in a near-straight line across the mid-foreground, from left to right: person holding the skateboard-like assembly, person holding the winner sign, person holding the framed certificate, and a person at the far right assisting with the framed certificate.",
+    "The large 'WINNER / InnoShow Award' sign is held in front of the second person from the left and partially overlaps that person's torso.",
+    "Two vertical banners stand directly behind the group near the center background; the banner on the right displays tall vertical text 'ENGINEERING' with 'INNOSHOW' arranged vertically beside it.",
+    "A desk or bench runs behind the group along the back wall with at least one computer monitor positioned left of center; windows are visible behind and to both sides of the banners.",
+    "The framed certificate is held approximately center-right in the image, in front of the person second from right and to the left hand of the person at far right."
+  ],
+  "colours_and_materials": [
+    "Two vertical banners are white with green botanical or dandelion-like graphic elements.",
+    "The winner sign has multi-coloured letters for 'WINNER' (visible colors include red, orange and purple) and a crown graphic with yellow and red tones.",
+    "The framed certificate has a brown frame and a white certificate sheet inside.",
+    "The skateboard-like assembly held at left is predominantly white; the person holding it wears a light-coloured shirt and light trousers.",
+    "Face masks worn by people are light blue and pale pink."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number sign is legible in the image; location cannot be determined from visible signage.",
+    "Small printed text on the framed certificate and on the banners is not fully legible; only the larger words transcribed are confident.",
+    "There may be additional monitors, equipment or furniture along the rear bench that are partially obscured by the people and banners; an exact count beyond the at-least-one monitor visible cannot be determined from this view.",
+    "The circular logo at the top of the certificate is visually present but its detailed text cannot be read clearly from the image.",
+    "Several faint words appear on the left banner (for example, words like 'RESEARCH' or 'TALENT' may be present) but they are not sufficiently legible to transcribe with confidence and were therefore not included."
+  ],
+  "visual_facts": [
+    "Four adult people are visible standing in a row across the foreground, each wearing a face mask.",
+    "One person at the far left is holding a white skateboard-like assembly (two white curved board sections visible) in front of their torso; portions of that assembly are visible and not fully cropped.",
+    "One person (second from left) is holding a large freestanding sign at waist height that reads 'WINNER' and 'InnoShow Award'.",
+    "One person (second from right) together with the person at far right are holding a framed certificate in a brown frame; the certificate is visible and held upright by both people.",
+    "At least one large computer monitor is visible on a bench or desk behind the group at the left side of the image; additional monitor hardware and cables are partially visible but not fully countable.",
+    "Two vertical banners are white with green botanical or dandelion-like graphic elements.",
+    "The winner sign has multi-coloured letters for 'WINNER' (visible colors include red, orange and purple) and a crown graphic with yellow and red tones.",
+    "The framed certificate has a brown frame and a white certificate sheet inside.",
+    "The skateboard-like assembly held at left is predominantly white; the person holding it wears a light-coloured shirt and light trousers.",
+    "Face masks worn by people are light blue and pale pink."
+  ],
+  "id": "ee8ed416a4dba8dc17511bfc",
+  "sha256": "ecdeede6a58f02f1f24dec820db0e9a64c3e5f52edf533c8707bc045eedb1abb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:22:49.675189+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "ccbfa671b31e888efe60d1b3aa931d60fb5310b5e86fa3e323590dd4c3e4b3d5",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatmoU0UTPkAyjwITENjeDefnm3pi",
+  "usage": {
+    "completion_tokens": 1219,
+    "prompt_tokens": 2045,
+    "total_tokens": 3264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 564,
+      "engine_ttlt_ms": 9166,
+      "pre_inference_ms": 124,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1164,
+      "service_ttlt_ms": 9743,
+      "user_visible_ttft_ms": 1040
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

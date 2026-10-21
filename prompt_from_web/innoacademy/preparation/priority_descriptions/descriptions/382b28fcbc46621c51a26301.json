@@ -1,0 +1,24 @@
+{
+  "id": "382b28fcbc46621c51a26301",
+  "sha256": "037af11ae05d980253d73e1c9ce8007f7e6c03cf9def3ef737caa4fb4c064c9f",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Tray of small gray angular particles",
+  "visible_text": [],
+  "visual_facts": [
+    "A shallow round clear glass dish is filled with many small angular gray particles.",
+    "A second similar dish is partly visible at the left edge.",
+    "The dishes rest on a white cloth or paper-covered work surface.",
+    "A translucent plastic bag and a white rectangular container are partly visible behind the dishes."
+  ],
+  "spatial_relations": [
+    "The filled dish is in the foreground and center.",
+    "A second dish sits behind and to the left of the filled dish."
+  ],
+  "uncertainties": [
+    "The material composition and purpose of the gray particles cannot be determined visually."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "006fdcdaf41f29d76780517c",
+  "sha256": "8a4ad3bb49728d2afa5e34f77934297c36cad77cef64d80ee74e3b694e6b5519",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Front loading washing machines",
+  "visible_text": ["W3", "W4"],
+  "visual_facts": [
+    "A large white front loading washing machine fills the center of the image.",
+    "Its circular dark glass door is closed.",
+    "The machine has a control panel above the door with several buttons and a small display.",
+    "A QR code label is attached above the controls.",
+    "Part of another similar washing machine is visible on the right, marked W4.",
+    "A third machine is cropped along the left edge.",
+    "A wall fan and white tiled wall are visible above the machines."
+  ],
+  "spatial_relations": ["The W3 machine is between two adjacent machines.", "The fan is above and left of W3."],
+  "uncertainties": ["Small labels and control markings are too small to read.", "The image does not show a manufacturer or model name."]
+}

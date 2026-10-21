@@ -1,0 +1,115 @@
+{
+  "title": "Audience in tiered seating facing presenter in a glass-walled innovation space",
+  "suitable": true,
+  "location": "Innovation academy",
+  "objects_and_counts": [
+    "At least 19 people are visible in the photographed scene; many are seated on tiered steps at left and on cube seats in the centre; a precise exact count is uncertain because some people are partially obscured behind others.",
+    "One person is standing at right facing the audience and appears to be speaking; this person is wearing a mask.",
+    "There is one tripod-mounted camera or video camera centrally placed on the floor in front of the seated audience.",
+    "There are multiple cube seats/stools arranged across the centre of the room: I count 11 distinct cube seats/stools visible in the foreground and midground (a row of 6 blue/teal/grey cubes in the centre-right and additional cubes/stools on the far left and near front).",
+    "Two black chairs with armrests are visible at far right beside a small round side table.",
+    "One small round side table with a white top holds a small potted plant, two white cups and a dark object (possibly a remote or small device).",
+    "A stepped tiered seating structure at left holds many seated people; the tiers have blue horizontal surfaces and white vertical faces.",
+    "At least two laptops are visible: one laptop on the lap of a person seated on the tiered steps and another laptop visible on a person's lap near the glass doors.",
+    "Two glass doors or large glass panels form the back/right wall of the space; each has small printed signs and a vertical handle area.",
+    "Large printed wall signage and wall graphics are present on the left wall above the tiered seating (see visible_text for exact transcriptions)."
+  ],
+  "visible_text": [
+    "INNOVATION",
+    "Innovation academy",
+    "PUSH",
+    "Reserved for [unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "Tiered seating is at the left side of the image; audience members sit on these steps and face toward the right where the presenter stands.",
+    "A row of cube seats/stools forms a central block between the tiered seating at left and the presenter area at right.",
+    "The presenter stands at the right edge of the open floor area, near the glass-walled back and right side of the room.",
+    "The tripod-mounted camera is positioned on the floor in front of the seated audience, roughly in the centre foreground, between the audience and the presenter.",
+    "Two black armchairs and a small round table are located to the right of the cube seating near the presenter, forming a small presenter area.",
+    "Glass doors/panels form the back/right boundary of the space; wall signage reading 'Innovation academy' is visible on or behind the glass near the centre-right background."
+  ],
+  "colours_and_materials": [
+    "Cube seats/stools are mainly blue with some teal and grey cubes visible; the tiered seating surfaces are blue with white risers.",
+    "Flooring is a light grey carpet with a narrow linear pattern.",
+    "Back and right walls are glass panels; metal door handles are visible on the glass.",
+    "The small round side table has a white tabletop and yellow legs (legs appear yellow or light wood), and the two presenter chairs are black with plastic or vinyl surfaces.",
+    "A small potted plant on the table has green leaves in a dark pot."
+  ],
+  "uncertainties": [
+    "The exact number of people is uncertain because some attendees are partly obscured behind others on the tiered seating; the quoted minimum of 19 is a conservative visible count.",
+    "Several small printed signs on the glass doors are partly legible; one sign clearly shows 'PUSH' while others are only partially readable and have been transcribed as 'Reserved for [unreadable]' and '[unreadable]'.",
+    "The exact printed capitalization and punctuation of the wall signage reads as 'INNOVATION' in large letters and 'Innovation academy' on glass; it is unclear whether these are official room names or branded signage for the space.",
+    "Some smaller labels or stickers on the glass and walls are too small or blurred to transcribe precisely.",
+    "The dark object on the round table is not clearly identifiable from the image; described only as 'dark object (possibly a remote or small device)'."
+  ],
+  "visual_facts": [
+    "Visible location text: Innovation academy",
+    "At least 19 people are visible in the photographed scene; many are seated on tiered steps at left and on cube seats in the centre; a precise exact count is uncertain because some people are partially obscured behind others.",
+    "One person is standing at right facing the audience and appears to be speaking; this person is wearing a mask.",
+    "There is one tripod-mounted camera or video camera centrally placed on the floor in front of the seated audience.",
+    "There are multiple cube seats/stools arranged across the centre of the room: I count 11 distinct cube seats/stools visible in the foreground and midground (a row of 6 blue/teal/grey cubes in the centre-right and additional cubes/stools on the far left and near front).",
+    "Two black chairs with armrests are visible at far right beside a small round side table.",
+    "One small round side table with a white top holds a small potted plant, two white cups and a dark object (possibly a remote or small device).",
+    "A stepped tiered seating structure at left holds many seated people; the tiers have blue horizontal surfaces and white vertical faces.",
+    "At least two laptops are visible: one laptop on the lap of a person seated on the tiered steps and another laptop visible on a person's lap near the glass doors.",
+    "Two glass doors or large glass panels form the back/right wall of the space; each has small printed signs and a vertical handle area.",
+    "Large printed wall signage and wall graphics are present on the left wall above the tiered seating (see visible_text for exact transcriptions).",
+    "Cube seats/stools are mainly blue with some teal and grey cubes visible; the tiered seating surfaces are blue with white risers.",
+    "Flooring is a light grey carpet with a narrow linear pattern.",
+    "Back and right walls are glass panels; metal door handles are visible on the glass.",
+    "The small round side table has a white tabletop and yellow legs (legs appear yellow or light wood), and the two presenter chairs are black with plastic or vinyl surfaces.",
+    "A small potted plant on the table has green leaves in a dark pot."
+  ],
+  "id": "7001384b5faf738a4b048d0a",
+  "sha256": "c7f5e2a49e2052d5c20bc43d139fbfeaf6147d47483d4173eac0f426884c50a0",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:45:44.619355+00:00",
+  "input_resolution": [
+    2000,
+    1126
+  ],
+  "input_sha256": "1e9aab8571d9f4a7549d1771a27213ec3b34b43d214e2c7a0277f3220cd2a1fa",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau8vB2zA4la37IXkQdgOHpj4VCyy",
+  "usage": {
+    "completion_tokens": 1583,
+    "prompt_tokens": 2439,
+    "total_tokens": 4022,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 640,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1184,
+      "engine_ttlt_ms": 13577,
+      "pre_inference_ms": 434,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2168,
+      "service_ttlt_ms": 14556,
+      "user_visible_ttft_ms": 1734
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

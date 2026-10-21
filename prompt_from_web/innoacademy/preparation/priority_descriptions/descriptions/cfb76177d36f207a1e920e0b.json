@@ -1,0 +1,85 @@
+{
+  "title": "Three layered curved sheets rendered in blue-grey tones",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Three distinct, individually visible curved sheet-like surfaces are present; they are stacked with gaps between them and offset so each sheet is partially visible.",
+    "No people are visible in the photographed scene.",
+    "No equipment, furniture, signage, nameplates or other facility fixtures are visible in the scene; the image appears to show an abstract or rendered object rather than room contents."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The three sheets are arranged in a roughly parallel stack with the top sheet offset upward and to the right relative to the middle sheet, and the middle sheet offset upward and to the right relative to the bottom sheet.",
+    "Each sheet curves upward toward the right side of the image; the left edges of the sheets are closer to the viewer and the right edges curve away.",
+    "There are visible gaps between the sheets so none are touching each other in the visible view."
+  ],
+  "colours_and_materials": [
+    "Sheets show blue and grey colour tones: the top sheet is a light blue, the middle sheet is a darker grey-blue, and the bottom sheet is a light bluish-grey.",
+    "Surfaces display a smooth, slightly specular appearance with banded shading and a textured posterized rendering effect; material identification is uncertain and may be a digital render rather than a real material.",
+    "Background is a gradient of pale blue to grey and includes faint circular lens-flare-like artifacts at the lower left."
+  ],
+  "uncertainties": [
+    "No room identifier, sign, label, equipment nameplate or textual identifier is legible in the image; therefore location and facility association cannot be established from the image.",
+    "The objects appear to be a computer-generated or stylized rendering rather than photographed physical equipment; this limits their usefulness as evidence of an actual facility or installed device.",
+    "Because there are no equipment labels, model numbers, control panels, or other facility fixtures visible, the image does not provide usable equipment or layout evidence for HKU Innovation Academy or Tam Wing Fan Innovation Wing."
+  ],
+  "visual_facts": [
+    "Three distinct, individually visible curved sheet-like surfaces are present; they are stacked with gaps between them and offset so each sheet is partially visible.",
+    "No people are visible in the photographed scene.",
+    "No equipment, furniture, signage, nameplates or other facility fixtures are visible in the scene; the image appears to show an abstract or rendered object rather than room contents.",
+    "Sheets show blue and grey colour tones: the top sheet is a light blue, the middle sheet is a darker grey-blue, and the bottom sheet is a light bluish-grey.",
+    "Surfaces display a smooth, slightly specular appearance with banded shading and a textured posterized rendering effect; material identification is uncertain and may be a digital render rather than a real material.",
+    "Background is a gradient of pale blue to grey and includes faint circular lens-flare-like artifacts at the lower left."
+  ],
+  "id": "cfb76177d36f207a1e920e0b",
+  "sha256": "215b3aa195a5d1636bbf70603274bbec244b4b08f26f463f82ab9c86f1087e94",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:05:28.951452+00:00",
+  "input_resolution": [
+    1830,
+    828
+  ],
+  "input_sha256": "2794eeec2c537218639df7786e404f4652a42049894b51931294d7b474b11b1e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauSAGvhLyijoCy5s2xOFXPHtn1hK",
+  "usage": {
+    "completion_tokens": 539,
+    "prompt_tokens": 2756,
+    "total_tokens": 3295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 465,
+      "engine_ttlt_ms": 5523,
+      "pre_inference_ms": 385,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 954,
+      "service_ttlt_ms": 6007,
+      "user_visible_ttft_ms": 569
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

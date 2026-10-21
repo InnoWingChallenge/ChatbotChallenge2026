@@ -1,0 +1,112 @@
+{
+  "title": "Interior lab demonstration in front of DREAMLab signage",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "There are multiple people visible: a presenter at left wearing a light-coloured shirt, one seated person at a left desk with hands on a laptop, two women standing near the back center, and a group of students standing at right. In total 13 people are visible, some partially cropped at the right edge.",
+    "At least two laptop computers are visible: one on the left desk (in use) and one on the back center desk.",
+    "One large wall-mounted display screen is visible at the far left showing an image; another smaller monitor is visible on the left desk.",
+    "A rectangular workbench/table with a yellow top occupies the center foreground and a second yellow-topped table sits behind it; both hold parts and equipment.",
+    "Several office chairs are visible: at least three grey swivel chairs (one central, two near the left desks).",
+    "Multiple engineering/robotic components and assemblies are present on the tables: visible items include a partially assembled robotic arm or chassis in the foreground, wheel assemblies or tracked drive components on the back table, and various loose parts in small clear plastic compartments on the front table.",
+    "One clear plastic parts organizer with multiple compartments is on the front table (containing many small fasteners or components).",
+    "Cardboard boxes and packing materials are visible: at least two cardboard boxes (one labelled with 'SF' on its side) are visible near the back center.",
+    "A metal frame or rack with the white numeral '1' attached is visible near the left-center area behind chairs."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "THE UNIVERSITY OF HONG KONG",
+    "SF",
+    "1"
+  ],
+  "spatial_relations": [
+    "The presenter stands at the left foreground facing right toward the group of students.",
+    "A long desk runs along the left wall with laptops and monitors; a large wall display is mounted above that desk.",
+    "Two yellow-topped tables are arranged longitudinally from mid-image foreground to mid-image background, parallel to the viewer; the front table holds small parts bins and a partially assembled mechanism, the rear table holds larger components and boxes.",
+    "Office chairs sit between the left desk and the yellow tables; the metal frame with the '1' is behind these chairs toward the left-center.",
+    "The DREAMLab sign is centered on the back wall above a glass or whiteboard surface; two women stand in front of that back wall signage.",
+    "A group of students stands along the right side of the image, forming a line facing the tables and presenter; one student at the far right is partially cropped by the image edge."
+  ],
+  "colours_and_materials": [
+    "Two worktables have yellow tabletops and black legs.",
+    "Flooring appears to be dark grey carpet.",
+    "Office chairs are grey with fabric upholstery and black bases.",
+    "The back wall has a glass or glossy whiteboard surface behind the 'DREAMLab' sign; the sign text shows black and gold/yellow colouring.",
+    "Several electronic and mechanical parts are black or metallic; clear plastic parts organizers are transparent."
+  ],
+  "uncertainties": [
+    "Some text on the whiteboard behind the 'DREAMLab' sign is present but not legible in this image; those lines were not transcribed because they are unreadable.",
+    "Exact counts of small parts, the total number of laptops/monitors, and the precise number of students are uncertain because some people and equipment are partially obscured or cropped at the image edges.",
+    "The small text beneath 'DREAMLab' appears to read 'THE UNIVERSITY OF HONG KONG' but some characters are small; transcription is included as visible but may be partially obscured.",
+    "Other signage (for example a circular sign on the back wall) contains text that is not legible at this resolution.",
+    "Identification of specific equipment types, brands or model numbers beyond the visible short labels ('SF', '1') cannot be determined from the image."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "There are multiple people visible: a presenter at left wearing a light-coloured shirt, one seated person at a left desk with hands on a laptop, two women standing near the back center, and a group of students standing at right. In total 13 people are visible, some partially cropped at the right edge.",
+    "At least two laptop computers are visible: one on the left desk (in use) and one on the back center desk.",
+    "One large wall-mounted display screen is visible at the far left showing an image; another smaller monitor is visible on the left desk.",
+    "A rectangular workbench/table with a yellow top occupies the center foreground and a second yellow-topped table sits behind it; both hold parts and equipment.",
+    "Several office chairs are visible: at least three grey swivel chairs (one central, two near the left desks).",
+    "Multiple engineering/robotic components and assemblies are present on the tables: visible items include a partially assembled robotic arm or chassis in the foreground, wheel assemblies or tracked drive components on the back table, and various loose parts in small clear plastic compartments on the front table.",
+    "One clear plastic parts organizer with multiple compartments is on the front table (containing many small fasteners or components).",
+    "Cardboard boxes and packing materials are visible: at least two cardboard boxes (one labelled with 'SF' on its side) are visible near the back center.",
+    "A metal frame or rack with the white numeral '1' attached is visible near the left-center area behind chairs.",
+    "Two worktables have yellow tabletops and black legs.",
+    "Flooring appears to be dark grey carpet.",
+    "Office chairs are grey with fabric upholstery and black bases.",
+    "The back wall has a glass or glossy whiteboard surface behind the 'DREAMLab' sign; the sign text shows black and gold/yellow colouring.",
+    "Several electronic and mechanical parts are black or metallic; clear plastic parts organizers are transparent."
+  ],
+  "id": "a0e980fd48661ba66d90829e",
+  "sha256": "3a1cedda0ba43dabe0981532584c2c469a5891ffe7a3efa8643528aa86f1ac1b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:55:58.072367+00:00",
+  "input_resolution": [
+    2400,
+    1397
+  ],
+  "input_sha256": "60fc84372d0f355458ec457f15e1d085a7fd21b6f584f570057f5094df10b97e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauIrSUBwcZQXBM5hxK5E6SaBVBZP",
+  "usage": {
+    "completion_tokens": 1332,
+    "prompt_tokens": 2410,
+    "total_tokens": 3742,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1179,
+      "engine_ttlt_ms": 10895,
+      "pre_inference_ms": 427,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2058,
+      "service_ttlt_ms": 11768,
+      "user_visible_ttft_ms": 1630
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

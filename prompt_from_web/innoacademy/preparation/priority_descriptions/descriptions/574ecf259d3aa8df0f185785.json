@@ -1,0 +1,107 @@
+{
+  "title": "Close-up of stacked green circuit boards with ribbon connectors",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two small green daughterboards are mounted side-by-side on a larger green main PCB; each daughterboard has one visible square black integrated-circuit package (two ICs total visible).",
+    "A larger green main PCB is visible beneath the daughterboards with multiple rows of through-hole pin headers; at least one long double-row pin header is visible along the near edge.",
+    "Six white plastic wire-to-board connectors (JST-style) are visible along the top edge of the daughterboards, each with an attached pink-and-white flat ribbon cable; several of these connector bodies are partially cropped at the top edge of the image.",
+    "One multicolour (rainbow) flat ribbon cable is visible entering the scene from the left and routing behind the daughterboards.",
+    "One small blue rectangular module or sensor pack with a white label is visible at lower left, sitting on a tan or cardboard surface; the module appears to be separate from the stacked PCBs.",
+    "Multiple small surface-mount passive components (capacitors/resistors) and through-hole connectors visible on the PCBs; these are numerous and not counted individually.",
+    "No people are visible in the photographed scene and there are no posters or screens that show people."
+  ],
+  "visible_text": [
+    "COMMUNICATION",
+    "DIGITAL",
+    "RX0 TX0",
+    "SCL",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "Two daughterboards are mounted adjacent to each other on top of the larger main PCB, occupying the upper-center portion of the image.",
+    "The six white JST-style connectors are arranged in a roughly horizontal row along the top edge of the daughterboards, with pink-and-white flat cables plugged into them and extending upward out of frame.",
+    "A multicolour ribbon cable approaches from the left and passes behind the stacked PCBs toward the upper-left quadrant of the image.",
+    "The blue rectangular module sits to the lower left of the stacked PCBs, resting on a tan/cardboard surface beneath the edge of the main board.",
+    "A long double-row pin header runs along the near (bottom) edge of the main PCB, parallel to the front edge of the image."
+  ],
+  "colours_and_materials": [
+    "PCBs are green with visible white silkscreen text and markings.",
+    "Wire-to-board connectors are white plastic with pink-and-white flat ribbon cables attached.",
+    "A multicolour (rainbow) ribbon cable includes red, orange, yellow, green, blue and purple conductors.",
+    "A small module is housed in blue plastic with a white label and blue printed logo or mark.",
+    "Pin headers and many connector pins are metallic (soldered/tinned appearance)."
+  ],
+  "uncertainties": [
+    "Exact room name or number is not visible anywhere in the image; location cannot be determined from the image.",
+    "Some small silkscreen labels and pin labels on the PCB are partially obscured or out of focus and not fully legible; I transcribed 'COMMUNICATION', 'DIGITAL', 'RX0 TX0', and 'SCL' where they appear readable, and used [unreadable] for other label fragments.",
+    "The precise count of small surface-mount components and individual header pins is not given because components overlap and some are out of focus; counts above are for clearly distinguishable whole items only.",
+    "The white label on the blue rectangular module contains diagrammatic printing and text that is partly blurred; its full text could not be transcribed reliably.",
+    "Some of the white JST-style connector bodies are cropped at the image top edge, so the visible count (six) is a lower bound for connectors present at that edge of the assembly."
+  ],
+  "visual_facts": [
+    "Two small green daughterboards are mounted side-by-side on a larger green main PCB; each daughterboard has one visible square black integrated-circuit package (two ICs total visible).",
+    "A larger green main PCB is visible beneath the daughterboards with multiple rows of through-hole pin headers; at least one long double-row pin header is visible along the near edge.",
+    "Six white plastic wire-to-board connectors (JST-style) are visible along the top edge of the daughterboards, each with an attached pink-and-white flat ribbon cable; several of these connector bodies are partially cropped at the top edge of the image.",
+    "One multicolour (rainbow) flat ribbon cable is visible entering the scene from the left and routing behind the daughterboards.",
+    "One small blue rectangular module or sensor pack with a white label is visible at lower left, sitting on a tan or cardboard surface; the module appears to be separate from the stacked PCBs.",
+    "Multiple small surface-mount passive components (capacitors/resistors) and through-hole connectors visible on the PCBs; these are numerous and not counted individually.",
+    "No people are visible in the photographed scene and there are no posters or screens that show people.",
+    "PCBs are green with visible white silkscreen text and markings.",
+    "Wire-to-board connectors are white plastic with pink-and-white flat ribbon cables attached.",
+    "A multicolour (rainbow) ribbon cable includes red, orange, yellow, green, blue and purple conductors.",
+    "A small module is housed in blue plastic with a white label and blue printed logo or mark.",
+    "Pin headers and many connector pins are metallic (soldered/tinned appearance)."
+  ],
+  "id": "574ecf259d3aa8df0f185785",
+  "sha256": "66cb57255b3f1d5c5f8789d39743f39f14f3a26772c7002fa6024243114f6f09",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:10:53.835858+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "c6a2148400741156c3de64bdabefdae554de49d7624a0c553e2b0a3dc5284780",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatbGIkZ61RQyiKbLMsQB77TADZoz",
+  "usage": {
+    "completion_tokens": 1146,
+    "prompt_tokens": 2045,
+    "total_tokens": 3191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 579,
+      "engine_ttlt_ms": 9591,
+      "pre_inference_ms": 128,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1161,
+      "service_ttlt_ms": 10163,
+      "user_visible_ttft_ms": 1033
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

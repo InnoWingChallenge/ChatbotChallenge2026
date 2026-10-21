@@ -1,0 +1,115 @@
+{
+  "title": "Audience listening to speaker at an Innovation Academy presentation",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing",
+  "objects_and_counts": [
+    "At least 15 people are visible in the photographed scene (audience members and two seated presenters): heads and torsos of seated audience members are visible across the foreground and midground; exact total in the room cannot be determined from the single image.",
+    "One seated presenter near the centre of the image is holding a handheld microphone (1 microphone visible).",
+    "One large projected presentation screen is visible at left showing a slide (1 screen).",
+    "One freestanding roll-up banner with the heading 'Innovation Academy' is placed behind the seated presenter (1 banner).",
+    "One laptop or small monitor is visible on a white wheeled stand to the right of the presenter (1 laptop/monitor on stand).",
+    "One brass bell is hanging from the ceiling near the right wall sign (1 bell).",
+    "Multiple seating benches or block seats are visible in the audience area; at least six distinct bench/seat surfaces are visible in the image (minimum 6 benches/seats visible).",
+    "One wired cable is visible running on the floor from the front toward the left of the scene (1 visible cable).",
+    "One wall-mounted signboard on the right-hand wall is visible with the facility name (1 wall sign)."
+  ],
+  "visible_text": [
+    "A Humanoid Robot for Neuroscience (2002-2008)",
+    "TUM",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "Faculty of Engineering",
+    "Tam Wing Fan Innovation Wing",
+    "FACULTY OF ENGINEERING",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The large projected screen occupies the left side of the image and faces the seated audience; the audience is oriented toward the screen.",
+    "A seated presenter holding a microphone sits in front of the roll-up banner labelled 'Innovation Academy' which stands behind the presenter near the centre of the image.",
+    "The wall-mounted 'Tam Wing Fan Innovation Wing' sign is on the right wall above a white laptop/monitor stand; the brass bell hangs from the ceiling slightly left of that sign.",
+    "The laptop/monitor on a white stand is positioned to the right of the presenter and slightly in front of the right wall.",
+    "Audience seating is arranged in rows of bench-style seats or blocks across the foreground and midground; benches are staggered so some faces are partially occluded by people in front."
+  ],
+  "colours_and_materials": [
+    "The roll-up banner is dark (charcoal or dark grey) with 'Innovation Academy' in large yellow-green text.",
+    "The projection screen background is white with dark text and images on the slide.",
+    "Walls are light grey or white; the floor is covered with a light grey carpeting with linear texture.",
+    "Benches or seat blocks have cushions that appear blue or teal; some bench tops appear to be light wood or laminate.",
+    "The hanging bell is metallic and brass-coloured."
+  ],
+  "uncertainties": [
+    "Exact count of people is a visible minimum; overlapping and partially occluded people make an exact room total indeterminate from this image.",
+    "Many smaller text elements on the projected slide, laptop screen, and small signage are not legible in the image; they are reported as [unreadable].",
+    "Some text on clothing (for example on the orange T-shirt in the foreground and patterned white T-shirt at right) is partially visible but not fully legible, so those strings are not transcribed to avoid errors.",
+    "The small header above the roll-up banner (top of banner) contains additional lines of text that are too small to transcribe reliably.",
+    "The single visible microphone is assumed to be handheld because it is held by the presenter; the image does not show its make, model or additional microphones that may be present out of frame."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing",
+    "At least 15 people are visible in the photographed scene (audience members and two seated presenters): heads and torsos of seated audience members are visible across the foreground and midground; exact total in the room cannot be determined from the single image.",
+    "One seated presenter near the centre of the image is holding a handheld microphone (1 microphone visible).",
+    "One large projected presentation screen is visible at left showing a slide (1 screen).",
+    "One freestanding roll-up banner with the heading 'Innovation Academy' is placed behind the seated presenter (1 banner).",
+    "One laptop or small monitor is visible on a white wheeled stand to the right of the presenter (1 laptop/monitor on stand).",
+    "One brass bell is hanging from the ceiling near the right wall sign (1 bell).",
+    "Multiple seating benches or block seats are visible in the audience area; at least six distinct bench/seat surfaces are visible in the image (minimum 6 benches/seats visible).",
+    "One wired cable is visible running on the floor from the front toward the left of the scene (1 visible cable).",
+    "One wall-mounted signboard on the right-hand wall is visible with the facility name (1 wall sign).",
+    "The roll-up banner is dark (charcoal or dark grey) with 'Innovation Academy' in large yellow-green text.",
+    "The projection screen background is white with dark text and images on the slide.",
+    "Walls are light grey or white; the floor is covered with a light grey carpeting with linear texture.",
+    "Benches or seat blocks have cushions that appear blue or teal; some bench tops appear to be light wood or laminate.",
+    "The hanging bell is metallic and brass-coloured."
+  ],
+  "id": "821f5410923841293de691d5",
+  "sha256": "1d53d6e8909507a1a292e929d6cae38f7cc58a018bf6409ce79ca868848b7809",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:51:00.698158+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "19eec63dd8f9adb43496b459abf6180f6668e7685e04bd60632c8b8cd6bc0eb1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauE3cFDyuiEwbNbUU6L0l7Bq4IMT",
+  "usage": {
+    "completion_tokens": 1430,
+    "prompt_tokens": 2237,
+    "total_tokens": 3667,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1108,
+      "engine_ttlt_ms": 11626,
+      "pre_inference_ms": 473,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2044,
+      "service_ttlt_ms": 12556,
+      "user_visible_ttft_ms": 1571
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

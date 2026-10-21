@@ -1,0 +1,99 @@
+{
+  "title": "Workspace scene with a large monitor showing a virtual character and a blue promotional banner",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One large flat-panel monitor is visible in the right foreground; its right and top edges are cropped by the image border.",
+    "A single digital character (anime-style) is displayed on the monitor screen, centered vertically on that screen.",
+    "One tall vertical poster or banner is visible in the left background; it is partially obscured and out of focus.",
+    "At least three small illustrated character figures appear along the bottom of the left poster/banner (they are blurred but visually distinct as separate figures).",
+    "On the monitor's displayed scene there are three visible potted plants in the virtual background: one at left, one near center-right and one at the far right of the virtual room.",
+    "Overhead ceiling lights are visible as bright reflections/fixtures in the top background; their exact count is indeterminate because some are out of frame or blurred."
+  ],
+  "visible_text": [
+    "Dance with idols"
+  ],
+  "spatial_relations": [
+    "The monitor occupies the right foreground and partially occludes the left background objects.",
+    "The digital character is centered on the monitor screen, standing on a dark (black) textured floor within the virtual room shown on the screen.",
+    "The tall blue poster/banner stands in the left background behind the monitor; the banner is mostly visible to the left of the monitor and is blurred.",
+    "On the monitor's virtual scene, the three potted plants sit along the rear wall: one left, one center-right, one right, with framed plant pictures on the wall behind them.",
+    "Reflected/overhead lights appear behind and above the banner area in the distant background, indicating ceiling fixtures along that background region."
+  ],
+  "colours_and_materials": [
+    "Monitor bezel appears black or dark grey with a glossy screen surface reflecting light.",
+    "The left poster/banner has a blue gradient background with large orange and white lettering for the heading.",
+    "The virtual room on the monitor shows white walls, white plant pots, and a black floor with a marbled or textured appearance.",
+    "Ceiling lights are bright white and produce soft reflections on nearby glossy surfaces."
+  ],
+  "uncertainties": [
+    "Small text and bullet points on the left poster/banner are blurred and unreadable; only the heading 'Dance with idols' could be transcribed confidently.",
+    "Counts of the small character figures on the bottom of the banner are estimated as 'at least three' or 'at least five' visible figures because they are blurred and partially obscured; exact count may differ.",
+    "The monitor is cropped at the right and top edges; any labels or small text on the monitor bezel or the rest of the scene may be outside the image.",
+    "It is not possible to determine brand names, model numbers, or additional equipment labels from the visible portions of the monitor or other objects because those areas are out of focus or cropped.",
+    "No explicit room name, number, or signage is visible in the image, so the precise physical location cannot be established from this photograph."
+  ],
+  "visual_facts": [
+    "One large flat-panel monitor is visible in the right foreground; its right and top edges are cropped by the image border.",
+    "A single digital character (anime-style) is displayed on the monitor screen, centered vertically on that screen.",
+    "One tall vertical poster or banner is visible in the left background; it is partially obscured and out of focus.",
+    "At least three small illustrated character figures appear along the bottom of the left poster/banner (they are blurred but visually distinct as separate figures).",
+    "On the monitor's displayed scene there are three visible potted plants in the virtual background: one at left, one near center-right and one at the far right of the virtual room.",
+    "Overhead ceiling lights are visible as bright reflections/fixtures in the top background; their exact count is indeterminate because some are out of frame or blurred.",
+    "Monitor bezel appears black or dark grey with a glossy screen surface reflecting light.",
+    "The left poster/banner has a blue gradient background with large orange and white lettering for the heading.",
+    "The virtual room on the monitor shows white walls, white plant pots, and a black floor with a marbled or textured appearance.",
+    "Ceiling lights are bright white and produce soft reflections on nearby glossy surfaces."
+  ],
+  "id": "a654d7e59075df18c5dc22f5",
+  "sha256": "4f68a2b8b4b0de62694c157c2953000d3e70650a800d755f2da5078ac7a40b50",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:56:47.877885+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "52ba51f4a8ace5f218bed3a71fbb30f6aa5db30b88a5627299b4e21e2a199f2a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauJg06eGm7Qi3O8mhHFO7A9O4Npd",
+  "usage": {
+    "completion_tokens": 1003,
+    "prompt_tokens": 2237,
+    "total_tokens": 3240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1141,
+      "engine_ttlt_ms": 9280,
+      "pre_inference_ms": 370,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2515,
+      "service_ttlt_ms": 10649,
+      "user_visible_ttft_ms": 2145
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

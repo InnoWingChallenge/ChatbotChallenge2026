@@ -1,0 +1,99 @@
+{
+  "title": "Hands holding three green cylindrical molds on a worn compression press bed",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One person is partially visible: both forearms and both hands are seen holding the objects (center-left to center of image); the person's head and torso are not visible.",
+    "Three green cylindrical molds (plastic appearance) are clustered together on the press bed at the center of the image; all three are visible and not fully obscured.",
+    "Two vertical threaded rods/bolts are visible as part of the press assembly: one in the front left of the cluster (slightly corroded/paint-chipped) and one rear-right behind the molds.",
+    "One large rectangular metal plate (press bed) occupies the lower and central portion of the image; the plate shows chipping paint, dirt and wear.",
+    "One control box or machine panel is visible at the far left edge of the image (partially cropped), with stickers/labels affixed to it.",
+    "One white tile wall with stains and splatter is visible in the background behind the press bed."
+  ],
+  "visible_text": [
+    "A3007",
+    "proceq"
+  ],
+  "spatial_relations": [
+    "The three green cylindrical molds are placed together on the rectangular metal press bed at the image center; two are toward the rear and one toward the front of the small cluster.",
+    "The person's hands approach from the left and right, with the left hand mostly at the left side of the cluster and the right hand touching the front-right mold.",
+    "A vertical threaded rod stands in the front-left area of the press bed, slightly in front of the molds; another threaded rod is positioned behind and to the right of the molds.",
+    "The control box or machine panel is located at the far left edge of the image, behind the press bed; the tiled wall is behind the entire assembly and runs along the top background.",
+    "The press bed occupies the lower two-thirds of the image with the molds centered on a slightly raised rectangular section of the bed."
+  ],
+  "colours_and_materials": [
+    "The three molds are bright green and appear to be plastic.",
+    "The press bed and threaded rods are metal with chipped green/blue paint, rust and accumulated dirt; the metal surface has a worn, grey-brown patina and spots of white residue.",
+    "The wall tiles in the background are white or off-white and show discoloration and brown/yellow stains.",
+    "The person's watch is metallic (silver) and visible on the left wrist."
+  ],
+  "uncertainties": [
+    "The white label on the front mold reads 'A3007' in the image; there is minor ambiguity whether the leading character is 'A' or part of another character, but 'A3007' is the clearest visible transcription.",
+    "The control box at the far left has other small text and symbols that are partially visible but not legible; only 'proceq' could be reliably transcribed from that area.",
+    "No room name or number is visible anywhere in the image, so the exact location cannot be determined from the photograph.",
+    "Only portions of the person are visible (forearms and hands); no identifying features such as face or name are present and no inference about identity is made."
+  ],
+  "visual_facts": [
+    "One person is partially visible: both forearms and both hands are seen holding the objects (center-left to center of image); the person's head and torso are not visible.",
+    "Three green cylindrical molds (plastic appearance) are clustered together on the press bed at the center of the image; all three are visible and not fully obscured.",
+    "Two vertical threaded rods/bolts are visible as part of the press assembly: one in the front left of the cluster (slightly corroded/paint-chipped) and one rear-right behind the molds.",
+    "One large rectangular metal plate (press bed) occupies the lower and central portion of the image; the plate shows chipping paint, dirt and wear.",
+    "One control box or machine panel is visible at the far left edge of the image (partially cropped), with stickers/labels affixed to it.",
+    "One white tile wall with stains and splatter is visible in the background behind the press bed.",
+    "The three molds are bright green and appear to be plastic.",
+    "The press bed and threaded rods are metal with chipped green/blue paint, rust and accumulated dirt; the metal surface has a worn, grey-brown patina and spots of white residue.",
+    "The wall tiles in the background are white or off-white and show discoloration and brown/yellow stains.",
+    "The person's watch is metallic (silver) and visible on the left wrist."
+  ],
+  "id": "dde2b8c0ced298772037d18a",
+  "sha256": "b7f6cc3e1c6405f94070b759bf69567b88742f86cdeb821f92c38921a1161ee3",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:21:46.839165+00:00",
+  "input_resolution": [
+    1885,
+    1060
+  ],
+  "input_sha256": "b2581aaff24a68eb5b71a2c8cb1429072f8416cafe6d9396f1d51fba6247f6af",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatloKm4MTV2gPk6yW5QC6BsF71Mt",
+  "usage": {
+    "completion_tokens": 1103,
+    "prompt_tokens": 2439,
+    "total_tokens": 3542,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1160,
+      "engine_ttlt_ms": 9028,
+      "pre_inference_ms": 457,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2075,
+      "service_ttlt_ms": 9938,
+      "user_visible_ttft_ms": 1618
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

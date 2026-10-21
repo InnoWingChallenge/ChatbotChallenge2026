@@ -1,0 +1,99 @@
+{
+  "title": "Interior view of a room with multiple shelving units and books",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One visible human figure (rear of a head) centered lower in the image; the head is cropped at the bottom edge of the frame.",
+    "At least eight metal shelving assemblies holding books are visible across the scene; shelves appear in multiple rows extending from foreground to background. (Count is a visible minimum based on distinct shelf units seen; shelving assemblies are partially occluded in places.)",
+    "Three tall dark cabinets or wardrobe-like freestanding units are visible along the rear of the room (center-left to center of image).",
+    "One small upright lamp or lamp-like object is visible near the rear center of the room, between shelving rows; it is not on a desk and appears freestanding or placed on a shelf.",
+    "One circular user-interface element or HUD is visible in the lower-left corner of the image and is partially cropped by the frame.",
+    "Multiple stacks of books are present on many shelf faces; individual book counts are not enumerated due to occlusion and overlap."
+  ],
+  "visible_text": [
+    "You need 3 more to escape."
+  ],
+  "spatial_relations": [
+    "The viewer perspective is positioned behind and slightly above the back of a person’s head, looking forward down parallel rows of shelving.",
+    "Shelving assemblies form multiple parallel rows that run roughly left-to-right across the image and recede toward the rear wall; there is aisle space between the rows.",
+    "Three tall dark cabinets stand along the rear wall behind the shelving rows, roughly centered horizontally in the image.",
+    "The small lamp-like object is located between shelving rows near the rear center of the room, appearing slightly to the left of the central cabinets.",
+    "A circular HUD element is located at the lower-left corner of the frame and is partially cut off by the image edge."
+  ],
+  "colours_and_materials": [
+    "Floor and ceiling surfaces are light grey and tiled in a grid pattern.",
+    "Shelving assemblies appear metallic or dark grey/black with brown or multicoloured books on them.",
+    "The tall cabinets are a dark brown or black colour and visually contrast with the lighter walls and floor.",
+    "Books on the shelves display a range of muted colours (browns, tans, greens) and appear as stacked paper-bound volumes."
+  ],
+  "uncertainties": [
+    "Exact total number of shelving units cannot be determined because some units are occluded by others or by the viewer and the image only shows a portion of the room.",
+    "The small triangular or circular icon and any digits immediately adjacent to it in the top-right corner are partially obscured and unreadable; only the sentence 'You need 3 more to escape.' is fully legible.",
+    "The scene appears to be a rendered or game environment rather than a photograph of a real space; this may limit how the observed objects map to real-world equipment or fixtures.",
+    "Material identifications (metal for shelves, wood for cabinets) are based on visual appearance and are not confirmed by readable labels.",
+    "No room name or number, equipment nameplate, brand, model or other fixed identifier is visible in the image."
+  ],
+  "visual_facts": [
+    "One visible human figure (rear of a head) centered lower in the image; the head is cropped at the bottom edge of the frame.",
+    "At least eight metal shelving assemblies holding books are visible across the scene; shelves appear in multiple rows extending from foreground to background. (Count is a visible minimum based on distinct shelf units seen; shelving assemblies are partially occluded in places.)",
+    "Three tall dark cabinets or wardrobe-like freestanding units are visible along the rear of the room (center-left to center of image).",
+    "One small upright lamp or lamp-like object is visible near the rear center of the room, between shelving rows; it is not on a desk and appears freestanding or placed on a shelf.",
+    "One circular user-interface element or HUD is visible in the lower-left corner of the image and is partially cropped by the frame.",
+    "Multiple stacks of books are present on many shelf faces; individual book counts are not enumerated due to occlusion and overlap.",
+    "Floor and ceiling surfaces are light grey and tiled in a grid pattern.",
+    "Shelving assemblies appear metallic or dark grey/black with brown or multicoloured books on them.",
+    "The tall cabinets are a dark brown or black colour and visually contrast with the lighter walls and floor.",
+    "Books on the shelves display a range of muted colours (browns, tans, greens) and appear as stacked paper-bound volumes."
+  ],
+  "id": "c7484c8fe4652bc902ca471b",
+  "sha256": "8d6f12c93e6e82831de917a49a646019e3ad645dd524daf1beb14cbe178c2bee",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:03:57.733504+00:00",
+  "input_resolution": [
+    1020,
+    595
+  ],
+  "input_sha256": "ec507ba6b74e68e2d157fdf9ae487d6d7e1202a5cba7b409e221503c83c0fa83",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauQcmqVeV1VptsVvDu5IeSQzdIUO",
+  "usage": {
+    "completion_tokens": 1020,
+    "prompt_tokens": 1930,
+    "total_tokens": 2950,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 532,
+      "engine_ttlt_ms": 9593,
+      "pre_inference_ms": 179,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1154,
+      "service_ttlt_ms": 10216,
+      "user_visible_ttft_ms": 975
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

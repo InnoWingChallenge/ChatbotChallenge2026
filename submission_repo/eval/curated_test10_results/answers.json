@@ -1,0 +1,12 @@
+﻿[
+  {"id":"image_curated_001","answer":"所提供的证据中没有这张活动告示的内容，无法确认。","evidence_labels":[],"abstained":true},
+  {"id":"image_curated_002","answer":"SONY。","evidence_labels":["E2"],"abstained":false},
+  {"id":"image_curated_003","answer":"Maker Space A。","evidence_labels":["E3"],"abstained":false},
+  {"id":"image_curated_004","answer":"所提供的证据无法确认该照片中列出的两个 Ultimaker 型号；其中只提到 Ultimaker 3 Extended，未能确认题目所问的两个型号。","evidence_labels":["E3","E4"],"abstained":true},
+  {"id":"image_curated_005","answer":"所提供的证据提到紧急按钮，但没有说明它在机器上的位置，无法确认。","evidence_labels":["E4","E5"],"abstained":true},
+  {"id":"image_curated_006","answer":"所提供的证据没有报告该安全站的确切标牌文字，无法确认。","evidence_labels":["E1"],"abstained":true},
+  {"id":"image_curated_007","answer":"所提供的证据中没有这张照片的描述，无法确认。","evidence_labels":[],"abstained":true},
+  {"id":"image_curated_008","answer":"Tam Wing Fan Innovation Wing 标牌，旁边附有一个铃。","evidence_labels":["E1"],"abstained":false},
+  {"id":"image_curated_009","answer":"IW-LG10。","evidence_labels":["E1"],"abstained":false},
+  {"id":"image_curated_010","answer":"所提供的证据没有说明应在工作台面上放置什么以防止损坏，无法确认。","evidence_labels":["E2"],"abstained":true}
+]

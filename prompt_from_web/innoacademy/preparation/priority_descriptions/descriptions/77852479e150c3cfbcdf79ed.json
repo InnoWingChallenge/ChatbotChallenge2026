@@ -1,0 +1,119 @@
+{
+  "title": "Presentation in a makerspace-style room with large display and Innovation Academy banner",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Six people are visible in the photographed scene: one person standing center front holding a handheld microphone, two people standing to the right of the speaker, one person seated on a blue/grey modular cube facing the screen, and two seated audience members in the lower-left foreground. All six people are present in the photographed space (none are merely on posters or screens).",
+    "One large wall-mounted presentation display screen is visible at center-left showing a slide.",
+    "One freestanding vertical banner stand is visible to the right of the display (black/dark with printed text and a crest at top).",
+    "One brass bell is mounted on the right wall next to the banner.",
+    "Two long bench seats with turquoise/teal cushions are visible in the left/middle foreground (appearing as continuous bench pieces), and at least three modular cube seats (blue and grey) are visible near the center foreground where one person is seated.",
+    "Two laptops are visible: one open laptop placed on a low central cube in the foreground and one closed laptop on the nearer bench (both are in the photographed scene, not displayed on screens).",
+    "One small wheeled white table/stand is visible against the right wall (to the right of the bell).",
+    "One glass-walled room is visible at left rear; inside it a wall-mounted monitor or screen is visible (single monitor visible through glass).",
+    "One handheld microphone is visible in the speaker’s hand and an audio cable is visible on the floor near the people standing to the right.",
+    "Several printed posters (three small posters in a group) are mounted on the right wall beneath the bell; these posters are part of the photographed scene (their contents are mostly unreadable at this resolution)."
+  ],
+  "visible_text": [
+    "UNSW Makerspace",
+    "UNSW Makerspace",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "Innovation Academy",
+    "Tam Wing Fan",
+    "FACULTY OF"
+  ],
+  "spatial_relations": [
+    "The large presentation display is mounted on the center-left wall and is the focal point; the speaker stands in front of the display slightly right of its center holding a microphone.",
+    "To the right of the display and slightly behind the standing speaker is a freestanding vertical banner; two people stand between the banner and the right wall.",
+    "The brass bell is mounted on the right wall above a cluster of three small posters and to the left of a white wheeled table/stand.",
+    "Two long turquoise/teal cushioned benches run in the left/middle foreground facing the display; modular cube seats (blue/grey) are arranged nearer the camera and also face the display.",
+    "A glass-walled room is at the far left of the image, producing a reflection of the presentation screen and containing a visible wall-mounted monitor inside.",
+    "An audio cable runs on the floor from the front-right area across toward the white wheeled table/stand at the right wall."
+  ],
+  "colours_and_materials": [
+    "Bench cushions are turquoise/teal fabric atop light wood bench frames.",
+    "Modular cube seats are blue and grey fabric.",
+    "The large display screen shows a white slide background with teal/green graphic elements.",
+    "The freestanding banner is dark (black or very dark grey) with yellow and white lettering and a small coloured crest near its top.",
+    "The right wall has a light grey metallic or laminate finish; a brass bell is mounted on it.",
+    "The glass-walled room at left has transparent glass panels with reflections of the display visible."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number sign is legible in the image; location cannot be determined from the picture alone.",
+    "The text on some wall signage and posters (particularly the posters beneath the bell and small captions on the slide) is unreadable at this image resolution; those blocks are reported as present but their exact text is [unreadable].",
+    "The right-side wall sign appears to contain 'Tam Wing Fan' and 'FACULTY OF' but the remainder of that sign's text is not fully legible; the fragment 'Tam Wing Fan' and 'FACULTY OF' are transcribed because they are visually discernible, while adjacent words are ambiguous.",
+    "The banner includes a crest and small text at its top which appears to read 'Faculty of Engineering' and 'THE UNIVERSITY OF HONG KONG'; the crest details and smaller lines of text on the banner are difficult to read and may contain additional words.",
+    "The mirrored text seen on the glass wall at left is a reflection of the main screen; both instances of 'UNSW Makerspace' are visible (one as the slide on the display, one reversed in the reflection).",
+    "Counts for seating modules and small movable items are minimum visible counts; additional identical items may be present outside the photographed frame."
+  ],
+  "visual_facts": [
+    "Six people are visible in the photographed scene: one person standing center front holding a handheld microphone, two people standing to the right of the speaker, one person seated on a blue/grey modular cube facing the screen, and two seated audience members in the lower-left foreground. All six people are present in the photographed space (none are merely on posters or screens).",
+    "One large wall-mounted presentation display screen is visible at center-left showing a slide.",
+    "One freestanding vertical banner stand is visible to the right of the display (black/dark with printed text and a crest at top).",
+    "One brass bell is mounted on the right wall next to the banner.",
+    "Two long bench seats with turquoise/teal cushions are visible in the left/middle foreground (appearing as continuous bench pieces), and at least three modular cube seats (blue and grey) are visible near the center foreground where one person is seated.",
+    "Two laptops are visible: one open laptop placed on a low central cube in the foreground and one closed laptop on the nearer bench (both are in the photographed scene, not displayed on screens).",
+    "One small wheeled white table/stand is visible against the right wall (to the right of the bell).",
+    "One glass-walled room is visible at left rear; inside it a wall-mounted monitor or screen is visible (single monitor visible through glass).",
+    "One handheld microphone is visible in the speaker’s hand and an audio cable is visible on the floor near the people standing to the right.",
+    "Several printed posters (three small posters in a group) are mounted on the right wall beneath the bell; these posters are part of the photographed scene (their contents are mostly unreadable at this resolution).",
+    "Bench cushions are turquoise/teal fabric atop light wood bench frames.",
+    "Modular cube seats are blue and grey fabric.",
+    "The large display screen shows a white slide background with teal/green graphic elements.",
+    "The freestanding banner is dark (black or very dark grey) with yellow and white lettering and a small coloured crest near its top.",
+    "The right wall has a light grey metallic or laminate finish; a brass bell is mounted on it.",
+    "The glass-walled room at left has transparent glass panels with reflections of the display visible."
+  ],
+  "id": "77852479e150c3cfbcdf79ed",
+  "sha256": "d395026473971a7964aef9275b3898278fbaf4c46ebb8ca09e15d00bf6404c29",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:47:20.684431+00:00",
+  "input_resolution": [
+    2016,
+    1134
+  ],
+  "input_sha256": "a089d45fa2cf8e00f202c353bba929d10fa9967d8e1834ca069c58df7187d455",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauAQzSvw0SziOu1NWH1CirWdZ4uk",
+  "usage": {
+    "completion_tokens": 1662,
+    "prompt_tokens": 2439,
+    "total_tokens": 4101,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1501,
+      "engine_ttlt_ms": 16112,
+      "pre_inference_ms": 352,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 3300,
+      "service_ttlt_ms": 17906,
+      "user_visible_ttft_ms": 2948
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

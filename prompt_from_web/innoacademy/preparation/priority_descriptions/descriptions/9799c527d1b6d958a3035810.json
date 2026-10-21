@@ -1,0 +1,110 @@
+{
+  "title": "Group examining open-frame race vehicle outdoors",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Nine people are visibly present in the photographed scene: one partially visible person at the far left (only legs visible), one standing man in a white T-shirt and glasses at left-center, one woman behind him wearing a surgical mask and holding a camera, one crouching man in a black T-shirt near the vehicle, one woman in a white T-shirt and pink mask standing behind the crouching man, one young man in a black T-shirt standing behind the vehicle, one man in a green T-shirt holding a camera with a shotgun microphone, one person seated inside the open-frame vehicle wearing a white helmet and white clothing, and one person at the right edge of the image whose torso and arm are visible as they reach toward the vehicle.",
+    "One open-frame single-seat vehicle (race-type/experimental vehicle) occupies the center-right of the image; its roll hoop, exposed wiring and front assembly are visible.",
+    "One visible tire/wheel assembly is visible in the lower-left foreground of the vehicle (front left tire), partially cropped by the image edge.",
+    "One small rectangular action camera or monitor is mounted on the vehicle roll bar facing rearward (visible above the roll structure).",
+    "At least one DSLR or mirrorless camera is visible being held by the woman with a surgical mask (camera strap and body visible), and one camera with a shotgun microphone is being held by the man in a green T-shirt; these are present in the photographed scene (photographed equipment, not posters).",
+    "Several orange electrical or power cables are visible routed through the vehicle's front and center area; three prominent orange cables are visible in the front assembly area, but other wiring is present as well.",
+    "One black banner or vinyl fence covering occupies the left background with large white text and a social-media icon.",
+    "One roll of yellow and black measuring tape is on the ground near the crouching man (partially visible)."
+  ],
+  "visible_text": [
+    "DRIFT ASS",
+    "hkdrifta",
+    "[Instagram icon]",
+    "BIV",
+    "San Francisco MFG CO",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The open-frame vehicle is located center-right in the image; the seated driver is inside the vehicle facing right (out of frame), with the roll hoop and exposed front assembly forward of the seat.",
+    "The crouching man in a black T-shirt is at the vehicle's left-front (image center) looking toward the roll bar and front assembly; the man in the white T-shirt with glasses stands immediately left of him.",
+    "The woman with a surgical mask and camera stands behind the man in the white T-shirt, slightly left-of-center; the woman wearing a pink mask stands behind the crouching man nearer the center background.",
+    "The man in a green T-shirt holding a camera with a shotgun microphone stands behind and slightly to the right of the roll hoop, looking down toward the vehicle's cockpit area.",
+    "A person at the far right edge of the image is reaching over the vehicle toward the cockpit area; their torso and arm are cropped by the image edge.",
+    "A large black banner/vinyl fence runs along the left background, behind the standing group, with white lettering and a social-media icon; the ground is concrete with painted yellow parking or lane markings visible in the lower-left quadrant."
+  ],
+  "colours_and_materials": [
+    "The vehicle body panels visible are predominantly white with black structural tubes (likely metal roll cage) and exposed metallic components in the front assembly.",
+    "Several conspicuous orange insulated cables run in the front section of the vehicle.",
+    "A large black vinyl banner with white lettering is used as the background at left; the ground is grey concrete with yellow painted lines.",
+    "Clothing colours include a white T-shirt worn by a standing man at left, a black T-shirt worn by the crouching man, a green T-shirt on the camera operator, and pale/greenish T-shirt on the person at the right edge."
+  ],
+  "uncertainties": [
+    "Exact wording on the banner is partially cropped; the visible fragment reads 'DRIFT ASS' and a fragment 'hkdrifta' is visible below it; the full words may be longer or partially hidden.",
+    "Some printed text on shirts and the helmet are partially legible; 'BIV' appears on one white T-shirt and 'San Francisco MFG CO' appears on another shirt, but smaller labels and logos are unreadable and marked '[unreadable]'.",
+    "The number of orange cables is estimated from visibly distinct runs (three prominent cables) but additional wiring may be obscured by components and the image cropping.",
+    "The identity and exact types of the cameras cannot be determined from the image; I report only visible cameras and the microphone as photographed equipment.",
+    "The person at the far left is only partially visible (legs only) and may represent an additional individual not fully captured; counts reflect only clearly visible, individually distinguishable people.",
+    "No room name or number or interior location signage is visible; the scene appears outdoors with fencing and banners but a specific location cannot be determined from the image."
+  ],
+  "visual_facts": [
+    "Nine people are visibly present in the photographed scene: one partially visible person at the far left (only legs visible), one standing man in a white T-shirt and glasses at left-center, one woman behind him wearing a surgical mask and holding a camera, one crouching man in a black T-shirt near the vehicle, one woman in a white T-shirt and pink mask standing behind the crouching man, one young man in a black T-shirt standing behind the vehicle, one man in a green T-shirt holding a camera with a shotgun microphone, one person seated inside the open-frame vehicle wearing a white helmet and white clothing, and one person at the right edge of the image whose torso and arm are visible as they reach toward the vehicle.",
+    "One open-frame single-seat vehicle (race-type/experimental vehicle) occupies the center-right of the image; its roll hoop, exposed wiring and front assembly are visible.",
+    "One visible tire/wheel assembly is visible in the lower-left foreground of the vehicle (front left tire), partially cropped by the image edge.",
+    "One small rectangular action camera or monitor is mounted on the vehicle roll bar facing rearward (visible above the roll structure).",
+    "At least one DSLR or mirrorless camera is visible being held by the woman with a surgical mask (camera strap and body visible), and one camera with a shotgun microphone is being held by the man in a green T-shirt; these are present in the photographed scene (photographed equipment, not posters).",
+    "Several orange electrical or power cables are visible routed through the vehicle's front and center area; three prominent orange cables are visible in the front assembly area, but other wiring is present as well.",
+    "One black banner or vinyl fence covering occupies the left background with large white text and a social-media icon.",
+    "One roll of yellow and black measuring tape is on the ground near the crouching man (partially visible).",
+    "The vehicle body panels visible are predominantly white with black structural tubes (likely metal roll cage) and exposed metallic components in the front assembly.",
+    "Several conspicuous orange insulated cables run in the front section of the vehicle.",
+    "A large black vinyl banner with white lettering is used as the background at left; the ground is grey concrete with yellow painted lines.",
+    "Clothing colours include a white T-shirt worn by a standing man at left, a black T-shirt worn by the crouching man, a green T-shirt on the camera operator, and pale/greenish T-shirt on the person at the right edge."
+  ],
+  "id": "9799c527d1b6d958a3035810",
+  "sha256": "9938dd1d8155b06f0f5e2868e3c3ccb70bcc4bfd24c57aa8e0f2ab24e1da754b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:16:42.577092+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "4b8673f5eca82ebed0527b76db6821fb3f0b6cdab8affa3a1659d86f2c7fda24",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatgrNMeWrSNXJyH8GPB9uUKU3q3X",
+  "usage": {
+    "completion_tokens": 1504,
+    "prompt_tokens": 2266,
+    "total_tokens": 3770,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1143,
+      "engine_ttlt_ms": 11899,
+      "pre_inference_ms": 373,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1957,
+      "service_ttlt_ms": 12709,
+      "user_visible_ttft_ms": 1584
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Classroom presentation with projection screen and work tables",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 16 people are visible in the photographed scene; one person at the left front is standing and presenting while the remainder are seated or standing at tables toward the center and right. (Exact total may be higher behind visible heads.)",
+    "One person at the front is holding a handheld microphone.",
+    "One large projection screen is visible on the left wall showing a slide; a ceiling-mounted projector is visible near the center-top of the image projecting onto that screen.",
+    "Two ceiling-mounted projector housings or projectors are visible (one projecting toward the left screen and at least one other hanging nearer the image center/right).",
+    "Multiple long wooden-topped work tables are visible: four distinct large tables are clearly visible in the foreground and midground (one table in the immediate foreground, two central tables with people, and one table farther back).",
+    "Multiple stools are visible around the tables; at least 11 individual stools with round seats and metal legs are clearly distinguishable in the midground and foreground.",
+    "At least six laptop computers are visible on tables around the room (scattered across the central and right-side tables).",
+    "A row of locker units runs along the left wall beneath the projection screen; numerous locker doors are visible (individual count not determined).",
+    "Several hanging pendant fixtures or suspended cables are visible from the ceiling above the tables (multiple suspension points visible).",
+    "A coiled cable on the floor near the presenter is visible."
+  ],
+  "visible_text": [
+    "The Mini TV in Questic",
+    "LEARNING OUTCOMES"
+  ],
+  "spatial_relations": [
+    "The projection screen is mounted on the left wall; the presenter stands in front of the screen and slightly right of it, pointing toward the screen.",
+    "Long work tables run roughly parallel to the camera view from foreground to midground; people sit and stand around both sides of these tables.",
+    "A row of lockers runs along the left wall beneath the projection screen, extending from the foreground toward the back of the room.",
+    "Ceiling-mounted projectors and suspended cabling are located above the central tables; the projection equipment aligns with the left wall screen.",
+    "A glass-walled area or partition is visible in the background across the width of the room, behind the seated groups."
+  ],
+  "colours_and_materials": [
+    "The presenter is wearing a bright yellow hoodie.",
+    "Tables have light wood-coloured tops with pale/white supporting frames.",
+    "Stools have dark metal legs and appear to have brown or dark wooden round seats.",
+    "The floor is a smooth grey surface, likely polished concrete or similar.",
+    "Ceiling features exposed metallic ductwork and piping with white rectangular light panels."
+  ],
+  "uncertainties": [
+    "The exact room name or number is not visible in the image; location cannot be determined from the visible content.",
+    "The precise count of people is uncertain because some heads are partially obscured or behind others; the statement gives a conservative minimum of at least 16 visible people.",
+    "Smaller text on lockers and any labels on equipment are not legible from this view and could not be transcribed.",
+    "The slide heading appears as 'The Mini TV in Questic' in the image; it is uncertain whether 'Questic' is the intended word or a typographical/legibility issue.",
+    "There may be additional projectors or ceiling-mounted devices partly out of frame; only the visible projector housings are reported.",
+    "Exact counts of lockers and some stools are not provided because many are partially out of frame or occluded."
+  ],
+  "visual_facts": [
+    "At least 16 people are visible in the photographed scene; one person at the left front is standing and presenting while the remainder are seated or standing at tables toward the center and right. (Exact total may be higher behind visible heads.)",
+    "One person at the front is holding a handheld microphone.",
+    "One large projection screen is visible on the left wall showing a slide; a ceiling-mounted projector is visible near the center-top of the image projecting onto that screen.",
+    "Two ceiling-mounted projector housings or projectors are visible (one projecting toward the left screen and at least one other hanging nearer the image center/right).",
+    "Multiple long wooden-topped work tables are visible: four distinct large tables are clearly visible in the foreground and midground (one table in the immediate foreground, two central tables with people, and one table farther back).",
+    "Multiple stools are visible around the tables; at least 11 individual stools with round seats and metal legs are clearly distinguishable in the midground and foreground.",
+    "At least six laptop computers are visible on tables around the room (scattered across the central and right-side tables).",
+    "A row of locker units runs along the left wall beneath the projection screen; numerous locker doors are visible (individual count not determined).",
+    "Several hanging pendant fixtures or suspended cables are visible from the ceiling above the tables (multiple suspension points visible).",
+    "A coiled cable on the floor near the presenter is visible.",
+    "The presenter is wearing a bright yellow hoodie.",
+    "Tables have light wood-coloured tops with pale/white supporting frames.",
+    "Stools have dark metal legs and appear to have brown or dark wooden round seats.",
+    "The floor is a smooth grey surface, likely polished concrete or similar.",
+    "Ceiling features exposed metallic ductwork and piping with white rectangular light panels."
+  ],
+  "id": "cd28d1621da733d8b31bb8bf",
+  "sha256": "daeb36465c6c284e43b0c626b9f01c42e6f4f95a49221c00e0fb09ee3830a4ce",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:05:08.414795+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "9d1b0c84ec29b00cf3827880ef259a0f430e70e111ccb17461e1721fdfe0c486",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauRlsCkfC5ybV8DNxhk0UP4HsmEv",
+  "usage": {
+    "completion_tokens": 1250,
+    "prompt_tokens": 2266,
+    "total_tokens": 3516,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 388,
+      "engine_ttlt_ms": 9958,
+      "pre_inference_ms": 358,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 839,
+      "service_ttlt_ms": 10405,
+      "user_visible_ttft_ms": 481
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

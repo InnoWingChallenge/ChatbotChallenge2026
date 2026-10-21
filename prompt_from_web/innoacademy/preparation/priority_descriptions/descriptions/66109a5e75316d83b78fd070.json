@@ -1,0 +1,112 @@
+{
+  "title": "Laboratory workspace with hygiene sign, sanitizer bottles and acrylic divider",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One freestanding sign in a clear acrylic A4 holder placed on the near table (portrait orientation).",
+    "One white perforated plastic basket on the near table containing two bottles: one clear pump bottle and one clear spray bottle.",
+    "Two metal acrylic divider feet are visible at the left and right edges of the near divider panel; the divider panel itself (transparent) spans the near table and extends upward.",
+    "Multiple tall rectangular tables are visible across the room; an exact count for all tables in the scene cannot be determined from this single view.",
+    "Multiple round-top stools with metal legs are visible around and between tables; an exact stool count for the entire room cannot be determined from this image.",
+    "At least two small tabletop signs or framed notices are visible on more distant tables (one near center background, one further right), but their text is not legible from this view.",
+    "Windows and a long counter with storage cubbies or cabinets beneath are visible along the far wall behind the tables."
+  ],
+  "visible_text": [
+    "PLEASE STAY VIGILANT",
+    "MAXIMUM 4 PEOPLE AT ONE TIME",
+    "Max 4",
+    "KEEP 1.5M SOCIAL DISTANCING",
+    "PLEASE WEAR A FACE MASK",
+    "CLEAN YOUR WORKPLACE AFTER USE",
+    "THANK YOU",
+    "1.5m",
+    "1.5m",
+    "procuro"
+  ],
+  "spatial_relations": [
+    "The clear acrylic divider stands vertically on the near table with one metal foot visible at the left near edge of the image and another divider support visible toward the center-right; the sign in the acrylic holder sits in front of the divider on the same near table.",
+    "The white basket with two bottles is immediately to the right of the freestanding sign on the near table.",
+    "Long rectangular tables run roughly left-to-right across the image behind the near table; stools are positioned around and tucked under those tables.",
+    "A counter with storage cubbies or cabinet doors runs along the far wall beneath the windows; several tables are arranged between that counter and the foreground tables.",
+    "Small framed notices or signs are placed on some of the more distant tables (one near the image center, another to the right)."
+  ],
+  "colours_and_materials": [
+    "The near worktable surface is a light beige or pale wood-colour laminate.",
+    "The freestanding sign is printed on green-and-white paper inside a transparent acrylic holder.",
+    "The divider is transparent (clear) acrylic or similar plastic with metal support feet that appear metallic/silver.",
+    "The basket is white perforated plastic; the pump and spray bottles are clear plastic with a black pump and black spray trigger respectively.",
+    "Stool seats appear dark (black or very dark brown) with black metal legs; the long tables have light-coloured tops similar to the near table."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible anywhere in the image; location cannot be determined from image alone.",
+    "The exact total counts of tables and stools across the whole room cannot be determined from this single perspective; only that multiple are present.",
+    "The small text on distant tabletop notices is not legible from this view and could not be transcribed.",
+    "The legibility of the label on the pump bottle is low; it appears as 'procuro' in the image but that reading is uncertain.",
+    "Some printed elements of the green poster are small and partially obscured by reflections; individual icon captions smaller than the shown headings may be unreadable."
+  ],
+  "visual_facts": [
+    "One freestanding sign in a clear acrylic A4 holder placed on the near table (portrait orientation).",
+    "One white perforated plastic basket on the near table containing two bottles: one clear pump bottle and one clear spray bottle.",
+    "Two metal acrylic divider feet are visible at the left and right edges of the near divider panel; the divider panel itself (transparent) spans the near table and extends upward.",
+    "Multiple tall rectangular tables are visible across the room; an exact count for all tables in the scene cannot be determined from this single view.",
+    "Multiple round-top stools with metal legs are visible around and between tables; an exact stool count for the entire room cannot be determined from this image.",
+    "At least two small tabletop signs or framed notices are visible on more distant tables (one near center background, one further right), but their text is not legible from this view.",
+    "Windows and a long counter with storage cubbies or cabinets beneath are visible along the far wall behind the tables.",
+    "The near worktable surface is a light beige or pale wood-colour laminate.",
+    "The freestanding sign is printed on green-and-white paper inside a transparent acrylic holder.",
+    "The divider is transparent (clear) acrylic or similar plastic with metal support feet that appear metallic/silver.",
+    "The basket is white perforated plastic; the pump and spray bottles are clear plastic with a black pump and black spray trigger respectively.",
+    "Stool seats appear dark (black or very dark brown) with black metal legs; the long tables have light-coloured tops similar to the near table."
+  ],
+  "id": "66109a5e75316d83b78fd070",
+  "sha256": "8745ab6ff050c5e81c680db0cc9364aaaeb7eb8d8d03e219d46d89c090e407b8",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:11:56.193076+00:00",
+  "input_resolution": [
+    2400,
+    1079
+  ],
+  "input_sha256": "816d602d8dd145e2f36a47cde1228f474ee3cc1bbe37b37b5d301c63704f07bf",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatcGd8cqlqkhihrbMfXCCjZtXeB3",
+  "usage": {
+    "completion_tokens": 1188,
+    "prompt_tokens": 2756,
+    "total_tokens": 3944,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1274,
+      "engine_ttlt_ms": 10131,
+      "pre_inference_ms": 437,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2264,
+      "service_ttlt_ms": 11106,
+      "user_visible_ttft_ms": 1828
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

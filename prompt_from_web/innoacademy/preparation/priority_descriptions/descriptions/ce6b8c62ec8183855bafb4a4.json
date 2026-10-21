@@ -1,0 +1,115 @@
+{
+  "title": "Classroom presentation with projector screen and presenter at front",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 16 people are visible: one standing presenter at the front right of the projected screen and at least 15 seated audience members in rows facing the screen (several heads are partially obscured so the minimum visible count is stated).",
+    "One wall-projection screen is visible at the front center of the room with a projected slide displayed on it.",
+    "One person (the presenter) is holding a handheld microphone.",
+    "One teacher/AV desk is visible to the right of the screen with one laptop and one desktop monitor on it (monitor on the desk is visible; laptop is partially visible).",
+    "One wall-mounted rectangular device on the right wall that appears to be a digital clock or display (showing illuminated segments) is visible.",
+    "Three ceiling-mounted oscillating fans are visible across the ceiling (two toward the front and one toward the rear of the visible area).",
+    "One ceiling-mounted projector is visible centered above the projection screen.",
+    "Multiple chairs with attached desks or tablet-arms are visible: at least three orange tablet-arm desks are visible in the foreground and at least a dozen wooden chairs with backs are visible among the seated audience (some are partially obscured).",
+    "One clear plastic water bottle is on the desk at the front near the presenter; one disposable cup with a straw is visible on a foreground desk."
+  ],
+  "visible_text": [
+    "The IBL-CAMBRIDGE INNOVATION Challenge",
+    "We need YOU!!!",
+    "to tackle ANY disease you choose",
+    "$5-2 billion USD",
+    "MAJOR CHALLENGES:",
+    "Cancer",
+    "Brain diseases: Alzheimer's",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The projection screen is centered on the front wall; the presenter stands to the right of the screen from the image viewpoint and is pointing toward the screen.",
+    "The audience rows of chairs face the projection screen; the photographed audience fills the center and left parts of the room from the camera perspective.",
+    "A desk with computer monitor and laptop sits to the right of the screen against the front wall; the presenter stands between the screen and that desk.",
+    "The ceiling-mounted projector is located roughly in the center of the room above the front seating area and directly in front of the screen.",
+    "Three ceiling fans are spaced along the ceiling line roughly parallel to the screen and seating rows.",
+    "A wall-mounted rectangular illuminated display/clock is positioned on the right-side wall above and slightly behind the desk with the monitor."
+  ],
+  "colours_and_materials": [
+    "Walls are white and the ceiling is white with fluorescent light panels.",
+    "Chairs with backs appear to be brown wood or wood-colour; several foreground tablet-arm desks are bright orange plastic or laminate.",
+    "Ceiling fans are white plastic; the projection screen has a white display area.",
+    "The floor appears to be grey tile.",
+    "The desk at the front appears to be dark-coloured (black or dark grey) material."
+  ],
+  "uncertainties": [
+    "Exact total number of people is uncertain because some heads are partially obscured by others and by chair backs; I state a visible minimum of 16 people.",
+    "Several lines of text on the projected slide are partially obscured or too small to read clearly. I transcribed legible headings and short lines; other slide lines are marked as [unreadable].",
+    "The numeric amount on the slide appears as \"$5-2 billion USD\" in the image; it is unclear whether the middle character is a dot, a dash or another symbol and the intended value might differ.",
+    "The illuminated rectangular device on the right wall resembles a digital clock or display but its exact label or purpose is unreadable.",
+    "Some equipment labels, small stickers or text on chairs and devices are present but not legible at this resolution; exact model names or small nameplates could not be transcribed."
+  ],
+  "visual_facts": [
+    "At least 16 people are visible: one standing presenter at the front right of the projected screen and at least 15 seated audience members in rows facing the screen (several heads are partially obscured so the minimum visible count is stated).",
+    "One wall-projection screen is visible at the front center of the room with a projected slide displayed on it.",
+    "One person (the presenter) is holding a handheld microphone.",
+    "One teacher/AV desk is visible to the right of the screen with one laptop and one desktop monitor on it (monitor on the desk is visible; laptop is partially visible).",
+    "One wall-mounted rectangular device on the right wall that appears to be a digital clock or display (showing illuminated segments) is visible.",
+    "Three ceiling-mounted oscillating fans are visible across the ceiling (two toward the front and one toward the rear of the visible area).",
+    "One ceiling-mounted projector is visible centered above the projection screen.",
+    "Multiple chairs with attached desks or tablet-arms are visible: at least three orange tablet-arm desks are visible in the foreground and at least a dozen wooden chairs with backs are visible among the seated audience (some are partially obscured).",
+    "One clear plastic water bottle is on the desk at the front near the presenter; one disposable cup with a straw is visible on a foreground desk.",
+    "Walls are white and the ceiling is white with fluorescent light panels.",
+    "Chairs with backs appear to be brown wood or wood-colour; several foreground tablet-arm desks are bright orange plastic or laminate.",
+    "Ceiling fans are white plastic; the projection screen has a white display area.",
+    "The floor appears to be grey tile.",
+    "The desk at the front appears to be dark-coloured (black or dark grey) material."
+  ],
+  "id": "ce6b8c62ec8183855bafb4a4",
+  "sha256": "b13b46a76a76d6399cd67b80405b4bda7201fb7219adb499d3ce5aaf953dc7ec",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:05:21.814138+00:00",
+  "input_resolution": [
+    1024,
+    683
+  ],
+  "input_sha256": "691b25d5a022298b9a42fe09388a776a7dc2ac698a5fbac99246855c28d75a10",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauRw89pTC6BzFgAfkrsDgp9bqp6j",
+  "usage": {
+    "completion_tokens": 1451,
+    "prompt_tokens": 2045,
+    "total_tokens": 3496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 549,
+      "engine_ttlt_ms": 11762,
+      "pre_inference_ms": 122,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1099,
+      "service_ttlt_ms": 12307,
+      "user_visible_ttft_ms": 977
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Classroom or workshop space with projected 'Introduction to Web3.0' slides and groups at high tables",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Multiple people are present, seated and standing around tables; an exact total cannot be determined from the image due to partial occlusion and overlap, but at least 26 individual people are visually distinguishable.",
+    "Two large projected screens or projection areas are visible at the front of the room (left-of-center and center-right of the image).",
+    "At least four laptop computers are in use on the near tables (two clearly visible on the table in the foreground, at least two more visible on surrounding tables).",
+    "At least six high tables (workbench-style with light wood tops and white metal legs) are visible across the scene; some tables extend out of frame so total count in the room cannot be established from this view.",
+    "Many high stools are present; at least 18 individual stools are visibly occupied or unoccupied in the captured area.",
+    "Lighting and ceiling fixtures are visible as multiple rectangular overhead light panels and exposed ceiling infrastructure (ducting, piping, cable trays) across the entire ceiling area shown.",
+    "Several backpacks and bags are visible near seated people; these are transient personal items rather than fixed equipment."
+  ],
+  "visible_text": [
+    "Introduction to Web3.0"
+  ],
+  "spatial_relations": [
+    "Two projection areas/screens are located along the far wall: one toward the left side of the image and another nearer the center; both show the same slide content.",
+    "Groups of people are seated around high tables positioned roughly in rows running from the foreground toward the back of the room.",
+    "The photographer viewpoint is from behind one central table in the foreground; people at that table face away from the camera toward the projected screens.",
+    "Stools are placed around the perimeter of each high table; some stools are occupied and some are not.",
+    "Ceiling-mounted lights and exposed building services run across the entire ceiling above the tables, with cables and fixtures descending in places over tables."
+  ],
+  "colours_and_materials": [
+    "Floor is a smooth, light grey surface.",
+    "Tables have light wood-coloured tops with white metal legs/frames.",
+    "Stools have dark (black or very dark brown) seats and black metal legs.",
+    "Ceiling infrastructure and exposed ducts are predominantly grey; overhead light panels are white and provide bright illumination.",
+    "People wear a variety of clothing colours; several disposable white face masks are visible on many people."
+  ],
+  "uncertainties": [
+    "No room name, room number or other location sign is legible in the image — location is therefore unknown from the image.",
+    "Exact counts for people, stools and laptops are limited by partial occlusion and areas that extend outside the photograph; I report minimum visible quantities where stated.",
+    "Small text on the projected slides beyond the heading 'Introduction to Web3.0' is not legible from this image and therefore transcribed as unreadable.",
+    "Any logos or small labels on clothing, laptops or equipment are not clearly legible; for example jacket text or device brand names cannot be reliably transcribed from this view."
+  ],
+  "visual_facts": [
+    "Multiple people are present, seated and standing around tables; an exact total cannot be determined from the image due to partial occlusion and overlap, but at least 26 individual people are visually distinguishable.",
+    "Two large projected screens or projection areas are visible at the front of the room (left-of-center and center-right of the image).",
+    "At least four laptop computers are in use on the near tables (two clearly visible on the table in the foreground, at least two more visible on surrounding tables).",
+    "At least six high tables (workbench-style with light wood tops and white metal legs) are visible across the scene; some tables extend out of frame so total count in the room cannot be established from this view.",
+    "Many high stools are present; at least 18 individual stools are visibly occupied or unoccupied in the captured area.",
+    "Lighting and ceiling fixtures are visible as multiple rectangular overhead light panels and exposed ceiling infrastructure (ducting, piping, cable trays) across the entire ceiling area shown.",
+    "Several backpacks and bags are visible near seated people; these are transient personal items rather than fixed equipment.",
+    "Floor is a smooth, light grey surface.",
+    "Tables have light wood-coloured tops with white metal legs/frames.",
+    "Stools have dark (black or very dark brown) seats and black metal legs.",
+    "Ceiling infrastructure and exposed ducts are predominantly grey; overhead light panels are white and provide bright illumination.",
+    "People wear a variety of clothing colours; several disposable white face masks are visible on many people."
+  ],
+  "id": "609c5eb44ff9bb6e6a640152",
+  "sha256": "c6ed0ef8340464132b8c91496276381c335c4252f7f8b5b1949dabab39a740c7",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:42:23.992324+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "dd2af143bac70430388bdcd66f17fb07f03a2ade9fca6f7c6dac55a1e78d9476",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau5nEEcN0aDc72WzEZOxhSVOuDVf",
+  "usage": {
+    "completion_tokens": 1084,
+    "prompt_tokens": 2122,
+    "total_tokens": 3206,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 356,
+      "engine_ttlt_ms": 8055,
+      "pre_inference_ms": 345,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 794,
+      "service_ttlt_ms": 8484,
+      "user_visible_ttft_ms": 449
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

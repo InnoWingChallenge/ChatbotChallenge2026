@@ -1,0 +1,118 @@
+{
+  "title": "Workshop space with open-wheel race chassis, workbench and racing seat rig",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One open-wheel single-seater chassis / body shell is visible on the right side of the image, supported on red jack stands and a wrapped tyre underneath the rear; the body has an exposed nose and cockpit area.",
+    "One wrapped tyre or wheel bundle is visible beneath the rear of the chassis (wrapped in transparent plastic).",
+    "Two small round stools are visible near the chassis on the right (one immediately adjacent to the nose, one beside the cockpit area).",
+    "Two red jack stands are visible supporting parts of the chassis (one under the chassis near the rear wheel area and one nearer the cockpit), both partly obscured by other objects.",
+    "One tubular black roll hoop or support structure is attached to the chassis behind the cockpit.",
+    "One shelving unit or mobile rack with multiple shelves is visible behind the green banner, containing boxes, small containers and rolled material (count of individual boxes not given because some are obscured).",
+    "One freestanding vertical teardrop banner is visible near the center of the image.",
+    "One cardboard box is visible on the floor in front of the shelving unit.",
+    "One red tool chest or drawer cabinet is visible behind the shelving unit, to the right of the banner.",
+    "One racing-style simulator or gaming seat/rig is visible in the left foreground; the back of the seat has visible printed lettering and two red harness-style cutouts.",
+    "Two computer monitors are visible on a desk to the left of the simulator seat; both are mounted on the desk and face away from the camera.",
+    "Multiple small items, storage containers and boxes are visible across the shelving and desks, but many are partially obscured so individual counts are not provided."
+  ],
+  "visible_text": [
+    "FGT LITE"
+  ],
+  "spatial_relations": [
+    "The open-wheel chassis is located on the right half of the image and sits on a textured carpeted mat area that is distinct from the smooth pale floor on the left.",
+    "Two round stools are positioned by the chassis: one at the nose (front-right of image) and one closer to the cockpit (right-center).",
+    "The wrapped tyre bundle is directly under the rear of the chassis and slightly forward of a purple folding chair that is positioned next to the cockpit area.",
+    "A shelving unit is positioned behind and slightly left of the chassis, with a freestanding green teardrop banner placed in front of that shelving unit and roughly centered in the image.",
+    "A red tool chest is visible behind the shelving unit toward the rear center-right of the scene.",
+    "On the left side of the image a desk with two monitors and the racing-seat simulator occupies the foreground; the simulator faces away from the camera toward the desk/monitors.",
+    "A large frosted glass partition or window runs along the rear-right wall behind the chassis, extending from near floor level to ceiling height and providing diffuse light from outside."
+  ],
+  "colours_and_materials": [
+    "The floor on the left appears to be a smooth pale grey or off-white material; a rectangular area of beige/brown carpet tiles is laid underneath the chassis and stools.",
+    "The chassis shell has a dark, possibly composite or fibreglass appearance with a matte/rough texture and a bright green painted stripe along the top of the cockpit area and a white section on the top-most surface.",
+    "The freestanding banner is green with white lettering (specific letters not fully legible).",
+    "The racing seat is predominantly black with red harness cutouts/accents and white printed text on the seat back.",
+    "A red metal tool chest is visible; shelving contains cardboard boxes and clear or translucent plastic storage containers."
+  ],
+  "uncertainties": [
+    "Location is unknown from the image because no room name or number is visible.",
+    "The teardrop banner text is not fully legible in the image; characters on the banner could not be confidently transcribed and therefore were not included in visible_text.",
+    "Small labels, stickers or brand names on wheels, tyres, boxes and some boxes on the shelving are not legible in this view and were not transcribed.",
+    "Counts for many small items on shelves and desks are not provided because they are partially obscured or overlapped; stated counts are restricted to clearly distinguishable objects.",
+    "The exact wording on the small wall signs near the rear left (near the window) is unreadable in this image.",
+    "The single transcription 'FGT LITE' is taken from the visible printing on the back of the racing-style seat; other printed text in the scene could not be read with confidence."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One open-wheel single-seater chassis / body shell is visible on the right side of the image, supported on red jack stands and a wrapped tyre underneath the rear; the body has an exposed nose and cockpit area.",
+    "One wrapped tyre or wheel bundle is visible beneath the rear of the chassis (wrapped in transparent plastic).",
+    "Two small round stools are visible near the chassis on the right (one immediately adjacent to the nose, one beside the cockpit area).",
+    "Two red jack stands are visible supporting parts of the chassis (one under the chassis near the rear wheel area and one nearer the cockpit), both partly obscured by other objects.",
+    "One tubular black roll hoop or support structure is attached to the chassis behind the cockpit.",
+    "One shelving unit or mobile rack with multiple shelves is visible behind the green banner, containing boxes, small containers and rolled material (count of individual boxes not given because some are obscured).",
+    "One freestanding vertical teardrop banner is visible near the center of the image.",
+    "One cardboard box is visible on the floor in front of the shelving unit.",
+    "One red tool chest or drawer cabinet is visible behind the shelving unit, to the right of the banner.",
+    "One racing-style simulator or gaming seat/rig is visible in the left foreground; the back of the seat has visible printed lettering and two red harness-style cutouts.",
+    "Two computer monitors are visible on a desk to the left of the simulator seat; both are mounted on the desk and face away from the camera.",
+    "Multiple small items, storage containers and boxes are visible across the shelving and desks, but many are partially obscured so individual counts are not provided.",
+    "The floor on the left appears to be a smooth pale grey or off-white material; a rectangular area of beige/brown carpet tiles is laid underneath the chassis and stools.",
+    "The chassis shell has a dark, possibly composite or fibreglass appearance with a matte/rough texture and a bright green painted stripe along the top of the cockpit area and a white section on the top-most surface.",
+    "The freestanding banner is green with white lettering (specific letters not fully legible).",
+    "The racing seat is predominantly black with red harness cutouts/accents and white printed text on the seat back.",
+    "A red metal tool chest is visible; shelving contains cardboard boxes and clear or translucent plastic storage containers."
+  ],
+  "id": "06bc3ad4ac61d98b1f10172a",
+  "sha256": "975bf26e7f9ed08eff50959338a79d2a77183148d23165506ee345cbcc2acbf2",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:26:36.933162+00:00",
+  "input_resolution": [
+    2400,
+    1795
+  ],
+  "input_sha256": "0bf80505795f7ee29bccee8efbb463f82b5e3ba7e6163de92af0fe7abbcf5c6d",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatqQRFeUrIusNXtutPM39o52aN0s",
+  "usage": {
+    "completion_tokens": 1473,
+    "prompt_tokens": 2151,
+    "total_tokens": 3624,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1127,
+      "engine_ttlt_ms": 12643,
+      "pre_inference_ms": 445,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2107,
+      "service_ttlt_ms": 13617,
+      "user_visible_ttft_ms": 1662
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

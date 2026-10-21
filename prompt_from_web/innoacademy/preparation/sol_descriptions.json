@@ -1,0 +1,162 @@
+{
+  "3024e716705c54d7605f5e98": {
+    "title": "HKU DBF Team poster",
+    "type": "poster with aircraft photograph",
+    "location": "unknown",
+    "paragraphs": [
+      "The photographed outdoor site has no visible place name or room number, so its location is unknown from the image. The upper-right printed institutional marks read “Tam Wing Fan Innovation Wing” and “FACULTY OF ENGINEERING”; they do not establish where the runway photograph was captured.",
+      "One model fixed-wing aircraft occupies the runway foreground, with a long yellow translucent-looking wing edged pink/red, exposed lattice fuselage, front propeller, two visible wheels, and tail. No people are visible. Trees and hills stretch behind the tarmac. Large text reads “HKUDBF”, “HKU DBF TEAM”, and “[ we Design · we Build · we Fly ]”.",
+      "The lower credits read “BMFA TEAM 1” followed by “Wong Yui, Hui Shing Wai, Chan Ting Sum, Kwan Cheuk Chi, Lau Ka Kit, Soo Hau Yin”; “BMFA TEAM 2” followed by “LAW Tsun Hei, KWOK Wai Lam, CHENG Kai Kwong, LU Tse Hau, LIU Wai Ching, LU Meichai”; and “supervised by Dr. CK Chan”. AIAA and BMFA logos occupy the pale bottom strip; the AIAA slogan reads “SHAPING THE FUTURE OF AEROSPACE”. The aircraft lies diagonally across a dark paved strip marked with red, white and yellow lines."
+    ],
+    "uncertainties": [
+      "Tiny lettering on aircraft components is not legible; no photograph capture place or date is printed."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "f73173354e5f6a8b418c9a70": {
+    "title": "IOP CONTROLLABLE GOGGLES poster",
+    "type": "project poster with photographs",
+    "location": "unknown",
+    "paragraphs": [
+      "No room name or number is visible, so the photograph location is unknown. The top marks read “Faculty of Engineering” and “THE UNIVERSITY OF HONG KONG”. The poster title is “IOP CONTROLLABLE GOGGLES”.",
+      "The main photograph shows one seated person wearing white frame-like goggles and a pink face mask; a hand holds a measurement instrument at the right eye. An inset at the upper left shows one separate view of the white-and-black goggle device laid flat. These are two views within one poster, not two people. The poster lists “Increase IOP by 5mmHg”, “Adjustable Tightness”, “Variable Sizes”, and “Clinical Tested Succesful”.",
+      "A paragraph says glaucoma is the “2nd leading cause of irreversible blindness”, describes a TPU gadget built using “3D-printing”, and says it showed successful results in clinical testing. The lower credits read “Supervisor: Dr. Match Ko” and “Group Members: Cheung King Ting, He Wai Yuen, Lai Hiu Yu, Louie Yan”. White text overlays a darkened left-side photograph, while the main subject occupies the brighter right half."
+    ],
+    "uncertainties": [
+      "The seated person is not identified by the printed group-member list."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "3197741a8a0745ab07406f6b": {
+    "title": "ROBOTA GO-FIGHTING SPEED poster",
+    "type": "event poster",
+    "location": "unknown",
+    "paragraphs": [
+      "No event venue or room number appears, so location is unknown from the poster. Large white headings read “ROBOTA”, “GO-FIGHTING”, and outlined “SPEED”; a red heading on a white band reads “SOCCER ROBOT SHOW”.",
+      "A photographed wood-coloured robot with two large round sensor-like fronts fills the lower centre, with two curved appendages reaching downward. A small rendered soccer-robot arena appears on the right; racing-driver and car illustrations occupy the top-left and bottom-right corners. These graphics do not show additional physical robots at an event. Diagonal white text asks “Do you want to have your own robot?”.",
+      "The lower black band reads “Date 11.24”, “Time 1:30pm”, and “Come and join us!”. A QR code at lower left is paired with “scan for more details”. The vivid green background, black band, white lettering, yellow-brown robot enclosure, and purple rails in the rendering separate the poster sections."
+    ],
+    "uncertainties": [
+      "The poster prints 11.24 without a year or month name; the source filename is not evidence for those details."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "75a2bf1d64da73c23786b0f2": {
+    "title": "ROBOT ARM CHALLENGE SPRING 2026 Season poster",
+    "type": "event poster",
+    "location": "Brainstorming Area, Tam Wing Fan Innovation Wing One",
+    "paragraphs": [
+      "The printed venue for “Challenge briefing & Sharing by former winners” is “Brainstorming Area, Tam Wing Fan Innovation Wing One”. This is an advertised event venue, not a photograph capture location. There are no people or physical robot arms in the poster; its background is a green watercolor-style mountain illustration.",
+      "The main wording reads “ROBOT ARM CHALLENGE” and “SPRING 2026 Season”. Two vertical Chinese columns read, from top to bottom, “誰與爭鋒” on the left and “揮臂探物” on the right. Beside them, English lines read “Swing into the bin”, “Sort the Chaos”, and “Who Will Vie for the Throne?”. Top marks include “Tam Wing Fan Innovation Wing”, “FACULTY OF ENGINEERING”, and “Innovation Academy”.",
+      "The briefing time is printed “12:00 PM, Feb. 13, 2026”. The lower-left “Final Challenge” line reads “Mar. 18, Apr. 1 & 15, 2026”. Two QR codes sit side by side at lower right, labelled “More details” and “Register now!”. Small upper-left text says the activity is supported by “Tam Wing Fan Innovation Fund and Philomathia Foundation Innovation Fund”."
+    ],
+    "uncertainties": [
+      "Printed dates do not establish current status."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "83865e84cfae48a6dd2c2cd9": {
+    "title": "ROBOT ARM CHALLENGE Workshop 2 of 3 poster",
+    "type": "event poster",
+    "location": "Makerspace A, Tam Wing Fan Innovation Wing One",
+    "paragraphs": [
+      "The printed workshop venue is “Makerspace A, Tam Wing Fan Innovation Wing One”; this is an event venue, not a photograph capture location. The poster contains no photographed participants or robot arms, only pale purple watercolor-style background shapes.",
+      "It reads “ROBOT ARM CHALLENGE”, “SPRING 2026 Season”, “Workshop 2 of 3”, and “Hand-Eye Calibration – Coordinate the robot and camera”. The workshop time is “3:00-5:00 PM, Mar. 4, 2026”. Upper marks read “Tam Wing Fan Innovation Wing”, “FACULTY OF ENGINEERING”, and “Innovation Academy”.",
+      "Lower text repeats “Swing into the bin”, “Sort the Chaos”, and “Who Will Vie for the Throne?” beside stylized vertical Chinese characters. “Final Challenge” dates are printed “Mar. 18-19; Apr. 1-2; Apr. 15-16, 2026”. Two QR codes on the lower right are labelled “More details” and “Register now!”. Small text says the activity is supported by Tam Wing Fan Innovation Fund and Philomathia Foundation Innovation Fund."
+    ],
+    "uncertainties": [
+      "Stylized Chinese characters are not transcribed with confidence. Printed dates are event claims, not proof of present schedule."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "8f4f08ec97bb128ebb2c9448": {
+    "title": "RAI: DOGGI-E poster",
+    "type": "technical project poster",
+    "location": "unknown",
+    "paragraphs": [
+      "No photographed room name, room number, or event venue is given, so location is unknown from the image. The bottom title reads “RAI: DOGGI-E” and “BREED HKU's First Quadruped Miracle”, alongside “Faculty of Engineering” and “THE UNIVERSITY OF HONG KONG”.",
+      "The poster shows a small white quadruped robot on a table in a top-left inset and a blue-bodied quadruped prototype across the central background. Lower panels show another robot photograph, a phone controller screenshot, a simulation screenshot, a green printed component, and a grey CAD leg rendering; they are separate views rather than a count of robots in one room. The sections are dark blue with yellow headings and white technical copy.",
+      "Headings include “ADVANTAGES OF DOGGIE”, “MANUFACTURING”, “IMPLEMENTATION OF IOT”, and “FEATURES OF CURRENT PROTOTYPE”. The manufacturing text claims “4 legs, each of 3 limbs and 3 joints”, “12 Goolsky DSSERVO DS3218MG 20kg Metal Gear Digital Steering Servos”, and a prototype weighing “1kg”. Feature labels read “WALKING, SITTING, STRETCHING”, “REMOTE APP CONTROL”, and “REAL-TIME USER FEEDBACK”. Contact text reads “breedhku@gmail.com”, “@breedhku”, and “6556-0860”."
+    ],
+    "uncertainties": [
+      "Dense technical paragraphs and small embedded screenshots are not fully transcribed; the poster's specifications are printed claims, not visually measured properties."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "dce95cf4211dc0ebcb0bdd96": {
+    "title": "Unleashing the Power of AI and Robots recruitment workshop",
+    "type": "event poster with illustration",
+    "location": "Brainstorming Area, Tam Wing Fan Innovation Wing One",
+    "paragraphs": [
+      "The blue information box prints the workshop venue as “Brainstorming Area, Tam Wing Fan Innovation Wing One”. This is the advertised event venue, not a capture location. On the right, a rendered humanoid robot stands beside a seated child-like figure in a flower-filled interior; the figures are illustrations, not photographed attendees.",
+      "The poster reads “Member Recruitment Workshop by HKU AI for Smart Robotics Team” and “Unleashing the Power of AI and Robots”. It invites readers to “Come and learn more about our project!” and prints “Date: January 30, 2024 (Tuesday)” and “Time: 1:00-2:00pm”. A QR code at left is labelled “Details and Registration”.",
+      "A blue footer reads “Visit the webpage for more recruitment details.” and asks for a CV to “hkuai4robot@gmail.com” with email subject “[AI for robots team - design/electrical/control/vision/speech - Your name].” The large blue title spans the upper middle; white background and pale warm illustration contrast with the blue event and footer panels."
+    ],
+    "uncertainties": [
+      "The printed weekday/date pairing is preserved as printed and not verified against a calendar. The illustration does not document a real room."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "1caf4c932d22c001584dcee3": {
+    "title": "The 9th Engineering Inno Show call for student projects",
+    "type": "event poster",
+    "location": "Tam Wing Fan Innovation Wing One",
+    "paragraphs": [
+      "The poster prints “Tam Wing Fan Innovation Wing One” as the Engineering Inno Show venue. This is an advertised venue rather than the location of the poster's composite cityscape. There are no people shown as attendees; a hand beneath a tablet-like graphic and a skyline are promotional artwork.",
+      "The main text reads “The 9th Engineering Inno Show”, “TRANSFORM IMAGINATION INTO REALITY”, and “Call for Student Projects”. It prints “Registration Deadline: 12:00 noon, April 17, 2024 (Wed)”. A QR code at right is labelled “Project Registration”.",
+      "The right-hand panel explains the show as a showcase carnival where undergraduates illustrate and demonstrate innovative design projects “on April 26, 2024 (Fri) at 2-5pm at Tam Wing Fan Innovation Wing One.” Another QR code occupies this panel. Left-side benefits mention an “Inno Show Award” for support to participate in international competitions, and advice from peers and academic staff. The blue night skyline, red-and-white large type, and orange accents form the visual hierarchy."
+    ],
+    "uncertainties": [
+      "QR targets are not inferred from the graphic; printed dates do not prove current status."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "0450fb0141500e55757e98e7": {
+    "title": "The Library game project poster",
+    "type": "student project poster with game screenshots",
+    "location": "unknown",
+    "paragraphs": [
+      "No real-world room name or project display venue is visible, so physical location is unknown from the image. “The Library” is the title and fictional game setting, not a photographed HKU room. Top text reads “COMP3329 Computer Game Design and Programming”, “THE UNIVERSITY OF HONG KONG”, and “DEPARTMENT OF COMPUTER SCIENCE”; “Students:” appears without legible names.",
+      "The “Introduction:” calls The Library a “horror/stealth game” with immersive 3D graphics. It says the player must dodge obstacles while chased by a monster, receives three power ups—restore sanity, speed gain and invisibility—and aims to obtain “4 out of the 7 hidden keys” before escaping through an exit door. It states the game was developed using the “Unity Game Engine”.",
+      "Under “Screenshots:” five game screenshots show repeated views of a back-facing avatar in white-tiled corridors or a dark library with bookshelves, tables, keys, and a monster-like figure in one panel. These are repeated views of one game world, not five physical rooms or five people. Small screen overlay text includes “You need 3 more ... to escape.” in one panel; some other screen messages are cropped or indistinct. Pastel geometric shapes trim the white poster."
+    ],
+    "uncertainties": [
+      "Screenshot overlay text is partly cropped or too small for complete transcription; student names are not visible."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "204f6b406f14c74f78571aac": {
+    "title": "TOGGLE adhesive Wi-Fi smart wall switch robot poster",
+    "type": "technical project poster",
+    "location": "unknown",
+    "paragraphs": [
+      "No real-world room or event venue is identified, so location is unknown from the image. The top reads “TOGGLE”, “ADHESIVE WI-FI SMART WALL SWITCH ROBOT”, “Student: Shoyu Kaneko, Hanson Chan”, and “Supervisor: Prof. KS Lui”, with a “powered by amazon web services” mark.",
+      "A blue gradient poster is divided into left “MARKET GAP” and “OUTCOME” boxes and a taller right “METHODOLOGY” box. Product photos and diagrams show wall switches, a small black cylindrical actuator, a switch-mounted device, circuit boards, a phone app screen, and mechanism diagrams. These are separate examples or views; no people are pictured in a shared scene. The market section labels “#1 Smart Feature”, “#2 Easy Setup”, “#3 Outdoor Control” and lists “Outdoor Control (Wi-Fi)”, “Scalable Cloud System”, “Long Battery Life”, and “Synergy w/ IoT Device”.",
+      "The outcome box calls Toggle a low-cost adhesive wall switch robot, claims “20 days battery life” and unit manufacturing cost “HKD$ 30”. Methodology headings include “IoT Integration w/ RN App & Proximity Sensor”, “HTTPS Microservices on AWS”, “MQTTS Pub/Sub with AWS IoT (X509 Encryption)”, “Wi-Fi SoC Battery Saving Firmware”, “Custom PCB w/ Wi-Fi SoC & LDO”, and “3D-Printed Linear Actuator”. The dense technical copy and comparison table are small, while white rounded panels organize the poster against the blue background."
+    ],
+    "uncertainties": [
+      "Dense body copy, diagrams, comparison table, and tiny device labels cannot be reliably transcribed in full at preview resolution; specifications are printed claims."
+    ],
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "viewed": true
+  }
+}

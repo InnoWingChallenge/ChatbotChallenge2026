@@ -1,0 +1,108 @@
+{
+  "title": "Classroom or workshop with presenter at central projection screen",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Seven distinct people are visible in the photographed scene: one standing near the centre presenting with a microphone and six seated or leaning at tables/stools around the presenter. None of the people are identified by name in the image.",
+    "One person is standing at the centre of the main table area holding a handheld microphone and facing the seated group.",
+    "At least four portable computing devices are visible on the tables (laptops and/or tablets): one immediately in front of the presenter, one to the presenter's right near a seated person in a white jacket, one tablet or laptop being used by the person in a brown jacket at the right foreground, and one laptop visible near the far left bench. These four are individually distinguishable; additional devices may be present but are obscured or partially out of frame.",
+    "At least seven stools are visible around the main tables and benches (several under the main table in the foreground and several at the bench by the windows). Some stools are partially cropped or obscured, so this is a minimum visible count.",
+    "A handheld microphone is visible in the presenter's right hand (one microphone).",
+    "A large central projection screen showing a slide is visible at the back wall. Two additional wall screens or projections are partially visible at the far left and far right edges of the image (three screens/projection surfaces visible in total, with the left and right ones partially cropped).",
+    "At least one desktop monitor on the bench behind the presenter is visible (a screen showing a colourful grid or UI), and another small monitor or device is visible further along the bench; these are desktop/bench-mounted displays rather than projected images.",
+    "At least one water bottle or insulated bottle is visible on the right-hand table near the person in the white jacket (one visible bottle).",
+    "Multiple cables and a charging adapter or hub are visible on the table in the foreground near the tablet/laptop; their exact types are not determined from the image."
+  ],
+  "visible_text": [
+    "2. Compelling Executive Summary",
+    "Good Example:"
+  ],
+  "spatial_relations": [
+    "The presenter stands at the near-centre of the image in front of the large central projection screen; seated participants are arranged around a long light-coloured table that runs from the foreground toward the presenter.",
+    "A continuous bench runs along the back wall beneath large windows; at least one desktop monitor sits on that bench to the presenter's right (image-relative), and seated people occupy stools at that bench.",
+    "Two additional projection or display surfaces are visible at the far left and far right edges of the image, each adjacent to the same back wall and windows, and both are partially cropped by the image borders.",
+    "Tables are arranged parallel to the back wall/window line; stools are placed along both the central table and the bench by the windows.",
+    "The presenter is roughly centred between the left and right side displays, with cables and a small cluster of equipment on the table directly between the presenter and the foreground camera position."
+  ],
+  "colours_and_materials": [
+    "The main work tables are light-coloured wood or laminate with pale tops and white or light grey supporting legs.",
+    "Stools have dark metal legs and darker wooden or dark-coloured circular seats.",
+    "The ceiling exposes metal ductwork and structural elements in metallic grey, with white rectangular ceiling light panels.",
+    "Large windows along the back wall show green plants and vegetation outside; window frames and bench trim appear to be painted teal or green.",
+    "The presenter wears a light grey sweater; one seated person wears a white puffy jacket; another person wears a brown or tan jacket; a left-side seated person wears a dark green jacket with white sleeve stripes."
+  ],
+  "uncertainties": [
+    "No room name or room number is visible in the photograph; therefore the precise location cannot be confirmed from the image alone.",
+    "Small text blocks on the central slide and on other screens are partially legible but not fully readable; only the heading '2. Compelling Executive Summary' and the phrase 'Good Example:' could be transcribed with confidence. Other slide text is present but not reliably readable in this image.",
+    "Counts of stools, laptops and other small items are minimum visible counts; some items are partially obscured, cropped by the image edges, or overlapped, so more items may be present than are individually distinguishable here.",
+    "The number and types of ceiling-mounted devices (projectors or fixtures) are partially obscured by ductwork; I report visible devices but cannot confidently identify all ceiling equipment or their exact counts.",
+    "Labels, small equipment nameplates, or brand/model markings on devices and monitors are not legible at this image resolution and therefore were not transcribed."
+  ],
+  "visual_facts": [
+    "Seven distinct people are visible in the photographed scene: one standing near the centre presenting with a microphone and six seated or leaning at tables/stools around the presenter. None of the people are identified by name in the image.",
+    "One person is standing at the centre of the main table area holding a handheld microphone and facing the seated group.",
+    "At least four portable computing devices are visible on the tables (laptops and/or tablets): one immediately in front of the presenter, one to the presenter's right near a seated person in a white jacket, one tablet or laptop being used by the person in a brown jacket at the right foreground, and one laptop visible near the far left bench. These four are individually distinguishable; additional devices may be present but are obscured or partially out of frame.",
+    "At least seven stools are visible around the main tables and benches (several under the main table in the foreground and several at the bench by the windows). Some stools are partially cropped or obscured, so this is a minimum visible count.",
+    "A handheld microphone is visible in the presenter's right hand (one microphone).",
+    "A large central projection screen showing a slide is visible at the back wall. Two additional wall screens or projections are partially visible at the far left and far right edges of the image (three screens/projection surfaces visible in total, with the left and right ones partially cropped).",
+    "At least one desktop monitor on the bench behind the presenter is visible (a screen showing a colourful grid or UI), and another small monitor or device is visible further along the bench; these are desktop/bench-mounted displays rather than projected images.",
+    "At least one water bottle or insulated bottle is visible on the right-hand table near the person in the white jacket (one visible bottle).",
+    "Multiple cables and a charging adapter or hub are visible on the table in the foreground near the tablet/laptop; their exact types are not determined from the image.",
+    "The main work tables are light-coloured wood or laminate with pale tops and white or light grey supporting legs.",
+    "Stools have dark metal legs and darker wooden or dark-coloured circular seats.",
+    "The ceiling exposes metal ductwork and structural elements in metallic grey, with white rectangular ceiling light panels.",
+    "Large windows along the back wall show green plants and vegetation outside; window frames and bench trim appear to be painted teal or green.",
+    "The presenter wears a light grey sweater; one seated person wears a white puffy jacket; another person wears a brown or tan jacket; a left-side seated person wears a dark green jacket with white sleeve stripes."
+  ],
+  "id": "4c54a3760d9c163679767bc2",
+  "sha256": "a45378721c98ee2c89871a3a5c119a5ca367bd8af687ecd6b02e83389f2169f7",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:38:08.343455+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "dc0bbca821e4df15ade34dc75922bf2f03454b312b613a04ac2d0157b6d8ebe3",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau1aXODMUwoUy6slVUdk57u800R4",
+  "usage": {
+    "completion_tokens": 1611,
+    "prompt_tokens": 2266,
+    "total_tokens": 3877,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 374,
+      "engine_ttlt_ms": 12336,
+      "pre_inference_ms": 357,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 924,
+      "service_ttlt_ms": 12880,
+      "user_visible_ttft_ms": 567
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

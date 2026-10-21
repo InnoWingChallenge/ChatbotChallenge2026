@@ -1,0 +1,109 @@
+{
+  "title": "Exterior courtyard with multi-storey buildings, bridge and logo overlay",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Three cylindrical rooftop tanks are visible on the roof of the left-mid building (upper left region of image).",
+    "A raised pedestrian bridge/skywalk spans between the central buildings, visible in the upper-central area.",
+    "Three clear spherical globe fixtures are visible mounted on vertical posts in the right-central foreground; each globe is individually visible and not fully obscured.",
+    "One large red-leaved bush is visible in the center foreground, partially blocking the view down the courtyard.",
+    "One conifer-like (evergreen) tree is visible behind and slightly to the right of the red bush, in the middle distance.",
+    "A low strip of grassy or reed-like planting is visible in the immediate foreground along the bottom edge of the image.",
+    "Multi-storey building façades with repeated balcony/terrace elements are visible on both left and right sides of the courtyard (left façade and right façade visible).",
+    "Two graphic/logo elements are present as overlays or printed on the image in the lower-right corner: a shield/crest and a rectangular word-mark 'BusIMan'."
+  ],
+  "visible_text": [
+    "BusIMan",
+    "SAPIENTIA·ET·VIRTUS"
+  ],
+  "spatial_relations": [
+    "A covered corridor or overhang runs along the left side of the image; this creates a shaded walkway beneath the left building.",
+    "The large red-leaved bush occupies the center foreground, positioned between the camera and the multi-storey buildings; it partially blocks the central sightline into the courtyard.",
+    "The pedestrian bridge/skywalk crosses from the left building to the right building above the courtyard, with its lowest point roughly centered in the upper half of the image.",
+    "The three spherical globe light fixtures are mounted on vertical posts standing in the right-central foreground, in front of the right-hand building façade.",
+    "The conifer-like tree is located behind the red bush and roughly aligned with the central axis of the courtyard but set back toward the far end of the space.",
+    "The rooftop cylindrical tanks sit atop the left-mid building, behind the bridge, forming a cluster visible against the sky."
+  ],
+  "colours_and_materials": [
+    "The courtyard and building surfaces are predominantly grey and concrete-like in appearance.",
+    "The large foreground shrub has red and dark green leaves.",
+    "Glass façades and balcony railings are visible on the multi-storey buildings, showing reflective/transparent surfaces.",
+    "The spherical light fixtures appear transparent or glass-like, mounted on pale/grey vertical posts.",
+    "The sky is light blue, visible above the buildings."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible; the exact location within any named facility is unknown from the image.",
+    "The small text and insignia within the shield/crest in the lower-right are partially legible at this resolution; 'SAPIENTIA·ET·VIRTUS' is transcribed as seen but smaller characters inside the crest (including any Chinese characters) are not reliably readable and have been omitted.",
+    "It is not possible to determine whether the logos in the lower-right are printed in-scene, overlaid digitally, or part of a signage element from the photographed scene.",
+    "The exact material composition of surfaces (for example precise glazing type, metal vs. painted finish) is visually estimated from appearance and is not confirmed.",
+    "The count of three globe fixtures is based on individually visible globes in the image; additional fixtures may exist outside the visible frame."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Three cylindrical rooftop tanks are visible on the roof of the left-mid building (upper left region of image).",
+    "A raised pedestrian bridge/skywalk spans between the central buildings, visible in the upper-central area.",
+    "Three clear spherical globe fixtures are visible mounted on vertical posts in the right-central foreground; each globe is individually visible and not fully obscured.",
+    "One large red-leaved bush is visible in the center foreground, partially blocking the view down the courtyard.",
+    "One conifer-like (evergreen) tree is visible behind and slightly to the right of the red bush, in the middle distance.",
+    "A low strip of grassy or reed-like planting is visible in the immediate foreground along the bottom edge of the image.",
+    "Multi-storey building façades with repeated balcony/terrace elements are visible on both left and right sides of the courtyard (left façade and right façade visible).",
+    "Two graphic/logo elements are present as overlays or printed on the image in the lower-right corner: a shield/crest and a rectangular word-mark 'BusIMan'.",
+    "The courtyard and building surfaces are predominantly grey and concrete-like in appearance.",
+    "The large foreground shrub has red and dark green leaves.",
+    "Glass façades and balcony railings are visible on the multi-storey buildings, showing reflective/transparent surfaces.",
+    "The spherical light fixtures appear transparent or glass-like, mounted on pale/grey vertical posts.",
+    "The sky is light blue, visible above the buildings."
+  ],
+  "id": "51069301220ab5c174d0f28d",
+  "sha256": "c7745d616a78c829e2216af1dc95570c52ef2b1b89d38262ee0394d0452bd4bb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:39:03.568535+00:00",
+  "input_resolution": [
+    2400,
+    1614
+  ],
+  "input_sha256": "ed9d54470d1bfeec5f846e3378647cf60c111dce2fc4e7beff2a7b8b667d0279",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau2WNNseR44A33yX2aTsesGaBY4Z",
+  "usage": {
+    "completion_tokens": 1183,
+    "prompt_tokens": 2280,
+    "total_tokens": 3463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1167,
+      "engine_ttlt_ms": 9920,
+      "pre_inference_ms": 280,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2027,
+      "service_ttlt_ms": 10776,
+      "user_visible_ttft_ms": 1747
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

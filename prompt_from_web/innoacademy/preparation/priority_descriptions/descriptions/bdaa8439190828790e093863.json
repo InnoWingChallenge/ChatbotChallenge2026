@@ -1,0 +1,105 @@
+{
+  "title": "Interior lab scene with DREAMLab sign, students and equipment",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "10 people are visible and individually distinguishable: one seated person at left edge using a workstation, one standing adult-sized person at left foreground speaking, one person leaning over the central table working with tools, and a group of seven students standing to the right of the central table (some students are partially obscured by others and by foreground objects).",
+    "At least five computer monitors are visible: a bank of monitors along the left wall (four visible) and one or two monitors on the central rear desk (counts stated as at least five because some are partially obscured).",
+    "At least six rolling office chairs are visible around the central tables and workstations (several chairs are partially obscured by people and by the table edges).",
+    "Two small tracked robots or robot chassis are visible on the floor near the central-left area in front of the workstations; one has a white panel with a black numeral '1' on it (the robots are partly obstructed by chairs and the standing person).",
+    "One cardboard box standing upright on the central table with legible handwritten numerals, and multiple electronic components, cables and tools scattered on the central table (these are visible as assembled clusters but individual small items are not counted).",
+    "A blue cloth bag is held by a student at right foreground and other personal bags/backpacks are visible on or near the students (counts of small personal items not exhaustively enumerated)."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "THE UNIVERSITY OF HONG KONG",
+    "1",
+    "6000"
+  ],
+  "spatial_relations": [
+    "The 'DREAMLab' sign is on the back wall, centered above a row of desks and a green-tinted writable wall or whiteboard area.",
+    "A row of computer workstations and monitors runs along the left side of the room; the central work area consists of long yellow tables with chairs on both sides.",
+    "Two small robots or chassis sit on the floor between the left-row workstations and the central tables, in front of the seated person at left.",
+    "The standing adult at left foreground faces the central table and the group of students, who stand along the right side of the central table forming a line parallel to the table edge.",
+    "A person is bent over the central table near the rear center, working with components; the cardboard box labeled with numerals stands on the nearer half of the same table."
+  ],
+  "colours_and_materials": [
+    "The central tables are yellow with a smooth surface.",
+    "The carpet is a dark blue/grey textured carpet.",
+    "The back wall has a pale green/tinted writable surface (whiteboard-like) where the 'DREAMLab' lettering is placed.",
+    "Ceiling pipes and ducting are exposed and painted white or light grey.",
+    "Office chairs are primarily dark grey or black with fabric or mesh seating."
+  ],
+  "uncertainties": [
+    "Small printed text on posters, the whiteboard/writable wall and student shirt badges is not fully legible in the image; only the prominent 'DREAMLab' and associated smaller text underneath are clearly readable.",
+    "The exact count of monitors and chairs may be higher because some are partially obscured by people or out of frame; I report only the visible minimums.",
+    "The handwritten numerals on the cardboard box appear as '6000' in the image but the meaning or full context of that marking is unreadable.",
+    "The red emblem/text on the students' shirts and the blue bag text are not clearly legible enough to transcribe exactly and were therefore not included; logos on posters along the left wall are similarly unreadable.",
+    "Identification of the visible devices as specific robot models or their functional state would be speculative; they are described only as tracked robots or chassis based on visible form."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "10 people are visible and individually distinguishable: one seated person at left edge using a workstation, one standing adult-sized person at left foreground speaking, one person leaning over the central table working with tools, and a group of seven students standing to the right of the central table (some students are partially obscured by others and by foreground objects).",
+    "At least five computer monitors are visible: a bank of monitors along the left wall (four visible) and one or two monitors on the central rear desk (counts stated as at least five because some are partially obscured).",
+    "At least six rolling office chairs are visible around the central tables and workstations (several chairs are partially obscured by people and by the table edges).",
+    "Two small tracked robots or robot chassis are visible on the floor near the central-left area in front of the workstations; one has a white panel with a black numeral '1' on it (the robots are partly obstructed by chairs and the standing person).",
+    "One cardboard box standing upright on the central table with legible handwritten numerals, and multiple electronic components, cables and tools scattered on the central table (these are visible as assembled clusters but individual small items are not counted).",
+    "A blue cloth bag is held by a student at right foreground and other personal bags/backpacks are visible on or near the students (counts of small personal items not exhaustively enumerated).",
+    "The central tables are yellow with a smooth surface.",
+    "The carpet is a dark blue/grey textured carpet.",
+    "The back wall has a pale green/tinted writable surface (whiteboard-like) where the 'DREAMLab' lettering is placed.",
+    "Ceiling pipes and ducting are exposed and painted white or light grey.",
+    "Office chairs are primarily dark grey or black with fabric or mesh seating."
+  ],
+  "id": "bdaa8439190828790e093863",
+  "sha256": "2ebe50990f7a9ac610c1bd95c3de5fab533bd33d4fc228d162c21a597e46f2be",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:02:28.194520+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "1d3e8528584ee4c6bfc77e1bce577f206d9f358299b1a0ef627a43f8b50ee950",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauP8ndMHjnu42UxwdqrGrojN56BW",
+  "usage": {
+    "completion_tokens": 1430,
+    "prompt_tokens": 2122,
+    "total_tokens": 3552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1141,
+      "engine_ttlt_ms": 12928,
+      "pre_inference_ms": 367,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2062,
+      "service_ttlt_ms": 13843,
+      "user_visible_ttft_ms": 1695
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

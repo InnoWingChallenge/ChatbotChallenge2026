@@ -1,0 +1,304 @@
+﻿{
+    "imported_at":  "2026-10-13T11:14:09+08:00",
+    "source":  "User-supplied local Pictures folder",
+    "note":  "Original folder and file names preserved. File timestamps do not establish photo capture time.",
+    "files":  [
+                  {
+                      "relative_path":  "Brainstorm_Space/微信图片_20261013104619_61_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Brainstorm_Space\\微信图片_20261013104619_61_35.jpg",
+                      "bytes":  239252,
+                      "sha256":  "10dff1712f2506010455ebd971d796eeb5646ef40151f536607af1a574d8368d",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.8611886Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.8621908Z"
+                  },
+                  {
+                      "relative_path":  "Brainstorm_Space/微信图片_20261013104620_62_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Brainstorm_Space\\微信图片_20261013104620_62_35.jpg",
+                      "bytes":  254227,
+                      "sha256":  "03737302e86d9009570d36c353cf63522148ade5b91c63940567472e5d6b2839",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.8022717Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.8032727Z"
+                  },
+                  {
+                      "relative_path":  "Brainstorm_Space/微信图片_20261013104621_63_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Brainstorm_Space\\微信图片_20261013104621_63_35.jpg",
+                      "bytes":  253226,
+                      "sha256":  "ef20c60ab1f2c654bd58c4738b39944b8baccbe4cdb0852662766fb00ddaaf82",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.7384445Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.7384445Z"
+                  },
+                  {
+                      "relative_path":  "Brainstorm_Space/微信图片_20261013104622_64_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Brainstorm_Space\\微信图片_20261013104622_64_35.jpg",
+                      "bytes":  212771,
+                      "sha256":  "dd67858926826e1997d38374d2c4716bccb53f2af81d3561671c51df76825610",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.6784413Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.6784413Z"
+                  },
+                  {
+                      "relative_path":  "Brainstorm_Space/微信图片_20261013104622_65_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Brainstorm_Space\\微信图片_20261013104622_65_35.jpg",
+                      "bytes":  257304,
+                      "sha256":  "3e31d2f8ace63a077b4f2dbb33a4a7ad2358fe11fb3cab846412556d373182bb",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.6209368Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.6209368Z"
+                  },
+                  {
+                      "relative_path":  "Brainstorm_Space/微信图片_20261013104624_67_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Brainstorm_Space\\微信图片_20261013104624_67_35.jpg",
+                      "bytes":  232794,
+                      "sha256":  "e25bda81f1ffbfd63a8271915bbfc4410739c0cbc942aed8027390a237d85a7b",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.4855941Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.4855941Z"
+                  },
+                  {
+                      "relative_path":  "Brainstorm_Space/微信图片_20261013104625_68_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Brainstorm_Space\\微信图片_20261013104625_68_35.jpg",
+                      "bytes":  320239,
+                      "sha256":  "bf0f126be9d65103cf360194c64bfc6ab9571c461cf1e13b37c518f2281c4d4a",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.4245951Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.4255964Z"
+                  },
+                  {
+                      "relative_path":  "Digital_Learning_Studio/微信图片_20261013104628_71_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Digital_Learning_Studio\\微信图片_20261013104628_71_35.jpg",
+                      "bytes":  103678,
+                      "sha256":  "03db876325ab011a6211b7548b66ffbb35813602f91fd4063fbf1dfb9a3704dc",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.2775942Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.2775942Z"
+                  },
+                  {
+                      "relative_path":  "Digital_Learning_Studio/微信图片_20261013104630_72_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Digital_Learning_Studio\\微信图片_20261013104630_72_35.jpg",
+                      "bytes":  237180,
+                      "sha256":  "8717ae76841dc0f22afe18c944a9f7f2f83773dc1a55e3d99e1897e6fa20cee0",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.2308386Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.2308386Z"
+                  },
+                  {
+                      "relative_path":  "Digital_Learning_Studio/微信图片_20261013104640_83_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Digital_Learning_Studio\\微信图片_20261013104640_83_35.jpg",
+                      "bytes":  194263,
+                      "sha256":  "1cc8b69e9ce2302d7e296e25a4011801f6422e5e6c2715f354e41c302c709894",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.6639164Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.6639164Z"
+                  },
+                  {
+                      "relative_path":  "Dream_Chamber/微信图片_20261013104614_56_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Dream_Chamber\\微信图片_20261013104614_56_35.jpg",
+                      "bytes":  237208,
+                      "sha256":  "28ce89030f2de506588bb41a7a738a7393c0b4cd08f84ad41042dba3851c7bf7",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:55.1465217Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:55.1475206Z"
+                  },
+                  {
+                      "relative_path":  "Dream_Chamber/微信图片_20261013104615_57_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Dream_Chamber\\微信图片_20261013104615_57_35.jpg",
+                      "bytes":  184393,
+                      "sha256":  "e23fced5b226c882f7484035c380f95a0484b4c3469eb9fb95ddc3be08d7298a",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:55.0831575Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:55.0831575Z"
+                  },
+                  {
+                      "relative_path":  "Dream_Chamber/微信图片_20261013104616_58_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Dream_Chamber\\微信图片_20261013104616_58_35.jpg",
+                      "bytes":  185525,
+                      "sha256":  "6b2f89e765fda7084b0ac917d781cb88c621bcc9a00b693d06f99196516e39da",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:55.0275008Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:55.0275008Z"
+                  },
+                  {
+                      "relative_path":  "Machine_Workshop/微信图片_20261013104645_88_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Machine_Workshop\\微信图片_20261013104645_88_35.jpg",
+                      "bytes":  263869,
+                      "sha256":  "0ecc30c10c7b269e7d9230934a745990c0f18512f059f8eea32e24efd4032aaf",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.8983378Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.8993377Z"
+                  },
+                  {
+                      "relative_path":  "Multi-Purpose_Room/微信图片_20261013104638_81_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Multi-Purpose_Room\\微信图片_20261013104638_81_35.jpg",
+                      "bytes":  181185,
+                      "sha256":  "d2651016ab62acde6e0c68a89f3e3fb14775a3862fec1accffe15ad71035954d",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.4725827Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.4725827Z"
+                  },
+                  {
+                      "relative_path":  "Open_Event_Area/微信图片_20261013104623_66_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Open_Event_Area\\微信图片_20261013104623_66_35.jpg",
+                      "bytes":  375461,
+                      "sha256":  "1acaa697a2ed9a9b3d3feda6fc678edf65713d8bfbfe254f6041c647e414baa2",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.5579355Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.5579355Z"
+                  },
+                  {
+                      "relative_path":  "Podcast_Studio/微信图片_20261013104639_82_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Podcast_Studio\\微信图片_20261013104639_82_35.jpg",
+                      "bytes":  101779,
+                      "sha256":  "ebaa8165c9cec4b7ace911752983852710ef9fd652f79c6035cbc316e74ccca9",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.5609155Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.5609155Z"
+                  },
+                  {
+                      "relative_path":  "Project_Studio_A/微信图片_20261013104633_76_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Project_Studio_A\\微信图片_20261013104633_76_35.jpg",
+                      "bytes":  142532,
+                      "sha256":  "b5f805c1523ceec9a0d2ca6a5591ed731f44757eafc1a2185436a582dffe6a7b",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.0522460Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.0532443Z"
+                  },
+                  {
+                      "relative_path":  "Project_Studio_B/微信图片_20261013104631_74_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Project_Studio_B\\微信图片_20261013104631_74_35.jpg",
+                      "bytes":  113864,
+                      "sha256":  "1fa805c90ddf82628294c66b793f365cc74813fb52facd98cf56065ed6f513ea",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.1342416Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.1342416Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_D/微信图片_20261013104630_73_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_D\\微信图片_20261013104630_73_35.jpg",
+                      "bytes":  106731,
+                      "sha256":  "92a6caea7eba7b5475d5811304e8ddfa21aa8d04a351cc9cd8a1443f50578e4e",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.1728166Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.1728166Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_E/微信图片_20261013104632_75_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_E\\微信图片_20261013104632_75_35.jpg",
+                      "bytes":  94289,
+                      "sha256":  "6f4f34ad240fd653822bd2138e872b0e58f5315469a8ca226dc648cd27ce402f",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.0912404Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.0912404Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_F/微信图片_20261013104627_70_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_F\\微信图片_20261013104627_70_35.jpg",
+                      "bytes":  111174,
+                      "sha256":  "6481d6098dbf2109fb7eba81e15d6de87e071dd29f440517916f3027e1a99db8",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.3175940Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.3175940Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_F/微信图片_20261013104641_84_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_F\\微信图片_20261013104641_84_35.jpg",
+                      "bytes":  177438,
+                      "sha256":  "6481fde8f7776917a0537e3be3e8ebfcaebd2f9ece202431a665c9a879a1aa0a",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.6109155Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.6109155Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_G/微信图片_20261013104626_69_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_G\\微信图片_20261013104626_69_35.jpg",
+                      "bytes":  103588,
+                      "sha256":  "e3ea3cafe097114ae47ea8efa10825182bd2079fda665812c7b92f2af22f46ed",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.3575966Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.3575966Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_G/微信图片_20261013104636_79_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_G\\微信图片_20261013104636_79_35.jpg",
+                      "bytes":  168759,
+                      "sha256":  "f1f0486dfc23682b310ac615b18a68c85bb64b8a95aa2367f4228edd789f230e",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.4225827Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.4235823Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_G/微信图片_20261013104637_80_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_G\\微信图片_20261013104637_80_35.jpg",
+                      "bytes":  196597,
+                      "sha256":  "39c2b272f0be219696ea770227e0500bc91b2527f46187c457938499ad67d2be",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.5219195Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.5229157Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_G/Wet_Lab_Culture_Room/微信图片_20261013104635_78_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_G\\Wet_Lab_Culture_Room\\微信图片_20261013104635_78_35.jpg",
+                      "bytes":  143685,
+                      "sha256":  "a0c011308c907d983acfe99488c3e50f3d459e850b0b12849b54200ff64bdf2e",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.9443376Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.9453376Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_H/微信图片_20261013104617_59_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_H\\微信图片_20261013104617_59_35.jpg",
+                      "bytes":  171040,
+                      "sha256":  "45a11ad6e7f7b558b5d49493c27192f2a6c9fd4b75f0e26e3e8c43dd34b3fccf",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.9671901Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.9681984Z"
+                  },
+                  {
+                      "relative_path":  "Thematic_Workshop_H/微信图片_20261013104618_60_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\Thematic_Workshop_H\\微信图片_20261013104618_60_35.jpg",
+                      "bytes":  229272,
+                      "sha256":  "f36e550eafa0ea77962d4de00eec6d717961a51e1b8ac2a5ca9bcfab7646de38",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.9181911Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.9181911Z"
+                  },
+                  {
+                      "relative_path":  "微信图片_20261013104634_77_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\微信图片_20261013104634_77_35.jpg",
+                      "bytes":  232067,
+                      "sha256":  "4b725a715f7bfb24b110746a42c1ecbfe041ddb119943579ee6197848ec98878",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:54.0086651Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:54.0096644Z"
+                  },
+                  {
+                      "relative_path":  "微信图片_20261013104642_85_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\微信图片_20261013104642_85_35.jpg",
+                      "bytes":  224467,
+                      "sha256":  "b85d2fd6439a4dbfb1639ff974254b46bd6b7128091777eeacecae85d853a84c",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.7209151Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.7219151Z"
+                  },
+                  {
+                      "relative_path":  "微信图片_20261013104643_86_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\微信图片_20261013104643_86_35.jpg",
+                      "bytes":  166346,
+                      "sha256":  "011a08e33ec18d8a1ca10e556c4a38a65d6926b54a82b06867253944bc33e3ef",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.7769152Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.7779152Z"
+                  },
+                  {
+                      "relative_path":  "微信图片_20261013104644_87_35.jpg",
+                      "original_path":  "C:\\Users\\Lenovo\\Pictures\\微信图片_20261013104644_87_35.jpg",
+                      "bytes":  197600,
+                      "sha256":  "f08122d0cc8d2c37e868e6812d7cd5f3c72ee72455f67f8aa9ecdfd71cc8edca",
+                      "content_type":  "image/jpeg",
+                      "original_creation_time_utc":  "2026-10-13T02:50:53.8344315Z",
+                      "original_last_write_time_utc":  "2026-10-13T02:50:53.8344315Z"
+                  }
+              ]
+}

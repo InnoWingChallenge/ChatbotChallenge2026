@@ -1,0 +1,114 @@
+{
+  "title": "Bench-top dial gauge and timer with metal sample and tubing on laboratory bench",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the image.",
+    "One vertical dial gauge (round face) mounted on a blue vertical support is visible near the image centre; the gauge face has a needle and markings and a small central label showing \"W's\".",
+    "One metallic probe/nozzle is positioned directly under the dial gauge and points to a small cylindrical sample resting on a clear rectangular platform in the foreground centre.",
+    "One small cylindrical sample (light-coloured, about the diameter of the probe tip) is visible on the clear platform beneath the probe; the sample top appears darkened or dirty.",
+    "One small rectangular control box with front-panel indicators is visible front-centre-left; the front panel shows two green push-buttons or indicator holes and one red illuminated lamp.",
+    "Two distinct metal cylindrical vessels are visible on the bench: one shiny metal cup on the left on a square metal base, and one larger, taller rust-stained metal cylinder on the right (both are partially cropped at top/bottom).",
+    "At least three flexible tubes/hoses are visible (one transparent hose running from the probe to the right, one thicker transparent/cream hose curving behind the gauge, and additional white/transparent tubing coiled behind the bench); exact total count cannot be precisely determined due to overlap and partial occlusion.",
+    "One red plastic bucket is visible at the far left edge of the bench.",
+    "One blue plastic funnel or bowl is visible behind the centre area, partially obscured by hoses.",
+    "Two blue vertical equipment housings or panels are visible in the background left and right edges; each contains printed diagrams or markings and circular gauge cutouts (background panels are partially cropped)."
+  ],
+  "visible_text": [
+    "TIMER",
+    "POWER",
+    "W's"
+  ],
+  "spatial_relations": [
+    "The dial gauge and its vertical blue support are located near the centre of the image, with the probe pointing downward to the small cylindrical sample positioned on a clear rectangular platform in the immediate foreground centre.",
+    "The small rectangular control box with the TIMER and POWER labels is placed on the bench slightly left of centre in front of the dial gauge support; its red power lamp is illuminated.",
+    "A shiny metal cup on a square metal base sits to the left of the control box and left of the dial gauge assembly.",
+    "A rust-stained taller metal cylinder stands to the right of the dial gauge assembly and to the right of the clear platform holding the sample.",
+    "Flexible tubing runs from the probe area toward the right side of the image and also loops behind the gauge to the rear of the bench; some tubing lies across the bench behind the control box and in front of a white tiled wall.",
+    "Blue equipment panels are mounted or placed against the rear wall, one at the left background and one at the right background, framing the central apparatus."
+  ],
+  "colours_and_materials": [
+    "The dial gauge housing and two background equipment panels are blue.",
+    "The probe, probe assembly and several vessels are metallic/silver in appearance; the right cylinder shows brownish rust staining and surface corrosion.",
+    "The small sample under the probe is light-coloured (white or pale grey) with a darker top surface.",
+    "The control box front is white or light-coloured with green push-buttons and a red illuminated lamp.",
+    "Several transparent or translucent hoses (clear or cream-coloured) are present across the bench.",
+    "The bench has a grey surface and the wall behind is white tiled."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible; location cannot be determined from the image.",
+    "Some background panel text and labels are partially cropped or blurred and are not fully legible; only \"W's\", \"TIMER\" and \"POWER\" could be read clearly.",
+    "The exact number of hoses/tubes cannot be determined precisely because several overlap and are partially hidden behind equipment.",
+    "The central dial gauge face contains additional markings and possibly a brand or model, but most of that text is not legible beyond the characters transcribed as \"W's\".",
+    "Small labels or stickers on the control box top and other equipment are present but unreadable at the image resolution; exact label fragments were not transcribed."
+  ],
+  "visual_facts": [
+    "No people are visible in the image.",
+    "One vertical dial gauge (round face) mounted on a blue vertical support is visible near the image centre; the gauge face has a needle and markings and a small central label showing \"W's\".",
+    "One metallic probe/nozzle is positioned directly under the dial gauge and points to a small cylindrical sample resting on a clear rectangular platform in the foreground centre.",
+    "One small cylindrical sample (light-coloured, about the diameter of the probe tip) is visible on the clear platform beneath the probe; the sample top appears darkened or dirty.",
+    "One small rectangular control box with front-panel indicators is visible front-centre-left; the front panel shows two green push-buttons or indicator holes and one red illuminated lamp.",
+    "Two distinct metal cylindrical vessels are visible on the bench: one shiny metal cup on the left on a square metal base, and one larger, taller rust-stained metal cylinder on the right (both are partially cropped at top/bottom).",
+    "At least three flexible tubes/hoses are visible (one transparent hose running from the probe to the right, one thicker transparent/cream hose curving behind the gauge, and additional white/transparent tubing coiled behind the bench); exact total count cannot be precisely determined due to overlap and partial occlusion.",
+    "One red plastic bucket is visible at the far left edge of the bench.",
+    "One blue plastic funnel or bowl is visible behind the centre area, partially obscured by hoses.",
+    "Two blue vertical equipment housings or panels are visible in the background left and right edges; each contains printed diagrams or markings and circular gauge cutouts (background panels are partially cropped).",
+    "The dial gauge housing and two background equipment panels are blue.",
+    "The probe, probe assembly and several vessels are metallic/silver in appearance; the right cylinder shows brownish rust staining and surface corrosion.",
+    "The small sample under the probe is light-coloured (white or pale grey) with a darker top surface.",
+    "The control box front is white or light-coloured with green push-buttons and a red illuminated lamp.",
+    "Several transparent or translucent hoses (clear or cream-coloured) are present across the bench.",
+    "The bench has a grey surface and the wall behind is white tiled."
+  ],
+  "id": "775707b169fdc318662c8480",
+  "sha256": "e2fcc2e7840ba00e1172cc4f873f4199ec4648075cf2e8217800f93ba8b97ca5",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:13:37.445091+00:00",
+  "input_resolution": [
+    1885,
+    1060
+  ],
+  "input_sha256": "d2b5180c59d8d93b9bba5888e094ca4041bfc9a30d797212e32464d0c33f81e8",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatdt1xIxvUBDD52qfUlHtDrgFd0e",
+  "usage": {
+    "completion_tokens": 1327,
+    "prompt_tokens": 2439,
+    "total_tokens": 3766,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1195,
+      "engine_ttlt_ms": 9588,
+      "pre_inference_ms": 430,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2644,
+      "service_ttlt_ms": 11052,
+      "user_visible_ttft_ms": 2214
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

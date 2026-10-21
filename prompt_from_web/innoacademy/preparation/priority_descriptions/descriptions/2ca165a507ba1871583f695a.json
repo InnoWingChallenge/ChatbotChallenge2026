@@ -1,0 +1,23 @@
+{
+  "id": "2ca165a507ba1871583f695a",
+  "sha256": "e7e85e2446de99182fa28056a8c09dbefdd57499dd5c21a11b7301eb47affd7e",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Person operating a metalworking lathe",
+  "visible_text": [],
+  "visual_facts": [
+    "A large gray metalworking machine with a rotating chuck, tool holder, handwheels, and a long bed fills most of the view.",
+    "A person in a white hooded top stands at the left, holding a control handle beside the machine.",
+    "Small metal chips are scattered in the recessed area below the machine bed."
+  ],
+  "spatial_relations": [
+    "The person stands beside the left controls while the chuck and tool assembly are centered.",
+    "The long machine bed extends from the center toward the lower right foreground."
+  ],
+  "uncertainties": [
+    "The person is cropped and no machine labels are readable, so neither identity nor the exact machine model can be determined."
+  ]
+}

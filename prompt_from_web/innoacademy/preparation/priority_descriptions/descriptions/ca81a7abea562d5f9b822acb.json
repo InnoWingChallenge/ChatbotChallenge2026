@@ -1,0 +1,107 @@
+{
+  "title": "Computer workstations and whiteboard with handwritten 'L4 306' in a lab-like room",
+  "suitable": true,
+  "location": "L4 306",
+  "objects_and_counts": [
+    "Six people are visible and individually distinguishable: one person seated at left edge wearing a dark top with a letter 'C', two people seated at the central desks seen from the back (center-left and center-right), one person seated at the far center behind monitors with only the head visible, one person seated at right wearing a gray hooded sweatshirt, and one person standing at the front of the room near the whiteboard holding a marker or pointer.",
+    "Five desktop computer monitors are visibly on: one leftmost monitor showing a slide or presentation, two central monitors (one with a red desktop image), one right-side monitor in front of the seated hooded person, and one small monitor or screen on the front podium/desk near the standing person.",
+    "Two visible desktop computer towers (PC cases) are visible near the central desks: one with illuminated internal lighting/fans visible and a second partially visible behind it.",
+    "Five chairs with wheels are visible and occupied or positioned at desks: an orange chair at left, a white chair center-left, a black chair center-right, a blue chair at right, and another black chair partially visible behind central equipment.",
+    "Three backpacks are visible on the floor near the desks: one black backpack under the white chair (with a yellow-capped bottle attached or next to it), a second black backpack on the floor between the center-right and right desks, and a third black backpack near the podium/right area.",
+    "One large glass or whiteboard wall spans the back of the room with handwriting and faint marker annotations visible across it."
+  ],
+  "visible_text": [
+    "L4 306",
+    "See You Jump!",
+    "C",
+    "https://",
+    "[unreadable] (text on the leftmost monitor slide and on other screens is present but not legible)",
+    "[unreadable] (small printed labels and stickers on equipment are present but not legible)"
+  ],
+  "spatial_relations": [
+    "A large glass/whiteboard wall runs across the rear of the image; handwritten text including 'L4 306' and 'See You Jump!' appears on that wall roughly in the upper-central area of the image.",
+    "Two rows of desks are arranged facing inward: the left and central desks hold monitors and PC towers, with seated users at those desks; the rightmost desk with a hooded user faces toward the central area.",
+    "The standing person is positioned at the front-right area of the room near a podium or front desk and a small monitor; that podium is in front of the whiteboard wall.",
+    "Backpacks are placed on the floor immediately behind or beside the chairs: one under the white chair (center-left), one between the center-right and right desks, and one adjacent to the podium/right area.",
+    "The illuminated PC tower with visible internal lighting is situated between the center-left and center-right monitors, behind the seated central users."
+  ],
+  "colours_and_materials": [
+    "The whiteboard/glass wall is glossy white and spans the room rear; marker writing appears in black and light blue/teal.",
+    "Chairs are in distinct colors: an orange chair at the left, a white chair center-left, a black chair center-right and at least one blue chair at the right; chair bases and casters appear black plastic/metal.",
+    "Carpet is a light gray textured material covering the floor.",
+    "Computer monitors and PC cases are predominantly black; the central PC case has internal RGB or blue lighting visible through a transparent side panel.",
+    "Backpacks are predominantly black fabric; one bottle with a yellow cap is visible next to or attached to the backpack under the white chair."
+  ],
+  "uncertainties": [
+    "Some handwritten text on the whiteboard is faint and partially obscured; 'L4 306' and 'See You Jump!' are readable but other surrounding marks are not legible.",
+    "Several screen contents (leftmost slide and smaller open windows on central monitors) contain text and thumbnails but are not legible at this image resolution; they are marked as [unreadable].",
+    "The count of desktop towers is at least two based on visible cases, but other towers may be present and obscured by monitors or people.",
+    "The exact identity or meaning of the single-letter 'C' on the left person's garment is transcribed as visible text but does not identify the person; no personal identification is inferred.",
+    "Some small labels or stickers on monitors and equipment are visible but unreadable; those labels are not transcribed beyond marking them as [unreadable]."
+  ],
+  "visual_facts": [
+    "Visible location text: L4 306",
+    "Six people are visible and individually distinguishable: one person seated at left edge wearing a dark top with a letter 'C', two people seated at the central desks seen from the back (center-left and center-right), one person seated at the far center behind monitors with only the head visible, one person seated at right wearing a gray hooded sweatshirt, and one person standing at the front of the room near the whiteboard holding a marker or pointer.",
+    "Five desktop computer monitors are visibly on: one leftmost monitor showing a slide or presentation, two central monitors (one with a red desktop image), one right-side monitor in front of the seated hooded person, and one small monitor or screen on the front podium/desk near the standing person.",
+    "Two visible desktop computer towers (PC cases) are visible near the central desks: one with illuminated internal lighting/fans visible and a second partially visible behind it.",
+    "Five chairs with wheels are visible and occupied or positioned at desks: an orange chair at left, a white chair center-left, a black chair center-right, a blue chair at right, and another black chair partially visible behind central equipment.",
+    "Three backpacks are visible on the floor near the desks: one black backpack under the white chair (with a yellow-capped bottle attached or next to it), a second black backpack on the floor between the center-right and right desks, and a third black backpack near the podium/right area.",
+    "One large glass or whiteboard wall spans the back of the room with handwriting and faint marker annotations visible across it.",
+    "The whiteboard/glass wall is glossy white and spans the room rear; marker writing appears in black and light blue/teal.",
+    "Chairs are in distinct colors: an orange chair at the left, a white chair center-left, a black chair center-right and at least one blue chair at the right; chair bases and casters appear black plastic/metal.",
+    "Carpet is a light gray textured material covering the floor.",
+    "Computer monitors and PC cases are predominantly black; the central PC case has internal RGB or blue lighting visible through a transparent side panel.",
+    "Backpacks are predominantly black fabric; one bottle with a yellow cap is visible next to or attached to the backpack under the white chair."
+  ],
+  "id": "ca81a7abea562d5f9b822acb",
+  "sha256": "eef65ed7f6fa048fc630ddd66ff148dd784d2167a2140dfa486d1fa631ce5999",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:04:30.972488+00:00",
+  "input_resolution": [
+    1936,
+    1452
+  ],
+  "input_sha256": "2a596a3edb36a366db3eef1cccf55224739f68587cd50d3c1f3f17b25951ccc6",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauR879pGIXcVItTOVuoaRTSgdIVt",
+  "usage": {
+    "completion_tokens": 1526,
+    "prompt_tokens": 2122,
+    "total_tokens": 3648,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 338,
+      "engine_ttlt_ms": 11425,
+      "pre_inference_ms": 378,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 860,
+      "service_ttlt_ms": 11911,
+      "user_visible_ttft_ms": 482
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

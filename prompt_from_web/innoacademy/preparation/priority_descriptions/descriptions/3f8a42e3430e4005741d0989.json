@@ -1,0 +1,112 @@
+{
+  "title": "Indoor demo area with small robot on a fenced mini-pitch and multiple observers",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 9 distinct people are visible and individually distinguishable in the scene: one person at far left with hand on head, one seated behind them, one standing in the left foreground wearing a black mask and looking at a handheld controller, one standing slightly behind him wearing glasses and a white mask, one centered in a white jacket holding a controller, one standing behind the centered person in a blue shirt with arms crossed, one standing in the right foreground wearing a black t-shirt and beige pants, and at least two other persons visible in the mid/background near the center and rear of the room.",
+    "One small wheeled robot is visible on the mini playing field in the foreground (robot assembly with visible wheels and a white ball beside it).",
+    "One rectangular enclosed mini-pitch is visible in the foreground, formed by white translucent low panels on all four sides.",
+    "One small goal/frame structure (blue and yellow rectangular frame) is positioned inside the enclosed mini-pitch near the far side of the field.",
+    "Two handheld controllers are visible being held by two different standing people (one by the person in black mask at left foreground and one by the person in the white jacket at center).",
+    "One laptop is visible on a table at the right edge of the image (laptop with open lid, placed on a table near window).",
+    "Multiple chairs are visible around the room: at least six chairs can be individually seen (several near the left and right edges and behind the demo area).",
+    "At least two tables or work surfaces are visible along the right side and rear of the room displaying objects and small exhibits (boxes, small items and posters on them).",
+    "At least two vertical poster/board displays or standing signs are visible in the mid/rear of the room (one near center rear and one near the right window area).",
+    "At least three backpacks or bags are visible on the floor or on chairs (one behind seated person at left, one near chairs, and one near the right table)."
+  ],
+  "visible_text": [
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The mini-pitch occupies the foreground center of the image; observers stand around it on the near side and both flanks.",
+    "The small wheeled robot sits inside the mini-pitch near the right-front corner of the field, adjacent to a white ball and facing toward the center of the pitch.",
+    "The blue-and-yellow goal/frame is positioned on the far side of the mini-pitch, roughly centered on the opposite edge from the camera.",
+    "A row of tables and displays runs along the right side of the room adjacent to large windows; a laptop and assorted items sit on these tables.",
+    "Chairs and backpacks are arranged to the left and rear of the mini-pitch; people standing form a loose semicircle around the front and sides of the pitch.",
+    "Ceiling fixtures and exposed ducting run along the center of the ceiling, aligned with the length of the room and the central circulation aisle."
+  ],
+  "colours_and_materials": [
+    "The mini-pitch playing surface is green with white field markings; the surrounding low panels appear opaque white/translucent plastic.",
+    "The goal/frame inside the pitch is predominantly blue with yellow corner or connecting pieces.",
+    "Floor covering is a patterned grey carpet with rectangular tile appearance.",
+    "Walls and ceiling elements are predominantly white and light grey; exposed ceiling ducts and lighting are metallic or painted light grey.",
+    "Windows along the right wall show green foliage outside and allow daylight into the space.",
+    "Clothing colours include black, white, blue and beige among the visible people; one person in the center wears a white jacket with a small dark logo."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is legible in the image; location cannot be determined from visible signage.",
+    "Most printed text on posters, boards and small labels in the room is not legible at this scale in the provided image; those texts are reported as [unreadable].",
+    "Some people and objects are partially cropped or partly obscured by others (for example, seated persons and items on the far-left and rear), so counts of chairs, small items and distant people are minimum visible counts and additional items may be present but not individually distinguishable.",
+    "The small logo on the white jacket appears to be a brand mark but is not clearly readable as text; it was not transcribed as a definite word.",
+    "Tables and displays at the right contain smaller objects and signage that could not be transcribed; specific labels, award names or equipment model names (if present) are not legible from this view."
+  ],
+  "visual_facts": [
+    "At least 9 distinct people are visible and individually distinguishable in the scene: one person at far left with hand on head, one seated behind them, one standing in the left foreground wearing a black mask and looking at a handheld controller, one standing slightly behind him wearing glasses and a white mask, one centered in a white jacket holding a controller, one standing behind the centered person in a blue shirt with arms crossed, one standing in the right foreground wearing a black t-shirt and beige pants, and at least two other persons visible in the mid/background near the center and rear of the room.",
+    "One small wheeled robot is visible on the mini playing field in the foreground (robot assembly with visible wheels and a white ball beside it).",
+    "One rectangular enclosed mini-pitch is visible in the foreground, formed by white translucent low panels on all four sides.",
+    "One small goal/frame structure (blue and yellow rectangular frame) is positioned inside the enclosed mini-pitch near the far side of the field.",
+    "Two handheld controllers are visible being held by two different standing people (one by the person in black mask at left foreground and one by the person in the white jacket at center).",
+    "One laptop is visible on a table at the right edge of the image (laptop with open lid, placed on a table near window).",
+    "Multiple chairs are visible around the room: at least six chairs can be individually seen (several near the left and right edges and behind the demo area).",
+    "At least two tables or work surfaces are visible along the right side and rear of the room displaying objects and small exhibits (boxes, small items and posters on them).",
+    "At least two vertical poster/board displays or standing signs are visible in the mid/rear of the room (one near center rear and one near the right window area).",
+    "At least three backpacks or bags are visible on the floor or on chairs (one behind seated person at left, one near chairs, and one near the right table).",
+    "The mini-pitch playing surface is green with white field markings; the surrounding low panels appear opaque white/translucent plastic.",
+    "The goal/frame inside the pitch is predominantly blue with yellow corner or connecting pieces.",
+    "Floor covering is a patterned grey carpet with rectangular tile appearance.",
+    "Walls and ceiling elements are predominantly white and light grey; exposed ceiling ducts and lighting are metallic or painted light grey.",
+    "Windows along the right wall show green foliage outside and allow daylight into the space.",
+    "Clothing colours include black, white, blue and beige among the visible people; one person in the center wears a white jacket with a small dark logo."
+  ],
+  "id": "3f8a42e3430e4005741d0989",
+  "sha256": "88d1071db5cdab64770bf3703ae084b1b0612da073a7fc3966cead2e501fc631",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:36:24.627213+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "ff16d31627b4a4029630f00a84102da03597d19139e9e59ffc4c219c489aaffe",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatzvrms3Ypk08R6GUpXIcQpdiqDh",
+  "usage": {
+    "completion_tokens": 1420,
+    "prompt_tokens": 2266,
+    "total_tokens": 3686,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1180,
+      "engine_ttlt_ms": 11797,
+      "pre_inference_ms": 430,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2070,
+      "service_ttlt_ms": 12710,
+      "user_visible_ttft_ms": 1640
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

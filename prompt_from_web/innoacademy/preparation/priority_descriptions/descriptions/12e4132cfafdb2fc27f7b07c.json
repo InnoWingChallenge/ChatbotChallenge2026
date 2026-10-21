@@ -1,0 +1,107 @@
+{
+  "title": "Group by banners and workbench with electronics",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Five distinct people are visible: one left foreground person in profile wearing a backpack (cropped at shoulders), one center-foreground person wearing glasses, and three people grouped in the mid-background (one holding a phone or small device, one standing slightly behind and smiling, and one at the far right facing sideways).",
+    "One grey backpack is visible on the back of the left foreground person (backpack straps and body visible).",
+    "At least two orange chairs or seat backs are visible at left foreground; parts of these chairs are cropped by the image edge and overlap each other.",
+    "On the right side of the image there is a workbench or counter holding multiple electronic items and cables; at least three separate electronic enclosures or devices are distinguishable along the bench surface (some partially obscured).",
+    "Three tall vertical banners or freestanding display panels are visible across the rear of the room; two show a prominent green geometric shape on a white background and one shows a white/grey patterned background with faint repeated words.",
+    "Ceiling-mounted rectangular fluorescent light panels are visible in a grid overhead (at least four distinct lit panels are visible)."
+  ],
+  "visible_text": [
+    "ROBOMASTER",
+    "FEEDBACK",
+    "KNOWLEDGE",
+    "RESEARCH",
+    "SIMULATING"
+  ],
+  "spatial_relations": [
+    "A left-foreground person (wearing a grey backpack) stands facing right and is close to a center-foreground person with glasses who faces left; their hands are near each other indicating they are interacting.",
+    "Three tall banners form a backdrop across the rear of the scene, positioned behind the group of people and extending horizontally across the image.",
+    "An electronics workbench runs along the right side of the image in front of the rightmost person; the bench holds multiple devices and cables and is roughly parallel to the right image edge.",
+    "Orange chairs are grouped at the lower-left foreground near the left-foreground person; the chairs are between the camera and the rear banners.",
+    "Ceiling light panels are arranged above the scene and cast downward illumination; exposed ceiling pipes and ductwork run across the top of the image behind the lights."
+  ],
+  "colours_and_materials": [
+    "Two banners contain a prominent green geometric shape on a white background; the rest of the banner backgrounds are white or light grey with faint grey text.",
+    "The foreground left person's backpack is grey fabric; his t-shirt is white.",
+    "Foreground center person wears a dark navy or black t-shirt with white printed text 'ROBOMASTER'.",
+    "Orange plastic or coated metal chairs are visible at left foreground.",
+    "The workbench surface at right appears to be light-coloured wood or laminate and holds equipment with metallic and plastic housings; several black and red cables lie on the bench.",
+    "Ceiling fixtures are white and the exposed ceiling pipes/ducts are painted light grey."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is visible; location cannot be determined from the image.",
+    "Some rear-banner words are partially obscured or faint; I transcribed only those clearly legible. Other banner text is present but unreadable in this resolution.",
+    "Exact count of electronic devices on the right bench is uncertain because some devices are partially overlapped or cropped; I report a minimum of three distinguishable enclosures.",
+    "The smaller text beneath or around 'ROBOMASTER' on the t-shirt is partially obscured and not fully legible; I did not infer additional words beyond the clearly readable 'ROBOMASTER'.",
+    "Some objects at the image edges are cropped (e.g., left chairs, left person's arm and backpack); counts reflect only clearly distinguishable items fully or partially visible in the frame."
+  ],
+  "visual_facts": [
+    "Five distinct people are visible: one left foreground person in profile wearing a backpack (cropped at shoulders), one center-foreground person wearing glasses, and three people grouped in the mid-background (one holding a phone or small device, one standing slightly behind and smiling, and one at the far right facing sideways).",
+    "One grey backpack is visible on the back of the left foreground person (backpack straps and body visible).",
+    "At least two orange chairs or seat backs are visible at left foreground; parts of these chairs are cropped by the image edge and overlap each other.",
+    "On the right side of the image there is a workbench or counter holding multiple electronic items and cables; at least three separate electronic enclosures or devices are distinguishable along the bench surface (some partially obscured).",
+    "Three tall vertical banners or freestanding display panels are visible across the rear of the room; two show a prominent green geometric shape on a white background and one shows a white/grey patterned background with faint repeated words.",
+    "Ceiling-mounted rectangular fluorescent light panels are visible in a grid overhead (at least four distinct lit panels are visible).",
+    "Two banners contain a prominent green geometric shape on a white background; the rest of the banner backgrounds are white or light grey with faint grey text.",
+    "The foreground left person's backpack is grey fabric; his t-shirt is white.",
+    "Foreground center person wears a dark navy or black t-shirt with white printed text 'ROBOMASTER'.",
+    "Orange plastic or coated metal chairs are visible at left foreground.",
+    "The workbench surface at right appears to be light-coloured wood or laminate and holds equipment with metallic and plastic housings; several black and red cables lie on the bench.",
+    "Ceiling fixtures are white and the exposed ceiling pipes/ducts are painted light grey."
+  ],
+  "id": "12e4132cfafdb2fc27f7b07c",
+  "sha256": "1630c595e184a5251b7d6450b4af7503b8b9988d3cc30da8624f7b55b71de0f1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:28:59.720099+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "8847d49e39d2c0bdb7a68d43c6f5651689100fea05c64abd617a05319999f6d8",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatsmQZVebTogGJTXFUWcgw4AhmJJ",
+  "usage": {
+    "completion_tokens": 1349,
+    "prompt_tokens": 2122,
+    "total_tokens": 3471,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1147,
+      "engine_ttlt_ms": 10014,
+      "pre_inference_ms": 285,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1985,
+      "service_ttlt_ms": 10845,
+      "user_visible_ttft_ms": 1699
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

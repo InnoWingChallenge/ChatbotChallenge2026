@@ -1,0 +1,90 @@
+{
+  "title": "Rows of small fluorescent-pink 3D-printed objects on a flat surface with sticker sheet behind",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "At least ten small, identical bright pink objects are visible; they are arranged in rows on a flat surface. The objects are individually distinguishable and appear to be the same shape and size.",
+    "A sheet or strip of multiple yellow-beige stickers or labels with blue printed symbols is visible in the upper background; the sheet is mostly out of focus.",
+    "No equipment nameplates, room signs, control panels or other fixed facility elements are visible."
+  ],
+  "visible_text": [
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The pink objects are arranged in at least two parallel rows running roughly left-to-right across the image, with each object closely spaced to its neighbor.",
+    "The sticker/label sheet lies behind the rows of pink objects, occupying the upper background of the image and running parallel to the rows of objects.",
+    "The camera focus is shallow: the foreground row of pink objects is out of focus/blurred while the mid-row is in clearer focus, indicating depth from foreground to background."
+  ],
+  "colours_and_materials": [
+    "The small repeated objects are a bright, fluorescent pink colour and exhibit visible horizontal layer lines consistent with fused-deposition 3D printing (material appearance: plastic).",
+    "The sheet behind the objects is yellow-beige with blue printed symbols or logos; the surface appears matte like paper or adhesive labels.",
+    "The flat surface on which objects rest appears light-coloured and slightly reflective, producing faint reflections of the pink objects."
+  ],
+  "uncertainties": [
+    "The exact function or identity of the pink objects is not legible from the image; they resemble small vehicle-like shapes but that is an observation, not a confirmed label.",
+    "Some of the pink objects at the image edges are partially out of frame or blurred; while ten objects are individually visible, additional objects outside the frame or occluded cannot be counted.",
+    "Text on the sticker sheet and any small labels on the objects are not readable in the image; therefore no exact textual transcriptions apart from [unreadable] are possible.",
+    "No room identifier, equipment nameplate, brand or model numbers are visible; therefore this image does not provide usable evidence of a specific lab, room or fixed facility."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "At least ten small, identical bright pink objects are visible; they are arranged in rows on a flat surface. The objects are individually distinguishable and appear to be the same shape and size.",
+    "A sheet or strip of multiple yellow-beige stickers or labels with blue printed symbols is visible in the upper background; the sheet is mostly out of focus.",
+    "No equipment nameplates, room signs, control panels or other fixed facility elements are visible.",
+    "The small repeated objects are a bright, fluorescent pink colour and exhibit visible horizontal layer lines consistent with fused-deposition 3D printing (material appearance: plastic).",
+    "The sheet behind the objects is yellow-beige with blue printed symbols or logos; the surface appears matte like paper or adhesive labels.",
+    "The flat surface on which objects rest appears light-coloured and slightly reflective, producing faint reflections of the pink objects."
+  ],
+  "id": "8af6e28463356f23385f2bb4",
+  "sha256": "8b3a7414b26ca90b6d086c4db957218aabce281ecf3b6720b14f18330e40da8d",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:15:09.166874+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "c9d18748fa24d061d4896caa1fe8f5b17dc9f17e8b81192b2d08ca2103f3ae0a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatfRMqxtkm8C93P2DmVsdwwirNkU",
+  "usage": {
+    "completion_tokens": 736,
+    "prompt_tokens": 2045,
+    "total_tokens": 2781,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 548,
+      "engine_ttlt_ms": 6438,
+      "pre_inference_ms": 101,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1195,
+      "service_ttlt_ms": 7075,
+      "user_visible_ttft_ms": 1094
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

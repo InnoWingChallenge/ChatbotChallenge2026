@@ -1,0 +1,111 @@
+{
+  "title": "Classroom with projected slide 'CH.1 WHAT IS RACING'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Five people are seated at the high worktables along the left-to-center of the image; each visible person is wearing a face mask. (People are individually distinguishable in the scene.)",
+    "One large projected screen is visible at the front right showing a presentation slide.",
+    "At least two ceiling-mounted devices that appear to be projectors or projector housings are visible: one near the image center and one further toward the rear ceiling.",
+    "One small desktop monitor or all-in-one computer is visible on the counter beneath the windows.",
+    "One red cable reel or hose reel is visible on the counter beneath the windows to the right of the monitor.",
+    "Multiple high worktables are present: one long central table where people sit and another table in the foreground at right.",
+    "Several stools are visible around the tables; at least six individual stools can be seen in the image (some stools are partially cropped or partly obscured by tables).",
+    "One transparent vertical panel or acrylic divider is visible at the right edge of the nearest table (foreground right).",
+    "Multiple vertical window panes are visible along the back wall; at least three window sections can be distinguished.",
+    "At least three small potted plants are visible on the window sill beneath the windows.",
+    "One backpack is on the floor beside the seated person second from the front (left-of-center)."
+  ],
+  "visible_text": [
+    "CH.1 WHAT IS RACING"
+  ],
+  "spatial_relations": [
+    "People are seated along the long central worktable from left toward the center of the image, facing the front-right projection screen.",
+    "The large projection screen is on the front-right wall relative to the image and occupies much of the right-side visual field.",
+    "Windows run along the middle-back wall between the seated area and the front projection area; the small monitor and red cable reel sit on the counter directly beneath those windows.",
+    "Ceiling-mounted projector housings are located above the central seating area; one is near the image center and another farther back toward the left side.",
+    "A foreground worktable is to the right in front of the projection screen, with stools arranged under and around it and a transparent divider attached near its corner."
+  ],
+  "colours_and_materials": [
+    "Floor appears to be smooth grey, likely concrete or polished material.",
+    "Worktable tops are light wood or wood-colour with white-painted metal frames.",
+    "Stools are predominantly black in colour.",
+    "Ceiling shows exposed infrastructure with metallic silver ducts and dark ceiling voids; suspended white acoustic panels are also visible.",
+    "Window frames have a pale green trim and the projected slide background includes white, green and photographic colour imagery of cars."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is legible in the image; therefore location is unknown from the image.",
+    "Exact object counts for stools and smaller items are limited by partial cropping and occlusion; 'at least' counts are provided where individual items are distinguishable.",
+    "Several small signs or labels appear on the glass partition at left and on equipment on the counter but their text is not legible at this resolution.",
+    "The ceiling-mounted devices are described as projectors or housings based on appearance; labels or model names on them are not readable.",
+    "The small monitor and the red cable reel are identified by visible form and colour, but any brand names or labels on them are unreadable from this image."
+  ],
+  "visual_facts": [
+    "Five people are seated at the high worktables along the left-to-center of the image; each visible person is wearing a face mask. (People are individually distinguishable in the scene.)",
+    "One large projected screen is visible at the front right showing a presentation slide.",
+    "At least two ceiling-mounted devices that appear to be projectors or projector housings are visible: one near the image center and one further toward the rear ceiling.",
+    "One small desktop monitor or all-in-one computer is visible on the counter beneath the windows.",
+    "One red cable reel or hose reel is visible on the counter beneath the windows to the right of the monitor.",
+    "Multiple high worktables are present: one long central table where people sit and another table in the foreground at right.",
+    "Several stools are visible around the tables; at least six individual stools can be seen in the image (some stools are partially cropped or partly obscured by tables).",
+    "One transparent vertical panel or acrylic divider is visible at the right edge of the nearest table (foreground right).",
+    "Multiple vertical window panes are visible along the back wall; at least three window sections can be distinguished.",
+    "At least three small potted plants are visible on the window sill beneath the windows.",
+    "One backpack is on the floor beside the seated person second from the front (left-of-center).",
+    "Floor appears to be smooth grey, likely concrete or polished material.",
+    "Worktable tops are light wood or wood-colour with white-painted metal frames.",
+    "Stools are predominantly black in colour.",
+    "Ceiling shows exposed infrastructure with metallic silver ducts and dark ceiling voids; suspended white acoustic panels are also visible.",
+    "Window frames have a pale green trim and the projected slide background includes white, green and photographic colour imagery of cars."
+  ],
+  "id": "57996cb44d68afb270324d8a",
+  "sha256": "51577230b1965270fe7eb77c8ff9d61f46d194878c493b03475d8a094665caa4",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:40:02.611904+00:00",
+  "input_resolution": [
+    2000,
+    1500
+  ],
+  "input_sha256": "823a8412c0050c2bcf33f983f6188044319620d303282f64589d1c31cd15df22",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau3T3D0lGyBmuM8qtpbbbPkoTo8D",
+  "usage": {
+    "completion_tokens": 1227,
+    "prompt_tokens": 2122,
+    "total_tokens": 3349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1153,
+      "engine_ttlt_ms": 9974,
+      "pre_inference_ms": 255,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1949,
+      "service_ttlt_ms": 10764,
+      "user_visible_ttft_ms": 1693
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

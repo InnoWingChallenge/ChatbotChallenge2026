@@ -1,0 +1,101 @@
+{
+  "title": "Cracked cylindrical concrete specimen on compression platen",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One cylindrical concrete specimen is visible, placed vertically and showing a large vertical crack on its side; the specimen is near the image center and is not fully obstructed.",
+    "One square translucent/clear plate (appears to be acrylic) is visible directly above the concrete specimen, contacting the specimen's top surface; the plate's lower edges are visible and it is largely unobscured.",
+    "One circular metal platen or round metallic base is visible beneath the specimen, concentric rings are visible on its top surface; the platen fills much of the lower half of the image.",
+    "At least one vertical polished metal guide rod is visible at the left edge (partly cropped) beside the platen; its full extent is not visible.",
+    "One black cable or wire is visible behind the specimen on the right side of the image, running vertically and partly obscured by the specimen.",
+    "Background includes tiled wall panels (count not individually enumerated) and laboratory equipment partially visible and out of focus behind the specimen; these background items are not counted as distinct pieces of test apparatus in the photographed foreground."
+  ],
+  "visible_text": [
+    "B4003"
+  ],
+  "spatial_relations": [
+    "The cylindrical concrete specimen stands vertically at the center of the image, sitting on top of the circular metal platen.",
+    "The square translucent/clear plate is directly above the specimen and appears to press down on the specimen's top; the plate's bottom surface is in contact with the specimen's top.",
+    "A vertical polished metal guide rod is located to the left of the platen and specimen, partially entering the frame from the left edge.",
+    "A black cable runs vertically behind and to the right of the specimen, positioned between the specimen and the tiled wall in the background.",
+    "Background laboratory equipment and tiled walls are behind the central test assembly and appear out of focus, indicating the photographed assembly is in the foreground."
+  ],
+  "colours_and_materials": [
+    "The cylindrical specimen is grey and has a concrete texture with visible aggregate pores and a black marker inscription.",
+    "The round platen is metallic silver with faint concentric circular marks on its top surface, suggesting a machined metal finish.",
+    "The square plate above the specimen appears translucent/clear or white and may be acrylic or plastic (material not certain).",
+    "The handwritten text on the specimen is in black marker ink.",
+    "Background wall tiles are white and glossy."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; location cannot be determined from the photograph.",
+    "Only the text 'B4003' is legible; other small labels or markings on background equipment are either out of focus or not visible and could not be transcribed.",
+    "The number of vertical guide rods is uncertain because only one is clearly visible at the left edge and others may be present outside the frame.",
+    "Material identifications (metal, acrylic, concrete) are based on visual appearance and are not confirmed by labels.",
+    "It is not possible to determine the make, model, or specific type of the test machine from the visible portions; nameplates or control labels are not legible in the image."
+  ],
+  "visual_facts": [
+    "One cylindrical concrete specimen is visible, placed vertically and showing a large vertical crack on its side; the specimen is near the image center and is not fully obstructed.",
+    "One square translucent/clear plate (appears to be acrylic) is visible directly above the concrete specimen, contacting the specimen's top surface; the plate's lower edges are visible and it is largely unobscured.",
+    "One circular metal platen or round metallic base is visible beneath the specimen, concentric rings are visible on its top surface; the platen fills much of the lower half of the image.",
+    "At least one vertical polished metal guide rod is visible at the left edge (partly cropped) beside the platen; its full extent is not visible.",
+    "One black cable or wire is visible behind the specimen on the right side of the image, running vertically and partly obscured by the specimen.",
+    "Background includes tiled wall panels (count not individually enumerated) and laboratory equipment partially visible and out of focus behind the specimen; these background items are not counted as distinct pieces of test apparatus in the photographed foreground.",
+    "The cylindrical specimen is grey and has a concrete texture with visible aggregate pores and a black marker inscription.",
+    "The round platen is metallic silver with faint concentric circular marks on its top surface, suggesting a machined metal finish.",
+    "The square plate above the specimen appears translucent/clear or white and may be acrylic or plastic (material not certain).",
+    "The handwritten text on the specimen is in black marker ink.",
+    "Background wall tiles are white and glossy."
+  ],
+  "id": "c6d1f397236ae67dfc8cd970",
+  "sha256": "4c903764e9b6afcd3ffd7ea6e2cda7d76ce1cc3aa7110c2bc608aa8f1158a43b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:20:12.618513+00:00",
+  "input_resolution": [
+    1224,
+    1632
+  ],
+  "input_sha256": "ad463fd703d16f66ad7ca5e1f7c51d2a22ae279a33e5e622d67ac844ffc5e80f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatkKm2effiLWYn6ewWATN87kViQC",
+  "usage": {
+    "completion_tokens": 840,
+    "prompt_tokens": 2122,
+    "total_tokens": 2962,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 942,
+      "engine_ttlt_ms": 6948,
+      "pre_inference_ms": 343,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1824,
+      "service_ttlt_ms": 7824,
+      "user_visible_ttft_ms": 1482
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

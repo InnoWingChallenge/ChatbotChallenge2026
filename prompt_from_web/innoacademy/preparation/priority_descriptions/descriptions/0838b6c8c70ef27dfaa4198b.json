@@ -1,0 +1,123 @@
+{
+  "title": "Table display with a wooden wind-tunnel model and project poster by a glass stairwell",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 3 people are visible: one person seated at the table with their back to the camera wearing a white shirt (central foreground), one partially visible person standing at right holding a laptop (right edge, torso and hands visible), and at least one reflected person visible in the glass behind the poster on the staircase (upper left region).",
+    "One large wooden box assembly that appears to be a model wind tunnel or duct is placed horizontally on the table spanning most of the image width (central and left regions).",
+    "One poster board mounted vertically behind the wooden assembly (centre background) with multiple panels and headings.",
+    "One small rectangular sign reading 'Project 06' with a blue panel below reading 'VOTE' and a thumbs-up icon, placed on the right edge of the wooden assembly (right of centre).",
+    "One laptop computer is visible and in use by the person at the right edge of the image (right edge, partially cropped).",
+    "One gray seat/chair is visible near the right foreground (lower right).",
+    "One white table supports the wooden assembly and objects (full-width foreground).",
+    "Two green plastic crates are visible stacked under the table near centre-right; the top crate is partly obscured by the table surface (under centre-right of table).",
+    "One short stack of metal rectangular beams or profiles is visible on the table under the wooden assembly near centre (under centre of table and visible through gaps).",
+    "One circular object is visible inside the clear viewing window cut into the wooden assembly (central front of wooden model).",
+    "One red cable or wire runs from the right end of the wooden assembly down toward the floor (right foreground).",
+    "One small notice sign is affixed to the glass behind and left of the poster (centre background, lower part of glass)."
+  ],
+  "visible_text": [
+    "FLY ON THE GROUND! - HKU's 1st USER-FRIENDLY WIND TUNNEL",
+    "FUN FACTS",
+    "APPLICATIONS",
+    "METHODOLOGY",
+    "ACCURACY",
+    "Project 06",
+    "VOTE",
+    "NOTICE",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The wooden wind-tunnel assembly sits horizontally on a white table that spans the lower portion of the image; its long axis is roughly left-to-right across the frame.",
+    "The poster board is mounted or standing directly behind the wooden assembly and is centred in the background; the poster is adjacent to and visually above the central opening of the wooden model.",
+    "The seated person in a white shirt is positioned directly in front of the central opening of the wooden assembly, facing it and the poster, with their back to the camera (foreground centre).",
+    "The 'Project 06 / VOTE' sign is attached at the right end of the wooden assembly, to the viewer's right of the poster.",
+    "Green plastic crates are stacked under the table near the centre-right under the wooden assembly, partially supporting or stored beneath the work surface.",
+    "A glass wall with a staircase behind it forms the background; reflections of at least one person appear in the glass and the staircase with mint-green panels is visible behind the poster.",
+    "A laptop user stands at the right edge of the image, holding a laptop beside the table and to the right of the wooden assembly and chair."
+  ],
+  "colours_and_materials": [
+    "The large model is made from plywood or a wood-like brown material with visible grain and joins; one end shows red tape or a red-painted edge on the right side.",
+    "The poster board background appears dark grey with white heading text at the top and lighter grey panels for section headings.",
+    "The table surface is white; the chair visible at right is grey plastic or painted material.",
+    "The stacked crates under the table are green plastic with black stenciled or printed lettering (partly obscured and upside down in view).",
+    "The background features a glass partition (transparent) and a staircase with mint-green or pale green frosted glass panels and metallic handrails."
+  ],
+  "uncertainties": [
+    "Exact text lines under the poster headings are largely unreadable at this resolution; only the poster's main headline and section headings are legible.",
+    "The small notice sign on the glass is only partially legible: 'NOTICE' is clear but the remainder of that sign's text is unreadable from this image and transcribed as [unreadable].",
+    "Text on the green plastic crates is partly visible but upside down and not fully legible; the reading of departmental text is uncertain and therefore not transcribed.",
+    "There are reflections in the glass that show additional people or figures on the staircase; it is unclear whether those are separate people or duplicates/reflections of people present elsewhere.",
+    "Some small equipment or labels on the table beneath the wooden assembly are obscured by the seated person and/or the assembly so counts or label transcriptions for those items cannot be determined from this image."
+  ],
+  "visual_facts": [
+    "At least 3 people are visible: one person seated at the table with their back to the camera wearing a white shirt (central foreground), one partially visible person standing at right holding a laptop (right edge, torso and hands visible), and at least one reflected person visible in the glass behind the poster on the staircase (upper left region).",
+    "One large wooden box assembly that appears to be a model wind tunnel or duct is placed horizontally on the table spanning most of the image width (central and left regions).",
+    "One poster board mounted vertically behind the wooden assembly (centre background) with multiple panels and headings.",
+    "One small rectangular sign reading 'Project 06' with a blue panel below reading 'VOTE' and a thumbs-up icon, placed on the right edge of the wooden assembly (right of centre).",
+    "One laptop computer is visible and in use by the person at the right edge of the image (right edge, partially cropped).",
+    "One gray seat/chair is visible near the right foreground (lower right).",
+    "One white table supports the wooden assembly and objects (full-width foreground).",
+    "Two green plastic crates are visible stacked under the table near centre-right; the top crate is partly obscured by the table surface (under centre-right of table).",
+    "One short stack of metal rectangular beams or profiles is visible on the table under the wooden assembly near centre (under centre of table and visible through gaps).",
+    "One circular object is visible inside the clear viewing window cut into the wooden assembly (central front of wooden model).",
+    "One red cable or wire runs from the right end of the wooden assembly down toward the floor (right foreground).",
+    "One small notice sign is affixed to the glass behind and left of the poster (centre background, lower part of glass).",
+    "The large model is made from plywood or a wood-like brown material with visible grain and joins; one end shows red tape or a red-painted edge on the right side.",
+    "The poster board background appears dark grey with white heading text at the top and lighter grey panels for section headings.",
+    "The table surface is white; the chair visible at right is grey plastic or painted material.",
+    "The stacked crates under the table are green plastic with black stenciled or printed lettering (partly obscured and upside down in view).",
+    "The background features a glass partition (transparent) and a staircase with mint-green or pale green frosted glass panels and metallic handrails."
+  ],
+  "id": "0838b6c8c70ef27dfaa4198b",
+  "sha256": "15e9be6a305fe5e8a94b8d251ef007a083d289fda6cf45c54ec054647795a52f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:27:04.646549+00:00",
+  "input_resolution": [
+    1652,
+    1246
+  ],
+  "input_sha256": "44b8c635ba74ca4216f055718b37d1460b9129318a7493a1357030ec07152931",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatquwP1lc3wTz3wxXQpQJlg9vNol",
+  "usage": {
+    "completion_tokens": 1494,
+    "prompt_tokens": 2122,
+    "total_tokens": 3616,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1163,
+      "engine_ttlt_ms": 11213,
+      "pre_inference_ms": 354,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1986,
+      "service_ttlt_ms": 12031,
+      "user_visible_ttft_ms": 1633
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

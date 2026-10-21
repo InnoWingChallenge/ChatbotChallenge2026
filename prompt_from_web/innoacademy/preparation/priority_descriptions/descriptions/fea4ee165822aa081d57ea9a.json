@@ -1,0 +1,106 @@
+{
+  "title": "GCC LaserPro T500 laser cutter machine",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One large standalone industrial machine occupying the frame; it appears to be a laser cutting/engraving unit.",
+    "No people are visible in the photographed scene.",
+    "Two elongated dark viewing windows are visible on the top lid of the machine (both are fully within the image and not cropped).",
+    "Two horizontal lid handles are visible on the front edge of the top lid.",
+    "One control panel with buttons and a small display is visible on the upper right area of the machine's top surface.",
+    "One red emergency stop button is visible recessed on the right front corner of the machine.",
+    "One external clear plastic canister or bottle is visible on the right side of the machine and is connected by tubing (the canister is partially visible and not cropped).",
+    "At least two black adjustable feet are visible at the lower front corners of the machine (only front feet are clearly visible)."
+  ],
+  "visible_text": [
+    "T500",
+    "GCC",
+    "LaserPro"
+  ],
+  "spatial_relations": [
+    "The machine fills the image foreground and is positioned facing the viewer so the front panel is central in the image.",
+    "Two elongated viewing windows are located on the top lid toward the front of the machine.",
+    "A pair of lid handles are mounted on the front edge of the top lid, below the viewing windows.",
+    "The control panel with a small display is set into the top surface on the machine's right side.",
+    "The red emergency stop button is recessed into the right front corner of the machine, slightly below the control panel level.",
+    "The clear plastic canister sits on the floor to the right side of the machine and is connected by tubing to the machine's right-side area.",
+    "The prominent 'GCC LaserPro' branding is on the central front panel below the lid."
+  ],
+  "colours_and_materials": [
+    "The machine has blue upper panels and a blue front panel with white or light-grey side panels and trim (painted metal appearance).",
+    "The two top viewing windows are dark/black (likely tinted plastic or glass).",
+    "Handles appear black; the emergency stop button is red with a yellow surround.",
+    "The external canister is clear plastic with visible fittings and tubing."
+  ],
+  "uncertainties": [
+    "Small labels, decals or text near the control panel and on side vents are present but not legible in this image.",
+    "The exact model designation beyond the visible 'T500' text cannot be further confirmed from other small labels that are unreadable here.",
+    "Only the front pair of adjustable feet are clearly visible; the total number of feet or casters for the entire machine cannot be determined from this single view.",
+    "Internal components, control legends, and any fine-print safety or operating labels are not readable at this resolution."
+  ],
+  "visual_facts": [
+    "One large standalone industrial machine occupying the frame; it appears to be a laser cutting/engraving unit.",
+    "No people are visible in the photographed scene.",
+    "Two elongated dark viewing windows are visible on the top lid of the machine (both are fully within the image and not cropped).",
+    "Two horizontal lid handles are visible on the front edge of the top lid.",
+    "One control panel with buttons and a small display is visible on the upper right area of the machine's top surface.",
+    "One red emergency stop button is visible recessed on the right front corner of the machine.",
+    "One external clear plastic canister or bottle is visible on the right side of the machine and is connected by tubing (the canister is partially visible and not cropped).",
+    "At least two black adjustable feet are visible at the lower front corners of the machine (only front feet are clearly visible).",
+    "The machine has blue upper panels and a blue front panel with white or light-grey side panels and trim (painted metal appearance).",
+    "The two top viewing windows are dark/black (likely tinted plastic or glass).",
+    "Handles appear black; the emergency stop button is red with a yellow surround.",
+    "The external canister is clear plastic with visible fittings and tubing."
+  ],
+  "id": "fea4ee165822aa081d57ea9a",
+  "sha256": "83190103c67351c60c03b74832206dcfda8ddcde5a1af2ada1b2102492042874",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:25:37.586971+00:00",
+  "input_resolution": [
+    630,
+    463
+  ],
+  "input_sha256": "054e3945e89a57232c852d80dc6793d184c825adb3dca75c484e99d80cee8656",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatpY2ogZ82QsG4q4nX8WvFnWGRTM",
+  "usage": {
+    "completion_tokens": 901,
+    "prompt_tokens": 1560,
+    "total_tokens": 2461,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 299,
+      "engine_ttlt_ms": 6911,
+      "pre_inference_ms": 98,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1544,
+      "service_ttlt_ms": 8122,
+      "user_visible_ttft_ms": 1447
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

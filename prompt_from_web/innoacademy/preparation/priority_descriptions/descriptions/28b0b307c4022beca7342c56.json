@@ -1,0 +1,114 @@
+{
+  "title": "Group photo in front of Tam Wing Fan Innovation Wing signage with InnoShow award signs",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing",
+  "objects_and_counts": [
+    "A large mixed-age group of people is present in the photographed scene; an exact individual count cannot be determined from the image.",
+    "At least four hand-held cardboard/foamboard signs are visible in the front row: three reading 'WINNER' with a crown graphic and the legend 'InnoShow Award', and one reading 'GOOD JOB!'.",
+    "Three large vertical/portrait-format digital display panels or screens form the background behind the group; they display event graphics.",
+    "One brass or gold-coloured hanging bell is mounted high on the right side of the image, next to the Tam Wing Fan Innovation Wing sign.",
+    "One freestanding vertical banner at the right-back of the group shows faculty branding and the word 'Innovation'.",
+    "Multiple people are wearing name badges or lanyards (exact count not determined from the image).",
+    "A carpeted floor and several visible chairs or seating elements at the very edges are present but not centrally featured."
+  ],
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "FACULTY OF ENGINEERING",
+    "WINNER",
+    "InnoShow Award",
+    "GOOD JOB!",
+    "BE PART OF",
+    "INNO SHOW",
+    "THE 11TH ENGINEERING",
+    "Innovation",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG"
+  ],
+  "spatial_relations": [
+    "The Tam Wing Fan Innovation Wing sign with 'FACULTY OF ENGINEERING' is mounted high on the right wall, immediately to the left of a hanging brass-coloured bell.",
+    "Three large vertical display panels/screens form a continuous background across the center and left of the image; event artwork and the words 'BE PART OF' and 'INNO SHOW' are shown on those panels.",
+    "The group is arranged in multiple rows: a front kneeling/sitting row holding the 'WINNER' and 'GOOD JOB!' signs, at least one middle standing row directly behind them, and one or more full standing rows to the rear against the screens.",
+    "A vertical banner with faculty/innovation branding stands behind the group at right-rear, roughly to the right of the central screens.",
+    "The hanging bell is positioned to the right of the banner and directly adjacent to the Tam Wing Fan Innovation Wing sign on the right wall."
+  ],
+  "colours_and_materials": [
+    "The hand-held 'WINNER' and 'GOOD JOB!' signs are white with a yellow/gold crown graphic and multicoloured letters; the crown graphic includes orange/yellow tones and small wing motifs in grey.",
+    "The hanging bell appears brass or gold-coloured and metallic.",
+    "The floor is covered with light grey carpet with visible linear texture.",
+    "The backdrop screens show blue and white cloud-like graphics and other coloured artwork.",
+    "Walls and permanent signage are predominantly white and light grey with black and green text on the Tam Wing Fan Innovation Wing sign."
+  ],
+  "uncertainties": [
+    "Exact total number of people in the group cannot be determined reliably from this single wide-angle image because of overlap and partial cropping at the left and right edges.",
+    "Several lines of small or distant text on the central screen are partially legible; for example, the line(s) beneath 'THE 11TH ENGINEERING' include smaller words and a date that are not fully readable and are reported here as [unreadable] in places.",
+    "Some faculty branding on the right vertical banner includes small text (for example, institution or departmental lines) that is not fully legible at this image resolution.",
+    "There may be additional signage or labels on clothing (badges) and small labels on screens or stands that are not readable in this image crop.",
+    "The transcription list includes the most clearly legible strings seen at this resolution; shorter or partial fragments in smaller type were omitted rather than risk incorrect transcription."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing",
+    "A large mixed-age group of people is present in the photographed scene; an exact individual count cannot be determined from the image.",
+    "At least four hand-held cardboard/foamboard signs are visible in the front row: three reading 'WINNER' with a crown graphic and the legend 'InnoShow Award', and one reading 'GOOD JOB!'.",
+    "Three large vertical/portrait-format digital display panels or screens form the background behind the group; they display event graphics.",
+    "One brass or gold-coloured hanging bell is mounted high on the right side of the image, next to the Tam Wing Fan Innovation Wing sign.",
+    "One freestanding vertical banner at the right-back of the group shows faculty branding and the word 'Innovation'.",
+    "Multiple people are wearing name badges or lanyards (exact count not determined from the image).",
+    "A carpeted floor and several visible chairs or seating elements at the very edges are present but not centrally featured.",
+    "The hand-held 'WINNER' and 'GOOD JOB!' signs are white with a yellow/gold crown graphic and multicoloured letters; the crown graphic includes orange/yellow tones and small wing motifs in grey.",
+    "The hanging bell appears brass or gold-coloured and metallic.",
+    "The floor is covered with light grey carpet with visible linear texture.",
+    "The backdrop screens show blue and white cloud-like graphics and other coloured artwork.",
+    "Walls and permanent signage are predominantly white and light grey with black and green text on the Tam Wing Fan Innovation Wing sign."
+  ],
+  "id": "28b0b307c4022beca7342c56",
+  "sha256": "69334f38850d57113bf9d547d9b59d31b972bb966649f8d36519037306b90f6e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:33:04.562482+00:00",
+  "input_resolution": [
+    2400,
+    759
+  ],
+  "input_sha256": "c4a0068fa5400d4088ecd618211367464eaca91c9d6c82f3b2bd9608d586552b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatwi5cBGXVlMTBsqXOkZRPKa7vzV",
+  "usage": {
+    "completion_tokens": 1446,
+    "prompt_tokens": 2813,
+    "total_tokens": 4259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 380,
+      "engine_ttlt_ms": 10915,
+      "pre_inference_ms": 192,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 667,
+      "service_ttlt_ms": 11197,
+      "user_visible_ttft_ms": 475
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

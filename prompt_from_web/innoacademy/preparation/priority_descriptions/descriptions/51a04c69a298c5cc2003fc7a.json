@@ -1,0 +1,111 @@
+{
+  "title": "Person using a pipette over a clear plastic tray with purple box and red wires",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One person is visible from the chest up and leaning over a work surface; the face is angled downward and partially visible (no name provided in image).",
+    "Two gloved hands (blue nitrile gloves) are visible and are both holding a single handheld pipette; the pipette and hands are centered in the image.",
+    "One handheld adjustable pipette is visible, held vertically with a disposable pipette tip attached and the tip inserted into a clear plastic tray or well plate at the center-bottom of the image.",
+    "One clear plastic tray or multiwell-like plate is visible in the center-bottom; it is partially filled or contains liquid (green is visible in at least one well).",
+    "One purple translucent plastic container or box is visible directly behind the clear tray; it appears to be a storage or tip box.",
+    "One set of red insulated wires (at least two visible strands) crosses the foreground at right and rests on the work surface.",
+    "One white plastic bucket or large cup with a blue and orange label is visible at left foreground; it is cropped by the image edge.",
+    "One small clear plastic lid or component with vertical ribs is visible on top of the purple box.",
+    "No other clearly identifiable laboratory instruments (for example, centrifuges, microscopes) are fully visible in the photographed scene; posters or screens are not present in the visible area."
+  ],
+  "visible_text": [
+    "adidas",
+    "中国",
+    "100"
+  ],
+  "spatial_relations": [
+    "The person occupies the upper-center and right portion of the image, leaning forward over the work surface.",
+    "Both gloved hands are centered slightly left-of-center; they hold the pipette vertically with the tip pointing downward into the clear plastic tray located at the center-bottom of the image.",
+    "The purple translucent box sits immediately behind (slightly upper of) the clear tray and is partially obscured by the person's forearm on the right.",
+    "The white plastic bucket with the blue/orange label is in the left foreground, partially cropped by the left image edge and positioned in front of a dark background.",
+    "Red insulated wires run across the lower-right foreground, passing in front of the clear tray and purple box and overlapping with the person's right forearm area in the image.",
+    "The person's head is at the top-right quadrant, above the work area; hair strands fall toward the center of the image over the right glove and pipette region."
+  ],
+  "colours_and_materials": [
+    "The gloves are bright blue and appear to be nitrile or latex (synthetic glove material inferred from appearance).",
+    "The person's shirt is light pink with a black 'adidas' logo and black Chinese characters beneath it.",
+    "The plastic tray is clear/transparent, showing green liquid in at least one well; the box behind it is translucent purple plastic.",
+    "Red insulated electrical wires are visible in the foreground.",
+    "A white plastic bucket or cup with a blue and orange printed label is at left; the label text is blue on a white background with an orange accent."
+  ],
+  "uncertainties": [
+    "The exact model, brand or model number of the handheld pipette is not legible from this image; no complete pipette label text could be confidently transcribed.",
+    "Smaller labels on the purple box and the clear tray are not legible in the provided image.",
+    "The partial numeric text '100' on the white container is transcribed but the surrounding text and context of that number are unreadable.",
+    "The clear tray's exact type (e.g., multiwell plate, gel tray, tip rack) cannot be determined with certainty from appearance alone.",
+    "The red wires' connection points and function are not visible and cannot be identified from the image.",
+    "Only one person is clearly visible; there may be other people partially out of frame but they cannot be reliably counted or identified from this image."
+  ],
+  "visual_facts": [
+    "One person is visible from the chest up and leaning over a work surface; the face is angled downward and partially visible (no name provided in image).",
+    "Two gloved hands (blue nitrile gloves) are visible and are both holding a single handheld pipette; the pipette and hands are centered in the image.",
+    "One handheld adjustable pipette is visible, held vertically with a disposable pipette tip attached and the tip inserted into a clear plastic tray or well plate at the center-bottom of the image.",
+    "One clear plastic tray or multiwell-like plate is visible in the center-bottom; it is partially filled or contains liquid (green is visible in at least one well).",
+    "One purple translucent plastic container or box is visible directly behind the clear tray; it appears to be a storage or tip box.",
+    "One set of red insulated wires (at least two visible strands) crosses the foreground at right and rests on the work surface.",
+    "One white plastic bucket or large cup with a blue and orange label is visible at left foreground; it is cropped by the image edge.",
+    "One small clear plastic lid or component with vertical ribs is visible on top of the purple box.",
+    "No other clearly identifiable laboratory instruments (for example, centrifuges, microscopes) are fully visible in the photographed scene; posters or screens are not present in the visible area.",
+    "The gloves are bright blue and appear to be nitrile or latex (synthetic glove material inferred from appearance).",
+    "The person's shirt is light pink with a black 'adidas' logo and black Chinese characters beneath it.",
+    "The plastic tray is clear/transparent, showing green liquid in at least one well; the box behind it is translucent purple plastic.",
+    "Red insulated electrical wires are visible in the foreground.",
+    "A white plastic bucket or cup with a blue and orange printed label is at left; the label text is blue on a white background with an orange accent."
+  ],
+  "id": "51a04c69a298c5cc2003fc7a",
+  "sha256": "60c8d9df4a17215a12015e64c7eb5649a18754e1357d872a4292e8c560395d6b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:39:16.005298+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "8c2a98e553ca0d8c98ea298676afe524ac30063cb76faee6884e9e7f2641424f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau2i47YbVn6DHwCR7ygEikV6aHNS",
+  "usage": {
+    "completion_tokens": 1327,
+    "prompt_tokens": 2237,
+    "total_tokens": 3564,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1153,
+      "engine_ttlt_ms": 9822,
+      "pre_inference_ms": 406,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2007,
+      "service_ttlt_ms": 10670,
+      "user_visible_ttft_ms": 1601
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

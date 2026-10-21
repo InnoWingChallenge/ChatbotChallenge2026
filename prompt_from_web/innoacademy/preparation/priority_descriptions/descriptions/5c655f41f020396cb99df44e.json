@@ -1,0 +1,101 @@
+{
+  "title": "Group in front of 'Global Inclusive Leadership Centre' wall sign",
+  "suitable": true,
+  "location": "Global Inclusive Leadership Centre",
+  "objects_and_counts": [
+    "15 people are visible in the photographed scene, standing in a single group row across the frame; individuals at both far left and far right are fully visible but the person at the far right is partially cut by the image edge.",
+    "One large wall sign composed of raised three-dimensional letters is mounted on the grey painted wall behind the group; the sign includes Chinese characters and an English line beneath them.",
+    "A doorway or open passage is visible at the far left of the image (no door leaf visible) and a large glazed window or glass wall is visible at the far right providing daylight into the space.",
+    "Multiple pairs of shoes are visible on the floor in front of the group (each person wearing footwear), but a reliable total number of distinct shoe types beyond the people count is not separate from the person count and is therefore not given.",
+    "No laboratory instruments, racks, benches, control panels, or other fixed technical equipment are visibly present in the photographed scene; clothing items, bags or small personal items are present but not counted as equipment."
+  ],
+  "visible_text": [
+    "国际容领中心",
+    "Global Inclusive Leadership Centre",
+    "ATHLETICS",
+    "UPSOAR",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The raised sign with Chinese characters is centered on the grey wall and the English line 'Global Inclusive Leadership Centre' sits directly beneath the Chinese characters; the group of people stands directly in front of and below the sign, blocking the lower portion of the wall.",
+    "A doorway or open passage is located to the left of the sign and group; the glazed window or glass wall is located to the right of the group, allowing natural light from that side.",
+    "People are arranged in a roughly single horizontal row across the middle of the image, with a small gap on the far left between the leftmost person and the doorway and a narrow margin on the far right between the rightmost person and the glass.",
+    "Floor is continuous tiled flooring across the foreground; the wall sign is fixed above a narrow black baseboard or skirting that runs behind the group."
+  ],
+  "colours_and_materials": [
+    "The wall behind the group is painted a matte grey and the sign letters are white three-dimensional characters with some shadowing from the overhead lighting.",
+    "Flooring appears to be light-coloured polished tiles (pale beige or off-white) with visible grout lines.",
+    "Clothing across the group is varied: visible colours include yellow, white, black, navy, green and striped patterns; one person wears a green shirt with the word 'ATHLETICS' and another wears a yellow top. Footwear includes white sneakers and darker athletic shoes.",
+    "Natural light enters from the right through a glazed area, creating brighter illumination on the right side of the group."
+  ],
+  "uncertainties": [
+    "The exact Chinese characters are transcribed as seen but character segmentation or minor strokes may be ambiguous from the image; the transcription '国际容领中心' is based on visible shapes but could contain recognition uncertainty.",
+    "There is additional smaller text below the English line on the wall that is partly obscured by the people and not legible from this image; that text is marked as [unreadable].",
+    "Some printed text on clothing is partially legible ('UPSOAR' and 'ATHLETICS') but other shirt text and small logos (for example on a white cap and several t-shirts) are unreadable or partly obscured and therefore not transcribed.",
+    "No equipment nameplates, model numbers, or facility room numbers are visible; therefore the provided location is based on the visible wall sign rather than any separate posted room identifier.",
+    "Because parts of the scene are near the image edges (particularly the person at the far right and the doorway at the far left), a small amount of cropping may hide additional signage or objects not visible in this frame."
+  ],
+  "visual_facts": [
+    "Visible location text: Global Inclusive Leadership Centre",
+    "15 people are visible in the photographed scene, standing in a single group row across the frame; individuals at both far left and far right are fully visible but the person at the far right is partially cut by the image edge.",
+    "One large wall sign composed of raised three-dimensional letters is mounted on the grey painted wall behind the group; the sign includes Chinese characters and an English line beneath them.",
+    "A doorway or open passage is visible at the far left of the image (no door leaf visible) and a large glazed window or glass wall is visible at the far right providing daylight into the space.",
+    "Multiple pairs of shoes are visible on the floor in front of the group (each person wearing footwear), but a reliable total number of distinct shoe types beyond the people count is not separate from the person count and is therefore not given.",
+    "No laboratory instruments, racks, benches, control panels, or other fixed technical equipment are visibly present in the photographed scene; clothing items, bags or small personal items are present but not counted as equipment.",
+    "The wall behind the group is painted a matte grey and the sign letters are white three-dimensional characters with some shadowing from the overhead lighting.",
+    "Flooring appears to be light-coloured polished tiles (pale beige or off-white) with visible grout lines.",
+    "Clothing across the group is varied: visible colours include yellow, white, black, navy, green and striped patterns; one person wears a green shirt with the word 'ATHLETICS' and another wears a yellow top. Footwear includes white sneakers and darker athletic shoes.",
+    "Natural light enters from the right through a glazed area, creating brighter illumination on the right side of the group."
+  ],
+  "id": "5c655f41f020396cb99df44e",
+  "sha256": "01611fb6259ec812c7349889e5f5b88679b153978581e0aebc6b287a98f348cb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:41:02.719337+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "925cd559ab418931dd37c42bbc81994b656ad6bd0e3b81f907699b92baf02bce",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau4QJxH1fYRecpN5JIJA0jeClLr8",
+  "usage": {
+    "completion_tokens": 1509,
+    "prompt_tokens": 2266,
+    "total_tokens": 3775,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 640,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 318,
+      "engine_ttlt_ms": 11334,
+      "pre_inference_ms": 373,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 785,
+      "service_ttlt_ms": 11797,
+      "user_visible_ttft_ms": 412
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

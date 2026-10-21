@@ -1,0 +1,101 @@
+{
+  "title": "Single mechanical assembly CAD view with upper wheel and lower spherical end",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One complete mechanical assembly is visible, shown as a single suspended or isolated CAD model.",
+    "One circular flange or disk at the top of the assembly with four visible fasteners (screws or bolts) arrayed around its perimeter and one central protruding boss.",
+    "One larger circular wheel or pulley feature adjacent to the top of the vertical arm (the wheel's face is visible).",
+    "One vertical rectangular arm or column forming the central spine of the assembly.",
+    "One U-shaped or cradle bracket attached around the lower portion of the vertical arm.",
+    "One spherical end feature (ball) at the bottom tip of the assembly.",
+    "One pair of parallel elongated slots is visible on the lower forward portion of the assembly (slotted feature).",
+    "One cluster of three round holes (arranged triangularly) visible on the right side of the lower bracket.",
+    "Three circular holes visible along the outer face of the vertical arm above the U-bracket (counted individually as visually distinct)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The circular flange/disk is positioned at the top left of the image and is attached to the top of the vertical arm; its four screws surround a central boss.",
+    "The larger circular wheel/pulley is located at the top right of the vertical arm, adjacent to the flange and roughly aligned with the arm's axis.",
+    "The vertical rectangular arm runs from the top assembly down toward the lower bracket and connects to the U-shaped cradle around its mid-to-lower section.",
+    "The U-shaped bracket wraps around the vertical arm below the midsection and supports the transition to the lower tapered portion of the assembly.",
+    "The pair of parallel elongated slots is located on the forward (visible) face of the lower tapered portion, above the spherical ball.",
+    "The spherical ball is attached at the very bottom tip of the tapered lower member, centered on its axis and casting a shadow on the background.",
+    "The cluster of three round holes is on the right exterior wall of the lower bracket relative to the central arm and is distinct from the holes along the arm face."
+  ],
+  "colours_and_materials": [
+    "The model is shaded in shades of grey and bluish-grey typical of CAD default appearance; surfaces show uniform diffuse shading with subtle specular highlights.",
+    "No real-world material texture (e.g., metal grain, plastic sheen) is distinguishable beyond CAD shading; any material identification is uncertain."
+  ],
+  "uncertainties": [
+    "No room name, room number, signage or other location-identifying text is visible in the image; location is unknown from image.",
+    "There is no legible printed or engraved text visible on the parts; visible_text is empty because no readable labels or markings are present.",
+    "Some smaller features and holes are partially occluded by perspective or shadow; counts for very small fasteners or hidden features cannot be determined from this single view.",
+    "The identification of features as 'screws', 'wheel/pulley', 'bracket', and 'ball' is based on visible shape only; their functional or material specifications are not determinable from the image.",
+    "The exact number of small holes or fasteners on obscured faces cannot be determined; only the visible faces and features have been counted."
+  ],
+  "visual_facts": [
+    "One complete mechanical assembly is visible, shown as a single suspended or isolated CAD model.",
+    "One circular flange or disk at the top of the assembly with four visible fasteners (screws or bolts) arrayed around its perimeter and one central protruding boss.",
+    "One larger circular wheel or pulley feature adjacent to the top of the vertical arm (the wheel's face is visible).",
+    "One vertical rectangular arm or column forming the central spine of the assembly.",
+    "One U-shaped or cradle bracket attached around the lower portion of the vertical arm.",
+    "One spherical end feature (ball) at the bottom tip of the assembly.",
+    "One pair of parallel elongated slots is visible on the lower forward portion of the assembly (slotted feature).",
+    "One cluster of three round holes (arranged triangularly) visible on the right side of the lower bracket.",
+    "Three circular holes visible along the outer face of the vertical arm above the U-bracket (counted individually as visually distinct).",
+    "The model is shaded in shades of grey and bluish-grey typical of CAD default appearance; surfaces show uniform diffuse shading with subtle specular highlights.",
+    "No real-world material texture (e.g., metal grain, plastic sheen) is distinguishable beyond CAD shading; any material identification is uncertain."
+  ],
+  "id": "27b3503692c246eb0d47550b",
+  "sha256": "1919e35717893a92fe7e9588a598eae13a93ac6b43010ed1b5ab32341753e376",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:07:49.842848+00:00",
+  "input_resolution": [
+    418,
+    662
+  ],
+  "input_sha256": "3df43e5d676656fd8326c4e4d0fde1883673ac5e69b9691363543a0291af4151",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatYLFcZpNRVX2lghS4kCF06FF5Kp",
+  "usage": {
+    "completion_tokens": 1064,
+    "prompt_tokens": 1553,
+    "total_tokens": 2617,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 283,
+      "engine_ttlt_ms": 7020,
+      "pre_inference_ms": 110,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 904,
+      "service_ttlt_ms": 7636,
+      "user_visible_ttft_ms": 794
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

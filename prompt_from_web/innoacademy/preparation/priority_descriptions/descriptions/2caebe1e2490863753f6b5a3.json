@@ -1,0 +1,112 @@
+{
+  "title": "Audience watching a presentation on immersive A/VR solutions in a tiered seating area",
+  "suitable": true,
+  "location": "Innovation",
+  "objects_and_counts": [
+    "At least 18 seated or standing people are visible across the image; people are clustered in the foreground on stepped seating and standing along the left side. (This is a visible minimum; some heads are partially obscured.)",
+    "One standing presenter at the front right of the room holding a handheld microphone and facing the audience.",
+    "One large illuminated presentation display or projection screen centered on the front wall.",
+    "One small podium or table at the front right near the presenter with at least one laptop or small device on it (partially obscured).",
+    "One small round table or workstation on the far right with a desktop monitor and associated cables or peripherals.",
+    "One wall-mounted speaker visible above and slightly left of the presentation screen.",
+    "One illuminated emergency exit sign with arrow visible above a doorway on the right wall.",
+    "Several modular stepped bench/seat units in the audience area; at least eight bench modules with blue or grey upholstered tops are visible.",
+    "Several glass partition panels or interior glass walls are visible behind and to the left of the audience with posted papers or notices attached (multiple sheets visible)."
+  ],
+  "visible_text": [
+    "Innovation",
+    "IMMERSIVE EXPERIENCE: A/VR SOLUTIONS",
+    "INNOVATION & TECHNOLOGIES",
+    "ADVANCEMENTS AND FUTURE OUTLOOK",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The audience faces the large presentation screen which occupies the central front wall of the room.",
+    "The presenter stands to the right of the screen (from the viewer's perspective) beside a small podium or table with a device on it.",
+    "Tiered modular seating runs from the foreground center to the left side of the image; some viewers are seated on the steps and others stand behind them along the left side.",
+    "Glass partition panels are located behind the left-side seating and create a separation between the seating area and a rear space.",
+    "A small workstation with a monitor sits against the right wall near a doorway under an illuminated exit sign."
+  ],
+  "colours_and_materials": [
+    "The ceiling beam above the seating area is painted a pale mint green.",
+    "Seating modules have blue and grey upholstered tops.",
+    "Walls and the presentation screen background are predominantly white.",
+    "Exposed ductwork and ceiling infrastructure are metallic silver.",
+    "Glass partition panels are transparent with posted white papers attached."
+  ],
+  "uncertainties": [
+    "The exact count of people is a visible minimum (at least 18); several heads and bodies are partially obscured so the true number may be higher.",
+    "Some slide captions and smaller text on the presentation screen are not legible at this resolution; the transcription includes the largest legible headings but smaller lines of body text are unreadable.",
+    "The full official room name is not certain; the single visible word 'Innovation' appears on a wall but could be part of a longer phrase that is not fully visible.",
+    "Text on notices posted on the glass partitions and on small equipment labels (for example on the podium or desktop monitor) is not readable; these are not transcribed.",
+    "The item described as a 'laptop or small device' on the presenter table is partially obscured so its exact nature cannot be determined."
+  ],
+  "visual_facts": [
+    "Visible location text: Innovation",
+    "At least 18 seated or standing people are visible across the image; people are clustered in the foreground on stepped seating and standing along the left side. (This is a visible minimum; some heads are partially obscured.)",
+    "One standing presenter at the front right of the room holding a handheld microphone and facing the audience.",
+    "One large illuminated presentation display or projection screen centered on the front wall.",
+    "One small podium or table at the front right near the presenter with at least one laptop or small device on it (partially obscured).",
+    "One small round table or workstation on the far right with a desktop monitor and associated cables or peripherals.",
+    "One wall-mounted speaker visible above and slightly left of the presentation screen.",
+    "One illuminated emergency exit sign with arrow visible above a doorway on the right wall.",
+    "Several modular stepped bench/seat units in the audience area; at least eight bench modules with blue or grey upholstered tops are visible.",
+    "Several glass partition panels or interior glass walls are visible behind and to the left of the audience with posted papers or notices attached (multiple sheets visible).",
+    "The ceiling beam above the seating area is painted a pale mint green.",
+    "Seating modules have blue and grey upholstered tops.",
+    "Walls and the presentation screen background are predominantly white.",
+    "Exposed ductwork and ceiling infrastructure are metallic silver.",
+    "Glass partition panels are transparent with posted white papers attached."
+  ],
+  "id": "2caebe1e2490863753f6b5a3",
+  "sha256": "d0a69f4cc3f7b27e593820dfc6b9063f66bca3b7a9373b401c47ec5116fdd7f7",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:33:54.009095+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "e446d3da21b7033c6b33b80a52e4b3a1c2e5f8a0ae4d3f487446dd5501549194",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatxWTfIWQUBcGyBqn5JyVwZ6pX30",
+  "usage": {
+    "completion_tokens": 1188,
+    "prompt_tokens": 2266,
+    "total_tokens": 3454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1281,
+      "engine_ttlt_ms": 10458,
+      "pre_inference_ms": 356,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2185,
+      "service_ttlt_ms": 11356,
+      "user_visible_ttft_ms": 1828
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

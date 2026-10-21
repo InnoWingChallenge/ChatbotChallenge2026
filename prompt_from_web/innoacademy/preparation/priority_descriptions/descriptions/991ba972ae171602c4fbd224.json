@@ -1,0 +1,85 @@
+{
+  "title": "Black dotted QR code image",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the image.",
+    "Three large corner position markers (rounded square finder patterns) are visible: one at the top-left corner, one at the top-right corner, and one at the bottom-left corner; each is a concentric rounded-square motif consisting of a black outer rounded square, a white inner rounded square, and a smaller black rounded square center.",
+    "A dense pattern of many small black circular dots arranged in a grid-like QR code layout fills the central and right-hand areas of the image; the exact number of dots cannot be determined from the image.",
+    "No printed signs, labels, equipment nameplates, or other discrete objects (chairs, tables, machines) are visible in the photographed scene; all visible graphic elements are part of the QR code pattern itself."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The three large rounded-square finder patterns are positioned at the image corners: top-left, top-right, and bottom-left; there is no corresponding bottom-right finder pattern.",
+    "The remainder of the image area is filled with many small black circular dots arranged in a square matrix pattern typical of a QR code; these dots are distributed across the central, right-hand and lower portions of the image between and around the corner markers.",
+    "The finder patterns are separated from each other by areas of the dotted matrix; the top-left and top-right markers lie on the same horizontal band near the image top, while the bottom-left marker lies on a horizontal band near the image bottom."
+  ],
+  "colours_and_materials": [
+    "The image consists of black graphic elements (solid black rounded squares and black circular dots) on a white background.",
+    "The finder patterns and dots have smooth, filled black shapes; the dots are circular (rounded) rather than square pixels."
+  ],
+  "uncertainties": [
+    "There is no readable printed textual content or numeric labels in the image to transcribe; any encoded data in the QR code is not human-readable without decoding and therefore is not transcribed here.",
+    "The exact count of the small black circular dots is not provided because individual dots are numerous and some may be visually overlapping or near the image edges; a precise per-dot count cannot be reliably determined from this view.",
+    "No room identifier, equipment nameplate, or other facility signage is visible; therefore the physical location or association with any specific building or wing cannot be established from this image."
+  ],
+  "visual_facts": [
+    "No people are visible in the image.",
+    "Three large corner position markers (rounded square finder patterns) are visible: one at the top-left corner, one at the top-right corner, and one at the bottom-left corner; each is a concentric rounded-square motif consisting of a black outer rounded square, a white inner rounded square, and a smaller black rounded square center.",
+    "A dense pattern of many small black circular dots arranged in a grid-like QR code layout fills the central and right-hand areas of the image; the exact number of dots cannot be determined from the image.",
+    "No printed signs, labels, equipment nameplates, or other discrete objects (chairs, tables, machines) are visible in the photographed scene; all visible graphic elements are part of the QR code pattern itself.",
+    "The image consists of black graphic elements (solid black rounded squares and black circular dots) on a white background.",
+    "The finder patterns and dots have smooth, filled black shapes; the dots are circular (rounded) rather than square pixels."
+  ],
+  "id": "991ba972ae171602c4fbd224",
+  "sha256": "254add17cdfc713597f961a1aa5130fe1e773b8ba2292a73bda6e3ce10d1bdcc",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:16:59.183300+00:00",
+  "input_resolution": [
+    1014,
+    1014
+  ],
+  "input_sha256": "997ed6c780af30e1120cc0435ccd58f895a67e06af81e501141072a071a4aa83",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EathEi5GLBpiqAp3lViZBu8fslGwx",
+  "usage": {
+    "completion_tokens": 680,
+    "prompt_tokens": 1892,
+    "total_tokens": 2572,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 727,
+      "engine_ttlt_ms": 5537,
+      "pre_inference_ms": 227,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1400,
+      "service_ttlt_ms": 6203,
+      "user_visible_ttft_ms": 1172
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

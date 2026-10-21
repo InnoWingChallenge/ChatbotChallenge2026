@@ -1,0 +1,117 @@
+{
+  "title": "Workbench with open black instrument, monitor and QDK poster",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One computer monitor is visible at the front-left of the image, placed on the near desk and displaying a dark circular image on-screen.",
+    "One standard keyboard and one computer mouse are visible on the near desk in front of the monitor.",
+    "One black box-style instrument with a hinged lid open is on the corner of the bench to the right of the monitor; the lid is propped open and internal components and cables are visible.",
+    "Two small optical posts/mounts (short cylindrical stands) are visible on the near desk between the monitor and the black instrument.",
+    "One thin curved tube or fibre cable extends from the black instrument across the bench toward the right-side table; the portion visible is curved and enters the frame from the instrument.",
+    "Several loose cables and a coiled power/extension cable are visible on and under the right-side table (multiple cables present but exact count cannot be determined).",
+    "One large blue-and-white wall poster consisting of multiple panels titled 'Quantum Demonstrator Kit (QDK)' is mounted on the wall above the right-side bench.",
+    "Two cardboard boxes containing papers and small items are on the right-side bench; one box is open with loose papers visible.",
+    "One flat rectangular object that appears to be a closed laptop or thin device is on the right-side bench beneath some cables (identification uncertain).",
+    "One small rectangular remote or phone-like object and one power strip or similar rectangular electronic item are on the right-side bench next to the boxes."
+  ],
+  "visible_text": [
+    "Quantum Demonstrator Kit (QDK)",
+    "What is \"Quantum\"?",
+    "Nitrogen-Vacancy (NV) Centers in Diamond",
+    "Optically Detected Magnetic Resonance (ODMR)",
+    "QDK features",
+    "PULL"
+  ],
+  "spatial_relations": [
+    "A large window with a glass partition occupies the left-middle background; through it a corridor and a glass door with a vertical 'PULL' sign are visible.",
+    "The monitor and keyboard are placed on a near white desk at the bottom-left of the image; the open black instrument sits on the adjoining corner of that desk to the right of the monitor.",
+    "The black instrument's lid is open and hinged toward the back-left; optical posts are arranged in front of and slightly to the right of the monitor near the instrument.",
+    "A separate right-side bench or table runs along the right wall beneath the QDK poster; on that bench are boxes, cables, and the small rectangular device (possible laptop).",
+    "Cables from the black instrument run across the corner area and toward the items on the right-side bench; several cables and a coiled power extension lie on or under that bench.",
+    "The QDK poster is mounted on the wall above the right-side bench, roughly centered over that workspace."
+  ],
+  "colours_and_materials": [
+    "Walls are white and the benches/desks are light-coloured (white or off-white) with grey modesty panels on the right-side bench.",
+    "The large poster has a blue header and multiple white panels with blue borders/accents.",
+    "The instrument box is black with a glossy or semi-gloss finish; its interior shows black structural parts and some coloured wires.",
+    "The monitor bezel and keyboard are black; cables are predominantly black and white.",
+    "Cardboard boxes are brown with white paper contents visible."
+  ],
+  "uncertainties": [
+    "Small text within the QDK poster panels is not legible in this image beyond the main headings transcribed; individual panel captions and diagrams are unreadable.",
+    "Several small labels and wall-mounted controls to the left of the glass window are visible but the text on them is unreadable.",
+    "The exact number of loose cables on and under the right-side bench cannot be determined from the image; only that multiple cables are present.",
+    "The flat rectangular object on the right bench resembles a closed laptop but this identification is uncertain from the image.",
+    "Some items on the right-side bench are partially obscured or cropped at the frame edge (for example the contents of the open boxes), preventing complete description."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One computer monitor is visible at the front-left of the image, placed on the near desk and displaying a dark circular image on-screen.",
+    "One standard keyboard and one computer mouse are visible on the near desk in front of the monitor.",
+    "One black box-style instrument with a hinged lid open is on the corner of the bench to the right of the monitor; the lid is propped open and internal components and cables are visible.",
+    "Two small optical posts/mounts (short cylindrical stands) are visible on the near desk between the monitor and the black instrument.",
+    "One thin curved tube or fibre cable extends from the black instrument across the bench toward the right-side table; the portion visible is curved and enters the frame from the instrument.",
+    "Several loose cables and a coiled power/extension cable are visible on and under the right-side table (multiple cables present but exact count cannot be determined).",
+    "One large blue-and-white wall poster consisting of multiple panels titled 'Quantum Demonstrator Kit (QDK)' is mounted on the wall above the right-side bench.",
+    "Two cardboard boxes containing papers and small items are on the right-side bench; one box is open with loose papers visible.",
+    "One flat rectangular object that appears to be a closed laptop or thin device is on the right-side bench beneath some cables (identification uncertain).",
+    "One small rectangular remote or phone-like object and one power strip or similar rectangular electronic item are on the right-side bench next to the boxes.",
+    "Walls are white and the benches/desks are light-coloured (white or off-white) with grey modesty panels on the right-side bench.",
+    "The large poster has a blue header and multiple white panels with blue borders/accents.",
+    "The instrument box is black with a glossy or semi-gloss finish; its interior shows black structural parts and some coloured wires.",
+    "The monitor bezel and keyboard are black; cables are predominantly black and white.",
+    "Cardboard boxes are brown with white paper contents visible."
+  ],
+  "id": "6d4ba965fdbc206955210c56",
+  "sha256": "7fd99dcf64dab17a69b42a87ba11b4b8ffb545b5a20104772387c7a1cdab0411",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:12:29.442151+00:00",
+  "input_resolution": [
+    1024,
+    768
+  ],
+  "input_sha256": "275f262b99a8dc532f6d9f2c9ceaf002bac2c066ac58bd4c2d6b64c920b7d552",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatcocDHsx2w0z4c113j4wWqi5AEV",
+  "usage": {
+    "completion_tokens": 1185,
+    "prompt_tokens": 2122,
+    "total_tokens": 3307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 583,
+      "engine_ttlt_ms": 9482,
+      "pre_inference_ms": 244,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1399,
+      "service_ttlt_ms": 10294,
+      "user_visible_ttft_ms": 1155
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

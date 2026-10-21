@@ -1,0 +1,108 @@
+{
+  "title": "MATest compression frame with specimen and wires",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One vertical compression test frame with a visible metal badge reading 'MATEST' at the top center of the frame.",
+    "One specimen: a rectangular beige block (appears to be wood or similar) placed centrally between the platens; the block has handwritten text on its front face.",
+    "Two round black platens are visible: one upper platen (partly obscured by a yellow triangular marker) and one lower platen supporting the specimen.",
+    "At least five wires are visible entering the scene from the specimen area: multiple red insulated wires and one white insulated wire; the exact total is uncertain due to overlap and cropping.",
+    "One small yellow triangular marker attached to the black upper assembly above the specimen.",
+    "One clear hinged door/panel on the left side of the machine (transparent plastic or acrylic) with metal hinges and latches visible.",
+    "One small yellow rectangular label near the bottom front of the machine with the text 'MIN' visible.",
+    "One metal cabinet or bench visible to the left of the test frame and lab tubing and/or hoses visible to the right of the frame."
+  ],
+  "visible_text": [
+    "MATEST",
+    "1A(LP)",
+    "MIN"
+  ],
+  "spatial_relations": [
+    "The specimen block is centered vertically between the upper and lower round platens; the lower platen supports the specimen and the upper platen is immediately above it.",
+    "The yellow triangular marker is attached to the black upper assembly and points downward toward the specimen.",
+    "Several wires extend from the front face of the specimen and hang down over the front of the lower platen and the machine base.",
+    "A transparent hinged door/panel is mounted on the left side of the frame; its hinges and latch are visible at the left edge of the machine.",
+    "A metal cabinet or bench is located to the left of the machine outside the frame, while tubing and a sink or plumbing fixtures appear to be to the right of the machine."
+  ],
+  "colours_and_materials": [
+    "The test frame exterior is dark blue painted metal.",
+    "The platens and some cylindrical internal components are black and appear metallic.",
+    "The specimen block is beige (wood-colored).",
+    "Wires seen are primarily red insulated conductors and at least one white insulated conductor.",
+    "The hinged door/panel is transparent (clear) plastic or acrylic with metal hinges.",
+    "The small rectangular label near the base is yellow with black text."
+  ],
+  "uncertainties": [
+    "Exact count of wires is uncertain because several wires overlap and are partially obscured; at least five wires (multiple red, one white) are visible but there may be more behind them.",
+    "Material identifications (for example 'wood' for the specimen or 'metal' for platens) are visual impressions and not confirmed by legible model/specification labels.",
+    "Small or partially visible text beyond 'MATEST', '1A(LP)' and 'MIN' is present but unreadable in this image; close-up crops would be needed to capture any additional label text or serial numbers.",
+    "No explicit room name or number is visible in the image; therefore location is listed as unknown from image."
+  ],
+  "visual_facts": [
+    "One vertical compression test frame with a visible metal badge reading 'MATEST' at the top center of the frame.",
+    "One specimen: a rectangular beige block (appears to be wood or similar) placed centrally between the platens; the block has handwritten text on its front face.",
+    "Two round black platens are visible: one upper platen (partly obscured by a yellow triangular marker) and one lower platen supporting the specimen.",
+    "At least five wires are visible entering the scene from the specimen area: multiple red insulated wires and one white insulated wire; the exact total is uncertain due to overlap and cropping.",
+    "One small yellow triangular marker attached to the black upper assembly above the specimen.",
+    "One clear hinged door/panel on the left side of the machine (transparent plastic or acrylic) with metal hinges and latches visible.",
+    "One small yellow rectangular label near the bottom front of the machine with the text 'MIN' visible.",
+    "One metal cabinet or bench visible to the left of the test frame and lab tubing and/or hoses visible to the right of the frame.",
+    "The test frame exterior is dark blue painted metal.",
+    "The platens and some cylindrical internal components are black and appear metallic.",
+    "The specimen block is beige (wood-colored).",
+    "Wires seen are primarily red insulated conductors and at least one white insulated conductor.",
+    "The hinged door/panel is transparent (clear) plastic or acrylic with metal hinges.",
+    "The small rectangular label near the base is yellow with black text."
+  ],
+  "id": "f1b01342e96511843f2d4e92",
+  "sha256": "9e0399de0b175ef77066e9022254175033d300fa24c5b09375c68f06cb1703a3",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:22:59.141279+00:00",
+  "input_resolution": [
+    768,
+    1024
+  ],
+  "input_sha256": "f02ee433bdb208e00980e07f54488339e0d73eb808402e9bf96b0fd9b1291037",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatmzjiVx4TFpDMVLtNhTC303X3ze",
+  "usage": {
+    "completion_tokens": 908,
+    "prompt_tokens": 2122,
+    "total_tokens": 3030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 567,
+      "engine_ttlt_ms": 7341,
+      "pre_inference_ms": 123,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1763,
+      "service_ttlt_ms": 8532,
+      "user_visible_ttft_ms": 1640
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

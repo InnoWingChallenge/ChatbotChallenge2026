@@ -1,0 +1,103 @@
+{
+  "title": "Person working on a small wheeled device on a table",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One person is visible from the torso up, leaning over the table; the person's head is partially cropped at the top of the image and they are wearing a light-blue surgical mask.",
+    "One wristwatch is visible on the person's left wrist.",
+    "One handheld screwdriver is visible in the person's right hand (blue and black handle).",
+    "One small wheeled device or chassis is on the table being worked on; multiple circuit boards, cables and electronic components are visible on and inside that device.",
+    "At least three wheels are visible on the device: two near the front left area (one left-front wheel pair visible) and at least one wheel visible at the right-front side; wheels are partially occluded so total wheel count cannot be determined from this view.",
+    "One roll of tape is on the table in the lower-right quadrant, partially cropped (top surface visible).",
+    "One smartphone or rectangular touchscreen device is visible at the far right edge of the table, partially cropped."
+  ],
+  "visible_text": [
+    "NOKO TAPE",
+    "日光テープ"
+  ],
+  "spatial_relations": [
+    "The person occupies the central and upper central region of the image and leans forward over the table; their hands are centered over the device.",
+    "The wheeled device is placed on the table in the lower central area of the image; the person’s right hand holds the device’s right side while the left hand operates the screwdriver at the device’s left/center area.",
+    "The roll of tape is on the table to the lower right of the device; the smartphone is further right and partially outside the frame.",
+    "Background shows additional tables and stools behind the person, blurred and out of focus, indicating depth behind the workspace."
+  ],
+  "colours_and_materials": [
+    "The person wears a white cotton T-shirt and a light-blue disposable surgical mask.",
+    "The device/chassis has a teal or green painted outer shell with visible black rubber wheels and exposed circuit boards (dark green/black) and black cables.",
+    "The screwdriver has a blue and black plastic handle with a metal shaft.",
+    "The work surface is a light wood-coloured table or laminate.",
+    "The tape roll appears grey or silver on the exposed tape surface with a white core bearing red text."
+  ],
+  "uncertainties": [
+    "No room name or number is visible anywhere in the image; location cannot be inferred from surrounding context in the photo.",
+    "The total number of wheels on the device cannot be determined because some wheels are occluded or outside the frame; at least three wheels are visible.",
+    "Some small labels and printed text on circuit boards, cables and components are not legible at this resolution and were not transcribed.",
+    "The exact wording on the tape roll beyond the visible fragments is partly unreadable; transcription 'NOKO TAPE' and '日光テープ' are based on visible portions and may be incomplete.",
+    "The smartphone at the right edge is partially cropped so make/model or any text on it is unreadable."
+  ],
+  "visual_facts": [
+    "One person is visible from the torso up, leaning over the table; the person's head is partially cropped at the top of the image and they are wearing a light-blue surgical mask.",
+    "One wristwatch is visible on the person's left wrist.",
+    "One handheld screwdriver is visible in the person's right hand (blue and black handle).",
+    "One small wheeled device or chassis is on the table being worked on; multiple circuit boards, cables and electronic components are visible on and inside that device.",
+    "At least three wheels are visible on the device: two near the front left area (one left-front wheel pair visible) and at least one wheel visible at the right-front side; wheels are partially occluded so total wheel count cannot be determined from this view.",
+    "One roll of tape is on the table in the lower-right quadrant, partially cropped (top surface visible).",
+    "One smartphone or rectangular touchscreen device is visible at the far right edge of the table, partially cropped.",
+    "The person wears a white cotton T-shirt and a light-blue disposable surgical mask.",
+    "The device/chassis has a teal or green painted outer shell with visible black rubber wheels and exposed circuit boards (dark green/black) and black cables.",
+    "The screwdriver has a blue and black plastic handle with a metal shaft.",
+    "The work surface is a light wood-coloured table or laminate.",
+    "The tape roll appears grey or silver on the exposed tape surface with a white core bearing red text."
+  ],
+  "id": "c4674f83a0d6d1109249b9ea",
+  "sha256": "6541a8abc00ef0d6bd1b634f6ffe24ae34df98118b217419b8de4854e4c8121f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:03:33.408448+00:00",
+  "input_resolution": [
+    1280,
+    853
+  ],
+  "input_sha256": "ec16bd971d569725ff98c96bc7c981c54a5c5e49307cafd00c6822a767efb3c4",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauQGCXlMHxSBSmIVwR4NK6A2rPmw",
+  "usage": {
+    "completion_tokens": 949,
+    "prompt_tokens": 2266,
+    "total_tokens": 3215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1151,
+      "engine_ttlt_ms": 7894,
+      "pre_inference_ms": 302,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1915,
+      "service_ttlt_ms": 8653,
+      "user_visible_ttft_ms": 1613
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

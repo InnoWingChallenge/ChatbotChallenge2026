@@ -1,0 +1,104 @@
+{
+  "title": "Top-down rendered scene with robotic agents on metal-tiled floor",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One eight-legged spider-like robot is visible near the image centre-left; its legs and body are largely unobscured.",
+    "At least three small turret-like robots are visible: two near the top-right corner adjacent to a cyan-blue glowing object, and one near the right edge; parts of some turrets are cropped by the image edges.",
+    "One cyan-blue glowing elongated object (appears to be a projectile or weapon effect) is visible near the top-right turret cluster.",
+    "One white-orange flame or muzzle flash effect is visible emanating from the spider-like robot toward the top-right.",
+    "Two wooden crate-like boxes are visible: one large open wooden crate occupies the bottom-left foreground and a second wooden box is visible at the bottom-right foreground (the latter is partially cropped).",
+    "Multiple floor tiles form a repeated grid of metal plates across the scene; individual tiles are visible and not counted as separate movable objects.",
+    "Bright yellow neon lines form angular barrier-like shapes on the floor in the top-left and top-right regions; sections of these lines are cropped by the image edges."
+  ],
+  "visible_text": [
+    "SICARILIS"
+  ],
+  "spatial_relations": [
+    "The spider-like robot is located slightly left of image centre and is facing toward the top-right.",
+    "The cyan-blue elongated glowing object and two turret-like robots are positioned to the top-right of the spider-like robot.",
+    "A turret-like robot is visible near the right edge of the image, to the right of the floor-grid centre.",
+    "A large open wooden crate occupies the bottom-left foreground and is adjacent to the metal-tiled floor; a second wooden box sits in the bottom-right foreground partially cropped by the image edge.",
+    "Yellow neon lines form angular shapes crossing the top-left and top-right floor areas, running above the floor tiles and intersecting near the top-right cluster of turrets."
+  ],
+  "colours_and_materials": [
+    "Floor is composed of grey metal tiles with darker seams and rivets between tiles.",
+    "Wooden crates are brown with visible grain; wood appearance is matte and textured.",
+    "Neon barrier lines are bright yellow with a glowing effect.",
+    "Projectile/effect colours include cyan-blue for the elongated glowing object and white-orange for the muzzle-flash or flame from the spider-like robot.",
+    "Overall scene lighting includes red/purple ambient tones on the floor and objects, producing colored reflections on the metal tiles."
+  ],
+  "uncertainties": [
+    "The image appears to be a rendered or game scene; no equipment nameplates, room signs, or institutional identifiers for a physical facility are visible other than the on-image word 'SICARILIS'.",
+    "Exact counts for turret-like robots are uncertain where parts are cropped or partially obscured by image edges; I reported individually distinguishable turrets only.",
+    "No small labels, control panels, or other text were legible besides 'SICARILIS'; there may be additional unreadable or out-of-frame text.",
+    "Because this is a digital/fictional scene, objects that resemble equipment cannot be confirmed as real-world devices or give usable facility layout evidence for HKU Innovation Academy or Tam Wing Fan Innovation Wing."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One eight-legged spider-like robot is visible near the image centre-left; its legs and body are largely unobscured.",
+    "At least three small turret-like robots are visible: two near the top-right corner adjacent to a cyan-blue glowing object, and one near the right edge; parts of some turrets are cropped by the image edges.",
+    "One cyan-blue glowing elongated object (appears to be a projectile or weapon effect) is visible near the top-right turret cluster.",
+    "One white-orange flame or muzzle flash effect is visible emanating from the spider-like robot toward the top-right.",
+    "Two wooden crate-like boxes are visible: one large open wooden crate occupies the bottom-left foreground and a second wooden box is visible at the bottom-right foreground (the latter is partially cropped).",
+    "Multiple floor tiles form a repeated grid of metal plates across the scene; individual tiles are visible and not counted as separate movable objects.",
+    "Bright yellow neon lines form angular barrier-like shapes on the floor in the top-left and top-right regions; sections of these lines are cropped by the image edges.",
+    "Floor is composed of grey metal tiles with darker seams and rivets between tiles.",
+    "Wooden crates are brown with visible grain; wood appearance is matte and textured.",
+    "Neon barrier lines are bright yellow with a glowing effect.",
+    "Projectile/effect colours include cyan-blue for the elongated glowing object and white-orange for the muzzle-flash or flame from the spider-like robot.",
+    "Overall scene lighting includes red/purple ambient tones on the floor and objects, producing colored reflections on the metal tiles."
+  ],
+  "id": "c3d43dea8591c84bea64d491",
+  "sha256": "2d64a41ede38458b7d34c94371a8304c64ea6682af82c233552a7090bb1dc6c3",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:19:51.851791+00:00",
+  "input_resolution": [
+    1920,
+    1080
+  ],
+  "input_sha256": "7aa22797024b62b2b75024484a358c955dbcd8b17069b072a5897cff5a763e4c",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatjyEbFdz0QmDn6OffszTX4thaxp",
+  "usage": {
+    "completion_tokens": 865,
+    "prompt_tokens": 2439,
+    "total_tokens": 3304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1260,
+      "engine_ttlt_ms": 7790,
+      "pre_inference_ms": 483,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2207,
+      "service_ttlt_ms": 8732,
+      "user_visible_ttft_ms": 1724
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

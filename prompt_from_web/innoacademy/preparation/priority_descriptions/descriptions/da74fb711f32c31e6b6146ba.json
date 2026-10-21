@@ -1,0 +1,117 @@
+{
+  "title": "Computer workstation area with multiple VR headsets, monitors and 'NOT IN USE' sign",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Three computer monitors are visible: one large monitor in the foreground center, and two additional monitors behind and to the right (the right monitor is partially obscured by a clear partition).",
+    "At least two small desktop PC units (small form factor towers) are visible: one directly beneath the foreground monitor and one visible behind the clear partition at the right workstation.",
+    "Two full-size keyboards are visible on the desk surface: one in front of the foreground monitor and one at the right workstation behind the partition.",
+    "Two computer mice are visible: one to the right of the foreground keyboard and one at the right workstation.",
+    "Three white VR headsets are visible on the left and front of the table: one in the immediate foreground with a visible label on its front, one to the left of it, and a third further left and partially cropped by the image edge.",
+    "Four VR controllers are visible grouped near the headsets: two paired controllers near the left headsets and two paired controllers nearer the foreground headset (each controller pair rests in stands or holders).",
+    "One clear acrylic partition is standing on the desk between the foreground and right workstations.",
+    "One small white plastic basket is on the desk to the left of the foreground keyboard.",
+    "One clear or translucent pump bottle (likely hand sanitizer) is positioned inside or next to the white basket.",
+    "Three chairs with caster bases are visible in the scene: one red chair at the foreground workstation, one orange chair at the right workstation, and one light grey chair visible along the back row.",
+    "One printed paper sign propped on the right workstation desk reads 'NOT IN USE'.",
+    "Multiple power outlets and plug connections are visible on the skirting or wall area at the right edge of the image (grouped electrical sockets with plugs)."
+  ],
+  "visible_text": [
+    "NOT IN USE",
+    "IW 301"
+  ],
+  "spatial_relations": [
+    "A single continuous white work surface runs across the image from left to right with multiple workstations arranged side-by-side along it.",
+    "The large foreground monitor sits toward the center front of the image with a small desktop PC directly beneath it and a keyboard and mouse immediately in front of the monitor on the desk.",
+    "The clear acrylic partition is placed on the desk to the right of the foreground monitor, separating the foreground workstation from the right-hand workstation.",
+    "The right workstation (behind the partition) contains a monitor, keyboard and mouse and has the 'NOT IN USE' paper sign propped on its desk surface.",
+    "VR headsets and their controllers are placed on the left portion of the same continuous desk, adjacent to the foreground monitor area rather than on a separate table.",
+    "Chairs (red in front, orange to the right, grey further back) are positioned in front of each workstation; the red chair is directly in front of the foreground keyboard and partly tucked under the desk."
+  ],
+  "colours_and_materials": [
+    "The work surface is white and appears to be a smooth laminate or painted surface.",
+    "VR headsets are predominantly white with black straps and black detailing.",
+    "Monitors are black; desktop PC units are black with visible Dell logos on at least one tower.",
+    "Chairs are brightly coloured: one red chair in the foreground, one orange chair at the right workstation, and a light grey chair visible in the background.",
+    "A clear acrylic (transparent) partition is upright on the desk between stations.",
+    "A small white plastic basket and a translucent pump bottle (clear/transparent with liquid) are on the desk."
+  ],
+  "uncertainties": [
+    "The exact count of VR headsets may be higher because part of the left side of the desk is cropped; three headsets are distinctly visible but additional headsets may be outside the frame.",
+    "Some small labels and text on equipment (for example on headset straps, PC front panels and the monitor desktop contents) are partially legible or too small to read clearly; only 'IW 301' and 'NOT IN USE' were confidently read.",
+    "The identity, brand or model numbers of the equipment (monitors, VR headsets, PC towers) cannot be confirmed from their appearance alone and were not transcribed except where a readable label was present.",
+    "The printed text on the foreground monitor's screen (for example items in the Windows Start view) is visible but too small for reliable exact transcription and has therefore not been transcribed.",
+    "The presence of any additional workstations, chairs or equipment beyond the visible desk edge cannot be determined from this single image."
+  ],
+  "visual_facts": [
+    "Three computer monitors are visible: one large monitor in the foreground center, and two additional monitors behind and to the right (the right monitor is partially obscured by a clear partition).",
+    "At least two small desktop PC units (small form factor towers) are visible: one directly beneath the foreground monitor and one visible behind the clear partition at the right workstation.",
+    "Two full-size keyboards are visible on the desk surface: one in front of the foreground monitor and one at the right workstation behind the partition.",
+    "Two computer mice are visible: one to the right of the foreground keyboard and one at the right workstation.",
+    "Three white VR headsets are visible on the left and front of the table: one in the immediate foreground with a visible label on its front, one to the left of it, and a third further left and partially cropped by the image edge.",
+    "Four VR controllers are visible grouped near the headsets: two paired controllers near the left headsets and two paired controllers nearer the foreground headset (each controller pair rests in stands or holders).",
+    "One clear acrylic partition is standing on the desk between the foreground and right workstations.",
+    "One small white plastic basket is on the desk to the left of the foreground keyboard.",
+    "One clear or translucent pump bottle (likely hand sanitizer) is positioned inside or next to the white basket.",
+    "Three chairs with caster bases are visible in the scene: one red chair at the foreground workstation, one orange chair at the right workstation, and one light grey chair visible along the back row.",
+    "One printed paper sign propped on the right workstation desk reads 'NOT IN USE'.",
+    "Multiple power outlets and plug connections are visible on the skirting or wall area at the right edge of the image (grouped electrical sockets with plugs).",
+    "The work surface is white and appears to be a smooth laminate or painted surface.",
+    "VR headsets are predominantly white with black straps and black detailing.",
+    "Monitors are black; desktop PC units are black with visible Dell logos on at least one tower.",
+    "Chairs are brightly coloured: one red chair in the foreground, one orange chair at the right workstation, and a light grey chair visible in the background.",
+    "A clear acrylic (transparent) partition is upright on the desk between stations.",
+    "A small white plastic basket and a translucent pump bottle (clear/transparent with liquid) are on the desk."
+  ],
+  "id": "da74fb711f32c31e6b6146ba",
+  "sha256": "2d76490df895fbb1f4b7100a3cc91851d1d34a389c86e95f05bb7dafac51b750",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:21:35.488797+00:00",
+  "input_resolution": [
+    2400,
+    1350
+  ],
+  "input_sha256": "a5eb01d2c6f804f8bb797f36403eb2d5df9520a6cba0f1ecf49db66c694e7f73",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatlacjoLgrXxXWxcCJXhSVC4Bswu",
+  "usage": {
+    "completion_tokens": 1399,
+    "prompt_tokens": 2439,
+    "total_tokens": 3838,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1198,
+      "engine_ttlt_ms": 11276,
+      "pre_inference_ms": 405,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2428,
+      "service_ttlt_ms": 12502,
+      "user_visible_ttft_ms": 2023
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

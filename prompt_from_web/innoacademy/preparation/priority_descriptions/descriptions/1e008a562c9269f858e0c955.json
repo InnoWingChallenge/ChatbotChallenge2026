@@ -1,0 +1,103 @@
+{
+  "title": "Close-up of an extrusion head and stepper motor depositing brown material on parchment",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One extrusion head assembly is visible near the center of the image; it includes a small nozzle/dispenser that is illuminated pink and a larger squared metal housing immediately to its right.",
+    "One stepper motor (silver end caps with black ribbed central section) is visible to the right of the metal housing.",
+    "One small plastic syringe-like dispenser or nozzle is visible to the left of the metal housing; it has a small white connector and yellow/white wires attached and is lit with a pink light.",
+    "Two continuous parallel brown extrusion lines of deposited material run from the top of the image toward the bottom across the parchment; both lines are visibly continuous and distinct in the photographed region.",
+    "A third, irregular brown extrusion area (a looped/ornamented deposit) is visible immediately under the nozzle area.",
+    "One blue binder clip is partially visible at the lower-left corner of the image; it is clipped to the parchment edge and only the top portion is visible (cropped).",
+    "One silver metal clip (paper/binder-style) is visible to the left of the blue clip; it is partially cropped by the image edge.",
+    "One work surface covered with light-grey parchment or baking paper is visible; the parchment shows stains and a pale printed motif or mark near the center-bottom of the image."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The nozzle/dispenser with the pink illumination is positioned left-of-center in the image and slightly forward (closer to the front edge of the parchment) compared with the larger metal housing and the stepper motor.",
+    "A square metal housing sits immediately to the right of the illuminated nozzle and directly in front of the stepper motor; the stepper motor is right-of-center and partially behind the metal housing.",
+    "Two parallel brown extrusion lines run lengthwise from the background toward the foreground, passing beneath the metal housing and stepper motor assembly and ending near the lower edge of the parchment in the photographed area.",
+    "The looped/ornamented brown deposit is located just behind (toward the top of the image from the viewer) the nozzle and slightly left of the centerline formed by the two parallel extrusions.",
+    "The blue binder clip and silver metal clip are located at the front-left corner of the parchment relative to the extruder assembly."
+  ],
+  "colours_and_materials": [
+    "The stepper motor appears metallic silver at its end caps with a black ribbed central housing (visible texture on the black portion).",
+    "The small dispenser/nozzle assembly includes a translucent component lit with a pink light and a small yellow/white wired connector.",
+    "The deposited material is brown and glossy in appearance across the extruded lines and looped deposit.",
+    "The work surface is covered in light-grey parchment or baking paper with stains and a pale printed motif; the material appears paper-like rather than plastic.",
+    "A binder clip is blue plastic-coated metal and the adjacent clip is metallic silver."
+  ],
+  "uncertainties": [
+    "No room name or number is visible; location cannot be determined from the image.",
+    "There is no legible printed or handwritten text in the image to transcribe; a pale motif on the parchment is visible but not legible as text.",
+    "The brown deposited material appears like a food paste (e.g., chocolate) but the material identity cannot be confirmed from the image.",
+    "Some objects are partially cropped (the blue binder clip and silver clip) so full form and count beyond the visible portions cannot be established.",
+    "The illuminated nozzle includes small labels or components with potential text, but any such text is not readable at this resolution; specific label transcriptions are therefore not provided."
+  ],
+  "visual_facts": [
+    "One extrusion head assembly is visible near the center of the image; it includes a small nozzle/dispenser that is illuminated pink and a larger squared metal housing immediately to its right.",
+    "One stepper motor (silver end caps with black ribbed central section) is visible to the right of the metal housing.",
+    "One small plastic syringe-like dispenser or nozzle is visible to the left of the metal housing; it has a small white connector and yellow/white wires attached and is lit with a pink light.",
+    "Two continuous parallel brown extrusion lines of deposited material run from the top of the image toward the bottom across the parchment; both lines are visibly continuous and distinct in the photographed region.",
+    "A third, irregular brown extrusion area (a looped/ornamented deposit) is visible immediately under the nozzle area.",
+    "One blue binder clip is partially visible at the lower-left corner of the image; it is clipped to the parchment edge and only the top portion is visible (cropped).",
+    "One silver metal clip (paper/binder-style) is visible to the left of the blue clip; it is partially cropped by the image edge.",
+    "One work surface covered with light-grey parchment or baking paper is visible; the parchment shows stains and a pale printed motif or mark near the center-bottom of the image.",
+    "The stepper motor appears metallic silver at its end caps with a black ribbed central housing (visible texture on the black portion).",
+    "The small dispenser/nozzle assembly includes a translucent component lit with a pink light and a small yellow/white wired connector.",
+    "The deposited material is brown and glossy in appearance across the extruded lines and looped deposit.",
+    "The work surface is covered in light-grey parchment or baking paper with stains and a pale printed motif; the material appears paper-like rather than plastic.",
+    "A binder clip is blue plastic-coated metal and the adjacent clip is metallic silver."
+  ],
+  "id": "1e008a562c9269f858e0c955",
+  "sha256": "dff7edf4979869aba4ec90a5f313845cbca7be54cc60ef5f66a2f79916151fd4",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:07:05.923733+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "190a68ed2e046903e96b4efd2dfb41f89dbed1e070235329da2f0fda49117780",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatXbCopffG2HFNHKtHrI2ZZX0kvo",
+  "usage": {
+    "completion_tokens": 1019,
+    "prompt_tokens": 2122,
+    "total_tokens": 3141,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1138,
+      "engine_ttlt_ms": 8868,
+      "pre_inference_ms": 311,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2003,
+      "service_ttlt_ms": 9726,
+      "user_visible_ttft_ms": 1692
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

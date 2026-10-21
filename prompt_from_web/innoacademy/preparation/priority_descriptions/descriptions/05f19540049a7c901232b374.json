@@ -1,0 +1,112 @@
+{
+  "title": "Covered glass pedestrian bridge spanning between buildings with rooftop installations",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One large curved glass atrium / covered walkway is visible occupying the center-left to center of the image; the glass enclosure is made of multiple repeated rectangular window panels held in a white frame.",
+    "One enclosed pedestrian bridge (walkway) runs from lower left to upper right across the image, passing through the glass enclosure and continuing to the adjacent building on the right.",
+    "One multi-storey building with many horizontal rows of windows is visible on the right side of the image; individual window openings are repeated across at least five visible floors.",
+    "At least three rooftop installations or sculptural devices are visible on the roof of the right-hand building, aligned roughly along the roof edge; the exact type of these devices is not identified by visible labels.",
+    "At least two trees are visible beneath the bridge in the lower central area of the image.",
+    "At least one small cluster of orange seating (appears to be two or three seats and possibly a small table) is visible on the lower level beneath the bridge; seating is partially obscured by tree foliage and bridge structure.",
+    "One large white sloped structural element (possibly part of an adjacent roof or facade) runs diagonally from lower right toward center of image.",
+    "One software watermark/notification graphic is present in the lower-left corner of the image (separate from scene objects)."
+  ],
+  "visible_text": [
+    "ENSCAPE",
+    "NOTIFICATION",
+    "TRIAL VERSION",
+    "BUY NOW AT ENSCAPE3D.COM"
+  ],
+  "spatial_relations": [
+    "The curved glass atrium covers the pedestrian walkway and is located to the left and center of the image; the enclosure follows the curve of the walkway.",
+    "The walkway runs diagonally from lower left to upper right, passing through the glass enclosure and connecting to the taller dark-grey building on the right.",
+    "The dark-grey building occupies the right third of the image with horizontal bands of windows; rooftop installations are located on top of that building near its edge toward the top-right of the image.",
+    "Beneath the bridge and adjacent to the white sloped structural element, trees and a small orange seating area are situated at ground level in the lower central area.",
+    "The large white sloped element sits between the glass-covered walkway and the lower ground area, forming an angular plane that casts shadows onto the area beneath the bridge."
+  ],
+  "colours_and_materials": [
+    "The glass panels of the atrium appear bluish-tinted with white framing members forming a grid.",
+    "The walkway and structural framing are predominantly white or light-coloured.",
+    "The adjoining building facade is dark grey or charcoal with contrasting rectangular window openings.",
+    "Green foliage is visible from the trees beneath the bridge.",
+    "A small seating grouping beneath the bridge is orange in colour.",
+    "The watermark/notification graphic in the lower-left corner uses black, white and a gold/orange gem icon."
+  ],
+  "uncertainties": [
+    "No room name or room number signage is visible in the image; location cannot be determined from the image alone.",
+    "The exact count of rooftop installations is given as 'at least three' because some devices are partially obscured by perspective and distance.",
+    "The small orange seating area beneath the bridge is partially obscured by tree foliage and the bridge structure; the precise number of seats and tables cannot be determined.",
+    "Small text on distant rooftop elements or window labels, if present, is unreadable at the image resolution.",
+    "The function of the white sloped structural element is not identifiable from the visible geometry; it may be a roof, ramp or facade element but that is not confirmed by legible labels."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One large curved glass atrium / covered walkway is visible occupying the center-left to center of the image; the glass enclosure is made of multiple repeated rectangular window panels held in a white frame.",
+    "One enclosed pedestrian bridge (walkway) runs from lower left to upper right across the image, passing through the glass enclosure and continuing to the adjacent building on the right.",
+    "One multi-storey building with many horizontal rows of windows is visible on the right side of the image; individual window openings are repeated across at least five visible floors.",
+    "At least three rooftop installations or sculptural devices are visible on the roof of the right-hand building, aligned roughly along the roof edge; the exact type of these devices is not identified by visible labels.",
+    "At least two trees are visible beneath the bridge in the lower central area of the image.",
+    "At least one small cluster of orange seating (appears to be two or three seats and possibly a small table) is visible on the lower level beneath the bridge; seating is partially obscured by tree foliage and bridge structure.",
+    "One large white sloped structural element (possibly part of an adjacent roof or facade) runs diagonally from lower right toward center of image.",
+    "One software watermark/notification graphic is present in the lower-left corner of the image (separate from scene objects).",
+    "The glass panels of the atrium appear bluish-tinted with white framing members forming a grid.",
+    "The walkway and structural framing are predominantly white or light-coloured.",
+    "The adjoining building facade is dark grey or charcoal with contrasting rectangular window openings.",
+    "Green foliage is visible from the trees beneath the bridge.",
+    "A small seating grouping beneath the bridge is orange in colour.",
+    "The watermark/notification graphic in the lower-left corner uses black, white and a gold/orange gem icon."
+  ],
+  "id": "05f19540049a7c901232b374",
+  "sha256": "789330da57b0adaed9b02485d2d153e071d88ffba2cebe7bb53504e3a779d462",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:26:21.781393+00:00",
+  "input_resolution": [
+    1920,
+    1017
+  ],
+  "input_sha256": "201b1ce5c29213b1cba693a17a0855e75e41ee56b188fed033e157da4dadfcd7",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatqEOvYPNABXb2oQSbv09QdXQmMQ",
+  "usage": {
+    "completion_tokens": 1021,
+    "prompt_tokens": 2525,
+    "total_tokens": 3546,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1240,
+      "engine_ttlt_ms": 9720,
+      "pre_inference_ms": 388,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2196,
+      "service_ttlt_ms": 10670,
+      "user_visible_ttft_ms": 1808
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

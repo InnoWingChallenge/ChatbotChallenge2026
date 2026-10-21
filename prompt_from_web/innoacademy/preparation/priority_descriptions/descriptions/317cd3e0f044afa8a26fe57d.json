@@ -1,0 +1,104 @@
+{
+  "title": "Row of workstations with five seated users and multiple monitors",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Five seated people are visible in the photographed scene, arranged in a single row at the desk; all are shown from the rear or side and none are identified by name.",
+    "At least five distinct computer screens or monitors/laptop screens are visible: one screen per seated person is visible as active in front of four people and a laptop screen in front of the person second from right; several additional black monitor housings are visible along the bench but some are partially cropped or obscured.",
+    "Five wheeled office chairs are visible, one behind each seated person; chairs vary in colour and design (see colours_and_materials).",
+    "At least three external computer keyboards are visible on the desk (center-right and rightmost positions clearly visible); additional keyboards may be present but are partially obscured.",
+    "At least three computer mice or pointing devices are visible near the keyboards and laptops along the desk.",
+    "One clear or translucent plastic bottle (appears to be a water bottle) is visible on the desk next to the center-right workstation.",
+    "One light-coloured puffer jacket is draped over the back of the leftmost chair and one black backpack is hanging from the back of the central chair with small plush keychains attached.",
+    "One desk-length white work surface spans the image and supports the monitors, keyboards and personal items."
+  ],
+  "visible_text": [
+    "NO FOOD OR DRINK ALLOWED"
+  ],
+  "spatial_relations": [
+    "Five people sit side-by-side along a single continuous white desk surface, each occupying one workstation in a left-to-right sequence.",
+    "A light-coloured puffer jacket is draped over the back of the leftmost chair; moving right, a person in a light-green jacket sits at the second station, then a person in a red-checked shirt, then a person in a brown coat, and finally a person in a beige sweater at the rightmost visible station.",
+    "Monitors are placed on short privacy dividers or monitor stands along the rear edge of the desk; keyboards and mice sit directly in front of the monitors on the desk surface.",
+    "A black backpack hangs on the back of the central chair (third from left) and has small plush items attached near its bottom; the water bottle is on the desk immediately to the left of the center-right monitor.",
+    "A wall-mounted sign with the 'NO FOOD OR DRINK ALLOWED' text and a circular no-food symbol is positioned above the desk near the middle of the image."
+  ],
+  "colours_and_materials": [
+    "Desk surface is white and appears to be a laminate or painted material.",
+    "Wall behind the desks has vertical colour panels in blue and a teal/green stripe on the left side; the remainder of the wall is a light off-white or cream colour, partly covered by a reflective whiteboard or glass panel.",
+    "Chairs are multiple colours: leftmost chair appears black, one chair is red (second from right), and the rightmost visible chair is light grey; chairs have plastic backs and wheeled bases.",
+    "A light-coloured (off-white or pale green) puffer jacket with a quilted texture is draped over the leftmost chair; a black fabric backpack hangs on the central chair.",
+    "Monitors and monitor housings are predominantly black plastic."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is visible; location cannot be determined from the image.",
+    "Some monitor housings and screens at the far left and far right are partially cropped or obscured, so the exact total number of monitors and keyboards along the full bench cannot be confirmed.",
+    "Small on-screen text on computer displays and desktop windows is not legible in the photograph beyond the single wall sign; other textual content visible on screens could not be reliably transcribed.",
+    "Certain small labels or stickers on equipment (for example on monitors, keyboards or backpacks) are not readable at this resolution; counts for mice/keyboards are minimum visible counts and may underrepresent items obscured by users or objects."
+  ],
+  "visual_facts": [
+    "Five seated people are visible in the photographed scene, arranged in a single row at the desk; all are shown from the rear or side and none are identified by name.",
+    "At least five distinct computer screens or monitors/laptop screens are visible: one screen per seated person is visible as active in front of four people and a laptop screen in front of the person second from right; several additional black monitor housings are visible along the bench but some are partially cropped or obscured.",
+    "Five wheeled office chairs are visible, one behind each seated person; chairs vary in colour and design (see colours_and_materials).",
+    "At least three external computer keyboards are visible on the desk (center-right and rightmost positions clearly visible); additional keyboards may be present but are partially obscured.",
+    "At least three computer mice or pointing devices are visible near the keyboards and laptops along the desk.",
+    "One clear or translucent plastic bottle (appears to be a water bottle) is visible on the desk next to the center-right workstation.",
+    "One light-coloured puffer jacket is draped over the back of the leftmost chair and one black backpack is hanging from the back of the central chair with small plush keychains attached.",
+    "One desk-length white work surface spans the image and supports the monitors, keyboards and personal items.",
+    "Desk surface is white and appears to be a laminate or painted material.",
+    "Wall behind the desks has vertical colour panels in blue and a teal/green stripe on the left side; the remainder of the wall is a light off-white or cream colour, partly covered by a reflective whiteboard or glass panel.",
+    "Chairs are multiple colours: leftmost chair appears black, one chair is red (second from right), and the rightmost visible chair is light grey; chairs have plastic backs and wheeled bases.",
+    "A light-coloured (off-white or pale green) puffer jacket with a quilted texture is draped over the leftmost chair; a black fabric backpack hangs on the central chair.",
+    "Monitors and monitor housings are predominantly black plastic."
+  ],
+  "id": "317cd3e0f044afa8a26fe57d",
+  "sha256": "8b70af2f049e70f3fee5139a9af70ac97daba0f5fc49c385ca672cb2c62168fa",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:34:31.324240+00:00",
+  "input_resolution": [
+    1976,
+    1482
+  ],
+  "input_sha256": "d78e9b381698ae1e77d87ab90c1262f757afa550192e1c9a3428899ff6436a40",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eaty95imf2d80VsulN8Uyras8Cdx4",
+  "usage": {
+    "completion_tokens": 1213,
+    "prompt_tokens": 2122,
+    "total_tokens": 3335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1276,
+      "engine_ttlt_ms": 8970,
+      "pre_inference_ms": 324,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2200,
+      "service_ttlt_ms": 9889,
+      "user_visible_ttft_ms": 1876
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

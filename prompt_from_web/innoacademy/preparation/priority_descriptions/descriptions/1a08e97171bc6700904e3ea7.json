@@ -1,0 +1,96 @@
+{
+  "title": "Three white lattice structure diagrams with captions",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Three distinct 3D-rendered lattice assemblies are visible, arranged left-to-right across the image: one on the left, one in the centre, and one on the right.",
+    "No people are visible in the image.",
+    "Each lattice assembly consists of multiple white rod-like strands forming grid patterns; the centre assembly appears as a denser dual-layer grid, the right assembly appears as two separated layers (sandwich-like), and the left assembly appears as a blended single-layer lattice.",
+    "There are three textual headings/captions associated with the three assemblies (one for each assembly).",
+    "A soft pale blue-to-white gradient background is visible behind the three rendered objects."
+  ],
+  "visible_text": [
+    "Blending structure",
+    "Layer-by-layer structure",
+    "Dual layer structure",
+    "Sandwich-like structure"
+  ],
+  "spatial_relations": [
+    "The image is horizontally divided into three panels: the left panel contains the object labelled 'Blending structure', the centre panel contains the object labelled 'Layer-by-layer structure' with the caption 'Dual layer structure' beneath it, and the right panel contains the object with the caption 'Sandwich-like structure' beneath the top heading area.",
+    "Each lattice object sits roughly centered within its horizontal panel and casts a subtle shadow on the gradient background beneath it.",
+    "The main heading-level texts ('Blending structure' and 'Layer-by-layer structure') appear above their respective left and centre objects; the lower captions ('Dual layer structure' and 'Sandwich-like structure') are placed beneath the centre and right objects respectively.",
+    "There are no arrows or connecting lines between the three panels; they are displayed side-by-side with visual spacing separating them."
+  ],
+  "colours_and_materials": [
+    "All three lattice structures are rendered in a uniform white colour with soft grey shading to indicate depth.",
+    "The background is a pale blue gradient fading to white toward the top, creating a soft contrast with the white structures.",
+    "Shadows beneath the rendered assemblies are grey and diffuse, suggesting a light source from above; textures appear smooth and glossy on the white strands (rendered appearance)."
+  ],
+  "uncertainties": [
+    "No room name, room number, signage, equipment nameplates or brand labels are visible; therefore the physical location cannot be determined from this image.",
+    "The image appears to be a rendered diagram rather than a photograph of physical equipment; if any small labels exist on the renders they are not legible at this resolution.",
+    "Exact counts of individual rod elements in each lattice are not provided because strands overlap and some are partially obscured by perspective; counts given are limited to three main assemblies.",
+    "The relationship of the top heading text position for the right-hand panel is inferred by proximity; the image contains no explicit top heading directly above the right object, only the caption 'Sandwich-like structure' beneath it."
+  ],
+  "visual_facts": [
+    "Three distinct 3D-rendered lattice assemblies are visible, arranged left-to-right across the image: one on the left, one in the centre, and one on the right.",
+    "No people are visible in the image.",
+    "Each lattice assembly consists of multiple white rod-like strands forming grid patterns; the centre assembly appears as a denser dual-layer grid, the right assembly appears as two separated layers (sandwich-like), and the left assembly appears as a blended single-layer lattice.",
+    "There are three textual headings/captions associated with the three assemblies (one for each assembly).",
+    "A soft pale blue-to-white gradient background is visible behind the three rendered objects.",
+    "All three lattice structures are rendered in a uniform white colour with soft grey shading to indicate depth.",
+    "The background is a pale blue gradient fading to white toward the top, creating a soft contrast with the white structures.",
+    "Shadows beneath the rendered assemblies are grey and diffuse, suggesting a light source from above; textures appear smooth and glossy on the white strands (rendered appearance)."
+  ],
+  "id": "1a08e97171bc6700904e3ea7",
+  "sha256": "0878989e6f0c89b72588d9a80ccfc39fd9ac29055579cb7cdd85ae755b4a42c5",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:06:54.323264+00:00",
+  "input_resolution": [
+    768,
+    432
+  ],
+  "input_sha256": "a107035150630ad8a312cfed5eb36453a0a9e6595f58e151db3208155da972ed",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatXR3KlY8hEaqyW8vOVI5izIHJcB",
+  "usage": {
+    "completion_tokens": 781,
+    "prompt_tokens": 1604,
+    "total_tokens": 2385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 287,
+      "engine_ttlt_ms": 6843,
+      "pre_inference_ms": 89,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1454,
+      "service_ttlt_ms": 8005,
+      "user_visible_ttft_ms": 1366
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

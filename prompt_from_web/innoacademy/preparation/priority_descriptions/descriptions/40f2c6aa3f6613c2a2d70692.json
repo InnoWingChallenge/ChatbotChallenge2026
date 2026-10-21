@@ -1,0 +1,115 @@
+{
+  "title": "Covered pedestrian concourse with '香港大學站 HKU Station' sign and HKU-branded queue belts",
+  "suitable": true,
+  "location": "香港大學站 HKU Station",
+  "objects_and_counts": [
+    "One person is partially visible and cropped at the far left edge of the image (left torso and arm visible only).",
+    "At least nine vertical structural columns or posts are visible along the left and right sides of the concourse (several are partially obscured by perspective).",
+    "Three small wooden-topped stands or tables are visible in the foreground: one at the left edge (cropped), one roughly centered near a stanchion, and one at the right side next to a small upright sign on a stand.",
+    "Two green retractable belt stanchion posts are visible forming a short queue or barrier in the foreground; the belts are printed with 'HKU' repeated along them.",
+    "One freestanding sign on a metal stand is visible mounted on the right wooden-topped table (text on the signboard is partially legible; see visible_text and uncertainties).",
+    "One large hanging overhead station sign is visible centered in the image reading '香港大學站 HKU Station'.",
+    "Multiple glass panels and metal railings line the right side of the concourse; a glazed building façade is visible outside on the right.",
+    "Multiple overhead ceiling panels and linear light fixtures are visible across the ceiling of the concourse.",
+    "A distant doorway or gated opening is visible at the far end of the corridor with additional small directional signs above it (symbols present; text described in visible_text where legible)."
+  ],
+  "visible_text": [
+    "香港大學站 HKU Station",
+    "HKU",
+    "HKU",
+    "HKU",
+    "HKU"
+  ],
+  "spatial_relations": [
+    "The large '香港大學站 HKU Station' hanging sign is centered above the walkway, roughly mid-image horizontally and nearer the far end of the corridor.",
+    "The walkway runs from the foreground to a distant opening at the center of the image; the camera viewpoint is on the walkway facing that opening.",
+    "Vertical columns are placed along both sides of the walkway; low metal-and-glass balustrades run between them on the right side and a raised ledge with glazing runs on the left side.",
+    "Two retractable-belt stanchions are positioned across the foreground walkway forming a short barrier; a small wooden-topped stand with a sign is immediately to the right of that barrier.",
+    "The glazed multi-storey building exterior is adjacent to and visible through the right-side balustrade, occupying the rightmost portion of the image.",
+    "The partial person is standing at the extreme left edge of the image, next to the left-most wooden-topped stand which is against the left balustrade."
+  ],
+  "colours_and_materials": [
+    "Ceiling panels are light grey or off-white and arranged in long horizontal strips.",
+    "Structural columns and metal railings are painted or finished in a grey/blue-grey metal colour.",
+    "Flooring is composed of large grey concrete or stone tiles with a darker textured central strip running down the walkway.",
+    "The hanging station sign has a dark blue background with white and red elements for the logo and white text.",
+    "The retractable belts are green with white 'HKU' lettering; the wooden-topped stands have medium-brown wood-coloured tops and darker metal legs.",
+    "The building façade visible on the right is predominantly light blue/teal glass with visible external metal bracing in a blue tone."
+  ],
+  "uncertainties": [
+    "Smaller text on the freestanding sign on the right wooden-topped table is only partly legible in the image; the exact wording and Chinese characters cannot be fully transcribed from this resolution.",
+    "There are additional small directional signs and symbols above the distant doorway; some pictograms are visible but accompanying text is too small or distant to read accurately.",
+    "The exact count of vertical columns may be higher than the stated 'at least nine' because some columns are partly obscured by perspective or by other elements; I report only those individually distinguishable in this view.",
+    "The partial person at the left edge is cropped and cannot be more fully described; no identifying information is provided or inferred.",
+    "The repeated instances of 'HKU' on the belts are transcribed as a repeated visible element but each occurrence beyond those listed may be present out of frame or on other belts not fully visible."
+  ],
+  "visual_facts": [
+    "Visible location text: 香港大學站 HKU Station",
+    "One person is partially visible and cropped at the far left edge of the image (left torso and arm visible only).",
+    "At least nine vertical structural columns or posts are visible along the left and right sides of the concourse (several are partially obscured by perspective).",
+    "Three small wooden-topped stands or tables are visible in the foreground: one at the left edge (cropped), one roughly centered near a stanchion, and one at the right side next to a small upright sign on a stand.",
+    "Two green retractable belt stanchion posts are visible forming a short queue or barrier in the foreground; the belts are printed with 'HKU' repeated along them.",
+    "One freestanding sign on a metal stand is visible mounted on the right wooden-topped table (text on the signboard is partially legible; see visible_text and uncertainties).",
+    "One large hanging overhead station sign is visible centered in the image reading '香港大學站 HKU Station'.",
+    "Multiple glass panels and metal railings line the right side of the concourse; a glazed building façade is visible outside on the right.",
+    "Multiple overhead ceiling panels and linear light fixtures are visible across the ceiling of the concourse.",
+    "A distant doorway or gated opening is visible at the far end of the corridor with additional small directional signs above it (symbols present; text described in visible_text where legible).",
+    "Ceiling panels are light grey or off-white and arranged in long horizontal strips.",
+    "Structural columns and metal railings are painted or finished in a grey/blue-grey metal colour.",
+    "Flooring is composed of large grey concrete or stone tiles with a darker textured central strip running down the walkway.",
+    "The hanging station sign has a dark blue background with white and red elements for the logo and white text.",
+    "The retractable belts are green with white 'HKU' lettering; the wooden-topped stands have medium-brown wood-coloured tops and darker metal legs.",
+    "The building façade visible on the right is predominantly light blue/teal glass with visible external metal bracing in a blue tone."
+  ],
+  "id": "40f2c6aa3f6613c2a2d70692",
+  "sha256": "3737ff12cca4c9962303bfff0a7747a602ab3917244e5aa026b3371a424cff64",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:36:38.676281+00:00",
+  "input_resolution": [
+    2048,
+    922
+  ],
+  "input_sha256": "676d27b6ae907b86bed114d006b41215fa401cb9bf25b87886a33593b84ea16a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau09cUmG6DLXNtWvVl8GG7QQuUDV",
+  "usage": {
+    "completion_tokens": 1612,
+    "prompt_tokens": 2756,
+    "total_tokens": 4368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 640,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 518,
+      "engine_ttlt_ms": 11647,
+      "pre_inference_ms": 581,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1316,
+      "service_ttlt_ms": 12442,
+      "user_visible_ttft_ms": 736
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

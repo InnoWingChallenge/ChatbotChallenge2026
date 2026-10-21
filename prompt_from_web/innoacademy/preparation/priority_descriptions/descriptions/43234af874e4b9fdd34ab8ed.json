@@ -1,0 +1,117 @@
+{
+  "title": "Group in front of large presentation screen and Innovation Academy banner",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "There are 12 people standing in a single line across the front of the image; all 12 are in the photographed scene (none appear only on a poster).",
+    "Two additional small faces are visible inside a video-conference tile displayed on the large screen; these are pictured on the screen and not physically present in the room.",
+    "One very large wall-mounted digital display (video wall or projector screen) spans most of the background across the centre of the image.",
+    "Two wall-mounted speakers are visible: one near the top-left of the display and one near the top-right of the display.",
+    "One free-standing banner/roller on the right side of the image with large text and a crest.",
+    "One mobile monitor/podium on wheels with a monitor, keyboard and cables is positioned in front of the right-side banner.",
+    "One metal bell hanging from the ceiling on the far right of the image.",
+    "One ceiling-mounted emergency exit sign is visible above the corridor opening at upper-right.",
+    "One large exposed duct is visible at the upper-right ceiling area.",
+    "The floor is carpeted with a striped pattern across the visible area."
+  ],
+  "visible_text": [
+    "SHOWCASING STUDENT INNOVATIVEN",
+    "Innovation Academy",
+    "Faculty of Engineering,",
+    "THE UNIVERSITY OF HONG KONG",
+    "Faculty of Engineering",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "Twelve people stand in a single line across the front of the large display screen, roughly centered horizontally in the image.",
+    "The large display occupies the centre and left background; two wall-mounted speakers are located above the left and right edges of that display.",
+    "The banner reading 'Innovation Academy' stands to the right of the group, partially in front of a corridor opening and next to the mobile monitor/podium.",
+    "The mobile monitor/podium is positioned directly in front of the right-side banner and slightly in front of the rightmost people in the group.",
+    "A metal bell hangs from the ceiling to the far right of the banner, and an exposed duct runs horizontally above the right side of the scene.",
+    "A small video-conference tile is visible on the large screen above the heads of central group members; those faces are part of the screen content, not people in the room.",
+    "The emergency exit sign is mounted above a corridor opening to the right of the banner."
+  ],
+  "colours_and_materials": [
+    "The large display shows a predominantly blue and white graphic across its surface.",
+    "The freestanding banner is dark (near-black or very dark grey) with yellow-green text for 'Innovation Academy' and a crest in the top-left.",
+    "The ceiling beam near the right side is painted a pale green/mint colour.",
+    "The carpet is grey with lighter grey horizontal stripe pattern.",
+    "Speakers and the mobile monitor stand appear black or dark grey; the hanging bell is metallic (bronze or brass tone)."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is legible in the image; location therefore reported as 'unknown from image'.",
+    "The large display contains many smaller lines of text and a lower banner that are not fully legible at this resolution; only the headline 'SHOWCASING STUDENT INNOVATIVEN' could be transcribed confidently — the final character(s) are unclear.",
+    "Small printed text beneath the display headline, and a possible date/time/venue line near the bottom of the display, are unreadable and therefore not transcribed.",
+    "The small video-conference tile on the display contains faces and additional text too small to transcribe accurately.",
+    "Some crest and small label text on the top-left of the right-side banner is partially legible as 'Faculty of Engineering' and 'THE UNIVERSITY OF HONG KONG'; other smaller words or lines on that banner are unreadable and transcribed above as '[unreadable]'.",
+    "Counts reflect only clearly visible, individually distinguishable people and objects in this single view; occluded or out-of-frame items are not included."
+  ],
+  "visual_facts": [
+    "There are 12 people standing in a single line across the front of the image; all 12 are in the photographed scene (none appear only on a poster).",
+    "Two additional small faces are visible inside a video-conference tile displayed on the large screen; these are pictured on the screen and not physically present in the room.",
+    "One very large wall-mounted digital display (video wall or projector screen) spans most of the background across the centre of the image.",
+    "Two wall-mounted speakers are visible: one near the top-left of the display and one near the top-right of the display.",
+    "One free-standing banner/roller on the right side of the image with large text and a crest.",
+    "One mobile monitor/podium on wheels with a monitor, keyboard and cables is positioned in front of the right-side banner.",
+    "One metal bell hanging from the ceiling on the far right of the image.",
+    "One ceiling-mounted emergency exit sign is visible above the corridor opening at upper-right.",
+    "One large exposed duct is visible at the upper-right ceiling area.",
+    "The floor is carpeted with a striped pattern across the visible area.",
+    "The large display shows a predominantly blue and white graphic across its surface.",
+    "The freestanding banner is dark (near-black or very dark grey) with yellow-green text for 'Innovation Academy' and a crest in the top-left.",
+    "The ceiling beam near the right side is painted a pale green/mint colour.",
+    "The carpet is grey with lighter grey horizontal stripe pattern.",
+    "Speakers and the mobile monitor stand appear black or dark grey; the hanging bell is metallic (bronze or brass tone)."
+  ],
+  "id": "43234af874e4b9fdd34ab8ed",
+  "sha256": "c125498f3bd51c96c9374b78e2aed9566106e3525ffc1125f2131d378a145af1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:36:55.346599+00:00",
+  "input_resolution": [
+    2016,
+    1134
+  ],
+  "input_sha256": "b18f9b1d2e6869f6822ba6ab82643e2fbb506d55fa9d4b16b53695523fea5d0d",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau0NyVhJl6nxExedwF52ftiQK7a3",
+  "usage": {
+    "completion_tokens": 1362,
+    "prompt_tokens": 2439,
+    "total_tokens": 3801,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1180,
+      "engine_ttlt_ms": 14497,
+      "pre_inference_ms": 318,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 2056,
+      "service_ttlt_ms": 15368,
+      "user_visible_ttft_ms": 1738
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

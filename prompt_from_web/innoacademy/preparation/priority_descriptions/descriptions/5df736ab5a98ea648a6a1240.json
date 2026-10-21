@@ -1,0 +1,100 @@
+{
+  "title": "Five masked individuals standing in front of lab workbench and numbered cabinets",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Five people are visible standing in a single row across the midground; all five are wearing face masks. Their full bodies are visible from head to mid-thigh or knee.",
+    "One desktop monitor is visible behind the second person from the left, partially obscured by that person; the monitor screen shows a blue background but no legible on-screen text.",
+    "At least four lower storage cabinet doors with visible numeric labels are visible along the back wall under the workbench (labels '14', '7', '1' and additional perforated cabinet panels); exact total of cabinet doors in the room cannot be determined from the crop.",
+    "One large light-coloured worktable or benchtop occupies the foreground across the lower part of the image; its top surface is largely empty and visible.",
+    "Multiple large windows form the background wall behind the group; exterior building facades are visible through the windows.",
+    "Several electrical outlets and a power strip are visible mounted on the wall above the back workbench near the left and right edges of the image."
+  ],
+  "visible_text": [
+    "14",
+    "7",
+    "1"
+  ],
+  "spatial_relations": [
+    "The five people stand side-by-side in a roughly straight horizontal line across the midground, spaced closely together and centered in the image.",
+    "A long workbench runs behind the people, with the desktop monitor located on the bench behind the second person from the left.",
+    "Numbered storage cabinets are located beneath the workbench along the entire back wall; label '14' is beneath the left region of the bench, '7' is beneath the center-right region, and '1' is beneath the right region.",
+    "A large light-coloured table or benchtop fills the foreground and is positioned in front of the standing group, partially occluding the lower bodies of the rightmost persons.",
+    "Large windows occupy the upper background behind the workbench, with building exteriors visible through them."
+  ],
+  "colours_and_materials": [
+    "The foreground table has a light beige or off-white smooth surface.",
+    "The lower storage cabinets are white or light grey with perforated metal panels and visible black hinges/locks.",
+    "Windows have clear glass with metal or painted frames; exterior buildings seen through the glass are pale green, white and dark grey.",
+    "Four of the five people wear disposable blue surgical-style face masks; one person (far right) wears a pale purple mask. Clothing includes dark suits, a light grey jacket, a dark navy top, and an olive-green jacket."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number signage is legible in the image; therefore the specific room location cannot be determined from the image.",
+    "Small labels and stickers on the bench and cabinets beyond the three transcribed numbers may be present but are not legible at this resolution.",
+    "The monitor screen content is not legible; any on-screen text is unreadable.",
+    "The total number of cabinet doors or storage compartments along the entire back wall cannot be determined from this single crop because some doors extend beyond the left and right edges of the image."
+  ],
+  "visual_facts": [
+    "Five people are visible standing in a single row across the midground; all five are wearing face masks. Their full bodies are visible from head to mid-thigh or knee.",
+    "One desktop monitor is visible behind the second person from the left, partially obscured by that person; the monitor screen shows a blue background but no legible on-screen text.",
+    "At least four lower storage cabinet doors with visible numeric labels are visible along the back wall under the workbench (labels '14', '7', '1' and additional perforated cabinet panels); exact total of cabinet doors in the room cannot be determined from the crop.",
+    "One large light-coloured worktable or benchtop occupies the foreground across the lower part of the image; its top surface is largely empty and visible.",
+    "Multiple large windows form the background wall behind the group; exterior building facades are visible through the windows.",
+    "Several electrical outlets and a power strip are visible mounted on the wall above the back workbench near the left and right edges of the image.",
+    "The foreground table has a light beige or off-white smooth surface.",
+    "The lower storage cabinets are white or light grey with perforated metal panels and visible black hinges/locks.",
+    "Windows have clear glass with metal or painted frames; exterior buildings seen through the glass are pale green, white and dark grey.",
+    "Four of the five people wear disposable blue surgical-style face masks; one person (far right) wears a pale purple mask. Clothing includes dark suits, a light grey jacket, a dark navy top, and an olive-green jacket."
+  ],
+  "id": "5df736ab5a98ea648a6a1240",
+  "sha256": "108ca7cef5e9f0c578d37c18fc5e0956d25764a93b029c21a6b38af5f9dae25f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:41:13.732017+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "9bfbf0525488acc712d34bfde9bc7644944b06fa210c264ab8b88f434ac2710c",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau4dTBZIbjwUg7L0HFdlXzJj3xkb",
+  "usage": {
+    "completion_tokens": 1033,
+    "prompt_tokens": 2237,
+    "total_tokens": 3270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1174,
+      "engine_ttlt_ms": 8935,
+      "pre_inference_ms": 366,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2017,
+      "service_ttlt_ms": 9773,
+      "user_visible_ttft_ms": 1652
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

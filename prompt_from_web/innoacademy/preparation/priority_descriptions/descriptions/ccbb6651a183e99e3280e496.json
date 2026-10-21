@@ -1,0 +1,99 @@
+{
+  "title": "Glass-fronted ground-floor entrance with canopy and two globe lamp posts",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least two freestanding globe lamp posts are visible in the paved forecourt: one near the centre foreground and one near the right foreground; both are mounted on dark vertical poles and their globes are intact.",
+    "There are multiple full-height glass panels and glass doors forming a continuous glazed facade across the ground floor of the visible wing; the assembly includes framed vertical mullions and sliding or swing entry openings (exact number of panels cannot be determined from this single view).",
+    "A horizontal metal-and-glass canopy projects over the entrance and upper glass panels across the front facade.",
+    "The paved pedestrian plaza in front of the building is visible and appears surfaced with rectangular terracotta-coloured pavers.",
+    "At least three people are visible on the left side of the image walking or standing along the corridor/walkway outside the building; they are distant and partially occluded by the building edges (counts of people are limited to those individually distinguishable in this view).",
+    "Two yellow rectangular signs or notices are adhered to interior glass panels (one visible on the left side of the front glazing and one nearer the central entrance); the printed content of those notices is not legible at this resolution.",
+    "Interior elements visible through the glass include partition walls or temporary boarded areas (a dark boarded panel is visible through the main entrance) and ceiling-mounted fluorescent or LED fixtures visible through the glazing."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The glazed facade runs roughly left-to-right across the midground; the main entrance is centrally located within that glazed band under the projecting canopy.",
+    "The canopy extends horizontally above the glass panels and is supported or framed by metal members; the canopy edge aligns with the top of the ground-floor glazing.",
+    "The paved pedestrian corridor runs from the left foreground toward the left background; the building sits to the right of that corridor with its glazed elevation facing the open paved area.",
+    "The two globe lamp posts stand in the paved forecourt in front of the glazed facade, with one between the camera and the central entrance and the other closer to the right edge of the image.",
+    "A taller brown brick building mass rises behind and to the right of the glazed ground floor; continuous rows of windows are visible on the brick elevation above the glazed level."
+  ],
+  "colours_and_materials": [
+    "The foreground paving is a terracotta or reddish-brown colour and appears to be rectangular pavers or tiles.",
+    "The building upper walls are clad in brown brick with a textured masonry appearance.",
+    "The ground-floor facade is predominantly transparent glass with clear glazing and metal framing; the canopy appears to be a combination of metal framing and translucent or clear glass/plexiglass panels.",
+    "Lamp-post poles are dark brown or black metal with white or off-white spherical lamp globes."
+  ],
+  "uncertainties": [
+    "No room name or room number is legible in the image; the precise facility name or room identifier cannot be determined from this photograph.",
+    "Small printed notices on the glass (yellow signs) are visible but their text is unreadable at this resolution.",
+    "There may be additional lamp posts, people or objects partly out of frame or behind glass panels; counts are limited to objects individually distinguishable in this view.",
+    "The dark boarded or covered area seen through the central entrance could be temporary boarding, glass covered with film, or interior construction; its exact nature is not determinable from the image.",
+    "Faint lettering along the canopy/glass band at the top of the glazed facade is not clearly readable in this image; any letters visible at a distance were not transcribable with confidence."
+  ],
+  "visual_facts": [
+    "At least two freestanding globe lamp posts are visible in the paved forecourt: one near the centre foreground and one near the right foreground; both are mounted on dark vertical poles and their globes are intact.",
+    "There are multiple full-height glass panels and glass doors forming a continuous glazed facade across the ground floor of the visible wing; the assembly includes framed vertical mullions and sliding or swing entry openings (exact number of panels cannot be determined from this single view).",
+    "A horizontal metal-and-glass canopy projects over the entrance and upper glass panels across the front facade.",
+    "The paved pedestrian plaza in front of the building is visible and appears surfaced with rectangular terracotta-coloured pavers.",
+    "At least three people are visible on the left side of the image walking or standing along the corridor/walkway outside the building; they are distant and partially occluded by the building edges (counts of people are limited to those individually distinguishable in this view).",
+    "Two yellow rectangular signs or notices are adhered to interior glass panels (one visible on the left side of the front glazing and one nearer the central entrance); the printed content of those notices is not legible at this resolution.",
+    "Interior elements visible through the glass include partition walls or temporary boarded areas (a dark boarded panel is visible through the main entrance) and ceiling-mounted fluorescent or LED fixtures visible through the glazing.",
+    "The foreground paving is a terracotta or reddish-brown colour and appears to be rectangular pavers or tiles.",
+    "The building upper walls are clad in brown brick with a textured masonry appearance.",
+    "The ground-floor facade is predominantly transparent glass with clear glazing and metal framing; the canopy appears to be a combination of metal framing and translucent or clear glass/plexiglass panels.",
+    "Lamp-post poles are dark brown or black metal with white or off-white spherical lamp globes."
+  ],
+  "id": "ccbb6651a183e99e3280e496",
+  "sha256": "ebfe484c88bf0a1f0a7e04ecf9ea32231f60707ffac38e974a0c359a27a15d5a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:04:41.804403+00:00",
+  "input_resolution": [
+    768,
+    346
+  ],
+  "input_sha256": "98e62aa52e167366199e637b782b63b6e6f2b606659d169f2bf8b1876448bf00",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauRKB1vAbCFEndoRlN5ljeJ6ycKl",
+  "usage": {
+    "completion_tokens": 1132,
+    "prompt_tokens": 1517,
+    "total_tokens": 2649,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 457,
+      "engine_ttlt_ms": 9564,
+      "pre_inference_ms": 103,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1012,
+      "service_ttlt_ms": 10114,
+      "user_visible_ttft_ms": 909
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

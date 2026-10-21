@@ -1,0 +1,106 @@
+{
+  "title": "Students assembling laser-cut parts at a communal workbench with Huawei laptop",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Four people are visibly present: two persons are in the foreground leaning over the workbench (both upper bodies visible), and two additional people are seated in the background (one in a yellow shirt and one in a striped shirt) partially visible.",
+    "One laptop with a visible brand mark is on the left side of the central workbench (screen facing away from camera).",
+    "One vertical black pole or boom rises from the table area near the two foreground people; it is visible in full length within the image.",
+    "At least five separate laser-cut wooden panels or parts are visible on the table in front of the two foreground people (several flat panels and one assembled box-like panel).",
+    "At least two clear plastic bags or packages containing small parts are visible on the tabletop near the wooden pieces.",
+    "One smartphone is visible on the lower-left area of the table (near the image foreground).",
+    "One wired cable is visible running over the front-right edge of the workbench toward the foreground of the image.",
+    "One backpack is visible on a table in the background behind the person in yellow."
+  ],
+  "visible_text": [
+    "HUAWEI"
+  ],
+  "spatial_relations": [
+    "Two people in the foreground are leaning over the central workbench and are working together on a rectangular laser-cut assembly; their hands are placed on top of that assembly.",
+    "The laptop (HUAWEI) is positioned on the left side of the central workbench relative to the two foreground people, partially between them and the camera.",
+    "The vertical black pole/boom rises from the tabletop near the centre of the image and is positioned between the two foreground people and the camera view, slightly in front of their heads.",
+    "Laser-cut wooden panels and plastic bags are spread across the central portion of the workbench in front of the two foreground people; the assembled rectangular wooden piece is centrally located on the table between the two workers.",
+    "A smartphone lies on the lower-left corner of the table in the foreground; a wired cable runs from the right-front edge of the table toward the camera.",
+    "Two additional people are seated at separate tables in the background, behind the central workbench; one is wearing a yellow shirt and the other a striped shirt."
+  ],
+  "colours_and_materials": [
+    "The laptop has a silver-coloured finish.",
+    "The laser-cut parts appear to be light-coloured plywood or thin light wood (beige/tan).",
+    "The workbench surface is a light wood colour with visible layered plywood edge.",
+    "One foreground person wears a red/brown plaid (flannel-like) jacket; the other foreground person wears a dark navy-blue shirt.",
+    "A person in the background wears a yellow shirt and another background person wears a blue-and-white striped shirt."
+  ],
+  "uncertainties": [
+    "No room name or room number is legible in the image; the exact location cannot be determined from the visible content.",
+    "Small text on the laptop sticker and any labels on the wooden parts or plastic bags are not legible in the image.",
+    "The vertical black pole could be a lamp, microphone boom, camera rig or other stand; its exact function or equipment type is not determinable from appearance alone.",
+    "The exact count of small components inside the plastic bags cannot be determined; only the bags themselves are counted.",
+    "People are described generically; no identities or personal names are inferred or provided."
+  ],
+  "visual_facts": [
+    "Four people are visibly present: two persons are in the foreground leaning over the workbench (both upper bodies visible), and two additional people are seated in the background (one in a yellow shirt and one in a striped shirt) partially visible.",
+    "One laptop with a visible brand mark is on the left side of the central workbench (screen facing away from camera).",
+    "One vertical black pole or boom rises from the table area near the two foreground people; it is visible in full length within the image.",
+    "At least five separate laser-cut wooden panels or parts are visible on the table in front of the two foreground people (several flat panels and one assembled box-like panel).",
+    "At least two clear plastic bags or packages containing small parts are visible on the tabletop near the wooden pieces.",
+    "One smartphone is visible on the lower-left area of the table (near the image foreground).",
+    "One wired cable is visible running over the front-right edge of the workbench toward the foreground of the image.",
+    "One backpack is visible on a table in the background behind the person in yellow.",
+    "The laptop has a silver-coloured finish.",
+    "The laser-cut parts appear to be light-coloured plywood or thin light wood (beige/tan).",
+    "The workbench surface is a light wood colour with visible layered plywood edge.",
+    "One foreground person wears a red/brown plaid (flannel-like) jacket; the other foreground person wears a dark navy-blue shirt.",
+    "A person in the background wears a yellow shirt and another background person wears a blue-and-white striped shirt."
+  ],
+  "id": "2547103b2d8d3398dd2622e6",
+  "sha256": "9d49da89020b83ff6ad9ce3d0279789b48692b63734d2864116e816540d0a914",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:07:29.960316+00:00",
+  "input_resolution": [
+    2100,
+    1400
+  ],
+  "input_sha256": "ca625c154d44e3198bf6f3c9d1a4e02afcddfdb68f9254a006b49bda047c15ee",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatXzm79mVGECkvorlYfu2FLfFBck",
+  "usage": {
+    "completion_tokens": 1097,
+    "prompt_tokens": 2266,
+    "total_tokens": 3363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1189,
+      "engine_ttlt_ms": 9008,
+      "pre_inference_ms": 337,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1974,
+      "service_ttlt_ms": 9787,
+      "user_visible_ttft_ms": 1637
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

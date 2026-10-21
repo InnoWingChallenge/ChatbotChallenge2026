@@ -1,0 +1,110 @@
+{
+  "title": "Interior multi-storey atrium with central stair and balconies",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "A multi-storey atrium with at least three visible levels (ground plus two upper floors) is present.",
+    "One vertical stairwell is visible on the right side of the atrium, showing at least three stair flights within that stairwell (each flight between landings is visible).",
+    "At least four large vertical structural columns are visible across the front of the atrium; several additional columns are partially visible behind or at image edges.",
+    "Multiple horizontal balcony/railing runs are visible on each level; individual rail segments are visible but an exact count of rail segments or balcony openings cannot be determined from the image.",
+    "A rectangular recessed floor area or sunken courtyard is visible in the foreground; it contains what appear to be small circular features (possibly drains or fixtures) but these features are partially obscured and cannot be reliably counted.",
+    "Multiple window openings and wall panels are visible along the interior facades; exact counts of windows and panels cannot be reliably determined from this single view.",
+    "A patterned brick or lattice panel is visible on the lower left interior wall (one large panel assembly is visible).",
+    "Two large stylized text graphics are overlaid on the image (these are printed on the image and not part of the photographed architecture): one reading \"THE LIBRARY\" near the lower left and two ribbon-like buttons on the lower right reading \"START\" and \"TUTORIAL\"."
+  ],
+  "visible_text": [
+    "THE LIBRARY",
+    "START",
+    "TUTORIAL"
+  ],
+  "spatial_relations": [
+    "The atrium occupies the central portion of the image with three visible storey levels stacked vertically.",
+    "The stairwell is located to the right of center and runs vertically, with stair flights and landings visible between each floor level; the stairwell is enclosed by columns and open balustrades toward the atrium.",
+    "Balconies with railings run along the front of each upper level, directly behind the row of vertical columns.",
+    "The rectangular recessed area or sunken courtyard is in the foreground, directly in front of the lowest level and bounded by a raised walkway or edge on at least two sides.",
+    "The patterned brick/lattice panel is mounted on the lower left interior wall, below the second level of balconies.",
+    "The overlaid text graphics are superimposed on the image: \"THE LIBRARY\" is overlaid at lower left atop the foreground area, while \"START\" and \"TUTORIAL\" are overlaid at lower right on ribbon-like shapes."
+  ],
+  "colours_and_materials": [
+    "The entire photo has a strong pink/purplish monochrome filter applied, affecting perceived colours.",
+    "Structural elements such as columns, beams and floor edges appear as light-toned surfaces consistent with concrete (material identification uncertain due to filter).",
+    "Balustrades/railings appear as darker linear elements, likely metal but material cannot be confirmed.",
+    "A lower wall area shows a darker patterned panel that appears textured, possibly brick or a lattice screen (material uncertain).",
+    "The overlaid text and ribbon graphics are white text on darker ribbon shapes at lower right and white stylized lettering at lower left."
+  ],
+  "uncertainties": [
+    "No explicit room name or number sign is readable in the photographed architecture; therefore the location is unknown from image.",
+    "The exact number of windows, balcony openings and vertical columns beyond those clearly visible cannot be determined because parts of the scene are cropped or obscured by shadow and the image filter.",
+    "It is unclear whether the rectangular recessed foreground area contains water, bare flooring, or another finish; small circular features there are partially obscured and cannot be reliably identified.",
+    "The image has an overlaid graphic filter and stylized text that are not part of the photographed scene; these graphic elements could obscure or conceal underlying signage or labels.",
+    "Some small labels or signage that might exist on columns, doors or equipment are not legible at this scale and were not transcribed."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "A multi-storey atrium with at least three visible levels (ground plus two upper floors) is present.",
+    "One vertical stairwell is visible on the right side of the atrium, showing at least three stair flights within that stairwell (each flight between landings is visible).",
+    "At least four large vertical structural columns are visible across the front of the atrium; several additional columns are partially visible behind or at image edges.",
+    "Multiple horizontal balcony/railing runs are visible on each level; individual rail segments are visible but an exact count of rail segments or balcony openings cannot be determined from the image.",
+    "A rectangular recessed floor area or sunken courtyard is visible in the foreground; it contains what appear to be small circular features (possibly drains or fixtures) but these features are partially obscured and cannot be reliably counted.",
+    "Multiple window openings and wall panels are visible along the interior facades; exact counts of windows and panels cannot be reliably determined from this single view.",
+    "A patterned brick or lattice panel is visible on the lower left interior wall (one large panel assembly is visible).",
+    "Two large stylized text graphics are overlaid on the image (these are printed on the image and not part of the photographed architecture): one reading \"THE LIBRARY\" near the lower left and two ribbon-like buttons on the lower right reading \"START\" and \"TUTORIAL\".",
+    "The entire photo has a strong pink/purplish monochrome filter applied, affecting perceived colours.",
+    "Structural elements such as columns, beams and floor edges appear as light-toned surfaces consistent with concrete (material identification uncertain due to filter).",
+    "Balustrades/railings appear as darker linear elements, likely metal but material cannot be confirmed.",
+    "A lower wall area shows a darker patterned panel that appears textured, possibly brick or a lattice screen (material uncertain).",
+    "The overlaid text and ribbon graphics are white text on darker ribbon shapes at lower right and white stylized lettering at lower left."
+  ],
+  "id": "4685d26973bb76b5d8011aea",
+  "sha256": "094d75144f0b1fe34eb0072ba7744476f65314580f49f0f5f32a63864c043011",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:37:27.678446+00:00",
+  "input_resolution": [
+    1439,
+    800
+  ],
+  "input_sha256": "b2496c0f5a9bfca737ec58784160802d9b20191a34401145efead845852a4cb0",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau0zbkM0zUtDivcIVENUP6yc0RoB",
+  "usage": {
+    "completion_tokens": 1091,
+    "prompt_tokens": 2468,
+    "total_tokens": 3559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 648,
+      "engine_ttlt_ms": 8933,
+      "pre_inference_ms": 383,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1124,
+      "service_ttlt_ms": 9403,
+      "user_visible_ttft_ms": 742
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

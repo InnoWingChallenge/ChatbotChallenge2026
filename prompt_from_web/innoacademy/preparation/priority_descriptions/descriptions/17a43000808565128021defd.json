@@ -1,0 +1,99 @@
+{
+  "title": "Outdoor tree-lined sidewalk with a group of people waiting on the right",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 10 people are visible standing or walking along the right-side sidewalk; several of these people are partially obscured or cropped by the image edge so an exact count cannot be confirmed.",
+    "Two motor vehicles are visible on the road at left: one dark passenger car in the nearer left lane and one larger vehicle (truck or bus) farther down the road in the distance.",
+    "Three cylindrical metal bollards are visible along the center/right side of the paved walkway in the foreground and midground (one in the immediate foreground, one slightly behind it, one farther ahead near a tree); these bollards are partially cropped by perspective but individually distinguishable in the image.",
+    "Several street lamp posts are visible along the left side of the walkway/road (at least two distinct lamp posts can be seen receding into the distance).",
+    "A low retaining moss-covered wall runs along the right side of the path; landscaped grass and plantings are visible above it.",
+    "A large mature tree trunk is close to the center of the image on the paved walkway; additional trees line both sides of the walkway."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A paved pedestrian walkway occupies the foreground and extends toward the background; the walking group is positioned along the right edge of that walkway.",
+    "The road with vehicles runs parallel to the left side of the walkway; street lamp posts are located between the road and the walkway on the left side.",
+    "A large tree trunk stands near the center of the walkway; the group of people is positioned to the right of that tree trunk.",
+    "A moss-covered retaining wall with shrubbery sits to the immediate right of the sidewalk where the group stands; buildings are partially visible behind the vegetation on the right.",
+    "Metal bollards are aligned along the boundary between the pedestrian path and the planted strip or tree wells on the right side of the walkway."
+  ],
+  "colours_and_materials": [
+    "The retaining wall to the right appears covered with green moss and adjacent green shrubbery.",
+    "Sidewalk paving is composed of grey square tiles with tactile guiding strips visible (a linear textured strip) running along the path.",
+    "Tree trunks are brown/grey; tree foliage shows green and some yellowing leaves consistent with early autumn tones.",
+    "Metal bollards and lamp posts appear metallic grey.",
+    "Vehicles include a dark-colored passenger car (dark grey or black) and a lighter large vehicle in the distance."
+  ],
+  "uncertainties": [
+    "No interior room name, room number, or other explicit location identifier is visible in the image; location is therefore unknown from image.",
+    "People count is reported as a visible minimum (at least 10) because several people are partially obscured, overlapping, or cropped at the image edge and a precise total cannot be reliably determined from this single view.",
+    "Vehicle type for the larger distant vehicle is uncertain (appears to be a truck or bus) due to distance and partial occlusion.",
+    "Some objects (for example small signs or text on distant signs or vehicles) are present but not legible at this resolution; no legible text could be transcribed.",
+    "Because this is an outdoor scene with no visible equipment nameplates, control panels, or room signage, the image does not provide direct evidence about internal facilities, equipment names, or room layout for an indoor innovation lab or wing."
+  ],
+  "visual_facts": [
+    "At least 10 people are visible standing or walking along the right-side sidewalk; several of these people are partially obscured or cropped by the image edge so an exact count cannot be confirmed.",
+    "Two motor vehicles are visible on the road at left: one dark passenger car in the nearer left lane and one larger vehicle (truck or bus) farther down the road in the distance.",
+    "Three cylindrical metal bollards are visible along the center/right side of the paved walkway in the foreground and midground (one in the immediate foreground, one slightly behind it, one farther ahead near a tree); these bollards are partially cropped by perspective but individually distinguishable in the image.",
+    "Several street lamp posts are visible along the left side of the walkway/road (at least two distinct lamp posts can be seen receding into the distance).",
+    "A low retaining moss-covered wall runs along the right side of the path; landscaped grass and plantings are visible above it.",
+    "A large mature tree trunk is close to the center of the image on the paved walkway; additional trees line both sides of the walkway.",
+    "The retaining wall to the right appears covered with green moss and adjacent green shrubbery.",
+    "Sidewalk paving is composed of grey square tiles with tactile guiding strips visible (a linear textured strip) running along the path.",
+    "Tree trunks are brown/grey; tree foliage shows green and some yellowing leaves consistent with early autumn tones.",
+    "Metal bollards and lamp posts appear metallic grey.",
+    "Vehicles include a dark-colored passenger car (dark grey or black) and a lighter large vehicle in the distance."
+  ],
+  "id": "17a43000808565128021defd",
+  "sha256": "e658c6fbe94eeea3408b6201d15e1208ef87df1b4f4478aef219f5a7639e3589",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:29:35.507261+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "0a9c5a3bbce0a2841ca6fd8b5ead454470831e3dc266f0d0c284599275451551",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EattL97mtrVKSsATQi342xVWLv0A2",
+  "usage": {
+    "completion_tokens": 1081,
+    "prompt_tokens": 2266,
+    "total_tokens": 3347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1146,
+      "engine_ttlt_ms": 10208,
+      "pre_inference_ms": 474,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2151,
+      "service_ttlt_ms": 11208,
+      "user_visible_ttft_ms": 1676
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

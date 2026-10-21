@@ -1,0 +1,122 @@
+{
+  "title": "Reception window at Innovation Academy entrance",
+  "suitable": true,
+  "location": "Innovation Academy",
+  "objects_and_counts": [
+    "At least two people are visible by the tops/back of their heads behind the reception counter; both are partially cropped/obscured by the counter and partition.",
+    "At least three computer monitors are visible: one monitor at the reception counter (partly obscured by a clear partition) and at least two monitors on workstations behind the reception area (partly obscured).",
+    "One reception counter with a raised white service shelf is visible within a large red framed opening.",
+    "One small potted plant sits on the right end of the raised white shelf on the reception counter.",
+    "One clear acrylic partition is mounted on the reception counter between the visitor side and staff side.",
+    "One hand-sanitizer bottle is on the front ledge of the counter near a small cup holding pens.",
+    "One small bell and one black pen-cup are on the counter surface close to the sanitizer.",
+    "One white plastic basket containing green folders or envelopes is on the left side of the counter; a small label on the basket appears to read 'USED' (see uncertainties).",
+    "One stack of papers and a yellow notepad are on the left front of the counter.",
+    "One freestanding printer or copier is visible in the back left room on top of a cabinet.",
+    "One vertical glass door or panel to the right of the red frame has a large printed sign attached and an electronic display screen is visible through the glass to the right.",
+    "One ceiling-mounted dome CCTV camera is visible in the upper right of the image.",
+    "Multiple office storage elements (cabinets/drawers) are visible in the back left room; individual drawer counts cannot be precisely determined from this view."
+  ],
+  "visible_text": [
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "PULL",
+    "Speake"
+  ],
+  "spatial_relations": [
+    "A large red rectangular frame surrounds a recessed reception window; the red frame fills the central upper portion of the image and opens into the office behind it.",
+    "The reception counter runs horizontally across the lower part of the red opening; the raised white service shelf is located on the right portion of that counter.",
+    "The potted plant sits on top of the raised white shelf at the right side of the counter; the hand-sanitizer bottle, bell and pen-cup are arranged on the left portion of the counter surface facing the camera.",
+    "Behind the counter, office workstations and monitors are arranged back-to-back or in rows extending into the recessed office area; the two partially visible people are at those workstations directly behind the counter.",
+    "To the right of the red frame is a glass wall/door with a large printed sign reading 'Innovation Academy' and an electronic display screen visible beyond the glass; the CCTV dome is mounted on the ceiling near this junction.",
+    "A printer/copier and storage cabinets are positioned in the back left area of the recessed office, with a doorway visible further left."
+  ],
+  "colours_and_materials": [
+    "The prominent frame surrounding the reception opening is painted red with a matte finish.",
+    "The reception counter and raised service shelf are white, appearing to be painted or laminated surfaces.",
+    "Glass is used in the partition between the reception and the corridor (clear acrylic partition on counter) and for the wall/door to the right (transparent glass with a printed sign attached).",
+    "The floor in the foreground appears light blue and smooth (possibly vinyl or painted surface); the office floor inside the red frame is covered with grey carpet tiles.",
+    "Office furniture and storage visible inside are mostly neutral shades (white and grey).",
+    "The CCTV dome is white or light grey plastic; the potted plant pot appears grey plastic or ceramic."
+  ],
+  "uncertainties": [
+    "The exact wording on the electronic display screen to the right is not fully legible; only the fragment 'Speake' is readable.",
+    "Text on small papers and posters affixed to the interior partition within the reception opening is unreadable at this resolution and is therefore not transcribed.",
+    "The small label on the white basket at the left of the counter appears to read 'USED' but the characters are not perfectly sharp; this reading is tentative.",
+    "Exact counts of monitors and workstations are minimum visible counts; additional monitors or computers may be present but obscured from this viewpoint.",
+    "The number of people present in the office beyond those two partially visible heads cannot be determined; other people may be seated out of frame or obscured by monitors and partitions."
+  ],
+  "visual_facts": [
+    "Visible location text: Innovation Academy",
+    "At least two people are visible by the tops/back of their heads behind the reception counter; both are partially cropped/obscured by the counter and partition.",
+    "At least three computer monitors are visible: one monitor at the reception counter (partly obscured by a clear partition) and at least two monitors on workstations behind the reception area (partly obscured).",
+    "One reception counter with a raised white service shelf is visible within a large red framed opening.",
+    "One small potted plant sits on the right end of the raised white shelf on the reception counter.",
+    "One clear acrylic partition is mounted on the reception counter between the visitor side and staff side.",
+    "One hand-sanitizer bottle is on the front ledge of the counter near a small cup holding pens.",
+    "One small bell and one black pen-cup are on the counter surface close to the sanitizer.",
+    "One white plastic basket containing green folders or envelopes is on the left side of the counter; a small label on the basket appears to read 'USED' (see uncertainties).",
+    "One stack of papers and a yellow notepad are on the left front of the counter.",
+    "One freestanding printer or copier is visible in the back left room on top of a cabinet.",
+    "One vertical glass door or panel to the right of the red frame has a large printed sign attached and an electronic display screen is visible through the glass to the right.",
+    "One ceiling-mounted dome CCTV camera is visible in the upper right of the image.",
+    "Multiple office storage elements (cabinets/drawers) are visible in the back left room; individual drawer counts cannot be precisely determined from this view.",
+    "The prominent frame surrounding the reception opening is painted red with a matte finish.",
+    "The reception counter and raised service shelf are white, appearing to be painted or laminated surfaces.",
+    "Glass is used in the partition between the reception and the corridor (clear acrylic partition on counter) and for the wall/door to the right (transparent glass with a printed sign attached).",
+    "The floor in the foreground appears light blue and smooth (possibly vinyl or painted surface); the office floor inside the red frame is covered with grey carpet tiles.",
+    "Office furniture and storage visible inside are mostly neutral shades (white and grey).",
+    "The CCTV dome is white or light grey plastic; the potted plant pot appears grey plastic or ceramic."
+  ],
+  "id": "7d336bd4a65ab67b98d9b87e",
+  "sha256": "9706ac687dd4add121bf50b7004755a99b918005b4c109027ff79fefbed3e626",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:48:30.585764+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "83f286e403bc4c80c763c10ce2f4d3feea8b7848bafa4478789ccb21b5f0fc0f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauBcgxFlvWgCr2sfwKs4dK56QozX",
+  "usage": {
+    "completion_tokens": 1507,
+    "prompt_tokens": 2122,
+    "total_tokens": 3629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 968,
+      "engine_ttlt_ms": 12788,
+      "pre_inference_ms": 289,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1787,
+      "service_ttlt_ms": 13601,
+      "user_visible_ttft_ms": 1498
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

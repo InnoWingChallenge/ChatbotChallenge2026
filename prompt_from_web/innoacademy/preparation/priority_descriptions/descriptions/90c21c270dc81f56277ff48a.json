@@ -1,0 +1,106 @@
+{
+  "title": "Person holding smartphone in front of technical poster titled 'AUTOMATIC CHAIR STACKING SYSTEM'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One adult person is visible from the waist up on the right side of the image; the person's face is partially obscured by a surgical-style face mask and eyeglasses.",
+    "One smartphone is held in the person's right hand at chest height, screen facing the camera and showing a photo of an orange chair in a workshop setting.",
+    "One large vertical poster board is visible behind and to the left of the person; the poster has multiple text blocks and diagrams.",
+    "One smaller horizontal sign or placard is visible in the lower left corner with partially visible words.",
+    "At least one orange chair is visible on the smartphone screen (the chair on the phone is fully visible within the phone screen).",
+    "One glass partition with horizontal frosted stripes is visible behind the person.",
+    "No other distinct equipment (laboratory instruments, machines with legible nameplates, or tool benches) can be reliably counted from this image."
+  ],
+  "visible_text": [
+    "AUTOMATIC CHAIR STACKING SYSTEM",
+    "project 20",
+    "VOTE"
+  ],
+  "spatial_relations": [
+    "The person occupies the right half of the image and is standing in front of a glass partition with horizontal frosted stripes.",
+    "The large vertical poster board is positioned behind and slightly to the left of the person; the top of the poster aligns roughly with the person's head height.",
+    "The small horizontal sign with 'project 20' and 'VOTE' sits lower left in the foreground, in front of the larger poster.",
+    "The smartphone is held by the person's right hand centrally in the image foreground; the smartphone screen shows an image of an orange chair centered within the phone display.",
+    "The glass partition runs across the horizontal midline of the image behind the person and poster, separating foreground and distant background elements."
+  ],
+  "colours_and_materials": [
+    "The large poster has a dominant dark blue background with white text blocks and a narrow yellow header strip at the very top.",
+    "The small sign in the lower left has an orange strip with white text 'project 20' and a blue area with white text 'VOTE'.",
+    "The person wears a grey polo shirt with a small light-blue embroidered logo on the left chest and white/blue striped sleeve trim.",
+    "The face mask is light blue and appears to be a disposable surgical-style mask.",
+    "The smartphone has a black bezel and displays an orange chair on its screen; the chair appears to be plastic or painted material (material uncertain).",
+    "The background partition is glass with horizontal frosted stripes."
+  ],
+  "uncertainties": [
+    "Many smaller text blocks, captions and diagram labels on the large poster are not legible in the photo and are therefore transcribed as unreadable; only the large heading 'AUTOMATIC CHAIR STACKING SYSTEM' could be read clearly.",
+    "The detailed wording on the smaller poster/placard in the lower left beyond 'project 20' and 'VOTE' is not legible.",
+    "Any brand names, model numbers, or equipment nameplates that might be on the poster or in the room are not readable at the resolution and distance of this image.",
+    "It is unclear whether additional equipment or objects are present outside the cropped photograph; counts are limited to clearly visible items within this image."
+  ],
+  "visual_facts": [
+    "One adult person is visible from the waist up on the right side of the image; the person's face is partially obscured by a surgical-style face mask and eyeglasses.",
+    "One smartphone is held in the person's right hand at chest height, screen facing the camera and showing a photo of an orange chair in a workshop setting.",
+    "One large vertical poster board is visible behind and to the left of the person; the poster has multiple text blocks and diagrams.",
+    "One smaller horizontal sign or placard is visible in the lower left corner with partially visible words.",
+    "At least one orange chair is visible on the smartphone screen (the chair on the phone is fully visible within the phone screen).",
+    "One glass partition with horizontal frosted stripes is visible behind the person.",
+    "No other distinct equipment (laboratory instruments, machines with legible nameplates, or tool benches) can be reliably counted from this image.",
+    "The large poster has a dominant dark blue background with white text blocks and a narrow yellow header strip at the very top.",
+    "The small sign in the lower left has an orange strip with white text 'project 20' and a blue area with white text 'VOTE'.",
+    "The person wears a grey polo shirt with a small light-blue embroidered logo on the left chest and white/blue striped sleeve trim.",
+    "The face mask is light blue and appears to be a disposable surgical-style mask.",
+    "The smartphone has a black bezel and displays an orange chair on its screen; the chair appears to be plastic or painted material (material uncertain).",
+    "The background partition is glass with horizontal frosted stripes."
+  ],
+  "id": "90c21c270dc81f56277ff48a",
+  "sha256": "ed30c33170c449bd11f7eb0c89cd46ade409c99aed9297f3d064a444383f20a6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:53:13.111384+00:00",
+  "input_resolution": [
+    1280,
+    853
+  ],
+  "input_sha256": "504a2e57fc915b0b57efac115931de6d85dc845fae864cc6892db4de087d50fd",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauGHZnKSGSPZAwLf6vontmPThzXk",
+  "usage": {
+    "completion_tokens": 946,
+    "prompt_tokens": 2266,
+    "total_tokens": 3212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 373,
+      "engine_ttlt_ms": 6665,
+      "pre_inference_ms": 278,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 745,
+      "service_ttlt_ms": 7033,
+      "user_visible_ttft_ms": 467
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

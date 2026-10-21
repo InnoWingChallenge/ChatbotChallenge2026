@@ -1,0 +1,107 @@
+{
+  "title": "Group talking in front of DREAMLab glass wall",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "Four visible people are standing in the foreground: one at left in a dark cap, one near center wearing a black 'ROBOMASTER' shirt, one with his back to camera wearing a blue 'IRON PARADISE' shirt, and one at right in an orange polo. All four are partially or fully visible and none are cropped out of the frame except slight cropping at shoulders for some.",
+    "At least three identical orange folding chairs are visible clustered behind the group against the glass wall; one chair seat and back are fully visible near the left-center, one is partially visible behind the person at center, and another is partially visible nearer the left edge.",
+    "A glass interior wall or partition spans the background with mounted signage and a small posted notice; the glass reflects light and shows faint grid markings on the right side.",
+    "Ceiling fixtures: one large rectangular ceiling air-conditioning vent is visible near the top-right and one rectangular fluorescent ceiling light panel is visible above the group.",
+    "One small printed poster or notice is affixed to the glass wall between the left and center persons; it is readable in part (heading and a single word)."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "UNIVERSITY OF HONG KONG",
+    "IMPORTANT NOTICE",
+    "Disposal",
+    "ROBOMASTER",
+    "IRON PARADISE",
+    "SANCTUARY",
+    "OF SWEAT"
+  ],
+  "spatial_relations": [
+    "The DREAMLab logo and the line 'UNIVERSITY OF HONG KONG' are mounted on the glass wall in the upper left quadrant of the image.",
+    "The small posted notice with heading 'IMPORTANT NOTICE' and the word 'Disposal' is attached to the glass wall roughly at chest height between the left-most person and the center person.",
+    "Three orange folding chairs are aligned against the glass wall behind the group, with one chair more left, one near center behind the person in black, and another partially visible left-of-center.",
+    "The person in the dark cap stands at the far left facing right toward the group; the person in the black ROBOMASTER shirt stands center facing slightly left; the person in the blue IRON PARADISE shirt stands with his back to the camera in the right-center foreground; the person in the orange polo stands at the far right slightly behind the blue-shirted person.",
+    "A ceiling air-conditioning vent is located above and slightly to the right of the person at far right; a fluorescent light panel is above the central area of the group."
+  ],
+  "colours_and_materials": [
+    "The background partition is made of pale, translucent glass with a glossy finish that reflects light.",
+    "Three folding chairs are a bright orange color and appear to be plastic or painted metal with visible seat and back surfaces.",
+    "The DREAMLab lettering uses yellow for 'DREAM' and black for 'Lab' (yellow for the left portion and black for the right portion as visible against the glass).",
+    "Clothing colors visible: a dark/navy polo and black cap on the left person, a black T-shirt on the center person, a blue T-shirt on the person with his back to camera, and an orange polo on the right person.",
+    "The ceiling vent and light panel are off-white/beige and appear to be metal or plastic."
+  ],
+  "uncertainties": [
+    "The small printed notice under the DREAMLab logo contains additional smaller text that is not legible in the image; only the headings 'IMPORTANT NOTICE' and the word 'Disposal' are clearly readable.",
+    "There may be additional chairs or objects outside the frame or behind the visible chairs; counts are limited to individually distinguishable visible items.",
+    "Some text on clothing (for example any small brand names or additional lines on the ROBOMASTER shirt) is partially obscured or too small to transcribe fully; 'ROBOMASTER' and the lines 'IRON PARADISE', 'SANCTUARY' and 'OF SWEAT' are the legible portions.",
+    "The exact material identification of chairs and ceiling fixtures is uncertain and stated as appearance-based only.",
+    "No room number or more specific room name beyond 'DREAMLab' and 'UNIVERSITY OF HONG KONG' is visible; therefore a more specific location cannot be determined from the image."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "Four visible people are standing in the foreground: one at left in a dark cap, one near center wearing a black 'ROBOMASTER' shirt, one with his back to camera wearing a blue 'IRON PARADISE' shirt, and one at right in an orange polo. All four are partially or fully visible and none are cropped out of the frame except slight cropping at shoulders for some.",
+    "At least three identical orange folding chairs are visible clustered behind the group against the glass wall; one chair seat and back are fully visible near the left-center, one is partially visible behind the person at center, and another is partially visible nearer the left edge.",
+    "A glass interior wall or partition spans the background with mounted signage and a small posted notice; the glass reflects light and shows faint grid markings on the right side.",
+    "Ceiling fixtures: one large rectangular ceiling air-conditioning vent is visible near the top-right and one rectangular fluorescent ceiling light panel is visible above the group.",
+    "One small printed poster or notice is affixed to the glass wall between the left and center persons; it is readable in part (heading and a single word).",
+    "The background partition is made of pale, translucent glass with a glossy finish that reflects light.",
+    "Three folding chairs are a bright orange color and appear to be plastic or painted metal with visible seat and back surfaces.",
+    "The DREAMLab lettering uses yellow for 'DREAM' and black for 'Lab' (yellow for the left portion and black for the right portion as visible against the glass).",
+    "Clothing colors visible: a dark/navy polo and black cap on the left person, a black T-shirt on the center person, a blue T-shirt on the person with his back to camera, and an orange polo on the right person.",
+    "The ceiling vent and light panel are off-white/beige and appear to be metal or plastic."
+  ],
+  "id": "8a066dfd7728142d1b67da97",
+  "sha256": "0f6712c31c872f3ea0533d553943735f604c748b730a547f830acbcc1ad497a3",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:52:13.755477+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "7234ee4c57218d5da65d042c1a5763cea6c50ef10324709673f07df3bd12a8a3",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauFHbqdH4QwxYQIpvwl089NyQnXW",
+  "usage": {
+    "completion_tokens": 1211,
+    "prompt_tokens": 2122,
+    "total_tokens": 3333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 352,
+      "engine_ttlt_ms": 8874,
+      "pre_inference_ms": 319,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 761,
+      "service_ttlt_ms": 9279,
+      "user_visible_ttft_ms": 442
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Outdoor entrance sign reading TOHOKU UNIVERSITY at fenced sports field",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One large metal sign composed of individual letters attached to a horizontal railing reading 'TOHOKU UNIVERSITY'.",
+    "One circular emblem/plaque mounted on the same railing to the left of the word 'TOHOKU'.",
+    "One fenced sports field directly behind the railing and sign; the fence has green vertical posts and mesh panels.",
+    "At least two small human figures on the paved path in the mid-left background who appear to be on bicycles; they are distant and partially occluded by trees and fencing.",
+    "Two trees prominently visible in the foreground: one at the far left edge and one at the right edge of the image (the right tree is partially cropped by the image edge).",
+    "Multiple vertical poles near the center background (at least two are clearly visible; they appear to be lighting or utility poles).",
+    "One paved asphalt foreground surface occupying the bottom portion of the image and a concrete/stone low planter or seating block to the left of the railing."
+  ],
+  "visible_text": [
+    "TOHOKU UNIVERSITY"
+  ],
+  "spatial_relations": [
+    "The 'TOHOKU UNIVERSITY' metal letters are mounted along a horizontal railing that runs roughly left-to-right across the middle of the image.",
+    "The circular emblem/plaque is located on the railing to the left of the letters 'TOHOKU'.",
+    "A fenced sports field sits directly behind the railing and sign; the fence runs parallel to the railing and extends into the background.",
+    "A paved walkway is visible behind the railing on the left side, running away from the camera toward the center-left of the image where the distant people are located.",
+    "A building is partially visible through the trees in the upper left background, located behind the fenced area.",
+    "Trees are placed in the foreground on both left and right edges, framing the sign and fence between them."
+  ],
+  "colours_and_materials": [
+    "The individual letters spelling 'TOHOKU UNIVERSITY' appear to be silver or metallic and are mounted on a horizontal metal railing.",
+    "The fence behind the sign has green vertical posts and green mesh or wire panels.",
+    "The foreground ground surface is dark grey or black asphalt.",
+    "Grass inside the fenced field is green; trees show green foliage with some autumnal brown/orange tones in the mid-background.",
+    "A concrete or stone low planter/seating block is visible to the left of the railing and appears light grey."
+  ],
+  "uncertainties": [
+    "This image does not display any visible room name or room number; therefore the specific location within any building (for example, 'HKU Innovation Academy' or 'Tam Wing Fan Innovation Wing') is unknown from the image.",
+    "Small human figures in the mid-left background appear to be riders on bicycles but are distant and partially occluded; the count 'at least two' is based on visible shapes and could be incomplete.",
+    "Text on the circular emblem/plaque to the left of the letters is not legible at this resolution; its content cannot be transcribed.",
+    "There are multiple vertical poles in the background; only two are clearly distinguishable — additional poles may be present but are obscured by trees or distance.",
+    "Because this is an outdoor scene showing a university name sign and grounds, it does not provide interior equipment, room signage, or fixed laboratory apparatus needed as direct evidence for HKU Innovation Academy or Tam Wing Fan Innovation Wing; therefore 'suitable' is false for that task."
+  ],
+  "visual_facts": [
+    "One large metal sign composed of individual letters attached to a horizontal railing reading 'TOHOKU UNIVERSITY'.",
+    "One circular emblem/plaque mounted on the same railing to the left of the word 'TOHOKU'.",
+    "One fenced sports field directly behind the railing and sign; the fence has green vertical posts and mesh panels.",
+    "At least two small human figures on the paved path in the mid-left background who appear to be on bicycles; they are distant and partially occluded by trees and fencing.",
+    "Two trees prominently visible in the foreground: one at the far left edge and one at the right edge of the image (the right tree is partially cropped by the image edge).",
+    "Multiple vertical poles near the center background (at least two are clearly visible; they appear to be lighting or utility poles).",
+    "One paved asphalt foreground surface occupying the bottom portion of the image and a concrete/stone low planter or seating block to the left of the railing.",
+    "The individual letters spelling 'TOHOKU UNIVERSITY' appear to be silver or metallic and are mounted on a horizontal metal railing.",
+    "The fence behind the sign has green vertical posts and green mesh or wire panels.",
+    "The foreground ground surface is dark grey or black asphalt.",
+    "Grass inside the fenced field is green; trees show green foliage with some autumnal brown/orange tones in the mid-background.",
+    "A concrete or stone low planter/seating block is visible to the left of the railing and appears light grey."
+  ],
+  "id": "654995fe002e2aec3196c502",
+  "sha256": "e9d89f8255094b73774fabdcd1051fe3ce216d7b5411747ab10dbed0b3d9a5a9",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:43:18.623233+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "9a0663475539caf3a63be16d5d89433b3800ea31ade6fed0d991173e6ceaf043",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau6e5dF0HVychWeRDPCsKiQ5QSAl",
+  "usage": {
+    "completion_tokens": 1103,
+    "prompt_tokens": 2266,
+    "total_tokens": 3369,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1187,
+      "engine_ttlt_ms": 8780,
+      "pre_inference_ms": 373,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2103,
+      "service_ttlt_ms": 9691,
+      "user_visible_ttft_ms": 1730
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

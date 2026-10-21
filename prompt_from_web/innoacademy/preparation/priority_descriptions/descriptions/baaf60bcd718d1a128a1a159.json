@@ -1,0 +1,121 @@
+{
+  "title": "DREAMLab workspace with presenter and student group",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "At least 6 people visible: one standing presenter on the left side of the central aisle and a line/cluster of at least five students on the right side of the aisle (some are partially cropped at the right edge).",
+    "One large office printer/copier visible in the front-left foreground (grey plastic unit).",
+    "Two blue plastic storage containers with lids visible on a central work surface near the foreground (appearing stacked or adjacent).",
+    "At least 5 computer monitors visible along the left wall and on desks toward the rear (some are partially obscured by people and equipment).",
+    "At least 6 office chairs visible distributed along the left workstations and central tables (several are partially obscured).",
+    "Multiple work tables/desks arranged in rows through the middle of the room (at least 3 distinct table surfaces visible).",
+    "Several metal frame assemblies or robotic-appearance components on the central tables; a visible minimum of 3 separate frame-like assemblies (some are partially obscured by other equipment).",
+    "One wall-mounted large display/TV screen on the left wall showing a photographic scene (single unit).",
+    "One wall-mounted whiteboard or writable wall area at the rear with writing on it (single large surface).",
+    "Multiple posters or wall-mounted graphics along the left and rear walls (at least 4 distinct posters/graphics visible).",
+    "One orange cable reel/coiled cable on the floor at the rear-right of the room (single unit).",
+    "Multiple cardboard boxes and small parts containers on central tables (at least 3 distinct boxes/containers visible)."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "DREAM Lab",
+    "ENGINEERING",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The presenter stands on the left side of the central aisle facing the students who are lined up along the right side of the aisle.",
+    "Workstations and monitors run along the left wall beneath wall-mounted posters and a large wall-mounted display; central tables with equipment form a row(s) down the middle of the room.",
+    "A writable wall or whiteboard with visible writing is on the rear wall behind the central workspace; the large 'DREAMLab' sign is located on that rear wall above the writable area.",
+    "The large printer/copier occupies the front-left foreground on a table adjacent to the central work area and near the stacked blue storage containers.",
+    "An orange cable reel is positioned on the floor at the rear-right area near the students."
+  ],
+  "colours_and_materials": [
+    "Walls are a pale green color on the rear wall where 'DREAMLab' is displayed; side walls appear white.",
+    "Ceiling is white with exposed white-painted pipes and ductwork.",
+    "Carpet is a dark blue/grey color.",
+    "Tables have yellowish wood or laminate tops and black metal legs.",
+    "Office chairs are predominantly black (fabric or mesh) with wheeled bases.",
+    "Storage containers are bright blue plastic with matching lids.",
+    "The large printer/copier is grey plastic."
+  ],
+  "uncertainties": [
+    "Exact count of people is uncertain because several are partially obscured or cropped at the image edge; I report a visible minimum of 6 people.",
+    "Some small labels, notes and whiteboard writing are not legible in the image; those are represented as [unreadable].",
+    "The visible text includes both 'DREAMLab' and a version shown as 'DREAM Lab' on different surfaces; it is unclear whether these are distinct stylings of the same name or separate signs.",
+    "Several pieces of equipment (metal frames/robotic components) are partially obscured by clutter, so the stated minimum counts may under-represent the number present.",
+    "Other small printed labels on devices and boxes were inspected but are not legible at this resolution and are therefore not transcribed."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "At least 6 people visible: one standing presenter on the left side of the central aisle and a line/cluster of at least five students on the right side of the aisle (some are partially cropped at the right edge).",
+    "One large office printer/copier visible in the front-left foreground (grey plastic unit).",
+    "Two blue plastic storage containers with lids visible on a central work surface near the foreground (appearing stacked or adjacent).",
+    "At least 5 computer monitors visible along the left wall and on desks toward the rear (some are partially obscured by people and equipment).",
+    "At least 6 office chairs visible distributed along the left workstations and central tables (several are partially obscured).",
+    "Multiple work tables/desks arranged in rows through the middle of the room (at least 3 distinct table surfaces visible).",
+    "Several metal frame assemblies or robotic-appearance components on the central tables; a visible minimum of 3 separate frame-like assemblies (some are partially obscured by other equipment).",
+    "One wall-mounted large display/TV screen on the left wall showing a photographic scene (single unit).",
+    "One wall-mounted whiteboard or writable wall area at the rear with writing on it (single large surface).",
+    "Multiple posters or wall-mounted graphics along the left and rear walls (at least 4 distinct posters/graphics visible).",
+    "One orange cable reel/coiled cable on the floor at the rear-right of the room (single unit).",
+    "Multiple cardboard boxes and small parts containers on central tables (at least 3 distinct boxes/containers visible).",
+    "Walls are a pale green color on the rear wall where 'DREAMLab' is displayed; side walls appear white.",
+    "Ceiling is white with exposed white-painted pipes and ductwork.",
+    "Carpet is a dark blue/grey color.",
+    "Tables have yellowish wood or laminate tops and black metal legs.",
+    "Office chairs are predominantly black (fabric or mesh) with wheeled bases.",
+    "Storage containers are bright blue plastic with matching lids.",
+    "The large printer/copier is grey plastic."
+  ],
+  "id": "baaf60bcd718d1a128a1a159",
+  "sha256": "23f5d360bf4016024459312d520218a2504489d9fa665adb5da102dfd0e45fd1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:01:35.984031+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "52fa1f869e8ade8b66fb05b8094e69ce1ade292f6a3999f85c1e034fe6cff595",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauOH5MSGpTXNJNONPO6RKquxXsvY",
+  "usage": {
+    "completion_tokens": 1580,
+    "prompt_tokens": 2122,
+    "total_tokens": 3702,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 704,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1154,
+      "engine_ttlt_ms": 13030,
+      "pre_inference_ms": 408,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2114,
+      "service_ttlt_ms": 13984,
+      "user_visible_ttft_ms": 1706
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

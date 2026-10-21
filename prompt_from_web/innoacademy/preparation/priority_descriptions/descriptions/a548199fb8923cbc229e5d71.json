@@ -1,0 +1,106 @@
+{
+  "title": "Urban view with tall lattice tower framed by adjacent buildings",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One tall lattice communication/observation tower is visible near the vertical centre of the image; the tower is fully within the frame.",
+    "At least two distinct multi-storey buildings are visible: one beige-clad building with balconies on the left (left edge cropped) and one light-grey or silver-glass facade building on the right (right edge partly cropped).",
+    "One external air-conditioning condenser unit is visible on a lower rooftop at the right side of the image (near the right building).",
+    "At least five horizontal utility cables or wires cross the lower to mid portion of the image; several are overlapped and partly obscured by trees and buildings, so only a minimum count is certain.",
+    "Vegetation: at least one tree or cluster of trees is visible in the lower-central foreground; foliage partly obscures lower structures.",
+    "Foreground roof structures and smaller rooftop equipment are visible at the bottom of the image, including a low red-brown roof and other small rooftop fixtures (cropped and partly obscured)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The tall lattice tower stands approximately in the vertical centre of the image and is framed by two taller building faces on the left and right, creating a narrow vertical gap through which the tower is seen.",
+    "The beige building with balconies occupies the left third of the image and is cropped at the left edge; its balconies project slightly into the scene.",
+    "The glass-faced light-grey building occupies the right third of the image and is also partially cropped at the right edge; reflective window panels are visible.",
+    "Horizontal utility cables run across the image from left to right in the lower and mid sections, appearing in front of the tree canopy and crossing the view of the tower at lower levels.",
+    "A cluster of trees and lower rooftop structures sit in the lower central foreground directly beneath the tower, partially obscuring the base of the tower from view.",
+    "The air-conditioning condenser unit is located on a lower rooftop at the right side, positioned in front of the right-side building facade from the viewer’s perspective."
+  ],
+  "colours_and_materials": [
+    "Sky: uniform clear blue sky occupying the upper background.",
+    "Left building: beige/tan exterior cladding with darker balcony undersides; balcony glass and metal railings present.",
+    "Right building: light grey / silver reflective glass panels and metal framing along the facade.",
+    "Tower: light grey to white metallic lattice appearance consistent with painted metal or steel structure.",
+    "Foreground vegetation: green foliage of trees in the lower-central area.",
+    "Rooftops: red-brown and grey roof surfaces visible in the lower foreground.",
+    "Utility cables: appear black or dark-coloured against the sky and buildings."
+  ],
+  "uncertainties": [
+    "No room name, room number, sign or label is legible in the image; therefore a precise location or building name cannot be determined from the photograph.",
+    "The identity of the tall tower is not confirmed by visible text or signage in the image; identification as a specific landmark would be inference rather than transcription.",
+    "The exact count of horizontal wires is uncertain due to overlap and partial occlusion by trees and rooftop elements; only a minimum of five distinct lines is asserted.",
+    "Several building elements (left balconies, right facade) and foreground rooftop fixtures are cropped by the image edges, so their full extent cannot be determined from this view.",
+    "Small labels or equipment nameplates (for example on the air-conditioning unit or other rooftop fixtures) are not legible at this resolution and were not transcribed."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One tall lattice communication/observation tower is visible near the vertical centre of the image; the tower is fully within the frame.",
+    "At least two distinct multi-storey buildings are visible: one beige-clad building with balconies on the left (left edge cropped) and one light-grey or silver-glass facade building on the right (right edge partly cropped).",
+    "One external air-conditioning condenser unit is visible on a lower rooftop at the right side of the image (near the right building).",
+    "At least five horizontal utility cables or wires cross the lower to mid portion of the image; several are overlapped and partly obscured by trees and buildings, so only a minimum count is certain.",
+    "Vegetation: at least one tree or cluster of trees is visible in the lower-central foreground; foliage partly obscures lower structures.",
+    "Foreground roof structures and smaller rooftop equipment are visible at the bottom of the image, including a low red-brown roof and other small rooftop fixtures (cropped and partly obscured).",
+    "Sky: uniform clear blue sky occupying the upper background.",
+    "Left building: beige/tan exterior cladding with darker balcony undersides; balcony glass and metal railings present.",
+    "Right building: light grey / silver reflective glass panels and metal framing along the facade.",
+    "Tower: light grey to white metallic lattice appearance consistent with painted metal or steel structure.",
+    "Foreground vegetation: green foliage of trees in the lower-central area.",
+    "Rooftops: red-brown and grey roof surfaces visible in the lower foreground.",
+    "Utility cables: appear black or dark-coloured against the sky and buildings."
+  ],
+  "id": "a548199fb8923cbc229e5d71",
+  "sha256": "a6a147dbdfb204903eb9782c60822ac78f2bdf561a07e3c797d3b9d9a47104f6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:56:08.980511+00:00",
+  "input_resolution": [
+    1600,
+    2400
+  ],
+  "input_sha256": "0d3db9b1c964b65ef3b823cfc42a52e853c4da2f530a92961db0b796139bdb69",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauJ51JuhgugSimvQH5ESRZjSUDxX",
+  "usage": {
+    "completion_tokens": 1065,
+    "prompt_tokens": 2266,
+    "total_tokens": 3331,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1166,
+      "engine_ttlt_ms": 8453,
+      "pre_inference_ms": 332,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1947,
+      "service_ttlt_ms": 9231,
+      "user_visible_ttft_ms": 1616
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

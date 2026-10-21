@@ -1,0 +1,105 @@
+{
+  "title": "Open red tool drawer with organized wrench set, hammers and hex key sets",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One open red metal drawer containing a black foam tool inlay with cutouts holding hand tools.",
+    "One wooden-handled hammer visible along the left side of the drawer (handle reads text).",
+    "One metal ball-peen or claw hammer head visible at the lower-left corner of the drawer (single assembly with the wooden handle).",
+    "One metal pry bar or puller located at the far left edge of the drawer (single piece, leftmost).",
+    "Two sets of L-shaped hex keys in plastic holders: one yellow holder with eight visible hex keys, and one red holder with nine visible hex keys (each set shown in its holder and pictured on the foam, not loose).",
+    "A series of chrome double-ended combination wrenches arranged in two diagonal rows on the right foam area: upper diagonal row with 11 visibly distinct wrenches and lower diagonal row with 13 visibly distinct wrenches.",
+    "No people are visible in the photographed scene.",
+    "No posters or screens are present in the photographed scene; any graphics are part of the tool surfaces or holders."
+  ],
+  "visible_text": [
+    "GENUINE HICKORY",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The drawer is open and fills the image frame; the black foam inlay sits inside a red metal drawer body.",
+    "Along the left side of the foam inlay, from top to bottom, are the metal pry bar at the top-left, the wooden-handled hammer running vertically below it, and the hammer head occupying the lower-left corner cutout.",
+    "Two clustered hex key sets are located to the left of the central foam area: the yellow-holder set sits above and slightly left of the red-holder set.",
+    "On the right half of the drawer, chrome combination wrenches are laid out in two diagonal bands: an upper diagonal row of shorter wrenches and a lower diagonal row of longer wrenches, each wrench placed in its own foam slot with the wrench heads alternating orientation along the diagonals.",
+    "There is an open area of red metal visible along the top inner lip of the drawer and the front edge of the drawer is visible at the bottom center of the image (a black rectangular handle inset is visible on the drawer front)."
+  ],
+  "colours_and_materials": [
+    "The drawer exterior and internal metal lip are painted gloss red.",
+    "The foam inlay is black with red voids showing the metal drawer beneath in some cutout areas.",
+    "Most hand tools (wrenches and pry bar) are chrome-finished metal (silvery reflective).",
+    "One hammer handle is light brown wood labeled 'GENUINE HICKORY'.",
+    "Two hex key holders are plastic: one yellow and one red."
+  ],
+  "uncertainties": [
+    "Location name or room number is not visible anywhere in the image; therefore the exact room is unknown from image.",
+    "Some small printed text on the red hex-key holder and on other small labels is present but not legible in the photograph; these are reported as [unreadable].",
+    "The identification of the lower-left hammer head as ball-peen or claw is uncertain from the viewpoint and is described as 'ball-peen or claw' rather than a definitive model.",
+    "Counting of the combination wrenches is based on visually distinct, individually visible pieces in the two diagonal rows; if any are partly obscured or repeated reflections occur, the visible counts (upper 11, lower 13) may not equal the complete set inventory."
+  ],
+  "visual_facts": [
+    "One open red metal drawer containing a black foam tool inlay with cutouts holding hand tools.",
+    "One wooden-handled hammer visible along the left side of the drawer (handle reads text).",
+    "One metal ball-peen or claw hammer head visible at the lower-left corner of the drawer (single assembly with the wooden handle).",
+    "One metal pry bar or puller located at the far left edge of the drawer (single piece, leftmost).",
+    "Two sets of L-shaped hex keys in plastic holders: one yellow holder with eight visible hex keys, and one red holder with nine visible hex keys (each set shown in its holder and pictured on the foam, not loose).",
+    "A series of chrome double-ended combination wrenches arranged in two diagonal rows on the right foam area: upper diagonal row with 11 visibly distinct wrenches and lower diagonal row with 13 visibly distinct wrenches.",
+    "No people are visible in the photographed scene.",
+    "No posters or screens are present in the photographed scene; any graphics are part of the tool surfaces or holders.",
+    "The drawer exterior and internal metal lip are painted gloss red.",
+    "The foam inlay is black with red voids showing the metal drawer beneath in some cutout areas.",
+    "Most hand tools (wrenches and pry bar) are chrome-finished metal (silvery reflective).",
+    "One hammer handle is light brown wood labeled 'GENUINE HICKORY'.",
+    "Two hex key holders are plastic: one yellow and one red."
+  ],
+  "id": "93c42bc920974e32949b4f07",
+  "sha256": "741db0c051bd6ba23ab28de97b649cbaa9da3313b86ad93b7967f2202153eb24",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:16:10.324953+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "185d2e95c4f879e88b21fefce291cadbeebddf2e0b9786afaaad86fa3b8f2016",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatgOam0X83K6WbTV5a9x2gg7iPCk",
+  "usage": {
+    "completion_tokens": 1189,
+    "prompt_tokens": 2122,
+    "total_tokens": 3311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1138,
+      "engine_ttlt_ms": 8894,
+      "pre_inference_ms": 381,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1982,
+      "service_ttlt_ms": 9734,
+      "user_visible_ttft_ms": 1601
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Person at poster board with 'Project 18 VOTE' sign",
+  "suitable": true,
+  "location": "Innovation Wing Two",
+  "objects_and_counts": [
+    "One person is visible standing at the left side of the image; the person is wearing glasses and a face mask and is cropped at about mid-torso (left region).",
+    "One large freestanding white poster board is centered on the table and occupies the middle region of the image; it contains multiple columns of printed text, diagrams and yellow-highlighted horizontal bars.",
+    "One small freestanding sign in a clear acrylic stand is visible at the right foreground; the printed sign contains the words 'Project 18' and 'VOTE' and a thumbs-up graphic.",
+    "One additional vertical poster or display panel is visible behind the large poster to the right; it contains multi-line text including the visible phrase 'Innovation Wing Two'.",
+    "One wall-mounted poster or display is visible in the left background behind the person (partly cropped/obscured).",
+    "One horizontal table or counter surface is visible in the foreground, supporting the poster board and the 'Project 18' sign."
+  ],
+  "visible_text": [
+    "Communication enhancements through asymptotically long sequences of noisy quantum channels",
+    "Project 18",
+    "VOTE",
+    "Innovation Wing Two",
+    "and cutting-edge",
+    "to be situated in",
+    "based Research",
+    "ity researchers",
+    "from a wide range",
+    "deliverables and",
+    "Wing Two, which",
+    "exchange in the",
+    "Automatic Chair Parking System",
+    "Ch m io"
+  ],
+  "spatial_relations": [
+    "The person stands to the left of the large white poster board; the person's torso and head are left of the poster and they are facing toward the camera.",
+    "The large white poster board is centered on the table and stands upright; it is between the person (left) and the small 'Project 18 VOTE' sign (right).",
+    "The clear acrylic stand holding the 'Project 18 VOTE' sign sits on the table at the right foreground, partially in front of the lower right corner of the white poster board.",
+    "A vertical display panel with paragraph text including 'Innovation Wing Two' is behind and to the right of the large poster board, forming the background on the right side of the image.",
+    "A glass partition or wall with horizontal frosted stripes is behind the person and the displays, running across the mid-background.",
+    "An additional poster or display is mounted on the left background wall behind the person and is partially obscured by the person and foreground elements."
+  ],
+  "colours_and_materials": [
+    "The large poster board is white with narrow yellow horizontal highlight bars and black printed text; the board appears to be printed paper mounted on a stiff backing.",
+    "The 'Project 18' sign has an orange header area with white text 'Project 18', a blue lower field with white text 'VOTE' and a white thumbs-up graphic; it is held in a clear acrylic stand.",
+    "The person is wearing a light blue disposable face mask, a light pink zip-up jacket, and a white T-shirt with blue and red printed characters.",
+    "Background partitions are glass with frosted horizontal stripes; interior surfaces include pale grey framing and light-coloured table surface (off-white or light beige)."
+  ],
+  "uncertainties": [
+    "The subtitle and body text on the central white poster board contain many small lines of text and mathematical notation; only the main title 'Communication enhancements through asymptotically long sequences of noisy quantum channels' is confidently legible; other lines and equations are [unreadable] at this resolution.",
+    "Several fragmentary lines from the right background panel were transcribed as visible fragments (e.g. 'and cutting-edge', 'to be situated in', 'based Research') but the full sentences and context are not fully legible.",
+    "The text on the left background poster is partly legible as 'Automatic Chair Parking System' but smaller captions and labels on that poster are not readable.",
+    "The printed text on the person's T-shirt is unclear; transcribed as 'Ch m io' preserving visible characters, but this may not reflect the intended word or spacing.",
+    "Small labels, nameplates, or manufacturer markings (for example on the poster stand, acrylic sign holder, or background fixtures) are not readable at this image resolution and were not transcribed.",
+    "Counts are limited to individually distinguishable objects visible in this single view; occluded or out-of-frame items are not included."
+  ],
+  "visual_facts": [
+    "Visible location text: Innovation Wing Two",
+    "One person is visible standing at the left side of the image; the person is wearing glasses and a face mask and is cropped at about mid-torso (left region).",
+    "One large freestanding white poster board is centered on the table and occupies the middle region of the image; it contains multiple columns of printed text, diagrams and yellow-highlighted horizontal bars.",
+    "One small freestanding sign in a clear acrylic stand is visible at the right foreground; the printed sign contains the words 'Project 18' and 'VOTE' and a thumbs-up graphic.",
+    "One additional vertical poster or display panel is visible behind the large poster to the right; it contains multi-line text including the visible phrase 'Innovation Wing Two'.",
+    "One wall-mounted poster or display is visible in the left background behind the person (partly cropped/obscured).",
+    "One horizontal table or counter surface is visible in the foreground, supporting the poster board and the 'Project 18' sign.",
+    "The large poster board is white with narrow yellow horizontal highlight bars and black printed text; the board appears to be printed paper mounted on a stiff backing.",
+    "The 'Project 18' sign has an orange header area with white text 'Project 18', a blue lower field with white text 'VOTE' and a white thumbs-up graphic; it is held in a clear acrylic stand.",
+    "The person is wearing a light blue disposable face mask, a light pink zip-up jacket, and a white T-shirt with blue and red printed characters.",
+    "Background partitions are glass with frosted horizontal stripes; interior surfaces include pale grey framing and light-coloured table surface (off-white or light beige)."
+  ],
+  "id": "4507ca49474a9bb233a34992",
+  "sha256": "f6de1a2d6f802689c364ccd75fdb823dfbbb971582839d9bf0703f52cbb9d79a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:09:29.557289+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "4f7f17cffc55608817ec7e2997398fe99548c752162854a74b60c4ba99f13486",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatZrou5rcGtjr9FgAkNAB6OnEzA4",
+  "usage": {
+    "completion_tokens": 1498,
+    "prompt_tokens": 2045,
+    "total_tokens": 3543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 583,
+      "engine_ttlt_ms": 12143,
+      "pre_inference_ms": 128,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1721,
+      "service_ttlt_ms": 13276,
+      "user_visible_ttft_ms": 1594
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

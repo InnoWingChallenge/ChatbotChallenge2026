@@ -1,0 +1,102 @@
+{
+  "title": "Students working at a laboratory bench with pipette and tip rack",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "People: at least 8 individual people are visible. Counting left-to-right: one person on the far left mostly visible from the chest up with headphones around the neck; a person in a white lab coat (front left) looking down; a person behind center wearing a white coat and beige gloves; a person in the center-right holding a micropipette (front); three additional standing people visible behind the front group; and one person cropped at the far right edge (partial head and shoulder visible). The far-right person is cropped.",
+    "Gloves: at least three people wearing gloves are visible — two people wearing blue disposable gloves (the front-left person in a white coat and the person using the pipette) and one person wearing beige/cream gloves (the woman behind center).",
+    "Lab coats: two people are clearly wearing white lab coats (front-left and the woman behind center).",
+    "Handheld equipment: one single-channel adjustable pipette is held in the right hand of the person front-center; that pipette is fully visible.",
+    "Tip racks and sample racks: one purple pipette-tip/tube rack is on the bench and is being handled; one red rectangular box or container is on the bench near the front-left, and one clear/transparent rack containing multiple small tubes or strip-tubes is on the bench next to the purple rack. Exact tube counts inside the clear rack cannot be reliably determined from the image.",
+    "Other equipment/furniture: a bench/work surface is visible across the foreground with various small items; a calendar or poster is mounted on the rear wall; a metal or plastic shelf/frame is visible at the left edge of the image."
+  ],
+  "visible_text": [
+    "HOLLISTER"
+  ],
+  "spatial_relations": [
+    "A laboratory bench runs horizontally across the lower third of the image; people stand behind the bench facing it.",
+    "The person in a white lab coat (front-left) stands to the left of the person holding the pipette (front-center).",
+    "The purple tip/tube rack is on the bench between the front-left lab-coated person and the person using the pipette; the person using the pipette holds the pipette above or into the purple rack.",
+    "The red rectangular box is on the bench slightly left of the purple rack and in front of the lab-coated person at left.",
+    "Three people stand directly behind the two front individuals (one woman in a white coat centered behind them and two others flanking her), with additional observers further right and one person cropped at the far right edge.",
+    "A calendar or poster is mounted on the rear wall above the heads of the back row, slightly right of center."
+  ],
+  "colours_and_materials": [
+    "Blue disposable gloves worn by at least two people are a bright blue color and appear to be nitrile or similar disposable material (identification of exact material uncertain).",
+    "One person wears beige/cream-coloured disposable gloves (material uncertain).",
+    "Two white lab coats (opaque white fabric) are visible.",
+    "A black hoodie with white vertical text on the sleeve ('HOLLISTER') is worn by the person using the pipette.",
+    "The pipette-tip/tube rack on the bench is purple plastic; a rectangular box on the bench is red; the clear rack appears to be transparent plastic containing multiple small tubes."
+  ],
+  "uncertainties": [
+    "Exact total number of people could be obscured by overlap or cropping; I report at least 8 visible individuals but others may be partially out of frame.",
+    "Small printed text on the calendar/poster on the rear wall is not legible at this resolution and is transcribed as unreadable; no other wall signage shows fully legible text.",
+    "The red box on the bench has printed text or labels that are not legible from this view and therefore no exact transcription is provided for it.",
+    "The contents and exact counts of small tubes inside the clear rack cannot be reliably counted due to angle, reflections and partial occlusion.",
+    "Material identifications (for example exact glove material or plastic type of racks) are visual estimates and not confirmed by legible manufacturer or model labels in the image."
+  ],
+  "visual_facts": [
+    "People: at least 8 individual people are visible. Counting left-to-right: one person on the far left mostly visible from the chest up with headphones around the neck; a person in a white lab coat (front left) looking down; a person behind center wearing a white coat and beige gloves; a person in the center-right holding a micropipette (front); three additional standing people visible behind the front group; and one person cropped at the far right edge (partial head and shoulder visible). The far-right person is cropped.",
+    "Gloves: at least three people wearing gloves are visible — two people wearing blue disposable gloves (the front-left person in a white coat and the person using the pipette) and one person wearing beige/cream gloves (the woman behind center).",
+    "Lab coats: two people are clearly wearing white lab coats (front-left and the woman behind center).",
+    "Handheld equipment: one single-channel adjustable pipette is held in the right hand of the person front-center; that pipette is fully visible.",
+    "Tip racks and sample racks: one purple pipette-tip/tube rack is on the bench and is being handled; one red rectangular box or container is on the bench near the front-left, and one clear/transparent rack containing multiple small tubes or strip-tubes is on the bench next to the purple rack. Exact tube counts inside the clear rack cannot be reliably determined from the image.",
+    "Other equipment/furniture: a bench/work surface is visible across the foreground with various small items; a calendar or poster is mounted on the rear wall; a metal or plastic shelf/frame is visible at the left edge of the image.",
+    "Blue disposable gloves worn by at least two people are a bright blue color and appear to be nitrile or similar disposable material (identification of exact material uncertain).",
+    "One person wears beige/cream-coloured disposable gloves (material uncertain).",
+    "Two white lab coats (opaque white fabric) are visible.",
+    "A black hoodie with white vertical text on the sleeve ('HOLLISTER') is worn by the person using the pipette.",
+    "The pipette-tip/tube rack on the bench is purple plastic; a rectangular box on the bench is red; the clear rack appears to be transparent plastic containing multiple small tubes."
+  ],
+  "id": "910c06f2043e4f22f1a87246",
+  "sha256": "deeba5e02391d45b8e66926594ef5d26a736fe950c71d9b5103cbffbee4de07e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:53:27.379855+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "4edc1c28197fb1ff20c89ba555fd12babea007ec69c0aa4a2a90fa05d2a9242a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauGQlDrv8Ei4M9Ih0PxPVAR8mvxe",
+  "usage": {
+    "completion_tokens": 1311,
+    "prompt_tokens": 2237,
+    "total_tokens": 3548,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1339,
+      "engine_ttlt_ms": 11158,
+      "pre_inference_ms": 411,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2928,
+      "service_ttlt_ms": 12740,
+      "user_visible_ttft_ms": 2517
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

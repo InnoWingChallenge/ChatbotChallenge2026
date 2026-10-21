@@ -1,0 +1,99 @@
+{
+  "title": "Bench with test instruments, color-bar monitor and hands operating probes",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two visible electronic bench instruments with display screens are stacked at centre-right: one upper instrument showing a waveform trace and one lower instrument showing a text/graphical display; both are partially obscured by cables and hands.",
+    "One standalone monitor at left shows vertical colour bars (seven visible vertical colour bands) and is mounted on an arm; the monitor screen is fully visible and not a photograph or poster.",
+    "One human subject is present but only the hands and forearms are visible in the lower right; both hands are in frame and appear to be manipulating probes or cables.",
+    "Multiple cables and test leads are visible: at least three distinct cable groups can be seen (a red cable, a black cable, and several coiled cables), some connected to the instruments; several cable ends and connectors are visible but partly cropped.",
+    "One computer-style keyboard or control surface is visible in the foreground left-of-centre; it is partially cropped at the front edge of the image.",
+    "One trackball or joystick-like input device (black and grey) is visible near the keyboard, partially cropped.",
+    "A printed sheet of paper is visible pinned or taped to a vertical surface behind the left monitor; the paper is partially visible and cropped."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The colour-bar monitor is positioned at the left of the image and angled slightly toward the centre; it is mounted above desk level on an arm or bracket.",
+    "The two electronic instruments are stacked vertically at centre-right, with the upper instrument displaying a waveform and the lower instrument displaying text/menus; cables connect into the right-hand side of the instrument stack.",
+    "The person's hands are in the lower right foreground, directly in front of the instrument stack and appear to be holding probes or cable connectors that run up into the instruments.",
+    "The keyboard/control surface and a trackball/joystick are in the foreground left-of-centre, between the colour-bar monitor and the instrument stack.",
+    "A printed sheet is attached to a vertical panel behind the monitor and partially behind cable runs; it lies to the left of the instrument stack."
+  ],
+  "colours_and_materials": [
+    "The left monitor shows vertical colour bars: red, magenta, blue, cyan, green, yellow and a dark band at the far left.",
+    "Instrument casings are predominantly light grey or off-white metal/plastic with darker grey bezels around the screens.",
+    "Cables are mainly black with at least one visible red cable; some cable insulation appears glossy.",
+    "The keyboard/control surface is black with lighter-coloured keys or inlays; the trackball/joystick is black and grey."
+  ],
+  "uncertainties": [
+    "No legible room name, number, equipment brand or model text is readable in the image; therefore the exact location and instrument identities cannot be determined from the image.",
+    "Specific labels, model numbers or brand names on the instrument front panels are not clearly readable; transcriptions were not possible.",
+    "The exact number of individual cables beyond the distinct groups described cannot be determined because several cables overlap and are partially out of frame or obscured.",
+    "Only the hands and forearms of a person are visible; no identification or name is present or legible.",
+    "The printed sheet on the vertical panel contains small text but it is not legible at this resolution; its content could not be transcribed."
+  ],
+  "visual_facts": [
+    "Two visible electronic bench instruments with display screens are stacked at centre-right: one upper instrument showing a waveform trace and one lower instrument showing a text/graphical display; both are partially obscured by cables and hands.",
+    "One standalone monitor at left shows vertical colour bars (seven visible vertical colour bands) and is mounted on an arm; the monitor screen is fully visible and not a photograph or poster.",
+    "One human subject is present but only the hands and forearms are visible in the lower right; both hands are in frame and appear to be manipulating probes or cables.",
+    "Multiple cables and test leads are visible: at least three distinct cable groups can be seen (a red cable, a black cable, and several coiled cables), some connected to the instruments; several cable ends and connectors are visible but partly cropped.",
+    "One computer-style keyboard or control surface is visible in the foreground left-of-centre; it is partially cropped at the front edge of the image.",
+    "One trackball or joystick-like input device (black and grey) is visible near the keyboard, partially cropped.",
+    "A printed sheet of paper is visible pinned or taped to a vertical surface behind the left monitor; the paper is partially visible and cropped.",
+    "The left monitor shows vertical colour bars: red, magenta, blue, cyan, green, yellow and a dark band at the far left.",
+    "Instrument casings are predominantly light grey or off-white metal/plastic with darker grey bezels around the screens.",
+    "Cables are mainly black with at least one visible red cable; some cable insulation appears glossy.",
+    "The keyboard/control surface is black with lighter-coloured keys or inlays; the trackball/joystick is black and grey."
+  ],
+  "id": "2f774748c004a4db76115357",
+  "sha256": "dee8b9bcb8ecb4f4b91d670d45aaeee24f464f2236d119ad22b77c8ed6fbbca4",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:08:45.110241+00:00",
+  "input_resolution": [
+    640,
+    426
+  ],
+  "input_sha256": "62987869c53ec7eb600b6db0fb7025e7978de8ceec6978df7df738fd274badb8",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatZDvmdoVUjraEcjRGxBqW7ih3ua",
+  "usage": {
+    "completion_tokens": 955,
+    "prompt_tokens": 1536,
+    "total_tokens": 2491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 461,
+      "engine_ttlt_ms": 8395,
+      "pre_inference_ms": 106,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1143,
+      "service_ttlt_ms": 9071,
+      "user_visible_ttft_ms": 1037
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

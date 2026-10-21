@@ -1,0 +1,12 @@
+[
+  {
+    "a": "image_source/Pictures_Hzx/Open event area/IMG_2628.HEIC",
+    "b": "bd92122210acf4a7fc1e008c",
+    "a_sha256": "8cc0ad6002f579e5301056b07405e1dc1157948a6f1ff81eb11f9aa6b2030c16",
+    "b_sha256": "bbba034b27276504163374f39972a151692decbd6a703982b55477beacc4b01d",
+    "decision": "distinct",
+    "reviewed_at": "2026-10-17T14:32:32.943288+00:00",
+    "review_method": "primary_assistant_direct_visual_spotcheck",
+    "reason": "The local photo shows wall signs at Open Event Area; the website photo shows people assembling a wooden model. Similarity is a dHash false positive, not duplicate content."
+  }
+]

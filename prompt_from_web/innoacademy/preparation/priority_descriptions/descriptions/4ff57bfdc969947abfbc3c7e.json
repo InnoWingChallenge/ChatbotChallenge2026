@@ -1,0 +1,105 @@
+{
+  "title": "Airport concourse with moving walkways and gate signage",
+  "suitable": false,
+  "location": "216",
+  "objects_and_counts": [
+    "Multiple people are visible throughout the concourse; they appear in small groups and individually at varying distances from the camera. The exact number of people cannot be determined from the image due to distance, overlap and partial occlusion; at least twenty people are visibly distinguishable across the scene.",
+    "Two parallel moving walkways (travelators) run down the center of the image, visible from foreground to background; glass or transparent side barriers are present along each walkway.",
+    "At least four tall columns with overhead gate signs are visible: a prominent column with '216' on the left foreground, another with '216' on the right foreground, and a column farther back showing '214'; additional columns are visible further down the concourse but their signage is not legible.",
+    "Multiple rows of red seats are visible along both sides of the concourse seating areas; seats are arranged in linked rows facing the walkways.",
+    "Several small groups of people wearing high-visibility vests (safety vests) are standing near the left-side seating/column area; exact count of vest-wearing individuals is not certain but at least three are visible in that region.",
+    "Various pieces of transient luggage and carry-ons are visible with some people; specific counts of luggage items cannot be reliably determined from the image.",
+    "At least two freestanding display screens or poster panels are mounted on columns (one near the left 216 column and others down the hall); the content of those displays is not legible."
+  ],
+  "visible_text": [
+    "216",
+    "214"
+  ],
+  "spatial_relations": [
+    "The camera faces down a long arched concourse; the two moving walkways occupy the central axis from foreground to background.",
+    "Rows of red seats are positioned along both sides of the walkways, with seating clusters immediately left and right of the central travelators.",
+    "Tall columns with overhead gate signage stand at intervals down the concourse; a column with '216' is prominent in the left foreground and a symmetric '216' column is visible on the right foreground.",
+    "Groups of people and staff are primarily located near the seating areas adjacent to the columns and along the sides of the walkways; pedestrian traffic is concentrated on and around the travelators.",
+    "The ceiling is a continuous series of curved, ribbed panels spanning the width of the concourse and arching above the walkways and seating areas."
+  ],
+  "colours_and_materials": [
+    "Ceiling and upper walls are light-coloured (white or off-white) with a ribbed/segmented texture.",
+    "Seats are red with dark supporting frames; they appear in linked rows.",
+    "The moving walkways have reflective metal or chrome handrails and glass or transparent side barriers.",
+    "Flooring near the walkways appears light grey; distant areas and seating zones have slightly darker tones.",
+    "Columns and signage housings are dark blue or navy with bright yellow numerals for gate signs (e.g., '216')."
+  ],
+  "uncertainties": [
+    "This image appears to be an airport concourse; there is no visible text tying the scene to HKU Innovation Academy or Tam Wing Fan Innovation Wing, so the image is not suitable as evidence for those facilities.",
+    "Exact counts of people, seats, luggage items and small displays cannot be determined reliably because many subjects are distant, partially occluded or outside the image edges.",
+    "Only the numerals '216' and '214' are clearly legible; smaller caption text on displays, posters and distant signage is unreadable at this resolution and distance.",
+    "Some columns further down the concourse show signage but the numbers or labels are not legible; identification of additional gate numbers is therefore uncertain.",
+    "Material identifications (e.g., glass vs. clear acrylic barriers) are visual assessments and not confirmed by labels."
+  ],
+  "visual_facts": [
+    "Visible location text: 216",
+    "Multiple people are visible throughout the concourse; they appear in small groups and individually at varying distances from the camera. The exact number of people cannot be determined from the image due to distance, overlap and partial occlusion; at least twenty people are visibly distinguishable across the scene.",
+    "Two parallel moving walkways (travelators) run down the center of the image, visible from foreground to background; glass or transparent side barriers are present along each walkway.",
+    "At least four tall columns with overhead gate signs are visible: a prominent column with '216' on the left foreground, another with '216' on the right foreground, and a column farther back showing '214'; additional columns are visible further down the concourse but their signage is not legible.",
+    "Multiple rows of red seats are visible along both sides of the concourse seating areas; seats are arranged in linked rows facing the walkways.",
+    "Several small groups of people wearing high-visibility vests (safety vests) are standing near the left-side seating/column area; exact count of vest-wearing individuals is not certain but at least three are visible in that region.",
+    "Various pieces of transient luggage and carry-ons are visible with some people; specific counts of luggage items cannot be reliably determined from the image.",
+    "At least two freestanding display screens or poster panels are mounted on columns (one near the left 216 column and others down the hall); the content of those displays is not legible.",
+    "Ceiling and upper walls are light-coloured (white or off-white) with a ribbed/segmented texture.",
+    "Seats are red with dark supporting frames; they appear in linked rows.",
+    "The moving walkways have reflective metal or chrome handrails and glass or transparent side barriers.",
+    "Flooring near the walkways appears light grey; distant areas and seating zones have slightly darker tones.",
+    "Columns and signage housings are dark blue or navy with bright yellow numerals for gate signs (e.g., '216')."
+  ],
+  "id": "4ff57bfdc969947abfbc3c7e",
+  "sha256": "a2fd825def9f55b2cc6a684d993a6d9ed7a4b74c4490343cf6a10e82b3c019cb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:38:38.601937+00:00",
+  "input_resolution": [
+    677,
+    267
+  ],
+  "input_sha256": "2198028f309b1d1a37aea3dfd635a81623fc6548688b0ce07ee10afedfb892af",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau25JOOWlEOkNdjffljNFZr8flvT",
+  "usage": {
+    "completion_tokens": 1234,
+    "prompt_tokens": 1438,
+    "total_tokens": 2672,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 497,
+      "engine_ttlt_ms": 11584,
+      "pre_inference_ms": 97,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 1863,
+      "service_ttlt_ms": 12946,
+      "user_visible_ttft_ms": 1767
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

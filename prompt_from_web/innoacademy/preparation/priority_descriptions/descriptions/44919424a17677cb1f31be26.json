@@ -1,0 +1,105 @@
+{
+  "title": "Group working around high table in an open lab with exposed ceiling and glass partitions",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least seven people are visible: five clustered around the central high table (one wearing a black suit jacket, one in a white jacket, one in a mustard/olive jacket, one in a navy/white jacket leaning over the table, and one in a black puffy coat standing), one person visible sitting or standing at a desk in the far right background, and one person visible in the left background near a bench or work area.",
+    "Two laptop computers are visible on the central table: one silver laptop near the center and one laptop or screen near the right side of the same table (partially obscured by a person leaning).",
+    "One desktop monitor is visible on the central table (upright, between the laptops and the right-side users).",
+    "One ceiling-mounted projector is visible, turned on (bright light visible) and suspended above the central area.",
+    "Two large high worktables are visible in the foreground and midground (the central table where people cluster and at least one similar table to the left).",
+    "Multiple tall stools are visible around the tables; at least eight distinct stools can be individually counted in the foreground and midground (some stools are partially obscured or cropped).",
+    "Glass partition walls and glass doors are visible at the rear of the scene, separating the central working area from adjacent rooms.",
+    "Various posters, notices and small wall signs are visible on the glass partition and doors but most are partially obscured or too small to read in full."
+  ],
+  "visible_text": [
+    "PUSH"
+  ],
+  "spatial_relations": [
+    "A large high table occupies center foreground with people standing and leaning around all sides; stools are positioned under and around this table.",
+    "Another matching high table is visible to the left of the central table, oriented parallel and with stools around it.",
+    "A ceiling-mounted projector is positioned above the central table and projects a bright light downwards; hanging cables run from the ceiling near the projector toward the table area.",
+    "Glass partition walls and two glass doors form the rear boundary of the visible workspace; posters and notices are affixed to the glass surfaces and doors.",
+    "A bench or work area with shelving and equipment is visible behind the left-side table, separated from the central area by a short open corridor."
+  ],
+  "colours_and_materials": [
+    "The central and left high tables have light-colored wooden tops and grey metal legs.",
+    "Stools have dark brown or black seats and dark metal legs (some appear wooden seats, but material is not certain).",
+    "The ceiling shows exposed metal ducting and structural elements in silver/grey; rectangular recessed light panels are white and emit bright light.",
+    "Flooring appears to be a smooth light grey material (possibly vinyl or polished concrete).",
+    "Walls and glass partitions are primarily white and transparent glass, with small colourful posters affixed."
+  ],
+  "uncertainties": [
+    "Exact count of people could be affected by partial occlusion; I counted seven distinct visible people but some individuals are partially obscured and there may be more outside the frame.",
+    "Some text on posters, notices and small labels on the glass and walls is too small or blurred to transcribe; only the vertical door label 'PUSH' is clearly legible.",
+    "Identification of object types (for example distinguishing a second laptop from a tablet or monitor) is based on visible form and may be ambiguous for partially obscured screens.",
+    "Material identifications of stools (wood vs. other dark materials) and floor surface are visual assessments and not confirmed.",
+    "There are additional small labels and signs near the glass doors and on nearby equipment that contain text but are unreadable at this resolution."
+  ],
+  "visual_facts": [
+    "At least seven people are visible: five clustered around the central high table (one wearing a black suit jacket, one in a white jacket, one in a mustard/olive jacket, one in a navy/white jacket leaning over the table, and one in a black puffy coat standing), one person visible sitting or standing at a desk in the far right background, and one person visible in the left background near a bench or work area.",
+    "Two laptop computers are visible on the central table: one silver laptop near the center and one laptop or screen near the right side of the same table (partially obscured by a person leaning).",
+    "One desktop monitor is visible on the central table (upright, between the laptops and the right-side users).",
+    "One ceiling-mounted projector is visible, turned on (bright light visible) and suspended above the central area.",
+    "Two large high worktables are visible in the foreground and midground (the central table where people cluster and at least one similar table to the left).",
+    "Multiple tall stools are visible around the tables; at least eight distinct stools can be individually counted in the foreground and midground (some stools are partially obscured or cropped).",
+    "Glass partition walls and glass doors are visible at the rear of the scene, separating the central working area from adjacent rooms.",
+    "Various posters, notices and small wall signs are visible on the glass partition and doors but most are partially obscured or too small to read in full.",
+    "The central and left high tables have light-colored wooden tops and grey metal legs.",
+    "Stools have dark brown or black seats and dark metal legs (some appear wooden seats, but material is not certain).",
+    "The ceiling shows exposed metal ducting and structural elements in silver/grey; rectangular recessed light panels are white and emit bright light.",
+    "Flooring appears to be a smooth light grey material (possibly vinyl or polished concrete).",
+    "Walls and glass partitions are primarily white and transparent glass, with small colourful posters affixed."
+  ],
+  "id": "44919424a17677cb1f31be26",
+  "sha256": "9d06b5fb34a0a187f41bcbd8c93684d2e9ea2b7d6c0a4e343cc28a47efc1b9cb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:37:16.777632+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "a02a383c5748024b605a1425910b90181a56d769c4ff657ebe4bfce01af43788",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau0nxcls3XX2MDBK6QgH9lKYDOo5",
+  "usage": {
+    "completion_tokens": 1277,
+    "prompt_tokens": 2266,
+    "total_tokens": 3543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 405,
+      "engine_ttlt_ms": 10208,
+      "pre_inference_ms": 591,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1123,
+      "service_ttlt_ms": 10921,
+      "user_visible_ttft_ms": 532
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "49a01982342c59100dc47570",
+  "sha256": "2c07427ef048ec3e40f4e7fc0d4474d69dbe9c7c31b997971db572fe08f32e1e",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Wet gray mixture in a square metal basin",
+  "visible_text": [],
+  "visual_facts": [
+    "A square metal basin is mounted in a heavy, stained metal fixture.",
+    "The basin contains a lumpy gray wet mixture.",
+    "A hand rests beside a vertical threaded metal rod at the left.",
+    "The surrounding work surface and equipment are worn and splattered."
+  ],
+  "spatial_relations": [
+    "The basin is recessed into the metal fixture.",
+    "The hand and threaded rod are beside the basin on the left."
+  ],
+  "uncertainties": [
+    "The exact purpose of the basin and the composition of the mixture are unclear."
+  ]
+}

@@ -1,0 +1,11 @@
+# These source snapshots and receipts use byte-level SHA-256 provenance.
+# Preserve bytes across Windows/Linux checkout; do not normalize line endings.
+prompt_from_web/innoacademy/preparation/priority_descriptions/** -text
+prompt_from_web/innoacademy/preparation/curation/** -text
+prompt_from_web/innoacademy/pages.json -text
+submission_repo/data/pages.json -text
+submission_repo/data/image_evidence/records.json -text
+submission_repo/data/image_evidence/sources.json -text
+submission_repo/data/image_evidence/curated_indexed.json -text
+submission_repo/eval/curated_test10.json -text
+submission_repo/eval/curated_test10_results/** -text

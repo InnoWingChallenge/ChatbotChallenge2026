@@ -1,0 +1,105 @@
+{
+  "title": "Photograph of a small white cardboard/foamboard room model with a lit lamp and electronics",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One lit screw-base lamp or LED bulb installed in a white lamp holder in the upper right compartment (1 visible, brightly lit).",
+    "A multi-room scaled model or mock-up constructed from white cardboard or foamboard with interior partitions forming at least four distinct compartments visible from above.",
+    "One small round dark dome device in the lower-left compartment, mounted against a vertical partition and held with black tape (1 visible dome device; exact device type not determined from appearance).",
+    "One small rectangular PCB or sensor board with a 4-wire ribbon/cable attached, located near the top centre edge inside the mock-up (1 visible PCB/board assembly).",
+    "One blue terminal-block or connector on the left side wall of the model (1 visible).",
+    "Multiple runs of insulated wires visible outside and at the edges of the model (several wire bundles; exact count cannot be reliably determined).",
+    "Multiple pieces of black adhesive tape securing components and seams (at least 6 separate pieces of tape visibly placed in different locations)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The photograph is taken from above looking down into the mock-up so the top of the image shows the far side of the model and the bottom shows the near side.",
+    "The lit lamp is in the upper right compartment and occupies most of that compartment's floor area.",
+    "A central vertical partition runs roughly top-to-bottom slightly right of centre, dividing the model into left and right zones.",
+    "The left zone is further subdivided into multiple smaller rooms by perpendicular partitions; the lower-left of those contains the dark dome device.",
+    "The small PCB/sensor board is mounted at the top centre edge of the model interior, just inside the far wall.",
+    "The blue terminal block is attached to the left interior wall in the middle-left area of the model.",
+    "Black tape strips are positioned along seams and at component mounting points, often adjacent to partitions and the dome device."
+  ],
+  "colours_and_materials": [
+    "Most structural surfaces are white — the model appears built from white cardboard or foamboard panels.",
+    "Black adhesive tape and black electrical insulation are used repeatedly to secure components and seams.",
+    "The lamp is white (bulb) and the lamp holder is white plastic.",
+    "The small dome device in the lower-left is dark (black or very dark grey) and appears to be plastic or coated material.",
+    "Wires visible include black, red and possibly yellow/green insulation (exact conductor colours visible at cable ends).",
+    "The small PCB/sensor board shows typical PCB colours (dark board with small multi-coloured wires attached)."
+  ],
+  "uncertainties": [
+    "No printed room name, number or signage is legible in the image; location cannot be determined from the photo.",
+    "The function of the dark dome device in the lower-left (camera, PIR sensor, LED holder, or other) cannot be identified from appearance alone.",
+    "The small PCB/sensor board has no legible label or text in the photo; any model, part or brand information is unreadable at this resolution.",
+    "Exact counts for some objects (wire bundles, small pieces of tape, and small fittings) are estimates because parts overlap or are partly cropped at image edges.",
+    "There is no legible printed text visible anywhere in the image to transcribe."
+  ],
+  "visual_facts": [
+    "One lit screw-base lamp or LED bulb installed in a white lamp holder in the upper right compartment (1 visible, brightly lit).",
+    "A multi-room scaled model or mock-up constructed from white cardboard or foamboard with interior partitions forming at least four distinct compartments visible from above.",
+    "One small round dark dome device in the lower-left compartment, mounted against a vertical partition and held with black tape (1 visible dome device; exact device type not determined from appearance).",
+    "One small rectangular PCB or sensor board with a 4-wire ribbon/cable attached, located near the top centre edge inside the mock-up (1 visible PCB/board assembly).",
+    "One blue terminal-block or connector on the left side wall of the model (1 visible).",
+    "Multiple runs of insulated wires visible outside and at the edges of the model (several wire bundles; exact count cannot be reliably determined).",
+    "Multiple pieces of black adhesive tape securing components and seams (at least 6 separate pieces of tape visibly placed in different locations).",
+    "Most structural surfaces are white — the model appears built from white cardboard or foamboard panels.",
+    "Black adhesive tape and black electrical insulation are used repeatedly to secure components and seams.",
+    "The lamp is white (bulb) and the lamp holder is white plastic.",
+    "The small dome device in the lower-left is dark (black or very dark grey) and appears to be plastic or coated material.",
+    "Wires visible include black, red and possibly yellow/green insulation (exact conductor colours visible at cable ends).",
+    "The small PCB/sensor board shows typical PCB colours (dark board with small multi-coloured wires attached)."
+  ],
+  "id": "48d196e6141fb4e730a2818c",
+  "sha256": "b0f090f14ab84d75517222e497d76ceaacfab845d2eb9e615baa31d4c4cf6a0e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:37:37.769893+00:00",
+  "input_resolution": [
+    1470,
+    1360
+  ],
+  "input_sha256": "58c0622cff8ae54afdc40d5a57dc368542965dc869fdf2f12292dafe7f557eda",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau1A391ngpDkz6gRVTJBr5xbQafG",
+  "usage": {
+    "completion_tokens": 958,
+    "prompt_tokens": 1949,
+    "total_tokens": 2907,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 882,
+      "engine_ttlt_ms": 8061,
+      "pre_inference_ms": 273,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1684,
+      "service_ttlt_ms": 8856,
+      "user_visible_ttft_ms": 1411
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

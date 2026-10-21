@@ -1,0 +1,105 @@
+{
+  "title": "Drill creating a hole in a clamped plywood stack",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One handheld drill (vertical orientation) with a twist drill bit engaged in a hole in the top wooden piece.",
+    "One visible drill bit producing wood shavings at the hole.",
+    "One small rectangular wooden block or piece (top piece being drilled).",
+    "At least two layers of plywood or laminated wood sheets beneath the top wooden piece (stack visible as separate sheets).",
+    "One flat metallic sheet or plate directly beneath the top wooden piece and above the lower plywood layer.",
+    "Two dark-coloured clamp jaws visible (one at left edge of stack, one at right edge) holding the assembly; both clamp jaws are partially cropped by the image edges.",
+    "Two threaded metal clamp rods visible beneath the plywood stack (visible portions of threaded rods projecting downward).",
+    "Loose wood shavings concentrated around the drilled hole."
+  ],
+  "visible_text": [
+    "Handyman"
+  ],
+  "spatial_relations": [
+    "The drill is positioned vertically above the centre of the top wooden piece, with the drill bit entering the wood from above.",
+    "The top wooden piece is directly on top of a metallic sheet; that metallic sheet rests on at least one lower plywood sheet.",
+    "A dark clamp jaw is positioned at the left edge of the stacked materials and another dark clamp jaw is positioned at the right edge of the stacked materials, each pressing down from above the top surface.",
+    "Two threaded clamp rods extend downward from beneath the plywood stack, visible near the lower centre of the image.",
+    "Wood shavings are located immediately around the fresh hole in the top wooden piece."
+  ],
+  "colours_and_materials": [
+    "Top wooden piece and underlying sheets are light-coloured wood/plywood with visible layered edges.",
+    "The flat sheet under the top wood appears metallic and silver-coloured with a reflective finish.",
+    "Clamp jaws are dark grey or black, textured, and appear to be cast metal.",
+    "The drill shows metallic silver (chuck) and darker plastic/metal body tones (black/grey).",
+    "Wood shavings are light tan, matching the top wood colour."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; location cannot be determined from the photo.",
+    "The exact type or brand of the drill is not fully legible; small markings on the drill chuck are unreadable at this resolution.",
+    "The clamp type is inferred from visible jaws and threaded rods but could be bar clamps or C-clamps; clamp heads are partially cropped so the full clamp assemblies are not visible.",
+    "Text in the lower-left corner reads 'Handyman' but any preceding or smaller accompanying words are not legible and may be partially cropped.",
+    "The number of plywood layers is described as 'at least two' because layered edges are visible, but the total number of sheets in the stack cannot be determined from this single view."
+  ],
+  "visual_facts": [
+    "One handheld drill (vertical orientation) with a twist drill bit engaged in a hole in the top wooden piece.",
+    "One visible drill bit producing wood shavings at the hole.",
+    "One small rectangular wooden block or piece (top piece being drilled).",
+    "At least two layers of plywood or laminated wood sheets beneath the top wooden piece (stack visible as separate sheets).",
+    "One flat metallic sheet or plate directly beneath the top wooden piece and above the lower plywood layer.",
+    "Two dark-coloured clamp jaws visible (one at left edge of stack, one at right edge) holding the assembly; both clamp jaws are partially cropped by the image edges.",
+    "Two threaded metal clamp rods visible beneath the plywood stack (visible portions of threaded rods projecting downward).",
+    "Loose wood shavings concentrated around the drilled hole.",
+    "Top wooden piece and underlying sheets are light-coloured wood/plywood with visible layered edges.",
+    "The flat sheet under the top wood appears metallic and silver-coloured with a reflective finish.",
+    "Clamp jaws are dark grey or black, textured, and appear to be cast metal.",
+    "The drill shows metallic silver (chuck) and darker plastic/metal body tones (black/grey).",
+    "Wood shavings are light tan, matching the top wood colour."
+  ],
+  "id": "47ea8f70c91eae8f3b7ed0db",
+  "sha256": "71f01ecd35560840706f191d02d9602d053fe93f574fa21a0550adf3ce536a24",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:09:39.323342+00:00",
+  "input_resolution": [
+    573,
+    573
+  ],
+  "input_sha256": "8ca99f3fc04f5b60c4803024019c92d307721fd92bf63800d1a27ee567c62f7c",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eata56rsBiPYGsOf5EpteaGNqAcan",
+  "usage": {
+    "completion_tokens": 912,
+    "prompt_tokens": 1589,
+    "total_tokens": 2501,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 470,
+      "engine_ttlt_ms": 8208,
+      "pre_inference_ms": 139,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1173,
+      "service_ttlt_ms": 8899,
+      "user_visible_ttft_ms": 1034
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

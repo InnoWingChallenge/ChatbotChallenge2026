@@ -1,0 +1,118 @@
+{
+  "title": "Audience listening to a presentation at Innovation Academy with large screen and tripod camera",
+  "suitable": true,
+  "location": "Innovation Academy",
+  "objects_and_counts": [
+    "At least 16 people are visible in the photographed scene; people are seated on stepped bleacher seating at left, on a long teal bench in the centre, and standing/sitting near the presentation area at right. (Some people are partially cropped or viewed from the back.)",
+    "One presenter is standing at front right, holding a microphone or pointer and facing the audience.",
+    "One large wall-mounted display screen is visible behind the presenter showing slide text.",
+    "One tripod-mounted video camera is positioned between the presenter and the seated audience, slightly right-of-centre in the image.",
+    "One vertical roll-up banner is visible to the far right with printed headings and logos.",
+    "Tiered stepped seating of at least three steps is visible at left, each step appearing to be a continuous bench (blue finish).",
+    "One long teal-upholstered bench (central) with wooden base is visible and occupied by multiple people.",
+    "At least two laptop computers are visible (one on a person's lap at left; one partially visible on table near the banner) and at least three mobile phones are visible on or near seated people (one on the teal bench foreground, one beside it, one in a person's hand).",
+    "Several small items such as backpacks are visible near seated people (at least two backpacks at left)."
+  ],
+  "visible_text": [
+    "2014",
+    "Is the launcher really necessary?",
+    "Let's revisit the KISS Principle:",
+    "Keep It Simple, Stupid.",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "201A",
+    "SAFETY WALK"
+  ],
+  "spatial_relations": [
+    "The presenter stands at the front right of the image facing the audience and the large display screen which fills the back wall behind them.",
+    "The tripod-mounted camera is placed between the front row of seating and the presenter, slightly to the image centre-right.",
+    "Stepped bleacher seating runs up the left side of the image; people sit on these steps facing right toward the presenter and screen.",
+    "A long teal bench with a wooden base is positioned across the lower middle of the image, parallel to the screen, with multiple people seated on it and personal items placed on the bench.",
+    "A vertical roll-up banner stands to the far right of the presenter, adjacent to a small table and chairs partially visible at the right edge.",
+    "A glass partition or wall is visible behind the stepped seating on the left side, with a small sign showing '201A' mounted on or behind the glass."
+  ],
+  "colours_and_materials": [
+    "Stepped seating on the left has a blue painted or laminate finish.",
+    "A long bench in the centre has teal upholstery and a light wood base.",
+    "The large display screen is black when showing the slide background; slide text is white.",
+    "Glass partitions are visible at the rear-left, appearing transparent with metal or aluminium framing.",
+    "The roll-up banner at right uses dark grey or black background with yellow text for the 'Innovation Academy' heading."
+  ],
+  "uncertainties": [
+    "Exact total number of people is uncertain because some individuals are partially obscured or cropped at image edges; statement reports a visible minimum.",
+    "Small signs and stickers on the glass partition and on the left wall are partly obscured or too small to read fully; '201A' was legible but other nearby text was not.",
+    "The red sign at left appears to read 'SAFETY WALK' but portions of that sign are small and partly obscured; transcription is best-effort.",
+    "Some text on the roll-up banner and on small posters is partially obscured or too small to transcribe fully; only larger headings and logos were transcribed.",
+    "Items such as backpacks and small devices were counted only where individually distinguishable; some overlap may hide additional items."
+  ],
+  "visual_facts": [
+    "Visible location text: Innovation Academy",
+    "At least 16 people are visible in the photographed scene; people are seated on stepped bleacher seating at left, on a long teal bench in the centre, and standing/sitting near the presentation area at right. (Some people are partially cropped or viewed from the back.)",
+    "One presenter is standing at front right, holding a microphone or pointer and facing the audience.",
+    "One large wall-mounted display screen is visible behind the presenter showing slide text.",
+    "One tripod-mounted video camera is positioned between the presenter and the seated audience, slightly right-of-centre in the image.",
+    "One vertical roll-up banner is visible to the far right with printed headings and logos.",
+    "Tiered stepped seating of at least three steps is visible at left, each step appearing to be a continuous bench (blue finish).",
+    "One long teal-upholstered bench (central) with wooden base is visible and occupied by multiple people.",
+    "At least two laptop computers are visible (one on a person's lap at left; one partially visible on table near the banner) and at least three mobile phones are visible on or near seated people (one on the teal bench foreground, one beside it, one in a person's hand).",
+    "Several small items such as backpacks are visible near seated people (at least two backpacks at left).",
+    "Stepped seating on the left has a blue painted or laminate finish.",
+    "A long bench in the centre has teal upholstery and a light wood base.",
+    "The large display screen is black when showing the slide background; slide text is white.",
+    "Glass partitions are visible at the rear-left, appearing transparent with metal or aluminium framing.",
+    "The roll-up banner at right uses dark grey or black background with yellow text for the 'Innovation Academy' heading."
+  ],
+  "id": "2eb302772ade2ac53e2847ec",
+  "sha256": "329ac52e4f7950edf53787df27bbfa4d671928a32eed0fed34d0a7288ef12423",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:34:08.429981+00:00",
+  "input_resolution": [
+    2000,
+    1126
+  ],
+  "input_sha256": "6cc573709df3cc35a7631772a6e6b6cf62d1a67bdd43d3d6c0718c86b863be97",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatxj5ya0KsFC7eBfeFx3ZjuIqLM8",
+  "usage": {
+    "completion_tokens": 1329,
+    "prompt_tokens": 2439,
+    "total_tokens": 3768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1607,
+      "engine_ttlt_ms": 11331,
+      "pre_inference_ms": 630,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 3018,
+      "service_ttlt_ms": 12746,
+      "user_visible_ttft_ms": 2388
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

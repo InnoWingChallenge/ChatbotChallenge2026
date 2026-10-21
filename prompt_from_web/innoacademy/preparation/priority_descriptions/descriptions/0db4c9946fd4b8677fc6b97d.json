@@ -1,0 +1,104 @@
+{
+  "title": "Night view of Tam Wing Fan Innovation Wing entrance with illuminated facade",
+  "suitable": true,
+  "location": "TAM WING FAN INNOVATION WING",
+  "objects_and_counts": [
+    "Two tall streetlamp posts with spherical yellow-orange globes are visible in the foreground: one near image center-left and one center-right; both lamp globes are lit and the poles are fully visible.",
+    "At least two people are visible on the left side of the image walking along the covered walkway; they are distant and partially illuminated (one closer to the camera near the left edge and another further back).",
+    "A glass-fronted entrance/ground-floor façade spans the central portion of the image; multiple vertical glass panels form the facade (a visible minimum of six distinct full-height glass panels on the ground floor can be seen, with additional partial panels at the edges).",
+    "A large rectangular dark object (appears to be a covered board or screen) is positioned in the main entrance opening; three small warm lights or reflections (orange-yellow) are visible on or in front of that dark object.",
+    "An interior illuminated 'EXIT' sign is visible above an inner doorway inside the entrance lobby area.",
+    "A continuous illuminated light band or backlit panel runs along the upper facade above the glass panels, forming a canopy-like luminous strip across the entrance."
+  ],
+  "visible_text": [
+    "TAM WING FAN INNOVATION WING",
+    "EXIT"
+  ],
+  "spatial_relations": [
+    "The illuminated upper facade band with the text 'TAM WING FAN INNOVATION WING' runs horizontally above the ground-floor glass panels and main entrance.",
+    "Two lit globe streetlamps stand in the paved forecourt in front of the building; one is positioned approximately center-left in front of the main entrance and the other is center-right, slightly in front of the right side of the entrance.",
+    "The main glass entrance is set back beneath the illuminated upper band; the large dark rectangular object is located within that recessed entrance area.",
+    "A covered walkway extends to the left of the entrance; the two distant people are on that walkway toward the left side of the image.",
+    "Windows on the right side of the building are separated from the main entrance by a vertical structural column and face the forecourt at a lower elevation than the illuminated upper band."
+  ],
+  "colours_and_materials": [
+    "The upper facade band is bright white and backlit, producing a cool white illumination.",
+    "The streetlamp globes emit a warm yellow-orange light that casts warm tones on the brick pavement.",
+    "The forecourt ground is paved with reddish-brown or orange brick tiles visible under the warm lamp light.",
+    "The entrance and facade include large clear glass panels with visible metal framing (frames appear dark/grey in the available light).",
+    "The large rectangular object in the entrance appears dark (black) and non-reflective except for three warm light points or reflections."
+  ],
+  "uncertainties": [
+    "Smaller text adjacent to 'TAM WING FAN INNOVATION WING' (appearing to be Chinese characters) is present but not legible at this resolution.",
+    "Vertical gold-coloured text on the left column of the entrance is visible but the characters are not legible from the image.",
+    "A small sign on the lower right wall of the forecourt is visible but its text is unreadable.",
+    "The exact count of glass panels is given as a visible minimum (at least six full-height panels); additional panels are partially cropped or obscured and the full count cannot be determined from this image.",
+    "The identity of the large dark rectangular object in the entrance (covered board, screen, or other) cannot be determined from appearance alone.",
+    "People are described by visible presence only; no identifying information or names is provided or inferred."
+  ],
+  "visual_facts": [
+    "Visible location text: TAM WING FAN INNOVATION WING",
+    "Two tall streetlamp posts with spherical yellow-orange globes are visible in the foreground: one near image center-left and one center-right; both lamp globes are lit and the poles are fully visible.",
+    "At least two people are visible on the left side of the image walking along the covered walkway; they are distant and partially illuminated (one closer to the camera near the left edge and another further back).",
+    "A glass-fronted entrance/ground-floor façade spans the central portion of the image; multiple vertical glass panels form the facade (a visible minimum of six distinct full-height glass panels on the ground floor can be seen, with additional partial panels at the edges).",
+    "A large rectangular dark object (appears to be a covered board or screen) is positioned in the main entrance opening; three small warm lights or reflections (orange-yellow) are visible on or in front of that dark object.",
+    "An interior illuminated 'EXIT' sign is visible above an inner doorway inside the entrance lobby area.",
+    "A continuous illuminated light band or backlit panel runs along the upper facade above the glass panels, forming a canopy-like luminous strip across the entrance.",
+    "The upper facade band is bright white and backlit, producing a cool white illumination.",
+    "The streetlamp globes emit a warm yellow-orange light that casts warm tones on the brick pavement.",
+    "The forecourt ground is paved with reddish-brown or orange brick tiles visible under the warm lamp light.",
+    "The entrance and facade include large clear glass panels with visible metal framing (frames appear dark/grey in the available light).",
+    "The large rectangular object in the entrance appears dark (black) and non-reflective except for three warm light points or reflections."
+  ],
+  "id": "0db4c9946fd4b8677fc6b97d",
+  "sha256": "89cf91f95d2fba1ed166d8510957f3e9780223acd9084520c4ff4ccf165d72f3",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:27:40.197307+00:00",
+  "input_resolution": [
+    1600,
+    777
+  ],
+  "input_sha256": "244df5805041612be44d9afc162afb7f832302f81ea5743870c5e1e40c967d6f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatrWPP8K0HsyjzHNPFaVrtFMrnqA",
+  "usage": {
+    "completion_tokens": 1147,
+    "prompt_tokens": 2640,
+    "total_tokens": 3787,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1059,
+      "engine_ttlt_ms": 8328,
+      "pre_inference_ms": 324,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1955,
+      "service_ttlt_ms": 9219,
+      "user_visible_ttft_ms": 1630
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

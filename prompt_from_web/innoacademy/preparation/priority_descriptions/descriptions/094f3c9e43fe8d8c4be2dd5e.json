@@ -1,0 +1,102 @@
+{
+  "title": "Exterior entrances labelled Tam Wing Fan Innovation Wing and Tam Wing Fan Innovation Wing II",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing",
+  "objects_and_counts": [
+    "At least 8 human silhouettes are visible in the left panel, positioned along the front entrance and walkways; several silhouettes are partially cropped or semi-opaque (appear as render silhouettes).",
+    "Two distinct labelled entrance canopies/covered walkways are visible: one in the left panel over the main glass frontage and one in the right panel over a recessed undercroft; both are continuous architectural elements rather than freestanding signs.",
+    "Multiple full-height glazed storefronts/entrance doors and glass panels are visible along the ground floor in both panels; individual panes are distinguishable but an exact pane count cannot reliably be determined from the image.",
+    "One freestanding low planter with shrubs is visible in the foreground right of the left panel (near the paved plaza); additional planting beds are visible but not individually countable.",
+    "Several interior chairs are visible through the glass in the right panel: at least two green chairs are visible near the rightmost glass panel.",
+    "A building façade with many rectangular windows occupies the upper stories behind the ground-floor entrances in the left panel; exact window counts per floor are not provided because of partial cropping and perspective."
+  ],
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "Tam Wing Fan Innovation Wing II",
+    "YUI OI CHOW SCIENCE BUILDING"
+  ],
+  "spatial_relations": [
+    "The primary entrance canopy runs horizontally across the lower portion of both panels, with glass-fronted rooms beneath it and the taller brick-faced building rising directly behind the canopy.",
+    "In the left panel the paved plaza occupies the foreground; the glass entrances and storefronts sit directly behind that plaza and a small planted area is to the right of the plaza.",
+    "In the right panel a recessed undercroft or covered walkway extends under the building mass, with glass-fronted rooms set into the right side of the recess and an open paved area in the foreground.",
+    "Interior chairs visible through glass in the right panel are positioned just inside the rightmost glass wall, directly adjacent to the covered walkway.",
+    "The taller brick building with repeated rectangular windows is immediately behind the ground-floor innovation wing; the canopy appears to connect to the brick building at multiple vertical supports."
+  ],
+  "colours_and_materials": [
+    "The upper building façade is a red-brown brick texture with regularly spaced dark rectangular windows.",
+    "Ground-floor frontage and canopy areas are predominantly white or light-coloured, with large glass panels and glazed doors.",
+    "The ground/plaza surface is a terracotta or orange-brown paved material (brick or pavers appearance).",
+    "Interior chairs visible through glass are green; planted areas contain green foliage."
+  ],
+  "uncertainties": [
+    "Small signage and any fine-print text on the glass doors and the small sign near the right glass panel are not legible at this image scale and are not transcribed.",
+    "The vertical Chinese characters on the brick façade are visible but not transcribed because they are not fully legible in the provided image.",
+    "The exact count of glazed panes, columns/supports and upper-story windows cannot be determined with high confidence due to perspective, partial cropping and image resolution.",
+    "The transcription 'YUI OI CHOW SCIENCE BUILDING' reflects the visible Latin characters as seen in the image; there is some uncertainty about exact casing or spacing and whether that is the complete sign.",
+    "Some human figures are stylized or semi-transparent render silhouettes; the count given is a visible minimum and may not represent distinct people in a photographic sense."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing",
+    "At least 8 human silhouettes are visible in the left panel, positioned along the front entrance and walkways; several silhouettes are partially cropped or semi-opaque (appear as render silhouettes).",
+    "Two distinct labelled entrance canopies/covered walkways are visible: one in the left panel over the main glass frontage and one in the right panel over a recessed undercroft; both are continuous architectural elements rather than freestanding signs.",
+    "Multiple full-height glazed storefronts/entrance doors and glass panels are visible along the ground floor in both panels; individual panes are distinguishable but an exact pane count cannot reliably be determined from the image.",
+    "One freestanding low planter with shrubs is visible in the foreground right of the left panel (near the paved plaza); additional planting beds are visible but not individually countable.",
+    "Several interior chairs are visible through the glass in the right panel: at least two green chairs are visible near the rightmost glass panel.",
+    "A building façade with many rectangular windows occupies the upper stories behind the ground-floor entrances in the left panel; exact window counts per floor are not provided because of partial cropping and perspective.",
+    "The upper building façade is a red-brown brick texture with regularly spaced dark rectangular windows.",
+    "Ground-floor frontage and canopy areas are predominantly white or light-coloured, with large glass panels and glazed doors.",
+    "The ground/plaza surface is a terracotta or orange-brown paved material (brick or pavers appearance).",
+    "Interior chairs visible through glass are green; planted areas contain green foliage."
+  ],
+  "id": "094f3c9e43fe8d8c4be2dd5e",
+  "sha256": "499ab4b6aea4f57b979494ddc3507f63ca9668c7302ea6d94789788b7f24ec3e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:27:16.644914+00:00",
+  "input_resolution": [
+    1792,
+    449
+  ],
+  "input_sha256": "198e26bd3f2b0f61bf4254a5fd872654a346aaff9f43a4b40c58e06fe19b5cfe",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatr7vLzuGdTijg31ZUT1Ge6YjFN5",
+  "usage": {
+    "completion_tokens": 1368,
+    "prompt_tokens": 2208,
+    "total_tokens": 3576,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 758,
+      "engine_ttlt_ms": 10197,
+      "pre_inference_ms": 98,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1310,
+      "service_ttlt_ms": 10744,
+      "user_visible_ttft_ms": 1212
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Presentation space with 'Thank You' screen and Innovation Academy banner",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Nine visibly distinct people are present in the photographed scene: seven seated or on steps along the left side (including one person wearing a yellow top seated on the stepped seating at upper left) and two people standing at the right near the display screen giving a presentation.",
+    "One camera on a tripod is positioned on the stepped seating at upper left and is aimed toward the presentation area.",
+    "One large wall-mounted or floor-to-ceiling digital display screen is at right showing a slide with the words \"Thank You.\"",
+    "One freestanding banner stand is positioned at far right next to the presenters.",
+    "One small mobile lectern/stand with a laptop or monitor on it is immediately in front of the presenters.",
+    "Three small square ottoman seats are visible in the foreground along the center aisle (blue, light grey, blue).",
+    "Three long bench seat segments are visible arranged down the center of the space toward the screen (two appear blue, one appears teal/blue).",
+    "One visible wall- or ceiling-mounted loudspeaker is mounted near the top right corner above the display screen.",
+    "Several visible cables lie on the floor crossing from the left foreground toward the presentation area."
+  ],
+  "visible_text": [
+    "Thank You",
+    "Innovation Academy",
+    "Faculty of Engineering, HKU",
+    "Faculty of Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "Thank you"
+  ],
+  "spatial_relations": [
+    "Audience seating and stepped seating are along the left side of the image; people are seated facing right toward the presentation area.",
+    "The large digital display screen occupies the right-center wall and faces left toward the audience.",
+    "Two presenters stand to the right of the screen; the freestanding banner stand is immediately to the presenters' far right (image right edge).",
+    "A glass-walled room is centered at the back of the space behind the presentation area; the glass partition has visible interior furniture and a door.",
+    "The camera on tripod is placed on the stepped seating at upper left and is angled toward the presentation area.",
+    "Three short square ottomans are aligned down the center-foreground, forming an aisle between audience seating at left and the open presentation area at center-right."
+  ],
+  "colours_and_materials": [
+    "The main floor covering is a light grey carpet with linear texture.",
+    "Upholstered seating uses blue and teal tones: three square ottomans in foreground are blue, light grey, blue; the long bench segments down the center are shades of blue/teal.",
+    "Upper wall area appears a pale mint green; lower wall and stair/bench surfaces are light grey.",
+    "The large display screen has a white background with black text; the freestanding banner is dark (near black or very dark grey) with bright yellow-green text for \"Innovation Academy.\"",
+    "The glass partition at the rear is transparent glass with visible reflections and internal furnishings."
+  ],
+  "uncertainties": [
+    "The exact room name or number is not visible; a faint label or sign on the glass door is present but unreadable in this image.",
+    "The count of seated people is based on individually distinguishable persons visible in the current view; occlusion and cropping might hide additional people.",
+    "Small text on the banner consists of a repeated small pattern of words that are not fully legible at this resolution; only the larger words transcribed are clearly readable.",
+    "There is reflected or reversed text on the glass partition (\"Thank you\" appears faintly in reverse), creating potential duplication of the on-screen text; this reflection has been noted but is not a separate physical sign.",
+    "Any small labels, model names or additional signage on equipment (camera, lectern, speaker) are not legible; counts and identifications avoid inferring equipment specifications."
+  ],
+  "visual_facts": [
+    "Nine visibly distinct people are present in the photographed scene: seven seated or on steps along the left side (including one person wearing a yellow top seated on the stepped seating at upper left) and two people standing at the right near the display screen giving a presentation.",
+    "One camera on a tripod is positioned on the stepped seating at upper left and is aimed toward the presentation area.",
+    "One large wall-mounted or floor-to-ceiling digital display screen is at right showing a slide with the words \"Thank You.\"",
+    "One freestanding banner stand is positioned at far right next to the presenters.",
+    "One small mobile lectern/stand with a laptop or monitor on it is immediately in front of the presenters.",
+    "Three small square ottoman seats are visible in the foreground along the center aisle (blue, light grey, blue).",
+    "Three long bench seat segments are visible arranged down the center of the space toward the screen (two appear blue, one appears teal/blue).",
+    "One visible wall- or ceiling-mounted loudspeaker is mounted near the top right corner above the display screen.",
+    "Several visible cables lie on the floor crossing from the left foreground toward the presentation area.",
+    "The main floor covering is a light grey carpet with linear texture.",
+    "Upholstered seating uses blue and teal tones: three square ottomans in foreground are blue, light grey, blue; the long bench segments down the center are shades of blue/teal.",
+    "Upper wall area appears a pale mint green; lower wall and stair/bench surfaces are light grey.",
+    "The large display screen has a white background with black text; the freestanding banner is dark (near black or very dark grey) with bright yellow-green text for \"Innovation Academy.\"",
+    "The glass partition at the rear is transparent glass with visible reflections and internal furnishings."
+  ],
+  "id": "7f8c7e3c4ac7f0fc91ccd5f7",
+  "sha256": "d394c1335150c46d55f0c9a763b6f2cf13b2bea592facc397e775f1204c8c0f1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:49:24.500806+00:00",
+  "input_resolution": [
+    2016,
+    1134
+  ],
+  "input_sha256": "26615c7229ed29c96c65a2976f3cb02d1c9fb74c5aea46c9338d552de6692b71",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauCVJK4OA1X9cn41hGCDGA8F6U4S",
+  "usage": {
+    "completion_tokens": 1365,
+    "prompt_tokens": 2439,
+    "total_tokens": 3804,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1255,
+      "engine_ttlt_ms": 11627,
+      "pre_inference_ms": 332,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2150,
+      "service_ttlt_ms": 12515,
+      "user_visible_ttft_ms": 1817
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

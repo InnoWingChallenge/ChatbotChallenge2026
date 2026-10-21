@@ -1,0 +1,101 @@
+{
+  "title": "Interior room with shelving, cabinet, player viewpoint and creature",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One human figure is visible from behind in the lower-central foreground (player viewpoint or avatar).",
+    "One non-human creature or monster is visible standing near the center-right of the room, facing the camera.",
+    "At least six freestanding shelving units are visible: one cropped shelf in the left foreground, two shelving units visible along the left mid/background, and at least three shelving units visible on the right side of the image. Several of these shelves are partially obscured or cropped.",
+    "One large dark cabinet or cupboard is visible against the back wall near the center of the image; cabinet doors with two lighter vertical handles are visible.",
+    "Multiple stacks of books and at least one cardboard box are visible on the shelves and on a surface at the right foreground.",
+    "The floor is tiled with large square tiles covering the visible floor area.",
+    "One small wall-mounted object (possibly a hook or switch) is visible on the back wall slightly left of the center cabinet."
+  ],
+  "visible_text": [
+    "and escape."
+  ],
+  "spatial_relations": [
+    "The human figure (avatar) occupies the lower-central foreground and is shown from behind, looking toward the back of the room.",
+    "The creature stands ahead of the avatar, positioned slightly to the avatar's right and roughly mid-distance between foreground and the back wall.",
+    "Shelving units form rows on both the left and right sides of the scene, creating a central aisle or open area leading toward the back cabinet.",
+    "The large dark cabinet is centered on the back wall; the small wall-mounted object is slightly left of that cabinet.",
+    "Book stacks and a cardboard box are on shelving and a surface at the right foreground, adjacent to the right-side shelving units."
+  ],
+  "colours_and_materials": [
+    "The floor tiles are light grey or off-white with visible grout lines between square tiles.",
+    "Shelving units and cabinet appear dark grey to black; shelf surfaces hold brown and tan colored books and boxes.",
+    "The cabinet has darker finish with two lighter vertical handle areas that appear yellowish-green or reflective.",
+    "The creature has brownish and tan tones; the avatar's clothing visible at the shoulders appears dark grey."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible in the image; location cannot be determined from the image alone.",
+    "Some shelving units are partially cropped or obscured; the stated count 'at least six' is a visible minimum and not a full room inventory.",
+    "The white cursive text at the top-right appears to read \"and escape.\" but preceding words are cut off and unreadable; full phrase is not legible.",
+    "The small wall-mounted object on the back wall is identifiable as a hook or switch by shape only; its exact function or label (if any) is unreadable.",
+    "It is unclear whether some visible objects on shelves (papers, thin books, or flat objects) are distinct items or stacked parts of the same item; exact counts of books and smaller items cannot be reliably determined."
+  ],
+  "visual_facts": [
+    "One human figure is visible from behind in the lower-central foreground (player viewpoint or avatar).",
+    "One non-human creature or monster is visible standing near the center-right of the room, facing the camera.",
+    "At least six freestanding shelving units are visible: one cropped shelf in the left foreground, two shelving units visible along the left mid/background, and at least three shelving units visible on the right side of the image. Several of these shelves are partially obscured or cropped.",
+    "One large dark cabinet or cupboard is visible against the back wall near the center of the image; cabinet doors with two lighter vertical handles are visible.",
+    "Multiple stacks of books and at least one cardboard box are visible on the shelves and on a surface at the right foreground.",
+    "The floor is tiled with large square tiles covering the visible floor area.",
+    "One small wall-mounted object (possibly a hook or switch) is visible on the back wall slightly left of the center cabinet.",
+    "The floor tiles are light grey or off-white with visible grout lines between square tiles.",
+    "Shelving units and cabinet appear dark grey to black; shelf surfaces hold brown and tan colored books and boxes.",
+    "The cabinet has darker finish with two lighter vertical handle areas that appear yellowish-green or reflective.",
+    "The creature has brownish and tan tones; the avatar's clothing visible at the shoulders appears dark grey."
+  ],
+  "id": "6bf58e45874b81990079998b",
+  "sha256": "283d244a7a41cd3b740b3c719ab7af28119429101c5b043aeebcb8d0599b425f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:45:17.424959+00:00",
+  "input_resolution": [
+    924,
+    463
+  ],
+  "input_sha256": "3b415095eb798e35c317460bac5f27ed91d1b7527f84f8b1e4a32deaaead7aa1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau8ZyPrzxEfHWk8KmElwflE31sPN",
+  "usage": {
+    "completion_tokens": 1009,
+    "prompt_tokens": 1722,
+    "total_tokens": 2731,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 299,
+      "engine_ttlt_ms": 8198,
+      "pre_inference_ms": 95,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 939,
+      "service_ttlt_ms": 8833,
+      "user_visible_ttft_ms": 844
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

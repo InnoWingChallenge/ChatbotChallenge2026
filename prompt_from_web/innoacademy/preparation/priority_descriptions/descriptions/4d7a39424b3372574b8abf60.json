@@ -1,0 +1,111 @@
+{
+  "title": "DREAMLab workshop space with students, monitors and worktables",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "People: At least 9 distinct people are visible. One person is seated at the left desk region using a computer. One person stands near the centre of the room facing right. One person stands at the central yellow table working with components. A group of five or more students in white shirts stand along the right side of the central table. One additional person is partially visible at the far right edge of the image.",
+    "Large display screens: One large wall-mounted screen is visible on the left wall (showing a large numeral '3').",
+    "Desktop monitors: At least three desktop monitors are visible on the left and center desks (two on the left desk area, one behind the central table).",
+    "Laptop computers: At least one laptop is visible on the left desk being used by the seated person.",
+    "Robotic/mobile hardware: At least one floor mobile robot or robotic chassis is visible on the floor near the centre foreground beside the central yellow table (partially obscured by chairs and people).",
+    "Worktables: Two prominent yellow worktables are visible — one central long yellow table with electronics and components, and one yellow table surface in the foreground with components and a keyboard.",
+    "Office chairs: At least seven office chairs are visible in various positions (left desk area, around central table, foreground).",
+    "Posters and wall displays: Multiple posters are mounted on the left wall (a sequence of posters along the left side).",
+    "Miscellaneous equipment and objects: Visible on the central table are electronics components, wires, a cardboard box, water bottles, papers, a keyboard and other small lab items; counts for these smaller items are not individually enumerated because of overlap and partial occlusion."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "3",
+    "HKU"
+  ],
+  "spatial_relations": [
+    "A large wall-mounted display is on the left wall above the left desk area; below it are desktop monitors and a seated person.",
+    "A row of posters runs along the left wall between the left desk area and the central region of the room.",
+    "The central long yellow worktable occupies the middle of the room; one person stands at its near side working with components while a group of students stand at the far right side of that table.",
+    "A smaller yellow table surface with electronic parts and a keyboard is in the foreground near the bottom edge of the image.",
+    "An area with additional desks and monitors is behind the central table against the back wall where the 'DREAMLab' sign is located.",
+    "The floor mobile robot/chassis is positioned on the floor between the central table and the left desk area, partially under or beside chairs."
+  ],
+  "colours_and_materials": [
+    "The central and foreground worktables are a distinctive yellow colour.",
+    "Office chairs are predominantly grey with fabric or padded seats.",
+    "The carpeted floor is a medium-dark grey/blue carpet.",
+    "Ceiling and exposed pipes are painted white or very light grey; walls are light-coloured with a pale green back wall behind the 'DREAMLab' sign.",
+    "Posters on the left wall are multicoloured with dark and bright graphics."
+  ],
+  "uncertainties": [
+    "Exact person count is limited by partial occlusion at the right edge and by people standing close together; the stated minimum is nine visible individuals but there may be additional partially obscured people.",
+    "Several small labels and posters contain text that is not legible at this resolution; only the larger, clearly readable text items are transcribed.",
+    "The large wall screen contains additional caption text that is partly cropped and not fully readable; only the clear large character '3' is transcribed.",
+    "The identification 'HKU' is taken from the visible text on a person's shirt; other shirt or badge text is not legible enough to transcribe.",
+    "Counts of small items on the tables (individual electronic components, cables, bottles) are not provided because many are overlapped or partially obscured."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "People: At least 9 distinct people are visible. One person is seated at the left desk region using a computer. One person stands near the centre of the room facing right. One person stands at the central yellow table working with components. A group of five or more students in white shirts stand along the right side of the central table. One additional person is partially visible at the far right edge of the image.",
+    "Large display screens: One large wall-mounted screen is visible on the left wall (showing a large numeral '3').",
+    "Desktop monitors: At least three desktop monitors are visible on the left and center desks (two on the left desk area, one behind the central table).",
+    "Laptop computers: At least one laptop is visible on the left desk being used by the seated person.",
+    "Robotic/mobile hardware: At least one floor mobile robot or robotic chassis is visible on the floor near the centre foreground beside the central yellow table (partially obscured by chairs and people).",
+    "Worktables: Two prominent yellow worktables are visible — one central long yellow table with electronics and components, and one yellow table surface in the foreground with components and a keyboard.",
+    "Office chairs: At least seven office chairs are visible in various positions (left desk area, around central table, foreground).",
+    "Posters and wall displays: Multiple posters are mounted on the left wall (a sequence of posters along the left side).",
+    "Miscellaneous equipment and objects: Visible on the central table are electronics components, wires, a cardboard box, water bottles, papers, a keyboard and other small lab items; counts for these smaller items are not individually enumerated because of overlap and partial occlusion.",
+    "The central and foreground worktables are a distinctive yellow colour.",
+    "Office chairs are predominantly grey with fabric or padded seats.",
+    "The carpeted floor is a medium-dark grey/blue carpet.",
+    "Ceiling and exposed pipes are painted white or very light grey; walls are light-coloured with a pale green back wall behind the 'DREAMLab' sign.",
+    "Posters on the left wall are multicoloured with dark and bright graphics."
+  ],
+  "id": "4d7a39424b3372574b8abf60",
+  "sha256": "f102512d547ae4e6df19312e804e896f4751fcef80a2e3cd89fd5c72e02e4d8b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:38:24.969979+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "a87e2774906b4d65e1b07bed11e5d7f858d8195f6081676b3984422a7398c56f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau1pLt6Qf0R3u3x8f9e9zcUxzk7j",
+  "usage": {
+    "completion_tokens": 1342,
+    "prompt_tokens": 2122,
+    "total_tokens": 3464,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1135,
+      "engine_ttlt_ms": 14021,
+      "pre_inference_ms": 374,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 2055,
+      "service_ttlt_ms": 14936,
+      "user_visible_ttft_ms": 1681
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,7 @@
+{
+  "deployment": "gpt-5-mini",
+  "checked_on": "2026-10-13",
+  "connection_check": "blocked",
+  "error_type": "PermissionDeniedError",
+  "http_status": 403
+}

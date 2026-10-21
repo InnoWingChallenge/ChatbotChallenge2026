@@ -1,0 +1,99 @@
+{
+  "title": "Small yellow-orange model airplane on paved surface near barriers",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One scale model airplane is present in the foreground, positioned on the paved ground; its covering is translucent yellow with orange wingtips and nose detailing.",
+    "One visible landing wheel (right side of the airplane from camera view) with a white rim and black tyre is clearly visible; the presence of a matching opposite wheel is plausible but that wheel is not fully visible and therefore cannot be reliably counted.",
+    "One partial person is visible at the left image edge: a lower leg and a neon-green-soled shoe (left shoe) are visible and cropped by the image edge.",
+    "At least two molded plastic barrier blocks are visible in the background (upper right); they are pink and white and arranged near each other. Additional barrier pieces may be present but are partially obscured or out of frame.",
+    "One chain-link fence and gate structure is visible behind the model plane toward the upper mid-left background.",
+    "One short raised tactile strip or textured path (orange tiles) crosses the scene roughly left-to-right, passing behind the model airplane."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The model airplane occupies the central foreground on a paved surface; its nose points toward the camera-right side of the image and its tail points toward the upper center of the image.",
+    "The single clearly visible wheel is beneath the fuselage slightly aft of the nose, casting a shadow on the ground to its lower-right.",
+    "A cropped person (only a lower leg and shoe) stands at the far left edge of the image, behind the plane's left wing from the camera perspective.",
+    "An orange tactile strip runs across the scene behind the airplane, roughly parallel to the bottom edge of the image and separating foreground pavement from the background area.",
+    "Behind the tactile strip and slightly left-of-center is a chain-link fence and gate; beyond and to the right of the fence are multiple pink-and-white molded plastic barriers grouped together in the upper right background."
+  ],
+  "colours_and_materials": [
+    "The model airplane has a translucent yellow covering over a visible internal frame, with bright orange on the wingtips, nose and tail surfaces.",
+    "The paved ground is predominantly grey with dark patches and textured wear; the plane casts distinct shadows on this surface.",
+    "The tactile strip or tile across the mid-ground is orange and appears plastic or ceramic.",
+    "Background barriers are pink and white molded plastic. The fence is metallic (chain-link appearance).",
+    "The visible shoe has neon green accents on the sole and darker upper material (shoe and clothing materials are not identified with certainty)."
+  ],
+  "uncertainties": [
+    "No room name, room number or other explicit location identifier is visible in the image; location is therefore unknown from the image.",
+    "No legible printed text or labels are readable anywhere in the image; 'visible_text' is empty for that reason.",
+    "Only one landing wheel is clearly visible; the opposite wheel is either obscured or out of frame so a two-wheel landing gear assembly cannot be confirmed from this view.",
+    "Exact count of barrier pieces in the background is uncertain because some pieces are partially obscured or cropped at the image edge.",
+    "Material identification of the model airplane's internal frame and exact covering materials is based on visible appearance (translucent covering and internal structural elements) and is not certain."
+  ],
+  "visual_facts": [
+    "One scale model airplane is present in the foreground, positioned on the paved ground; its covering is translucent yellow with orange wingtips and nose detailing.",
+    "One visible landing wheel (right side of the airplane from camera view) with a white rim and black tyre is clearly visible; the presence of a matching opposite wheel is plausible but that wheel is not fully visible and therefore cannot be reliably counted.",
+    "One partial person is visible at the left image edge: a lower leg and a neon-green-soled shoe (left shoe) are visible and cropped by the image edge.",
+    "At least two molded plastic barrier blocks are visible in the background (upper right); they are pink and white and arranged near each other. Additional barrier pieces may be present but are partially obscured or out of frame.",
+    "One chain-link fence and gate structure is visible behind the model plane toward the upper mid-left background.",
+    "One short raised tactile strip or textured path (orange tiles) crosses the scene roughly left-to-right, passing behind the model airplane.",
+    "The model airplane has a translucent yellow covering over a visible internal frame, with bright orange on the wingtips, nose and tail surfaces.",
+    "The paved ground is predominantly grey with dark patches and textured wear; the plane casts distinct shadows on this surface.",
+    "The tactile strip or tile across the mid-ground is orange and appears plastic or ceramic.",
+    "Background barriers are pink and white molded plastic. The fence is metallic (chain-link appearance).",
+    "The visible shoe has neon green accents on the sole and darker upper material (shoe and clothing materials are not identified with certainty)."
+  ],
+  "id": "b46ff93367d9563c2c1e5a4a",
+  "sha256": "84128a9be5e7ca4d8d9ce29afa971dce132add0a073667f3e8e89fd92a9bc4f5",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:59:48.843983+00:00",
+  "input_resolution": [
+    1632,
+    1224
+  ],
+  "input_sha256": "298052367f773a26041e652d8aa2372e4cf00314d96d9ad272dc8d82a7525bcc",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauMdK9doy6fZGEOaaKV0P753dSmk",
+  "usage": {
+    "completion_tokens": 939,
+    "prompt_tokens": 2122,
+    "total_tokens": 3061,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 791,
+      "engine_ttlt_ms": 7413,
+      "pre_inference_ms": 667,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2385,
+      "service_ttlt_ms": 8931,
+      "user_visible_ttft_ms": 1717
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

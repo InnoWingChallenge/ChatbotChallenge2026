@@ -1,0 +1,114 @@
+{
+  "title": "Group photographed in a room labeled DREAMLab with model aircraft on table",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "There are twelve people visible in the photographed scene; several are partially obscured by others (counts: at least 12 distinct heads visible across foreground and background).",
+    "One blue drawstring bag is visible being worn over the shoulder of a boy in the front-left region; the bag bears printed text and a crest.",
+    "One rectangular table in the lower-right foreground holds model aircraft parts and electronics: at least one red-and-white model fuselage, one yellow propeller, wiring and small electronic boards.",
+    "One small grey electronic box or desktop device is on the table near the model aircraft (lower-right region), partially obscured by other items.",
+    "At least two office chairs are visible: one near the left edge behind the group and another partially visible near the left-mid region.",
+    "One wall-mounted whiteboard or glass writing surface is on the left background with faint drawings or writing.",
+    "One ceiling-mounted air conditioning unit is visible near the top-center of the image.",
+    "One ceiling-mounted dome camera or sensor is visible near the top-right of the image.",
+    "One vertical pillar at the right side of the image displays a 'FIRST AID' sign and yellow-black hazard tape around its top area.",
+    "Multiple backpacks and shoulder bags are worn by or near people (at least three distinct bags are visible: the blue drawstring bag and at least two darker backpacks)."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "THE UNIVERSITY OF HONG KONG",
+    "FIRST AID",
+    "The University of Hong Kong",
+    "HKU"
+  ],
+  "spatial_relations": [
+    "The 'DREAMLab' signage is on the left background wall behind the group, above the glass/whiteboard surface.",
+    "The group of people is arranged in two roughly staggered rows: a front row of primarily students occupying the central foreground and a back row of taller individuals behind them; the adults appear mostly toward the left and rear.",
+    "The table with the model aircraft is in the lower-right foreground, directly in front of and partially overlapping the rightmost people.",
+    "The pillar with the 'FIRST AID' sign stands to the right-rear of the group, adjacent to the table with equipment.",
+    "The ceiling air conditioning unit is above and slightly behind the left-center of the group; the dome camera is mounted on the ceiling toward the upper-right above the pillar."
+  ],
+  "colours_and_materials": [
+    "The DREAMLab signage uses yellow for 'DREAM' and dark grey or black for 'Lab' on a pale green/grey wall.",
+    "The drawstring bag in front is bright blue with white printed text and crest.",
+    "The model aircraft on the table is red and white with a distinct yellow propeller; other small electronic boards and wires are present and appear green and red.",
+    "The pillar at right is white with yellow-and-black striped hazard tape near its top.",
+    "The ceiling shows exposed white-painted pipes and a white air-conditioning unit; the floor appears to be covered in dark grey carpet."
+  ],
+  "uncertainties": [
+    "Exact count of people may be higher if partially hidden persons are present; I report at least 12 visible heads but occlusion prevents certainty of a definitive total.",
+    "Small text on the blue drawstring bag includes additional lines and a crest that are partly legible ('The University of Hong Kong', 'HKU') but other words on the bag are too small or obscured to transcribe confidently.",
+    "There is additional small text beneath 'DREAMLab' on the wall that is not fully legible at this image resolution and is not transcribed.",
+    "Labels, model numbers or brand names on the electronic box and circuit boards on the table are not legible and therefore not transcribed.",
+    "Some people are partially cropped or obscured by others; no individual is identified by name and identities cannot be determined from the image."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "There are twelve people visible in the photographed scene; several are partially obscured by others (counts: at least 12 distinct heads visible across foreground and background).",
+    "One blue drawstring bag is visible being worn over the shoulder of a boy in the front-left region; the bag bears printed text and a crest.",
+    "One rectangular table in the lower-right foreground holds model aircraft parts and electronics: at least one red-and-white model fuselage, one yellow propeller, wiring and small electronic boards.",
+    "One small grey electronic box or desktop device is on the table near the model aircraft (lower-right region), partially obscured by other items.",
+    "At least two office chairs are visible: one near the left edge behind the group and another partially visible near the left-mid region.",
+    "One wall-mounted whiteboard or glass writing surface is on the left background with faint drawings or writing.",
+    "One ceiling-mounted air conditioning unit is visible near the top-center of the image.",
+    "One ceiling-mounted dome camera or sensor is visible near the top-right of the image.",
+    "One vertical pillar at the right side of the image displays a 'FIRST AID' sign and yellow-black hazard tape around its top area.",
+    "Multiple backpacks and shoulder bags are worn by or near people (at least three distinct bags are visible: the blue drawstring bag and at least two darker backpacks).",
+    "The DREAMLab signage uses yellow for 'DREAM' and dark grey or black for 'Lab' on a pale green/grey wall.",
+    "The drawstring bag in front is bright blue with white printed text and crest.",
+    "The model aircraft on the table is red and white with a distinct yellow propeller; other small electronic boards and wires are present and appear green and red.",
+    "The pillar at right is white with yellow-and-black striped hazard tape near its top.",
+    "The ceiling shows exposed white-painted pipes and a white air-conditioning unit; the floor appears to be covered in dark grey carpet."
+  ],
+  "id": "b945e5a65dbbe8c3e21f3ed4",
+  "sha256": "deddf48d71edb0485f1ac50f3c1cb09d972bf5513037fa9410aaefb39e4d6dd5",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:01:03.621905+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "64c851972189b13d2beac4f4a3a22d97211e71646406a3b6d3839ca3046c2f92",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauNmXdz6xxVLjObnBdCSFdgnZ7H2",
+  "usage": {
+    "completion_tokens": 1389,
+    "prompt_tokens": 2122,
+    "total_tokens": 3511,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1141,
+      "engine_ttlt_ms": 12331,
+      "pre_inference_ms": 365,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1970,
+      "service_ttlt_ms": 13154,
+      "user_visible_ttft_ms": 1605
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Frontal head-and-shoulders portrait against plain background",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One adult human subject is visible, shown from the shoulders up and facing the camera. The face is unobstructed and centrally framed.",
+    "No equipment, room fixtures, signage, furniture or repeated objects are visible in the scene.",
+    "There are no posters or screens visible; any printed or digital text is not present in the photographed scene."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The subject's head is centered horizontally in the image and occupies the majority of the vertical frame from the top of the hair to the top of the chest.",
+    "The background is uniform and uninterrupted; no other objects are adjacent to or overlapping the subject within the visible frame."
+  ],
+  "colours_and_materials": [
+    "The subject's hair appears black.",
+    "The subject wears a light grey shirt with faint vertical stripes; the shirt material appears woven (likely cotton or similar fabric) but material identification is uncertain.",
+    "The background is plain white."
+  ],
+  "uncertainties": [
+    "No room name, room number, sign, equipment label or other location identifier is visible; therefore the specific location cannot be determined from this image.",
+    "There are no visible labels or text on clothing or in the background to provide names or affiliation.",
+    "The shirt material and exact colour tones are assessed visually and may be affected by lighting; material identification is not confirmed.",
+    "Because the image is a close portrait with a plain background, it contains no usable evidence about facilities, equipment, or layout relevant to HKU Innovation Academy or Tam Wing Fan Innovation Wing."
+  ],
+  "visual_facts": [
+    "One adult human subject is visible, shown from the shoulders up and facing the camera. The face is unobstructed and centrally framed.",
+    "No equipment, room fixtures, signage, furniture or repeated objects are visible in the scene.",
+    "There are no posters or screens visible; any printed or digital text is not present in the photographed scene.",
+    "The subject's hair appears black.",
+    "The subject wears a light grey shirt with faint vertical stripes; the shirt material appears woven (likely cotton or similar fabric) but material identification is uncertain.",
+    "The background is plain white."
+  ],
+  "id": "49776b36e79b4b9e76ab02bd",
+  "sha256": "419bd4fe9211f2076735db76d0c4255bb6dde63b20795475e07b4bfc9119bc97",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:37:41.887872+00:00",
+  "input_resolution": [
+    400,
+    492
+  ],
+  "input_sha256": "73408efa888413ac993009b1e1f23d90b4443600c40797ada0bb3cca432e2a4e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau1Jy1EfSJAPkSQFy7Ib7ibAsYTF",
+  "usage": {
+    "completion_tokens": 447,
+    "prompt_tokens": 1450,
+    "total_tokens": 1897,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 87,
+      "engine_ttlt_ms": 3445,
+      "pre_inference_ms": 96,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 264,
+      "service_ttlt_ms": 3618,
+      "user_visible_ttft_ms": 168
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

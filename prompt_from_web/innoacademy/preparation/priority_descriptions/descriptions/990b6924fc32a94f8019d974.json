@@ -1,0 +1,95 @@
+{
+  "title": "Close-up of multiple small green circuit boards with clear tubing and red-white tags",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Three small green printed circuit boards are individually visible and distinguishable: one near the image center (angled), one lower right (in focus), and one at the left edge (blurred and partly cropped).",
+    "At least twelve separate clear flexible tubes are individually visible; they are concentrated in the upper and right regions of the image and have small red-and-white rectangular tags attached. (Some tubes extend out of frame or overlap; minimum visible count is reported.)",
+    "On the visible boards there are multiple small black circular connectors or fittings where the clear tubes attach; on the lower-right board at least four such tube-attachment points are visible, on the center board at least three are visible (counts constrained to clearly visible attachment points only).",
+    "Multiple purple insulated wires are visible, routed between boards and tying into connectors; at least three distinct purple wire bundles are visible.",
+    "Soldered metallic components and traces are visible on the underside of the green boards; a white circular blob of potting or adhesive is visible on the underside of the center board and another white blob is visible on the lower-right board."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The three green circuit boards are arranged diagonally from left (rear, blurred) toward the right (foreground), with the central board suspended above and slightly in front of the lower-right board.",
+    "Clear tubes rise upward from the boards into the upper part of the image; many of the tubes are parallel and grouped together with the red-and-white tags located along their lengths.",
+    "Purple wires run downwards and between the boards, connecting the boards or their connectors; the lower-right board is closest to the viewer and partially occludes the wires behind it.",
+    "The leftmost board is out of focus and appears behind the central board; the central board is angled so its soldered underside faces the camera."
+  ],
+  "colours_and_materials": [
+    "The circuit boards are green with visible metallic solder traces and components.",
+    "The flexible tubing is transparent/clear, and many tubes have small rectangular white tags with red borders or red markings.",
+    "Wiring visible in the scene is purple (insulated), and there are small black plastic connectors or fittings where tubes meet the boards.",
+    "White rounded blobs (likely adhesive or potting compound) are present on the underside of at least two boards."
+  ],
+  "uncertainties": [
+    "Exact total number of clear tubes cannot be determined because several tubes overlap, extend out of frame, or are partially occluded; reported tube count is a visible minimum.",
+    "Individual characters or words on the red-and-white rectangular tags are not legible at this image resolution; no readable textual labels were confidently transcribed.",
+    "The function, brand, model, or specific type of the circuit boards, connectors, tubing, or white blobs cannot be determined from appearance alone and are not asserted.",
+    "Some connector counts per board are minimum visible counts because parts of the boards are out of frame or occluded; counts were not extrapolated to entire assemblies."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Three small green printed circuit boards are individually visible and distinguishable: one near the image center (angled), one lower right (in focus), and one at the left edge (blurred and partly cropped).",
+    "At least twelve separate clear flexible tubes are individually visible; they are concentrated in the upper and right regions of the image and have small red-and-white rectangular tags attached. (Some tubes extend out of frame or overlap; minimum visible count is reported.)",
+    "On the visible boards there are multiple small black circular connectors or fittings where the clear tubes attach; on the lower-right board at least four such tube-attachment points are visible, on the center board at least three are visible (counts constrained to clearly visible attachment points only).",
+    "Multiple purple insulated wires are visible, routed between boards and tying into connectors; at least three distinct purple wire bundles are visible.",
+    "Soldered metallic components and traces are visible on the underside of the green boards; a white circular blob of potting or adhesive is visible on the underside of the center board and another white blob is visible on the lower-right board.",
+    "The circuit boards are green with visible metallic solder traces and components.",
+    "The flexible tubing is transparent/clear, and many tubes have small rectangular white tags with red borders or red markings.",
+    "Wiring visible in the scene is purple (insulated), and there are small black plastic connectors or fittings where tubes meet the boards.",
+    "White rounded blobs (likely adhesive or potting compound) are present on the underside of at least two boards."
+  ],
+  "id": "990b6924fc32a94f8019d974",
+  "sha256": "504796a256ca561751ccd1ce34fcb482b57f07abd68307eaa99ca18d14f5afa1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:16:52.115639+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "1adb41c4067e4800237f7b0210086b6f03eab5ffaee2286ab7bca92cb47068d3",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eath4ojH4KiwSH668bkmLD637437y",
+  "usage": {
+    "completion_tokens": 961,
+    "prompt_tokens": 2045,
+    "total_tokens": 3006,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 574,
+      "engine_ttlt_ms": 7573,
+      "pre_inference_ms": 128,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1834,
+      "service_ttlt_ms": 8828,
+      "user_visible_ttft_ms": 1706
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Group around promotional table with 'ClearBot' banner and tablet",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least seven people are visible in the photographed scene; several are cropped at the left and right edges so the exact count cannot be determined from this single frame.",
+    "One handheld tablet is clearly visible being held by a person on the right side of the image; the tablet screen shows multiple thumbnail images.",
+    "One vertical promotional banner or poster is visible behind the group on the right side of the image.",
+    "One boxed device or prototype is visible on the table to the right of the group, partially open or with an exposed interior; it sits on top of at least one piece of equipment or clear plastic.",
+    "One table with display materials is present on the right side beneath and around the boxed device and banner."
+  ],
+  "visible_text": [
+    "ClearBot"
+  ],
+  "spatial_relations": [
+    "A standing group of people occupies the central foreground, with three mostly full figures in the center and additional people cropped at the left and right edges.",
+    "The promotional banner with the legible heading 'ClearBot' stands behind and slightly to the right of the central group.",
+    "A table with a boxed device or prototype is positioned immediately in front of the banner and to the right of the people; the person on the far right is holding a tablet over this table area.",
+    "A large decorative mirror and corridor are visible in the background behind the group, aligned roughly down the center-left of the image.",
+    "The camera viewpoint is close and wide-angle, producing cropped faces at both left and right edges and making the central group appear nearer and larger."
+  ],
+  "colours_and_materials": [
+    "Most people are wearing dark-coloured suits (black or dark navy) and white shirts; some have black bow ties or dark neckties.",
+    "The carpet is predominantly red with a patterned floral or abstract motif in lighter colours.",
+    "The vertical banner has a white background area with a multicoloured image beneath the 'ClearBot' heading; the boxed device appears metallic or grey with transparent or reflective panels.",
+    "A large framed mirror with a gold-coloured decorative frame is visible in the background; walls appear covered with a brown or tan textured surface (possibly fabric or wallpaper).",
+    "The tablet screen is glossy and reflective, showing multiple small preview images in brighter colours."
+  ],
+  "uncertainties": [
+    "Exact count of people: several faces are cropped at image edges; the minimum visible is seven distinct individuals but overlap and cropping prevent a precise total.",
+    "Text beyond 'ClearBot' on the banner is unreadable at this resolution; there appear to be small logos or crests above the banner heading and additional lines of copy below 'ClearBot' that cannot be transcribed.",
+    "Text on the tablet screen and any labels on the boxed prototype are not legible in this image and could not be transcribed.",
+    "The material identification of the boxed device (metallic, plastic, etc.) is uncertain and described by appearance only.",
+    "Because no room sign or number is visible, the exact room name or location cannot be established from the image."
+  ],
+  "visual_facts": [
+    "At least seven people are visible in the photographed scene; several are cropped at the left and right edges so the exact count cannot be determined from this single frame.",
+    "One handheld tablet is clearly visible being held by a person on the right side of the image; the tablet screen shows multiple thumbnail images.",
+    "One vertical promotional banner or poster is visible behind the group on the right side of the image.",
+    "One boxed device or prototype is visible on the table to the right of the group, partially open or with an exposed interior; it sits on top of at least one piece of equipment or clear plastic.",
+    "One table with display materials is present on the right side beneath and around the boxed device and banner.",
+    "Most people are wearing dark-coloured suits (black or dark navy) and white shirts; some have black bow ties or dark neckties.",
+    "The carpet is predominantly red with a patterned floral or abstract motif in lighter colours.",
+    "The vertical banner has a white background area with a multicoloured image beneath the 'ClearBot' heading; the boxed device appears metallic or grey with transparent or reflective panels.",
+    "A large framed mirror with a gold-coloured decorative frame is visible in the background; walls appear covered with a brown or tan textured surface (possibly fabric or wallpaper).",
+    "The tablet screen is glossy and reflective, showing multiple small preview images in brighter colours."
+  ],
+  "id": "2ebed9084e9df9b9963680ee",
+  "sha256": "1fcc0063b2ba007ad0ebbea22f86402f2c80d059e62b481fc6fafc6560152a73",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:34:19.879855+00:00",
+  "input_resolution": [
+    2400,
+    1079
+  ],
+  "input_sha256": "a0f16ca019d64e5d157a087c277051d087938b9329ca45c92acc6b1213da48fe",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatxyl2c73nUecGlu6AQSQRLLW9UD",
+  "usage": {
+    "completion_tokens": 1016,
+    "prompt_tokens": 2756,
+    "total_tokens": 3772,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1297,
+      "engine_ttlt_ms": 8283,
+      "pre_inference_ms": 721,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2496,
+      "service_ttlt_ms": 9475,
+      "user_visible_ttft_ms": 1775
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

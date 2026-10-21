@@ -1,0 +1,110 @@
+{
+  "title": "Workshop bench area with laptops, hand sanitizer and filament-based printers visible through interior window",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Five people are visible in the photographed scene: one person seated at the left foreground working at a laptop (masked), three people seated along the right side of the central bench (all masked) and one person visible standing or working in the adjacent room seen through the large interior window at center background.",
+    "At least four laptop computers are visible: one Apple MacBook with Apple logo on the left foreground, one laptop used by the person at the far right foreground, and two additional laptops on the central bench being used by the seated people (the count is based on distinct visible screens and housings).",
+    "At least three filament spools / 3D-printer spool holders or printer filament reels are visible in the background: one near the center background and two on the right background, each mounted on or adjacent to small printer frames or spool holders; some of these are partially obscured by foreground objects.",
+    "Multiple desktop workbenches are visible: at least three sequential wooden-topped benches form a central row extending from foreground to background, each with clear protective acrylic or glass vertical panels between sitting positions.",
+    "One countertop hand sanitizer bottle is visible on the central bench near the foreground; a second tall green beverage or spray bottle is also on the bench near the center foreground.",
+    "One small wheeled robotic vehicle or electronics chassis with visible wheels and red components sits on the central bench near the foreground.",
+    "A large piece of machinery or a CNC/milling station is visible in the rear left through the window (partially visible and partly occluded by foreground heads and equipment).",
+    "A wall-projection or large projected screen is visible on the far left edge of the scene showing lines of text/code, but the content is not clearly legible in the photograph.",
+    "A white cylindrical canister (likely wipes) with a blue logo and printed panels sits on the nearest edge of the central bench in the foreground."
+  ],
+  "visible_text": [
+    "Alcohol 75%"
+  ],
+  "spatial_relations": [
+    "A large interior window occupies the central background and separates the photographed work area in the foreground from an adjacent equipment room in the back; a person is visible through that window in the adjacent room.",
+    "Three or more wooden-topped benches run roughly front-to-back along the image center; the nearest bench carries laptops, bottles and a small wheeled robot, and benches are aligned in a single central row.",
+    "Clear vertical acrylic or glass panels are installed along the centerline of the benches, standing between opposite seating positions and extending upward from the bench surface.",
+    "The projection screen is located on the far left wall and projects text onto the leftmost portion of the image; the leftmost seated person faces slightly toward that projection.",
+    "3D-printer spool holders and small printer frames are positioned on counters behind the benches, primarily visible through and to the right of the central window area.",
+    "A large machine (possibly milling/CNC equipment) is positioned in the adjacent room behind the window at the rear left of the image; it is behind the central bench and visible through the window opening."
+  ],
+  "colours_and_materials": [
+    "Bench tops are light-colored wood or laminate with a smooth finish; bench edges appear slightly darker than the surfaces.",
+    "Clear transparent acrylic or glass panels separate seating positions on the benches.",
+    "Most visible laptop housings are metallic gray or black; the left MacBook shows a bright white Apple logo on a silver housing.",
+    "Hand sanitizer bottle has a white pump top and a mostly white label; a second bottle near it is green plastic.",
+    "Walls and ceiling are painted white; the space has bright, neutral lighting and a light grey floor surface.",
+    "Some 3D-printer spools are black or dark-coloured; printer frames in the background are black."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is visible in the image; location cannot be confirmed from the photograph alone.",
+    "The exact text on many small labels, the projected screen, the green bottle and the white cylindrical canister is unreadable at this resolution; only 'Alcohol 75%' could be reasonably transcribed from the sanitizer bottle label.",
+    "Counts of laptops and printers are minimums based on individually distinguishable housings and spool holders visible in this single view; some devices may be partially obscured or out of frame so total room inventory cannot be determined.",
+    "The large machine visible through the window is not fully legible as to make or model; its identification as milling/CNC is an observation of appearance and not a confirmed equipment type.",
+    "Some objects (for example small cables, labels on devices, and projected text) are present but not readable; specific brand names or model numbers cannot be reliably transcribed from this image."
+  ],
+  "visual_facts": [
+    "Five people are visible in the photographed scene: one person seated at the left foreground working at a laptop (masked), three people seated along the right side of the central bench (all masked) and one person visible standing or working in the adjacent room seen through the large interior window at center background.",
+    "At least four laptop computers are visible: one Apple MacBook with Apple logo on the left foreground, one laptop used by the person at the far right foreground, and two additional laptops on the central bench being used by the seated people (the count is based on distinct visible screens and housings).",
+    "At least three filament spools / 3D-printer spool holders or printer filament reels are visible in the background: one near the center background and two on the right background, each mounted on or adjacent to small printer frames or spool holders; some of these are partially obscured by foreground objects.",
+    "Multiple desktop workbenches are visible: at least three sequential wooden-topped benches form a central row extending from foreground to background, each with clear protective acrylic or glass vertical panels between sitting positions.",
+    "One countertop hand sanitizer bottle is visible on the central bench near the foreground; a second tall green beverage or spray bottle is also on the bench near the center foreground.",
+    "One small wheeled robotic vehicle or electronics chassis with visible wheels and red components sits on the central bench near the foreground.",
+    "A large piece of machinery or a CNC/milling station is visible in the rear left through the window (partially visible and partly occluded by foreground heads and equipment).",
+    "A wall-projection or large projected screen is visible on the far left edge of the scene showing lines of text/code, but the content is not clearly legible in the photograph.",
+    "A white cylindrical canister (likely wipes) with a blue logo and printed panels sits on the nearest edge of the central bench in the foreground.",
+    "Bench tops are light-colored wood or laminate with a smooth finish; bench edges appear slightly darker than the surfaces.",
+    "Clear transparent acrylic or glass panels separate seating positions on the benches.",
+    "Most visible laptop housings are metallic gray or black; the left MacBook shows a bright white Apple logo on a silver housing.",
+    "Hand sanitizer bottle has a white pump top and a mostly white label; a second bottle near it is green plastic.",
+    "Walls and ceiling are painted white; the space has bright, neutral lighting and a light grey floor surface.",
+    "Some 3D-printer spools are black or dark-coloured; printer frames in the background are black."
+  ],
+  "id": "1e4bccb63af312292c94d6bd",
+  "sha256": "4a3ac69d703a7f2720a0f37940e5509a6dc093fb6700d795ad098d885b25e761",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:30:45.885533+00:00",
+  "input_resolution": [
+    2000,
+    1125
+  ],
+  "input_sha256": "2cd74bd1c5780cbfac8384643628e0062ff793980b8b0db88309a498f56325f2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatuS3e19nNURI5PXE9PtIw4mxyJu",
+  "usage": {
+    "completion_tokens": 1436,
+    "prompt_tokens": 2439,
+    "total_tokens": 3875,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 425,
+      "engine_ttlt_ms": 12283,
+      "pre_inference_ms": 398,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1044,
+      "service_ttlt_ms": 12878,
+      "user_visible_ttft_ms": 646
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

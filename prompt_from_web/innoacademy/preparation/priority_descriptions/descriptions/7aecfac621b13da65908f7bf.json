@@ -1,0 +1,99 @@
+{
+  "title": "Close-up of soldering on green printed circuit board",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One soldering-iron tip is visible at the left edge of the image; the tip is cropped by the image border.",
+    "One white insulated wire is visible, its end positioned near a solder pad toward the upper centre of the image.",
+    "One human finger (partial, fingertip and nail) is visible at the top-right, appearing to hold or press the white wire; the finger is partially cropped.",
+    "Multiple vertical columns of through-hole solder joints (silver solder blobs) are visible across the board; at least four distinct long columns are clearly visible in the central and left regions of the image.",
+    "Numerous individual soldered pins/solder joints are visible; an exact count cannot be reliably determined from the image because of overlap, perspective and partial cropping.",
+    "A green printed circuit board (PCB) substrate occupies the scene and shows multiple etched traces and plated-through holes; individual traces and vias are visible across the board."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The soldering-iron tip is located toward the lower-left quadrant and points rightward/upward toward a specific solder pad in the central-left area of the board.",
+    "The white wire runs from the top centre toward a pad slightly left of image centre; its end is near the tip of the soldering iron and adjacent to a vertical column of solder joints.",
+    "The human finger is at the top-right and is above and to the right of the white wire’s exposed end, appearing to press or hold the wire down onto the board.",
+    "Several vertical columns of solder joints run roughly top-to-bottom; PCB traces run between and alongside these columns, forming a regular grid-like arrangement.",
+    "Solder joints and plated-through holes are arranged in rows and columns, with narrower PCB traces connecting pads between the columns."
+  ],
+  "colours_and_materials": [
+    "The PCB substrate is green with darker green PCB traces visible; the surface appears glossy.",
+    "Solder joints and plated holes are metallic silver in colour and appear reflective.",
+    "The soldering-iron tip is metallic with a brass-coloured ferrule or shaft visible; the tip itself is a darker metal.",
+    "The wire is white insulated; the exposed conductor end (if visible) appears metallic but is small and partially obscured.",
+    "The visible finger shows natural skin tones; the fingernail is visible and lighter in colour than the skin."
+  ],
+  "uncertainties": [
+    "No room name, sign or room number is visible anywhere in the image, so the location cannot be determined from the image.",
+    "Text or labels on the PCB, components or tools are not legible in the provided image; no exact equipment names, brands or model numbers can be read or transcribed.",
+    "Exact counts of solder joints and pins are not provided because many are partially occluded, out of focus or extend beyond the crop; only the presence of multiple vertical columns can be reliably stated.",
+    "It is unclear whether soldering is actively being performed at the moment of capture; the presence of the iron tip and wire proximity suggests soldering activity but the image does not show molten solder or smoke.",
+    "The identity of the person (finger) cannot be determined and no personal identification should be inferred."
+  ],
+  "visual_facts": [
+    "One soldering-iron tip is visible at the left edge of the image; the tip is cropped by the image border.",
+    "One white insulated wire is visible, its end positioned near a solder pad toward the upper centre of the image.",
+    "One human finger (partial, fingertip and nail) is visible at the top-right, appearing to hold or press the white wire; the finger is partially cropped.",
+    "Multiple vertical columns of through-hole solder joints (silver solder blobs) are visible across the board; at least four distinct long columns are clearly visible in the central and left regions of the image.",
+    "Numerous individual soldered pins/solder joints are visible; an exact count cannot be reliably determined from the image because of overlap, perspective and partial cropping.",
+    "A green printed circuit board (PCB) substrate occupies the scene and shows multiple etched traces and plated-through holes; individual traces and vias are visible across the board.",
+    "The PCB substrate is green with darker green PCB traces visible; the surface appears glossy.",
+    "Solder joints and plated holes are metallic silver in colour and appear reflective.",
+    "The soldering-iron tip is metallic with a brass-coloured ferrule or shaft visible; the tip itself is a darker metal.",
+    "The wire is white insulated; the exposed conductor end (if visible) appears metallic but is small and partially obscured.",
+    "The visible finger shows natural skin tones; the fingernail is visible and lighter in colour than the skin."
+  ],
+  "id": "7aecfac621b13da65908f7bf",
+  "sha256": "323dfd633edd57614ff55064308494da24b11fa0cc5ed8dbc374689625a27a47",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:14:01.637893+00:00",
+  "input_resolution": [
+    852,
+    480
+  ],
+  "input_sha256": "f9b47e7515bdf2fd272d065e6e6fc2ba270f746eaaf405cc559c3a3d68ab3453",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EateJBFgfmfQr45yMqrQI3DJknhZj",
+  "usage": {
+    "completion_tokens": 987,
+    "prompt_tokens": 1686,
+    "total_tokens": 2673,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 479,
+      "engine_ttlt_ms": 7885,
+      "pre_inference_ms": 97,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1559,
+      "service_ttlt_ms": 8960,
+      "user_visible_ttft_ms": 1462
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

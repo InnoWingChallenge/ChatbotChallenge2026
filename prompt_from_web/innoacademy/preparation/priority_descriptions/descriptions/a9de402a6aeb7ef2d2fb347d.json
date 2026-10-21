@@ -1,0 +1,104 @@
+{
+  "title": "Group photograph at Tam Wing Fan Innovation Wing entrance with Faculty of Engineering sign",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing",
+  "objects_and_counts": [
+    "13 people are visible standing in a single row across the image; all are wearing face masks; none are identified by name in the image itself.",
+    "One large wall-mounted sign reading 'Tam Wing Fan Innovation Wing' with a smaller line 'FACULTY OF ENGINEERING' beneath it is centered behind the group.",
+    "One brass bell is hanging from the ceiling on the left side of the image; the bell is suspended by a rope or cord and is fully visible.",
+    "One wall-mounted emergency exit sign (green) is visible in the upper left corner of the image.",
+    "One red circular fire hose reel or similar red circular object is partially visible in the left doorway recess.",
+    "One person near the left (second from left) holds a folded sheet of paper in hand; the paper is visible and not part of a poster or screen.",
+    "A tactile studded floor surface (truncated blister/tactile paving) is visible in the front-right foreground of the image.",
+    "A wall graphic with a diagonal blue stripe is visible on the right side of the wall behind the group."
+  ],
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "FACULTY OF ENGINEERING"
+  ],
+  "spatial_relations": [
+    "The large sign 'Tam Wing Fan Innovation Wing' with 'FACULTY OF ENGINEERING' below it is centered on the wall directly behind the group of people; the group stands in front of and below the sign.",
+    "The brass bell hangs to the left of the sign and is located nearer the left edge of the image; a doorway or recess with a red circular object is behind and slightly left of the bell.",
+    "The emergency exit sign is mounted high on the wall in the upper left corner of the image, above the doorway recess.",
+    "A diagonal blue stripe graphic runs on the right side of the wall behind the group; people are positioned in front of both the plain white wall area and the blue-stripe area.",
+    "The tactile studded floor surface is in the front-right foreground and directly in front of the rightmost people; the main floor area in the foreground is smooth and light blue."
+  ],
+  "colours_and_materials": [
+    "The wall behind the group is predominantly white with a blue diagonal stripe on the right.",
+    "The floor in the foreground is light blue smooth material, while the area to the left appears covered in grey carpet.",
+    "The hanging bell is brass-coloured (metallic) and shiny.",
+    "The sign panel behind the group has a white background with black text; the logo element on the sign includes green and black shapes."
+  ],
+  "uncertainties": [
+    "Small text on name badges worn by several people is present but unreadable in the image; those names are not transcribed.",
+    "Any additional small labels or signage in the doorway recess to the left are partially obscured or too small to read and are not transcribed.",
+    "The red circular object in the left recess appears to be a fire hose reel or similar but the exact label or identification is not legible.",
+    "No room number or alternative room name is visible; location is taken from the prominent sign in the image rather than an official room placard."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing",
+    "13 people are visible standing in a single row across the image; all are wearing face masks; none are identified by name in the image itself.",
+    "One large wall-mounted sign reading 'Tam Wing Fan Innovation Wing' with a smaller line 'FACULTY OF ENGINEERING' beneath it is centered behind the group.",
+    "One brass bell is hanging from the ceiling on the left side of the image; the bell is suspended by a rope or cord and is fully visible.",
+    "One wall-mounted emergency exit sign (green) is visible in the upper left corner of the image.",
+    "One red circular fire hose reel or similar red circular object is partially visible in the left doorway recess.",
+    "One person near the left (second from left) holds a folded sheet of paper in hand; the paper is visible and not part of a poster or screen.",
+    "A tactile studded floor surface (truncated blister/tactile paving) is visible in the front-right foreground of the image.",
+    "A wall graphic with a diagonal blue stripe is visible on the right side of the wall behind the group.",
+    "The wall behind the group is predominantly white with a blue diagonal stripe on the right.",
+    "The floor in the foreground is light blue smooth material, while the area to the left appears covered in grey carpet.",
+    "The hanging bell is brass-coloured (metallic) and shiny.",
+    "The sign panel behind the group has a white background with black text; the logo element on the sign includes green and black shapes."
+  ],
+  "id": "a9de402a6aeb7ef2d2fb347d",
+  "sha256": "b02521361bf92841b315da69ee3d9429a81f0cc53770595fa4934bd42b0983fd",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:58:11.919689+00:00",
+  "input_resolution": [
+    1600,
+    1067
+  ],
+  "input_sha256": "58033dc6728831029a52184f531d75d98b7eaa566100b46b9ee42280a95fd993",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauL3hlFKxL3vztXoHHoMa2wH3aSk",
+  "usage": {
+    "completion_tokens": 925,
+    "prompt_tokens": 2237,
+    "total_tokens": 3162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1131,
+      "engine_ttlt_ms": 8919,
+      "pre_inference_ms": 371,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2053,
+      "service_ttlt_ms": 9836,
+      "user_visible_ttft_ms": 1682
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

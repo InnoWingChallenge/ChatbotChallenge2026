@@ -1,0 +1,107 @@
+{
+  "title": "Group gathered around stainless worktable with tray of small round pieces",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 15 distinct people are visible in the photographed scene (group clustered around the central worktable; counts exclude partially visible persons who may be occluded at the image edges).",
+    "One large stainless steel worktable occupies the image center foreground with a raised lip visible along the near edge.",
+    "One rectangular metal baking tray on the table holds many small round items (dough or ball-like pieces) arranged across the tray; the exact count of items on the tray cannot be determined from the image.",
+    "One medium metal mixing bowl is on the table near the tray and a person is reaching into it.",
+    "One smaller metal tray or baking sheet is on the near corner of the table with a red packet or booklet on top of it.",
+    "One partially visible clear plastic bag (white/transparent grocery-type bag) and several loose pieces of clear disposable plastic (likely glove material or wrapping) lie on the table surface.",
+    "At least five people are visibly wearing clear disposable gloves (some gloves are cropped or partially obscured).",
+    "One tall grey cabinet or machine with a rectangular control panel is visible against the back wall near center-left of the image; control details are not legible.",
+    "One large whiteboard is visible at the right background, with a blue-topped frame.",
+    "A windowed wall with vertical green exterior shading/stripes is visible across the rear of the room, behind the group."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The group of people forms a semicircle around the central stainless worktable, with most people standing on the far side of the table relative to the camera and several people on the left and right sides.",
+    "The metal baking tray with small round items sits on the right side of the table surface relative to the camera; the metal mixing bowl is placed just behind and slightly left of that tray.",
+    "A smaller metal tray with a red packet rests on the near left corner of the table (closest to the camera).",
+    "The tall grey cabinet or machine with a control panel stands along the back wall behind the group, roughly centered in the image.",
+    "A large whiteboard is positioned at the right rear of the room, to the right of the windowed wall; the windowed wall runs across the background behind the group."
+  ],
+  "colours_and_materials": [
+    "The central worktable and trays are metallic, likely stainless steel, showing a reflective, silvery appearance.",
+    "The floor is a solid green color.",
+    "Several participants wear white T-shirts with an orange circular logo on the chest area; one person wears a bright yellow jacket on the left side of the image.",
+    "Disposable gloves visible on participants are translucent or clear plastic.",
+    "The window area shows vertical green-tinted external shading or stripes visible through the glass."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; location is therefore unknown from the image.",
+    "Exact readable text (room signs, equipment nameplates, control-panel labels, lanyard name tags and printed packets) is not legible in the provided image; no verbatim transcriptions could be made.",
+    "The precise count of small round items on the baking tray is indeterminate from the image due to overlap and image resolution.",
+    "The tall grey unit at the back may be a cabinet or a piece of equipment with a control panel; its function and any small labels are not legible.",
+    "Some people at the edges are partially cropped or obscured; the stated person count (at least 15) is a visible-minimum and may omit more fully occluded individuals."
+  ],
+  "visual_facts": [
+    "At least 15 distinct people are visible in the photographed scene (group clustered around the central worktable; counts exclude partially visible persons who may be occluded at the image edges).",
+    "One large stainless steel worktable occupies the image center foreground with a raised lip visible along the near edge.",
+    "One rectangular metal baking tray on the table holds many small round items (dough or ball-like pieces) arranged across the tray; the exact count of items on the tray cannot be determined from the image.",
+    "One medium metal mixing bowl is on the table near the tray and a person is reaching into it.",
+    "One smaller metal tray or baking sheet is on the near corner of the table with a red packet or booklet on top of it.",
+    "One partially visible clear plastic bag (white/transparent grocery-type bag) and several loose pieces of clear disposable plastic (likely glove material or wrapping) lie on the table surface.",
+    "At least five people are visibly wearing clear disposable gloves (some gloves are cropped or partially obscured).",
+    "One tall grey cabinet or machine with a rectangular control panel is visible against the back wall near center-left of the image; control details are not legible.",
+    "One large whiteboard is visible at the right background, with a blue-topped frame.",
+    "A windowed wall with vertical green exterior shading/stripes is visible across the rear of the room, behind the group.",
+    "The central worktable and trays are metallic, likely stainless steel, showing a reflective, silvery appearance.",
+    "The floor is a solid green color.",
+    "Several participants wear white T-shirts with an orange circular logo on the chest area; one person wears a bright yellow jacket on the left side of the image.",
+    "Disposable gloves visible on participants are translucent or clear plastic.",
+    "The window area shows vertical green-tinted external shading or stripes visible through the glass."
+  ],
+  "id": "84e00f42e8f8ff53e97883f9",
+  "sha256": "92ca29e2912e51ee224422c8d2eecab44349daaf699113c08c6c58ef27dd41f4",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:51:48.032329+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "f03693edd43c41c273ce949de5f3f991817b22eb0896be1f033b3747639fc6c6",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauEqAlKf6Skh27gPgf0B8s02F2QI",
+  "usage": {
+    "completion_tokens": 1329,
+    "prompt_tokens": 2266,
+    "total_tokens": 3595,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1151,
+      "engine_ttlt_ms": 9895,
+      "pre_inference_ms": 389,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2115,
+      "service_ttlt_ms": 10853,
+      "user_visible_ttft_ms": 1726
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Exterior entrance with glass façade and canopy labelled Tam Wing Fan Innovation Wing",
+  "suitable": true,
+  "location": "TAM WING FAN INNOVATION WING",
+  "objects_and_counts": [
+    "At least four people are visible on the covered walkway at left; some are partially cropped and walking away from the camera (exact identities not inferred).",
+    "One person is visible as a reflection on the large glass panels near the center of the image; this reflected person is pictured on the glass surface, not physically behind it in the photographed scene.",
+    "Two freestanding lamp posts with spherical/frosted globe light fixtures are visible in the foreground: one near image center and one at right; both posts are fully visible and upright.",
+    "A continuous run of exterior glass panels and glass doors forms the ground-floor façade extending from near center to left; individual vertical glass panels are visible but an exact panel count across the full façade is not asserted.",
+    "One open entrance / doorway is visible to the right of center, recessed beneath the canopy; its interior appears dark.",
+    "One yellow notice/poster is affixed to a vertical glass or pillar element near the center-left of the façade (text on the notice is not legible)."
+  ],
+  "visible_text": [
+    "TAM WING FAN INNOVATION WING"
+  ],
+  "spatial_relations": [
+    "A metal-and-glass canopy extends along the building façade from left to right above the glass panels and entrances.",
+    "The two globe-topped lamp posts stand in the foreground on the tiled plaza; one is roughly centered horizontally in the image and the other is positioned toward the right edge.",
+    "The covered walkway continues to the left of the image, where pedestrians are walking away from the camera toward a gap between buildings and some trees visible in the background.",
+    "The main glass façade occupies the center horizontal band of the image; an open recessed doorway is located to the right side of that glass band, with a short sloped area or ramp leading down just beyond it.",
+    "Brown-brick building elevations rise above and to the right of the glass entrance area; a vertical sign with Chinese characters is mounted on the brown-brick face at upper left of the façade (text not transcribed here)."
+  ],
+  "colours_and_materials": [
+    "The ground surface is covered in reddish-brown terracotta-like paving tiles laid in a herringbone or linear pattern.",
+    "The façade is predominantly clear glass panels with metal framing and a silver/grey metal canopy above.",
+    "The building exterior above the glass façade is faced in dark brown or maroon brick tiles.",
+    "The lamp-post shafts are dark brown; the light fixtures are spherical and appear frosted or translucent white."
+  ],
+  "uncertainties": [
+    "Several small signs and notices (including a yellow poster on the glass) contain text that is not legible at this image resolution and have therefore been transcribed as untranslated/unreadable.",
+    "A vertical sign with Chinese characters is visible on the brick facade at upper left but its characters are not legible enough for an exact transcription.",
+    "The exact number of glass panels in the continuous façade is uncertain because some panels are partly out of frame and reflections obscure clear panel boundaries.",
+    "The count 'at least four people' is a visible minimum; some people are partially cropped or distant so an exact total present in the scene cannot be determined from this single view."
+  ],
+  "visual_facts": [
+    "Visible location text: TAM WING FAN INNOVATION WING",
+    "At least four people are visible on the covered walkway at left; some are partially cropped and walking away from the camera (exact identities not inferred).",
+    "One person is visible as a reflection on the large glass panels near the center of the image; this reflected person is pictured on the glass surface, not physically behind it in the photographed scene.",
+    "Two freestanding lamp posts with spherical/frosted globe light fixtures are visible in the foreground: one near image center and one at right; both posts are fully visible and upright.",
+    "A continuous run of exterior glass panels and glass doors forms the ground-floor façade extending from near center to left; individual vertical glass panels are visible but an exact panel count across the full façade is not asserted.",
+    "One open entrance / doorway is visible to the right of center, recessed beneath the canopy; its interior appears dark.",
+    "One yellow notice/poster is affixed to a vertical glass or pillar element near the center-left of the façade (text on the notice is not legible).",
+    "The ground surface is covered in reddish-brown terracotta-like paving tiles laid in a herringbone or linear pattern.",
+    "The façade is predominantly clear glass panels with metal framing and a silver/grey metal canopy above.",
+    "The building exterior above the glass façade is faced in dark brown or maroon brick tiles.",
+    "The lamp-post shafts are dark brown; the light fixtures are spherical and appear frosted or translucent white."
+  ],
+  "id": "a808d87fb2dd586a6593840c",
+  "sha256": "2ae742f045e29bef9580f09b265d6147e7e520941e793a09505900cb0bf0423b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:57:00.136780+00:00",
+  "input_resolution": [
+    2400,
+    1081
+  ],
+  "input_sha256": "193b3c49ff7c5e7ac411ad3fcd93c0e174e56609af6dd387b9c204cf08cb2a56",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauJt7itfA3zkq7gYCT3VcmlUfo4D",
+  "usage": {
+    "completion_tokens": 1185,
+    "prompt_tokens": 2756,
+    "total_tokens": 3941,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1316,
+      "engine_ttlt_ms": 9566,
+      "pre_inference_ms": 403,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2318,
+      "service_ttlt_ms": 10564,
+      "user_visible_ttft_ms": 1915
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

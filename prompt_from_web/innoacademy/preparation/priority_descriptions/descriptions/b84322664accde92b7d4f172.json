@@ -1,0 +1,104 @@
+{
+  "title": "Workbench with metal mold, hammer and shoe on stained floor",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One hammer positioned near the top edge of the image, head visible and lying on the floor.",
+    "One clamping assembly / vise attached to the top-right of a rectangular mold-like assembly; the clamp appears to have a screw handle and is partially covered in material.",
+    "One rectangular mold-like assembly centrally placed, containing a 3 by 4 grid of filled cells (12 visible cells) with a blue-green substance in each cell.",
+    "Two rectangular metal strips or plates are visible at the lower-left quadrant of the image, laid on the floor and appearing as separate pieces (count = 2).",
+    "One gloved hand (blue glove) is visible at the top-right corner and is cropped by the image edge (count = 1, cropped).",
+    "One shoe and part of a foot (black and white athletic shoe) is visible at the lower-right corner and is cropped by the image edge (count = 1, cropped).",
+    "Multiple small loose fragments or chips of the blue-green material are scattered around the mold on the floor (count cannot be exactly determined from the image).",
+    "Several metal parts and fixtures are present on and around the mold (individual components visible but not all individually distinguishable for an exact count)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The rectangular mold-like assembly lies near the center of the image with its longer side roughly aligned diagonally from lower-left toward upper-right.",
+    "The clamp / vise assembly is attached at the upper-right corner of the mold and projects upward toward the image top edge.",
+    "The hammer is located near the top-center area of the image, above and slightly to the right of the mold.",
+    "Two rectangular metal strips are positioned to the left of the central mold, roughly parallel to each other and aligned along the lower-left quadrant.",
+    "The gloved hand is near the top-right corner of the frame and appears adjacent to or above additional unseen equipment just outside the image.",
+    "The shoe occupies the lower-right corner and is positioned beside the mold assembly, indicating the photographer or a person is standing near the work area."
+  ],
+  "colours_and_materials": [
+    "The floor is a beige or tan stained hard surface (likely concrete) with visible scratches and darker scuff marks.",
+    "The central grid cells contain a blue-green (teal) substance with lighter, whitish residue or drips along some cell edges.",
+    "Metal parts, including the plates and clamp, appear as dull silver or grey and show wear, scratches and dark residue; exact metals are not identifiable from the image.",
+    "The hammer has a metallic head (silver/grey) and a handle that is mostly out of frame but appears darker than the head.",
+    "The glove visible at the top-right is bright blue (single-use nitrile or similar), and the visible shoe is black and white fabric/leather with white laces."
+  ],
+  "uncertainties": [
+    "No legible room sign, number or label is visible in the image; the specific location cannot be determined from the photo.",
+    "A small blue-and-white label or sticker is visible at the left edge of the image but its text is not readable at this resolution; exact transcription is unavailable.",
+    "The central rectangular object is described as a 'mold-like assembly' because its function cannot be definitively determined from appearance alone; it could be a mold, jig, or multi-part fixture.",
+    "Several small metal components and fragments are present but overlap and partial occlusion prevent an exact individual count.",
+    "The clamp / vise attachment and some metal pieces are partially obscured or cropped, so details of labels, fasteners, or full component shapes are uncertain."
+  ],
+  "visual_facts": [
+    "One hammer positioned near the top edge of the image, head visible and lying on the floor.",
+    "One clamping assembly / vise attached to the top-right of a rectangular mold-like assembly; the clamp appears to have a screw handle and is partially covered in material.",
+    "One rectangular mold-like assembly centrally placed, containing a 3 by 4 grid of filled cells (12 visible cells) with a blue-green substance in each cell.",
+    "Two rectangular metal strips or plates are visible at the lower-left quadrant of the image, laid on the floor and appearing as separate pieces (count = 2).",
+    "One gloved hand (blue glove) is visible at the top-right corner and is cropped by the image edge (count = 1, cropped).",
+    "One shoe and part of a foot (black and white athletic shoe) is visible at the lower-right corner and is cropped by the image edge (count = 1, cropped).",
+    "Multiple small loose fragments or chips of the blue-green material are scattered around the mold on the floor (count cannot be exactly determined from the image).",
+    "Several metal parts and fixtures are present on and around the mold (individual components visible but not all individually distinguishable for an exact count).",
+    "The floor is a beige or tan stained hard surface (likely concrete) with visible scratches and darker scuff marks.",
+    "The central grid cells contain a blue-green (teal) substance with lighter, whitish residue or drips along some cell edges.",
+    "Metal parts, including the plates and clamp, appear as dull silver or grey and show wear, scratches and dark residue; exact metals are not identifiable from the image.",
+    "The hammer has a metallic head (silver/grey) and a handle that is mostly out of frame but appears darker than the head.",
+    "The glove visible at the top-right is bright blue (single-use nitrile or similar), and the visible shoe is black and white fabric/leather with white laces."
+  ],
+  "id": "b84322664accde92b7d4f172",
+  "sha256": "5e02f6b9cc5641f46c5790675c977e82ae1a7d3806e9c30fc1aad2ed000646e0",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:18:44.440522+00:00",
+  "input_resolution": [
+    768,
+    1024
+  ],
+  "input_sha256": "59ed397e04bdeda75867054a6bebb7cb996aa29ef377f924eab2adb4cb1fd5c9",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatirTuuOCWaXUzQ9JjUGSxslph61",
+  "usage": {
+    "completion_tokens": 1021,
+    "prompt_tokens": 2122,
+    "total_tokens": 3143,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 747,
+      "engine_ttlt_ms": 9532,
+      "pre_inference_ms": 176,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1383,
+      "service_ttlt_ms": 10162,
+      "user_visible_ttft_ms": 1207
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

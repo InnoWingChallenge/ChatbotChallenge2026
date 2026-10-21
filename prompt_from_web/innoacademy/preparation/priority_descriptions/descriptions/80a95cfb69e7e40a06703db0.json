@@ -1,0 +1,110 @@
+{
+  "title": "Presenter at projection screen showing slide 'Engineers in the global arena'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One standing presenter at the front left of the scene (visible from torso up, wearing a dark suit and tie).",
+    "At least two seated audience members are visible: one head and shoulders seen in the lower-left foreground (back of head) and one head visible in the lower-center foreground (partially cropped).",
+    "One large pull-down or tripod projection screen is visible and showing a projected slide (center of image).",
+    "One rectangular lectern or podium (dark coloured) is positioned immediately in front of the presenter and partly obscures the presenter.",
+    "One banquet/conference chair back is visible in the lower-centre foreground (upholstered, with a top rail).",
+    "One tall curtain or drapery spanning the wall behind the screen extends across the top of the image.",
+    "One window or glazed opening is visible at the upper right behind the curtain (partly visible)."
+  ],
+  "visible_text": [
+    "Responsible",
+    "Entrepreneurial",
+    "Engineers in the global arena",
+    "Awareness",
+    "Leadership",
+    "With a mission [unreadable] a better way of [unreadable] technological [unreadable]",
+    "Be aware of the social, economic impact [unreadable] of our society, [unreadable] and the technological [unreadable] development in the modern world.",
+    "Be a knowledge-driven [unreadable] leader in [unreadable] advancement."
+  ],
+  "spatial_relations": [
+    "The projection screen occupies the central area of the image and is set in front of the curtains.",
+    "The presenter stands to the left of the screen (viewer left) and slightly forward of the lectern which is between him and the audience.",
+    "Audience members are seated in front of the presenter and screen; visible heads are in the lower foreground of the image.",
+    "The window or bright opening is located behind the screen at the upper right, partially covered by curtains.",
+    "A dark table skirt or black drape appears along the bottom of the screen, suggesting a table or covered equipment directly below the screen."
+  ],
+  "colours_and_materials": [
+    "Projection screen surface appears white with a multicoloured projected slide (including blues, greens and yellow/orange areas).",
+    "Curtains behind the screen are a beige or light tan fabric.",
+    "The presenter wears a dark-colored suit (appears black or navy) and a white shirt.",
+    "The lectern/podium is dark (black or very dark brown) and appears to have a matte finish.",
+    "The visible chair back in the foreground appears upholstered in a tan or light brown fabric with a darker frame."
+  ],
+  "uncertainties": [
+    "No visible room name or number appears in the photograph; exact location cannot be determined from the image.",
+    "Several lines of smaller slide text are partially or fully unreadable; bracketed [unreadable] fragments mark unreadable portions in the transcriptions above.",
+    "A projector device is not directly visible; the presence of a projector is inferred from the projected image on the screen but the physical projector is not seen.",
+    "Counts for audience seating and other furniture in the room cannot be determined from this single framed view; only the individually visible pieces are counted above.",
+    "Some slide captions and subtexts are low contrast and partially obscured by the projected image and lighting; full exact wording could not be transcribed for those lines."
+  ],
+  "visual_facts": [
+    "One standing presenter at the front left of the scene (visible from torso up, wearing a dark suit and tie).",
+    "At least two seated audience members are visible: one head and shoulders seen in the lower-left foreground (back of head) and one head visible in the lower-center foreground (partially cropped).",
+    "One large pull-down or tripod projection screen is visible and showing a projected slide (center of image).",
+    "One rectangular lectern or podium (dark coloured) is positioned immediately in front of the presenter and partly obscures the presenter.",
+    "One banquet/conference chair back is visible in the lower-centre foreground (upholstered, with a top rail).",
+    "One tall curtain or drapery spanning the wall behind the screen extends across the top of the image.",
+    "One window or glazed opening is visible at the upper right behind the curtain (partly visible).",
+    "Projection screen surface appears white with a multicoloured projected slide (including blues, greens and yellow/orange areas).",
+    "Curtains behind the screen are a beige or light tan fabric.",
+    "The presenter wears a dark-colored suit (appears black or navy) and a white shirt.",
+    "The lectern/podium is dark (black or very dark brown) and appears to have a matte finish.",
+    "The visible chair back in the foreground appears upholstered in a tan or light brown fabric with a darker frame."
+  ],
+  "id": "80a95cfb69e7e40a06703db0",
+  "sha256": "80c0307eb0f7c56feea86b917d392f6565b1338c1c51bb1cab51603ad44460c2",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:14:24.558556+00:00",
+  "input_resolution": [
+    640,
+    480
+  ],
+  "input_sha256": "7232f6a477921036bd4f44f81c5e8b5b184b72bc548def0b11e12bcaa0bdd77f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eateh1VfqzMKHhojnFMALlKUIjl15",
+  "usage": {
+    "completion_tokens": 1036,
+    "prompt_tokens": 1560,
+    "total_tokens": 2596,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 288,
+      "engine_ttlt_ms": 7769,
+      "pre_inference_ms": 91,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 843,
+      "service_ttlt_ms": 8319,
+      "user_visible_ttft_ms": 751
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

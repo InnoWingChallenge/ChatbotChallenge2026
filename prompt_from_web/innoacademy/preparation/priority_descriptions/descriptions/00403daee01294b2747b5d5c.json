@@ -1,0 +1,22 @@
+{
+  "id": "00403daee01294b2747b5d5c",
+  "sha256": "6c04eb010264e0ae687ca8d93d2fa17ccc81d465ea30fb3d5d042bf7de15cadf",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Interior with glass partitions and seating",
+  "visible_text": ["Dream Chamber"],
+  "visual_facts": [
+    "The image shows an interior viewed through glass partitions.",
+    "The words Dream Chamber appear on the glass above a shelving unit.",
+    "The shelving holds books, small objects, and several rectangular display pieces.",
+    "Several small tables and chairs are arranged in the back and right portions of the room.",
+    "Colored cube-shaped stools and small low tables sit in the foreground.",
+    "A glass wall separates the room from another furnished area on the left.",
+    "Gray flooring, white walls, and a bright ceiling panel are visible."
+  ],
+  "spatial_relations": ["The shelving runs beneath the Dream Chamber lettering along the left glass wall.", "The small tables and chairs are arranged behind the foreground stools.", "The glass partitions enclose the room on the front and right sides."],
+  "uncertainties": ["The room's intended use beyond what is written on the glass is not established.", "Small items and labels on the shelves are not identifiable."]
+}

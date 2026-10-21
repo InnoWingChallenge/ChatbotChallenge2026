@@ -1,0 +1,114 @@
+{
+  "title": "Presentation area at Tam Wing Fan Innovation Wing with audience and AV equipment",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing",
+  "objects_and_counts": [
+    "Eight people are visible in the photographed scene: one standing woman presenter at front-left near the large screen, one standing person behind her near a computer/lectern, and six seated audience members distributed on the stepped benches and ottomans to the right and foreground. None of the people are identified by name in the image.",
+    "One large wall-mounted presentation screen occupies the left side of the image (only the right portion of the screen is visible).",
+    "One flat-panel monitor on a wheeled stand is visible to the right of the central area, showing a colored chart or schedule.",
+    "One camera (digital still/video camera) is placed on a low tripod or support in the lower-left foreground; its LCD is visible and the camera is pointed toward the presentation area.",
+    "One computer/lectern station is visible near the standing person behind the presenter; the station includes a desktop monitor and a small table on wheels.",
+    "One bell suspended from the ceiling or a support is visible above the lectern area.",
+    "Two tall stools are visible near the lectern/computer station.",
+    "Three square modular ottomans are visible in the foreground (two blue cubes and one light grey cube) arranged in a row near the front of the seating area.",
+    "Tiered bench seating is visible on the right side of the image (light blue upholstered top surfaces)."
+  ],
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "FACULTY OF ENGINEERING",
+    "EXIT",
+    "model for timely target",
+    "the motion of the target and",
+    "IMU and actions taken by robots",
+    "for confrontation;"
+  ],
+  "spatial_relations": [
+    "The large presentation screen is at the far left of the image and dominates the left third of the scene; the presenter stands to the right edge of that screen facing the audience.",
+    "The lectern/computer station and a standing person are located slightly right of center, behind the presenter and in front of a wall with the 'Tam Wing Fan Innovation Wing / FACULTY OF ENGINEERING' signage.",
+    "The wheeled flat-panel monitor is to the right of the lectern, positioned near a doorway marked with an EXIT sign above it.",
+    "The camera on a low tripod/support is placed in the lower-left foreground, oriented toward the presenter and screen.",
+    "Modular ottomans are arranged in the foreground in front of the audience; tiered bench seating runs along the right side of the image where most audience members are seated."
+  ],
+  "colours_and_materials": [
+    "Wall signage text is black on a pale background with a green circular logo mark visible next to 'Tam Wing Fan Innovation Wing'.",
+    "The presentation screen displays pale purple/white slide background with dark text (left side of image).",
+    "Ottomans in the foreground are blue (two) and light grey (one); tiered bench seating surfaces are light blue.",
+    "Flooring is a light-coloured carpet with subtle linear texture; walls and structural elements are painted white and pale blue.",
+    "The wheeled monitor stand and camera tripod/support are black; the lectern/table has a white or pale surface."
+  ],
+  "uncertainties": [
+    "The exact count of people is eight based on visually distinct heads/bodies; some people are partially obscured and seats behind them (if any) are not visible, so an overall room occupancy cannot be determined.",
+    "Several small signs and a poster near the lectern contain text that is not legible at this resolution; those texts are not transcribed.",
+    "Fragments of slide text on the large screen are partly cropped; only visible lines were transcribed and their beginnings or ends may be missing.",
+    "A small label or sign on the lectern/computer station is present but unreadable in the image.",
+    "Material identification (for example, whether bench upholstery is fabric or vinyl) is inferred from appearance and not confirmed."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing",
+    "Eight people are visible in the photographed scene: one standing woman presenter at front-left near the large screen, one standing person behind her near a computer/lectern, and six seated audience members distributed on the stepped benches and ottomans to the right and foreground. None of the people are identified by name in the image.",
+    "One large wall-mounted presentation screen occupies the left side of the image (only the right portion of the screen is visible).",
+    "One flat-panel monitor on a wheeled stand is visible to the right of the central area, showing a colored chart or schedule.",
+    "One camera (digital still/video camera) is placed on a low tripod or support in the lower-left foreground; its LCD is visible and the camera is pointed toward the presentation area.",
+    "One computer/lectern station is visible near the standing person behind the presenter; the station includes a desktop monitor and a small table on wheels.",
+    "One bell suspended from the ceiling or a support is visible above the lectern area.",
+    "Two tall stools are visible near the lectern/computer station.",
+    "Three square modular ottomans are visible in the foreground (two blue cubes and one light grey cube) arranged in a row near the front of the seating area.",
+    "Tiered bench seating is visible on the right side of the image (light blue upholstered top surfaces).",
+    "Wall signage text is black on a pale background with a green circular logo mark visible next to 'Tam Wing Fan Innovation Wing'.",
+    "The presentation screen displays pale purple/white slide background with dark text (left side of image).",
+    "Ottomans in the foreground are blue (two) and light grey (one); tiered bench seating surfaces are light blue.",
+    "Flooring is a light-coloured carpet with subtle linear texture; walls and structural elements are painted white and pale blue.",
+    "The wheeled monitor stand and camera tripod/support are black; the lectern/table has a white or pale surface."
+  ],
+  "id": "a9561d963fbe8900665ed009",
+  "sha256": "ca4daaa21bdc73dc1d4411244aaf6b6677da472df1c9e26e59358ebee17e7ef6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:57:13.480789+00:00",
+  "input_resolution": [
+    2000,
+    1500
+  ],
+  "input_sha256": "8f31cccb4db5a4cf9241fc463edb81c0ae6ecae46852cd1f2936a65dd7f321fc",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauK5iFtvGfPjny04LcwbpgjzCkd5",
+  "usage": {
+    "completion_tokens": 1330,
+    "prompt_tokens": 2122,
+    "total_tokens": 3452,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1161,
+      "engine_ttlt_ms": 10901,
+      "pre_inference_ms": 355,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2070,
+      "service_ttlt_ms": 11803,
+      "user_visible_ttft_ms": 1715
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,1774 @@
+[
+  {
+    "id": "03624ee3d2b53600cbe4cfb6",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "LAVENDER lettering and device structure are concrete visual facts; function is not inferred.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "082027d89e9e742a9de1811d",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [],
+    "reason": "Overlapping boards and labeled connector areas provide specific electronics details; circuit function remains unknown.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "0af546cf5c0f4f969bdd5706",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Fantasy illustration has no equipment, layout or useful facility text.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "0d336cf090bf442f5cfdc3dc",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      4
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [],
+    "reason": "Breadboard, adjustable mounts and adjacent instrument form a specific optical setup.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "13990153c450ef9eff624b95",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2
+    ],
+    "spatial": [
+      0
+    ],
+    "ocr": [],
+    "reason": "Open chassis, visible mechanical parts and monitor workstation are distinct project evidence; shop clutter is omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "1a79d51d232aac217d1f3e30",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      0
+    ],
+    "ocr": [],
+    "reason": "Printer frame, print head, build and guide mechanism are directly described; unreadable brand lettering is omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "23cc17aa4ccd4241b2676241",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Science-fiction robot rendering is not real facility equipment.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "271525f4b68e697cc480723c",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [],
+    "reason": "Nozzle and deposited forms are described without guessing material.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "2b1ceeeb6b7f53fe355062f6",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Seasonal greeting graphic is not a photograph of equipment or space.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "2ca165a507ba1871583f695a",
+    "disposition": "keep",
+    "facts": [
+      0
+    ],
+    "spatial": [
+      1
+    ],
+    "ocr": [],
+    "reason": "Lathe form and bed extent are clear; the person and unsupported machine model are excluded.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "3218d7475df9e5b72a632e30",
+    "disposition": "keep",
+    "facts": [
+      0,
+      2,
+      3
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Printer head and warning label are visible; intended print remains unknown.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "33de1ecdb5665f1f5e38f639",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [],
+    "reason": "Optical-table modules, cables and cover are concrete setup evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "382b28fcbc46621c51a26301",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "The particle-dish photo does not identify the sample or a distinctive facility fixture; its composition is explicitly unknown.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "3f43407a2bcae6cbe652de67",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "People and kit clutter dominate without specific reliable equipment or stable facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "46b680b7c643cbcd52aaee1d",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1
+    ],
+    "spatial": [
+      0
+    ],
+    "ocr": [],
+    "reason": "The open enclosure and displayed optical pattern provide specific unlocated apparatus evidence; loose parts are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "49a01982342c59100dc47570",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1
+    ],
+    "spatial": [
+      0
+    ],
+    "ocr": [],
+    "reason": "Selected visible evidence about wet gray mixture in a square metal basin; uncertainty-sensitive identities, counts or locations are excluded.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "4dce7de3344f7d77a81c7e88",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Isolated face-cover prototype is unlocated, so its pictured object cannot establish facility inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "54a3a2023c74b17751a8d102",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Frame, collector and panel are distinct rooftop apparatus; ambiguous fittings and total counts are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "55be3a9295138e38dfce3a99",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "spatial": [
+      1
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Selected visible evidence about hku uas recruitment poster showing a drone, controller and small wheeled robot; uncertainty-sensitive identities, counts or locations are excluded.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "580e3558563959718b49c949",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Award-scene prototype has no verified room attribution and little persistent facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "5a93cfaf8705bae243b09bc2",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1
+    ],
+    "spatial": [
+      0
+    ],
+    "ocr": [],
+    "reason": "The concrete specimen is visibly compressed between two platens; debris counts and machine identity are not asserted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "62b919e988f895628375a34b",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Award-group photograph is temporary event material, not facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "66558adf26403d6e5253ce29",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Mounted optical modules, circuit board and readable laser warning form specific evidence; background cabinets are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6d4ba965fdbc206955210c56",
+    "disposition": "keep",
+    "facts": [
+      1,
+      3,
+      7
+    ],
+    "spatial": [
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "reason": "Open instrument, optical posts and QDK poster headings document the bench; loose boxes and cables are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6efc6ef85e4ba8660ac4e6ef",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "The Sharing-page game poster prints a venue but does not document photographed facility signage or a stable space.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "72fe25ff2abba601c681acdd",
+    "disposition": "keep",
+    "facts": [
+      3,
+      4,
+      5,
+      8
+    ],
+    "spatial": [
+      0,
+      2,
+      3
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "T-handle, bit holders, GRIP case and fitted drawer organization identify the tool set; uncertain whole-drawer counts are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "775707b169fdc318662c8480",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      4
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0,
+      1,
+      2
+    ],
+    "reason": "Gauge, probe/sample and control box make a specific setup; cropped vessels and overlapping tubing are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7aecfac621b13da65908f7bf",
+    "disposition": "keep",
+    "facts": [
+      5,
+      7
+    ],
+    "spatial": [
+      1,
+      3
+    ],
+    "ocr": [],
+    "reason": "PCB traces and reflective joint grid are visible; count and soldering activity are not asserted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "80a95cfb69e7e40a06703db0",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "ASEE presentation appears to be an external event; room and Innovation Wing attribution are unverified.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "849a88156bb061aabd3a3498",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Portrait contains no facility, equipment or useful textual evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "8a5aacb85c7918b964b64b63",
+    "disposition": "keep",
+    "facts": [
+      1
+    ],
+    "spatial": [
+      0
+    ],
+    "ocr": [],
+    "reason": "The visible syringe reservoir and its orientation are retained without asserting device function or panel identity.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "8bf28b9fc5e2f037a4ea35bd",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Robot platform, lens and indicator are visible; background boards and exact model claims are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "8dc316978ab5ac49481b63cd",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "University sign establishes a campus setting but not an Innovation Wing location.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "918acf2d80515eaffda896be",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      4
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [],
+    "reason": "Drill, hole-saw form and plywood support are visible; uncertain clamp identity and cutting-action inference are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "9492cf157a7ad1a3e573f611",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Corporate logo graphic has no physical-space evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "9799c527d1b6d958a3035810",
+    "disposition": "keep",
+    "facts": [
+      1
+    ],
+    "spatial": [],
+    "ocr": [],
+    "reason": "The open-frame vehicle is distinct project imagery; people and scene clutter are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "991ba972ae171602c4fbd224",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "QR pattern has no human-readable text or facility provenance.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a29c3bceb620d9dacc6e814f",
+    "disposition": "keep",
+    "facts": [
+      0,
+      3
+    ],
+    "spatial": [
+      0,
+      2
+    ],
+    "ocr": [],
+    "reason": "Padded frame geometry and exposed electronics are visible; possible sensor and inferred base-function claims are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a6306fcd12df3df78fe4c672",
+    "disposition": "keep",
+    "facts": [
+      1,
+      3
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "AIR FILTERS label and paired components are visible; host equipment remains unidentified.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b17b624537174c86d0bf8a3c",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "spatial": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "ocr": [],
+    "reason": "Monitors, seat and simulator controls are distinctive; keyboard and storage clutter are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b46f2224f7d49d92f48c0acf",
+    "disposition": "keep",
+    "facts": [
+      2,
+      3,
+      4
+    ],
+    "spatial": [
+      2
+    ],
+    "ocr": [],
+    "reason": "Rail-mounted carriage and blocks are visible; uncertain actuator identity and loose cable routing are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "bab963aa673fdd944ecb1231",
+    "disposition": "keep",
+    "facts": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "spatial": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "ocr": [],
+    "reason": "Selected visible evidence about workbench with arranged cylindrical metal samples and lab equipment; uncertainty-sensitive identities, counts or locations are excluded.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "bec697214721dacef69f399f",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      3
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1,
+      5,
+      7,
+      10
+    ],
+    "reason": "Poster title, figure layout and readable section claims describe the depicted project; fine print is omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "c3d43dea8591c84bea64d491",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Rendered game scene depicts fictional robots rather than facility equipment.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "cc93371fd43bb1fd20ad90cf",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Project photo shows covered jugs and sacks on a utility cart with transient ?Reserved 4/11/2020 ~Pak? labels; no durable equipment or facility layout evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "d868cf96028f56a815c084b1",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      4
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "LAVENDER housing, visible tubes and clear tube lettering are selected; uncertain sensor/socket identities are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "da74fb711f32c31e6b6146ba",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      4,
+      6,
+      10
+    ],
+    "spatial": [
+      0,
+      2,
+      4
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "VR headsets, workstation separation and NOT IN USE sign are concrete; excess peripherals and uncertain totals are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "e55f817ea507d07793ec3062",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "College Mate mockup is unrelated to facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "e9fcb1377d7a10581828d0b6",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Isolated helmet is unlocated and does not establish a facility asset.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "f49614602eb76c1c80655ff2",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Personal cup demonstration has no facility or equipment context.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "f5e4955c50ecd61f19b7c701",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Person-at-table image has no legible facility or equipment evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "f89c580f73da8d0a90d593a4",
+    "disposition": "keep",
+    "facts": [
+      1,
+      3,
+      4
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [],
+    "reason": "Nozzle, build surface and deposited loop pattern are visible without identifying the material.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "fbe0f5bbb62b66a381a8d18a",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Crowded student event lacks room identification; the tablet is generic.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "fe5f663311c1754176d88ba5",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Unlocated keyboard close-up is generic product evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "ffa24b9695df087c3eea86b8",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      4
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "reason": "Laptop model and core readable diagram labels/caption support retrieval; smaller formulae are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "03f8b85b84291c471c7bb4bf",
+    "disposition": "keep",
+    "facts": [
+      0,
+      1,
+      2,
+      5,
+      6
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Room arrangement, right-wall equipment, display screens and safety sign provide useful layout evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "06bc3ad4ac61d98b1f10172a",
+    "disposition": "keep",
+    "facts": [
+      1,
+      3,
+      4,
+      5,
+      11
+    ],
+    "spatial": [
+      0,
+      3,
+      5
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Selected visible evidence about workshop space with open-wheel race chassis, workbench and racing seat rig; uncertainty-sensitive identities, counts or locations are excluded.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "094f3c9e43fe8d8c4be2dd5e",
+    "disposition": "keep",
+    "facts": [
+      0,
+      2,
+      4
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Facility labels, entrance canopies and glazed frontage establish visible exterior entrances; uncertain third sign text is omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "0ec1d61eb81d062d470497ee",
+    "disposition": "keep",
+    "facts": [
+      2,
+      3,
+      4
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Projection area, high tables and ceiling projectors describe the class setup; people and counts are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "10a2ddb7353ddfbef1ff3ff3",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Award photograph provides temporary people and event-backdrop evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "13422044d30ec0c583bc69b0",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Drafting activity has no facility identifier and the lightbox type is uncertain.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "17c0a3d5aad416777d4286a4",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Lecture/fire-map scene lacks a verified room identity.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "1e461d19fae98e431e2894c3",
+    "disposition": "keep",
+    "facts": [
+      0,
+      3,
+      5,
+      7
+    ],
+    "spatial": [
+      0,
+      3
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "reason": "DREAMLab, writing surface, first-aid and ceiling fixtures are anchored in the room; group details are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "1f494f6a272c036df713e9be",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Cropped DREAMLab lettering and unidentified model prevent confident room attribution.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "23f0ecad560c57eb19edf901",
+    "disposition": "keep",
+    "facts": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [],
+    "reason": "Round tables, bench row, instruments and storage landmarks describe the layout; chair totals are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "264558cf57128b0b15fdc4ef",
+    "disposition": "keep",
+    "facts": [
+      2
+    ],
+    "spatial": [
+      0,
+      2
+    ],
+    "ocr": [
+      2
+    ],
+    "reason": "Robotic arm assemblies and their table placement identify project apparatus; people and incidental items are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "28b0b307c4022beca7342c56",
+    "disposition": "keep",
+    "facts": [
+      0,
+      4
+    ],
+    "spatial": [
+      0,
+      4
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Permanent facility sign and adjacent bell remain visible despite the temporary event; crowd and screen text are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "2c06f235dddbcd0cbf0e16c7",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Generic workshop presentation has no room identifier or distinctive fixed layout.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "2ebed9084e9df9b9963680ee",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "ClearBot event banner and boxed prototype are temporary display material; room and hardware identity are unverified.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "3644009c7cee932679576288",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Engineering-building exterior does not establish Innovation Wing location.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "36cce416cd4de150cbf02920",
+    "disposition": "keep",
+    "facts": [
+      2,
+      4,
+      6
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [],
+    "reason": "Projector/screen, desk clusters and wall whiteboard describe the lab layout; temporary attendees and slide text are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "3b5bc14d5ae873ee1d824039",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "UTokyo Communication Center signage identifies another institution.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "43234af874e4b9fdd34ab8ed",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Australia study-tour context places this presentation outside Innovation Wing; temporary event layout is not target-facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "4685d26973bb76b5d8011aea",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Stylized filter and overlay make the apparent atrium and signage uncertain.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "4a3b26782820e39f22531d60",
+    "disposition": "keep",
+    "facts": [
+      2,
+      4,
+      11
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [],
+    "reason": "Projection screen, desk surfaces and fixed wall panels describe the Digital Learning Studio view; uncertain counts are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "4ff57bfdc969947abfbc3c7e",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Airport concourse is unrelated to the target facility.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "51a04c69a298c5cc2003fc7a",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "spatial": [
+      1,
+      2
+    ],
+    "ocr": [],
+    "reason": "Pipette, tray and adjacent container form a recognizable lab-work arrangement; person and apparel details are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "54e74143b37089c18f9c7251",
+    "disposition": "keep",
+    "facts": [
+      2,
+      3,
+      4,
+      9
+    ],
+    "spatial": [
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Advisor sign, workstation and locker position form office-area evidence; uncertain speakers and bottle use are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "595f8401eb7cf9aff301ade2",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Bioinformatics lecture is temporary class material without a room identifier or distinctive facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "5c655f41f020396cb99df44e",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Global Inclusive Leadership Centre scene does not document target-facility equipment or layout.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "5e69e9b3dd066a70cdda5fbc",
+    "disposition": "keep",
+    "facts": [
+      0,
+      2,
+      4,
+      7
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Dream Chamber sign, bookshelf, tables and labeled Philips device establish a specific room view.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "607b4e2fbeb7156065dd07ae",
+    "disposition": "keep",
+    "facts": [
+      0,
+      3,
+      4
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "DREAMLab sign, monitors and front table describe the teaching setup; audience and chair counts are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "63f953357d44234ceb1a1cc7",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Generic audience scene has no facility identity or stable room evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6617d33b128ac19e114ae156",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "spatial": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ocr": [],
+    "reason": "Distinct hand tools and their positions form concrete tool evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "69cbae77fe418e91022b0426",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Projected slide content does not tie the room to the target facility.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6b1e7599de731d1eab29cbe2",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "ASEE2019 context is an external conference display, not Innovation Wing lobby inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "6bf58e45874b81990079998b",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Fictional player/creature scene is not a real facility photograph.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7040d1d5a5c4f5ffaba36c53",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Stage performance and lyrics are unrelated to facility knowledge.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "75a53ee57e2a23308cb849d0",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Generic classroom/event view lacks room identification.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "77852479e150c3cfbcdf79ed",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "UNSW Makerspace wording points to an unrelated facility.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7b179e38cde92dbbdb7bce7e",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Machine-shop benches, stationary machines and mobile cabinets provide layout evidence; loose tools are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7e8dae41e767c35d21306c3a",
+    "disposition": "keep",
+    "facts": [
+      0,
+      3
+    ],
+    "spatial": [
+      0,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Illuminated facility sign and glazed entrance placement are direct exterior evidence; passers-by are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "7f1b5a741c5d82f34d79fb5e",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Unidentified campus skyline has no Innovation Wing identification.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "800249e1c26c9e8034822f69",
+    "disposition": "keep",
+    "facts": [
+      0,
+      2,
+      4,
+      7,
+      9
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "DREAMLab sign, workstations, tracked robots, table and writable wall describe the lab; people are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "8045c574ed101ff14db5cb81",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Australia study-tour context places this presentation outside Innovation Wing; temporary event layout is not target-facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "84642ddf920e465ea9bfe4cc",
+    "disposition": "keep",
+    "facts": [
+      2,
+      4,
+      6
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Projection screen, desk rows and readable table sign support retrieval; people and hardware counts are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "84e00f42e8f8ff53e97883f9",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Crowded tabletop activity has no legible room or equipment identifiers.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "8b766012b23be40b7b9229f7",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Australia study-tour context places this presentation outside Innovation Wing; temporary event layout is not target-facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "903c16c3663fc36c9f8778e4",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Group/table scene has no facility identifiers or technical equipment.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "94c8e6056d048843e45da329",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Curved display, smaller monitor and control table define a simulator setup; attendees and bags are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "985fdcfe6f9702aa4b287095",
+    "disposition": "keep",
+    "facts": [
+      1,
+      3,
+      4
+    ],
+    "spatial": [
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Tables, printer/laptop station and quadcopter/electronics are workshop evidence; students and unreadable labels are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "9e888f455565a81a3a8929ae",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Discussion scene centers on people and an unidentified audio unit.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a084c8086d775acee6fb8b1d",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "PCB components and WIMA marking are specific electronics evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a548199fb8923cbc229e5d71",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Unidentified urban view has no readable facility or equipment information.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a654d7e59075df18c5dc22f5",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Virtual-character monitor and promotional banner do not document facility equipment.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a95ebc34986723c2d44c5a3d",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Large event stage is low-value for target-facility evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "a9a48227d437cc7243bf1cb4",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "spatial": [
+      0,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Flowmeter, bolted block, gauge and inline valve form instrument evidence; beakers and improvised bottle are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "adddef4ac2ff2a292ffb7da3",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Generic presentation scene has no facility identifier or specialized equipment.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b2a789b085f3640979d6c8b0",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      3
+    ],
+    "spatial": [
+      0,
+      1,
+      3
+    ],
+    "ocr": [],
+    "reason": "Projector, screen, conference table and glass partition describe the room; transient supplies and chair counts are omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b46ff93367d9563c2c1e5a4a",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Isolated model airplane is unlocated and cannot establish facility inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b75b77206027d27345b4d0f7",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Rex Sham presentation is a temporary event; screen/banner content does not establish stable room layout or equipment inventory.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "b945e5a65dbbe8c3e21f3ed4",
+    "disposition": "keep",
+    "facts": [
+      0,
+      3,
+      4,
+      6,
+      7
+    ],
+    "spatial": [
+      0,
+      2,
+      3
+    ],
+    "ocr": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "reason": "DREAMLab sign, model-aircraft table, device, writing surface and first-aid sign describe the room; group details omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "baf5b3ea7310459c4a71c873",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Potential Tam Wing Fan signage is only partly legible; room attribution is unresolved.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "bdaa8439190828790e093863",
+    "disposition": "keep",
+    "facts": [
+      0,
+      2,
+      4,
+      7,
+      9
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "DREAMLab sign, workstation row, tracked robots, tables and writable wall are specific lab evidence; student counts omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "c1d64ac7d3384fb2f08996b6",
+    "disposition": "keep",
+    "facts": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "spatial": [
+      0,
+      1
+    ],
+    "ocr": [
+      0,
+      1
+    ],
+    "reason": "Facility signage, model aircraft, display and bell are directly visible; people and incidental furniture omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "c48b484a9558e0e21573c004",
+    "disposition": "keep",
+    "facts": [
+      5,
+      6,
+      9
+    ],
+    "spatial": [
+      0,
+      1,
+      2
+    ],
+    "ocr": [
+      0
+    ],
+    "reason": "Canopy, glazed panels and building frontage show exterior organization; interior furniture and ambiguous secondary text omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "c8b34c49bf88023163b7a877",
+    "disposition": "keep",
+    "facts": [
+      1,
+      2,
+      5,
+      11
+    ],
+    "spatial": [
+      0,
+      2,
+      4
+    ],
+    "ocr": [],
+    "reason": "Worktable arrangement, laptops, displays and glass partitions describe the workspace; people, boxes and stool counts omitted.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "ccbe0a09e27f4e8e8c11c9f4",
+    "disposition": "hold",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Architectural images are renderings and cannot establish the current physical layout.",
+    "conflicts": [],
+    "duplicate_of": []
+  },
+  {
+    "id": "cfb76177d36f207a1e920e0b",
+    "disposition": "exclude",
+    "facts": [],
+    "spatial": [],
+    "ocr": [],
+    "reason": "Abstract rendering has no facility or equipment evidence.",
+    "conflicts": [],
+    "duplicate_of": []
+  }
+]

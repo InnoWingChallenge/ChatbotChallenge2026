@@ -1,0 +1,102 @@
+{
+  "title": "Poster-like street scene titled 'COVID RUN' with warning triangle",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 7 individually distinguishable human figures are visible: one central figure running away from the camera in the foreground, and at least six figures further ahead in the crosswalk and on the street. Several of the distant figures are partially obstructed by perspective; counts are a visible minimum.",
+    "Multiple traffic light assemblies are visible mounted on poles along the street and at intersections; at least 11 separate traffic-light clusters or housings can be counted in the visible scene (some are cropped at the image edge).",
+    "Two crosswalk areas are visible: one in the foreground immediately ahead of the runner and one further down the street at the next intersection.",
+    "A large red triangular warning icon with an exclamation mark is visible centered above the runner.",
+    "No vehicles are visible in the roadway in the photographed scene.",
+    "Multiple buildings line both sides of the street; a red-brick building is visible on the left mid-distance and a gray/blue-paneled building on the right mid-distance."
+  ],
+  "visible_text": [
+    "A SAFETY REMAINDER",
+    "COVID RUN",
+    "Please avoid any suspicious cases via our game"
+  ],
+  "spatial_relations": [
+    "The central runner is positioned on the road centerline in the lower third of the image, facing away from the camera toward the distant intersection.",
+    "The red triangular warning icon with exclamation mark is centered above the runner and below the cluster of distant pedestrians, visually between the foreground and mid-distance crosswalk.",
+    "Groups of pedestrians are located ahead of the runner near and on the mid-distance crosswalk; they are distributed across the width of the street.",
+    "Traffic-light poles and signal housings are positioned along both curblines and extend horizontally above intersections; many are aligned in depth along the street toward the vanishing point.",
+    "Crosswalk stripes run across the roadway in the foreground and again at the mid-distance intersection; the foreground crosswalk is directly in front of the runner."
+  ],
+  "colours_and_materials": [
+    "The large warning triangle is red with a white exclamation symbol and white inner border.",
+    "The roadway surface is dark gray/black (asphalt) with a double yellow centerline and white painted crosswalk stripes.",
+    "Traffic signal housings appear yellow; poles are gray metallic.",
+    "Buildings include a red-brick facade on the left and a gray/blue paneled facade on the right; distant buildings show varied muted colors.",
+    "Pedestrians wear clothing in assorted colors (light shirt on the central runner, darker clothing on several distant figures)."
+  ],
+  "uncertainties": [
+    "Exact count of distant pedestrians may be higher; at least six distant figures are individually visible but some are partially occluded or small in the distance so a firm total cannot be determined from this image alone.",
+    "Several traffic lights and poles are cropped at the image edges; the statement 'at least 11' counts visible assemblies only and may undercount total present out of frame.",
+    "Small signs, labels or text on buildings, poles or signals are not legible at the image resolution; no room name, room number, equipment nameplates or facility identifiers are visible.",
+    "The image appears to be a graphic or game poster rather than a photograph of an indoor facility; therefore it does not provide usable equipment, control panel, or room-layout evidence for an HKU facility—suitability for that purpose is false."
+  ],
+  "visual_facts": [
+    "At least 7 individually distinguishable human figures are visible: one central figure running away from the camera in the foreground, and at least six figures further ahead in the crosswalk and on the street. Several of the distant figures are partially obstructed by perspective; counts are a visible minimum.",
+    "Multiple traffic light assemblies are visible mounted on poles along the street and at intersections; at least 11 separate traffic-light clusters or housings can be counted in the visible scene (some are cropped at the image edge).",
+    "Two crosswalk areas are visible: one in the foreground immediately ahead of the runner and one further down the street at the next intersection.",
+    "A large red triangular warning icon with an exclamation mark is visible centered above the runner.",
+    "No vehicles are visible in the roadway in the photographed scene.",
+    "Multiple buildings line both sides of the street; a red-brick building is visible on the left mid-distance and a gray/blue-paneled building on the right mid-distance.",
+    "The large warning triangle is red with a white exclamation symbol and white inner border.",
+    "The roadway surface is dark gray/black (asphalt) with a double yellow centerline and white painted crosswalk stripes.",
+    "Traffic signal housings appear yellow; poles are gray metallic.",
+    "Buildings include a red-brick facade on the left and a gray/blue paneled facade on the right; distant buildings show varied muted colors.",
+    "Pedestrians wear clothing in assorted colors (light shirt on the central runner, darker clothing on several distant figures)."
+  ],
+  "id": "fe2ed22568089fbbc34f95ac",
+  "sha256": "891741091672fcb9fbcaff6d58b31439c3e5d6e657a5189f480d23258c00576b",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:25:16.142956+00:00",
+  "input_resolution": [
+    2160,
+    2160
+  ],
+  "input_sha256": "34ddd9d916c14efd87b8f152cefff6448cd97a9e5733d9cfc278cd102d304708",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatpApc2hpuRah0Vig8WJO807TIys",
+  "usage": {
+    "completion_tokens": 1152,
+    "prompt_tokens": 1892,
+    "total_tokens": 3044,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 929,
+      "engine_ttlt_ms": 9870,
+      "pre_inference_ms": 274,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2208,
+      "service_ttlt_ms": 11144,
+      "user_visible_ttft_ms": 1934
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

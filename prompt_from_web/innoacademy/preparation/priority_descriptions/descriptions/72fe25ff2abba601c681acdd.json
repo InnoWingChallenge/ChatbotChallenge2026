@@ -1,0 +1,102 @@
+{
+  "title": "Open drawer with organised screwdriver set and bit holders",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the image.",
+    "A foam-lined drawer containing hand tools is visible; the drawer outer rim is red and the foam insert is black.",
+    "A minimum of 13 distinct screwdrivers or driver handles are visible and individually placed in cutouts in the foam insert (several long-shaft and short-shaft varieties arranged in two roughly parallel rows).",
+    "One T-handle driver is visible at the right side of the drawer, partially inset into its cutout.",
+    "Two small sets of driver bits / bit holders are visible at the top right: one row of individual bits in a black holder and one smaller rectangular holder with multiple bit positions.",
+    "One orange plastic case labelled 'GRIP' containing four small precision screwdrivers is visible at the bottom right of the drawer.",
+    "Multiple individual loose bits (countable positions) are present in the bit holders at top-right; exact bit count cannot be determined from this view because some bits are small and partially obscured by the holder design."
+  ],
+  "visible_text": [
+    "GRIP"
+  ],
+  "spatial_relations": [
+    "The tools are arranged in a foam insert inside a drawer; the foam insert is black and the drawer interior is red.",
+    "Two parallel rows of screwdriver handles run horizontally across the central portion of the drawer, with longer-shaft screwdrivers nearer the center and shorter shafts toward the top and bottom edges of the image.",
+    "The bit holders and small bit set occupy the top-right quadrant of the drawer; the T-handle driver sits immediately to the left of those bit holders.",
+    "The orange GRIP case is located in the bottom-right corner of the drawer, adjacent to the T-handle area and below the bit holders.",
+    "A metal ruler or trim piece is visible along the top interior edge of the drawer, running horizontally just inside the drawer lip."
+  ],
+  "colours_and_materials": [
+    "The drawer outer rim and internal visible metal are red.",
+    "The foam insert is black and appears to be cut-to-fit to hold each tool.",
+    "Most screwdriver handles are orange or red with black accents; one handle is blue with black accents.",
+    "Shafts and driver bits appear metallic (silver/chrome finish).",
+    "The small GRIP case is orange plastic."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; therefore the precise location is unknown from the image.",
+    "Some handle and label text on screwdrivers is partially visible but not fully legible; only the single clear word 'GRIP' is transcribed above. Other small text on handles and bit holders is unreadable at this resolution.",
+    "The exact total number of individual bits in the bit holders at top-right cannot be reliably counted because some bits are small and partially obscured by the holder and image angle.",
+    "The exact count of screwdrivers given as a minimum (13) is based on individually distinguishable handles in this view; overlap or cropped handles at the image edges could mean more tools are present but not fully visible."
+  ],
+  "visual_facts": [
+    "No people are visible in the image.",
+    "A foam-lined drawer containing hand tools is visible; the drawer outer rim is red and the foam insert is black.",
+    "A minimum of 13 distinct screwdrivers or driver handles are visible and individually placed in cutouts in the foam insert (several long-shaft and short-shaft varieties arranged in two roughly parallel rows).",
+    "One T-handle driver is visible at the right side of the drawer, partially inset into its cutout.",
+    "Two small sets of driver bits / bit holders are visible at the top right: one row of individual bits in a black holder and one smaller rectangular holder with multiple bit positions.",
+    "One orange plastic case labelled 'GRIP' containing four small precision screwdrivers is visible at the bottom right of the drawer.",
+    "Multiple individual loose bits (countable positions) are present in the bit holders at top-right; exact bit count cannot be determined from this view because some bits are small and partially obscured by the holder design.",
+    "The drawer outer rim and internal visible metal are red.",
+    "The foam insert is black and appears to be cut-to-fit to hold each tool.",
+    "Most screwdriver handles are orange or red with black accents; one handle is blue with black accents.",
+    "Shafts and driver bits appear metallic (silver/chrome finish).",
+    "The small GRIP case is orange plastic."
+  ],
+  "id": "72fe25ff2abba601c681acdd",
+  "sha256": "c977e9502bfde75c25e2a37d8095a11d08ccc1b65b64b0a3415841514f8dcba9",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:13:15.482570+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "f6ea0738f509e835e210099f08c5a1e89346f0efa041b80d88e49012d6153bed",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatdaH0hXSILVcJjGk99UdNM62I1U",
+  "usage": {
+    "completion_tokens": 951,
+    "prompt_tokens": 2122,
+    "total_tokens": 3073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1124,
+      "engine_ttlt_ms": 7424,
+      "pre_inference_ms": 325,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1903,
+      "service_ttlt_ms": 8197,
+      "user_visible_ttft_ms": 1578
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

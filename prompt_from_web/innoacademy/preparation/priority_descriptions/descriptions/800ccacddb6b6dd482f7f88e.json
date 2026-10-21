@@ -1,0 +1,109 @@
+{
+  "title": "Street intersection with multi-storey commercial buildings and pedestrians",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "People: at least 9 distinct people visible in the photographed scene — 6 pedestrians walking on the left sidewalk (some partially cropped), and 3 cyclists near the center of the image. Several people are partially obscured by other pedestrians or by bicycle handlebars.",
+    "Vehicles: at least 3 motor vehicles visible on the road (a dark van at right foreground, a black car near center, and another car further back) and 2 bicycles being ridden in the near foreground. Exact total vehicle count in the scene cannot be determined due to occlusion beyond the visible area.",
+    "Buildings and façades: multiple multi-storey commercial buildings visible across the middle of the image, including a tall building with a red 'JTB' sign near the top left of the main cluster and a building with a large yellow and red sign (kanji) on its façade near the center-right.",
+    "Street furniture and fixtures: at least two decorative black street lamp posts visible near the center of the image, multiple traffic poles with signs, a pedestrian railing along the right-side curb, and a freestanding green 'i' information column at far right foreground.",
+    "Signs and storefronts: multiple storefronts and signage panels are visible on the ground and lower floors of the buildings (see visible_text for exact labels)."
+  ],
+  "visible_text": [
+    "JTB",
+    "PROMISE",
+    "カラオケ",
+    "COTE D'AZUR",
+    "FamilyMart",
+    "40",
+    "i",
+    "SHISEIDO",
+    "KOSE",
+    "消火栓",
+    "薬",
+    "PROM",
+    "Jtb"
+  ],
+  "spatial_relations": [
+    "The cluster of multi-storey buildings occupies the central and left-central portion of the image; the tallest building with the red 'JTB' sign is toward the left of this cluster.",
+    "A building with a large yellow-and-red kanji sign ('薬') is located center-right on the block and is directly above a ground-floor storefront with glass windows.",
+    "Decorative black lamp posts are located in the foreground center-right, in front of the building with the yellow/red sign; one lamp post partially obscures part of that sign.",
+    "Pedestrians and cyclists are on the left-side sidewalk and in the foreground, moving toward the center of the image; bicycles are between the sidewalk and the vehicular lane.",
+    "A green information column with a white 'i' symbol stands in the right foreground near the curb; the roadway and vehicles lie immediately to its left."
+  ],
+  "colours_and_materials": [
+    "Sky: clear bright blue sky occupying the upper right portion of the image.",
+    "Buildings: mostly light-coloured façades (beige, off-white, and pale pink) with dark glass panels on at least one building; a black-glass vertical façade is visible on the left side of the central building cluster.",
+    "Signage: the large kanji sign near center-right is bright yellow with red characters; the 'JTB' sign is red with white letters; the 'PROMISE' sign is blue with white letters; the 'COTE D'AZUR' sign is blue with white text and a yellow crescent.",
+    "Street furniture: lamp posts are black metal; pedestrian paving in the foreground is light grey tile."
+  ],
+  "uncertainties": [
+    "Exact room name or room number is not visible; therefore location is unknown from image.",
+    "Several small signs and storefront texts are partially obscured, at angles, or too small to fully read; examples include partial 'PROM' visible on a storefront and smaller window stickers that are unreadable.",
+    "Some visible text items may repeat (for example 'JTB' appears on more than one panel) or be partially duplicated in different positions; counts do not aggregate repeated views of the same sign.",
+    "The transcription list includes prominent legible text; other smaller or angled text on windows and banners was not readable at image resolution and is omitted or replaced by [unreadable] where necessary.",
+    "Vehicle and person counts are minimum visible totals; occlusion and cropping prevent a definitive room- or block-wide inventory."
+  ],
+  "visual_facts": [
+    "People: at least 9 distinct people visible in the photographed scene — 6 pedestrians walking on the left sidewalk (some partially cropped), and 3 cyclists near the center of the image. Several people are partially obscured by other pedestrians or by bicycle handlebars.",
+    "Vehicles: at least 3 motor vehicles visible on the road (a dark van at right foreground, a black car near center, and another car further back) and 2 bicycles being ridden in the near foreground. Exact total vehicle count in the scene cannot be determined due to occlusion beyond the visible area.",
+    "Buildings and façades: multiple multi-storey commercial buildings visible across the middle of the image, including a tall building with a red 'JTB' sign near the top left of the main cluster and a building with a large yellow and red sign (kanji) on its façade near the center-right.",
+    "Street furniture and fixtures: at least two decorative black street lamp posts visible near the center of the image, multiple traffic poles with signs, a pedestrian railing along the right-side curb, and a freestanding green 'i' information column at far right foreground.",
+    "Signs and storefronts: multiple storefronts and signage panels are visible on the ground and lower floors of the buildings (see visible_text for exact labels).",
+    "Sky: clear bright blue sky occupying the upper right portion of the image.",
+    "Buildings: mostly light-coloured façades (beige, off-white, and pale pink) with dark glass panels on at least one building; a black-glass vertical façade is visible on the left side of the central building cluster.",
+    "Signage: the large kanji sign near center-right is bright yellow with red characters; the 'JTB' sign is red with white letters; the 'PROMISE' sign is blue with white letters; the 'COTE D'AZUR' sign is blue with white text and a yellow crescent.",
+    "Street furniture: lamp posts are black metal; pedestrian paving in the foreground is light grey tile."
+  ],
+  "id": "800ccacddb6b6dd482f7f88e",
+  "sha256": "b97aac3abf6ddad9ad72935abd7f788f5dcc3937159d9a5849d0c6715c632acb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:50:03.088080+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "4fcdc09d323adf43ea93a70334517f0ee88de67fd6b4ae9e3f92e8131475920c",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauDA8HwWGeazOJircgDj9qiPhVHu",
+  "usage": {
+    "completion_tokens": 1053,
+    "prompt_tokens": 2122,
+    "total_tokens": 3175,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1129,
+      "engine_ttlt_ms": 9653,
+      "pre_inference_ms": 420,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2020,
+      "service_ttlt_ms": 10539,
+      "user_visible_ttft_ms": 1600
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

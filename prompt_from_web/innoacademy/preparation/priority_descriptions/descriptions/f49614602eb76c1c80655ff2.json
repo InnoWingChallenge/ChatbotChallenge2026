@@ -1,0 +1,90 @@
+{
+  "title": "Person holding two collapsible cups with lids",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two collapsible, ribbed cups are visible and stacked vertically: one blue cup on top and one yellow cup below; each cup has a translucent white lid.",
+    "One person is partially visible holding the stacked cups; two hands of that person are visible and are used to support the cups (one hand near the top cup, one hand near the bottom cup).",
+    "A dark grey zip-up garment (possibly a hoodie) is visible on the person in the background.",
+    "There are printed elements visible on the lid of the top cup and on the person's garment, but the text on those elements is not legible in the image."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The blue cup is stacked directly on top of the yellow cup, with a translucent white lid between them and another translucent white lid on the top of the blue cup.",
+    "A hand positioned at upper right of the image grasps the top blue cup near its rim; a second hand at lower center supports the yellow cup from below and around its sides.",
+    "The person's torso fills the background and is behind the cups; the cups are held in the foreground, centered in the frame."
+  ],
+  "colours_and_materials": [
+    "The top cup is a solid light blue colour with a ribbed texture suggesting a flexible material (appears to be silicone or soft plastic).",
+    "The bottom cup is a solid yellow colour with the same ribbed texture and material appearance as the blue cup.",
+    "Both lids are translucent white plastic.",
+    "The person wears a dark grey outer garment with a knitted or heather texture and a visible black zipper."
+  ],
+  "uncertainties": [
+    "No exact room name or number is visible; location cannot be determined from the image.",
+    "Text on the sticker or label on the top lid and any printed text on the garment are not legible at the image resolution and therefore are transcribed as unreadable.",
+    "It is unclear whether more of the person (or other people) are present outside the frame; only the visible hands and torso are reported.",
+    "Material identification for the cups (described as appearing like silicone or soft plastic) is a visual impression and not confirmed by any readable label."
+  ],
+  "visual_facts": [
+    "Two collapsible, ribbed cups are visible and stacked vertically: one blue cup on top and one yellow cup below; each cup has a translucent white lid.",
+    "One person is partially visible holding the stacked cups; two hands of that person are visible and are used to support the cups (one hand near the top cup, one hand near the bottom cup).",
+    "A dark grey zip-up garment (possibly a hoodie) is visible on the person in the background.",
+    "There are printed elements visible on the lid of the top cup and on the person's garment, but the text on those elements is not legible in the image.",
+    "The top cup is a solid light blue colour with a ribbed texture suggesting a flexible material (appears to be silicone or soft plastic).",
+    "The bottom cup is a solid yellow colour with the same ribbed texture and material appearance as the blue cup.",
+    "Both lids are translucent white plastic.",
+    "The person wears a dark grey outer garment with a knitted or heather texture and a visible black zipper."
+  ],
+  "id": "f49614602eb76c1c80655ff2",
+  "sha256": "634e67cef3123b1e932aae58bda72a0f1c61b630ba97258123be7ca55ce39deb",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:23:06.967211+00:00",
+  "input_resolution": [
+    682,
+    1024
+  ],
+  "input_sha256": "833f135a7134ae42bcc60a3faa9989cce49ef015764402fc066994c1cd58ca1f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatn9kFvQtrZeq5W78d5UKsrZNqf5",
+  "usage": {
+    "completion_tokens": 840,
+    "prompt_tokens": 2045,
+    "total_tokens": 2885,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 562,
+      "engine_ttlt_ms": 6398,
+      "pre_inference_ms": 104,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1133,
+      "service_ttlt_ms": 6953,
+      "user_visible_ttft_ms": 1029
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

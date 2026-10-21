@@ -1,0 +1,99 @@
+{
+  "title": "Waterfront skyline with tall mixed-use towers and spherical tower elements",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are individually visible in the photographed scene at a scale that allows counting.",
+    "A body of water occupies the entire lower third of the image foreground; at least two small boats or ferries are visible on the water near the central-left shoreline (both boats are small in the image and partly distant).",
+    "A continuous row of high-rise buildings and towers lines the shoreline across the middle of the image; individual distinct towers are visually separable but an exact count of all high-rise buildings cannot be determined from this single frame without an arbitrary grouping rule.",
+    "One very tall tower with stacked spherical viewing pods (three large spheres or pods are clearly visible stacked vertically on the same tower) is visible slightly left of centre and appears closer to the shoreline than some neighbouring towers.",
+    "Several buildings with large curved or dome-like glass structures at shoreline level are visible near the central foreground; at least two large spherical/domed glass structures can be seen adjacent to a low multi-arched building.",
+    "Multiple reflective glass-clad towers with varied silhouettes (flat-topped towers, cylindrical towers, and towers with stepped or open-frame crowns) are present across the skyline; specific equipment or interior fixtures are not visible."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A wide horizontal body of water fills the foreground and separates the viewer from the built shoreline.",
+    "The skyline runs roughly left-to-right across the central band of the image, with the tallest towers rising from the shoreline into the upper two thirds of the frame.",
+    "The tower with stacked spherical pods is located slightly left of image centre and is visually in front of several other mid- and high-rise buildings immediately behind it.",
+    "Two large glass-domed structures sit on the shoreline immediately in front of a long low building with a row of arches; these are centrally located along the shoreline beneath taller towers.",
+    "Clusters of high-rise buildings extend to both the left and right of the central tower; a taller, slender cylindrical tower appears to the right of centre and is set behind several shorter towers."
+  ],
+  "colours_and_materials": [
+    "The sky is a clear light-to-mid blue with scattered white clouds.",
+    "Most towers have reflective glass facades appearing in shades of blue, teal and green due to reflection; one prominent cylindrical tower on the right appears silver/grey.",
+    "The stacked spherical pods on the central-left tower are visually pinkish to reddish with metallic or glossy finish.",
+    "The two dome-like shoreline structures are predominantly glass (transparent/reflective) with greenish-blue tints; the long low building beneath them appears light beige or stone-coloured.",
+    "The water in the foreground is a muted blue-green with lighter reflections where sunlight hits the surface."
+  ],
+  "uncertainties": [
+    "No interior room identifier, equipment nameplate, control panel, or printed signage is visible; location inside any building (for example HKU Innovation Academy or Tam Wing Fan Innovation Wing) cannot be determined from the image.",
+    "Identification of specific buildings by proper name is not provided because the image contains no legible text naming them; building-type descriptions are based on visible shape and facade only.",
+    "The exact count of high-rise buildings and smaller shoreline elements is ambiguous because several buildings overlap in depth and some are partially hidden behind others.",
+    "The small boats on the water are distant and partly small in the frame; at least two are visible but additional small craft may be present and are not reliably countable.",
+    "No legible text was found in the image to transcribe; some small signs or labels, if present, are unreadable at this resolution."
+  ],
+  "visual_facts": [
+    "No people are individually visible in the photographed scene at a scale that allows counting.",
+    "A body of water occupies the entire lower third of the image foreground; at least two small boats or ferries are visible on the water near the central-left shoreline (both boats are small in the image and partly distant).",
+    "A continuous row of high-rise buildings and towers lines the shoreline across the middle of the image; individual distinct towers are visually separable but an exact count of all high-rise buildings cannot be determined from this single frame without an arbitrary grouping rule.",
+    "One very tall tower with stacked spherical viewing pods (three large spheres or pods are clearly visible stacked vertically on the same tower) is visible slightly left of centre and appears closer to the shoreline than some neighbouring towers.",
+    "Several buildings with large curved or dome-like glass structures at shoreline level are visible near the central foreground; at least two large spherical/domed glass structures can be seen adjacent to a low multi-arched building.",
+    "Multiple reflective glass-clad towers with varied silhouettes (flat-topped towers, cylindrical towers, and towers with stepped or open-frame crowns) are present across the skyline; specific equipment or interior fixtures are not visible.",
+    "The sky is a clear light-to-mid blue with scattered white clouds.",
+    "Most towers have reflective glass facades appearing in shades of blue, teal and green due to reflection; one prominent cylindrical tower on the right appears silver/grey.",
+    "The stacked spherical pods on the central-left tower are visually pinkish to reddish with metallic or glossy finish.",
+    "The two dome-like shoreline structures are predominantly glass (transparent/reflective) with greenish-blue tints; the long low building beneath them appears light beige or stone-coloured.",
+    "The water in the foreground is a muted blue-green with lighter reflections where sunlight hits the surface."
+  ],
+  "id": "e5ab81ad66616b273a0cf29a",
+  "sha256": "ddf3a0ae44770572d9c9f872e8fb0e19f55bc7e2cf584aee8ea0e1609d809133",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:22:17.385752+00:00",
+  "input_resolution": [
+    2361,
+    1574
+  ],
+  "input_sha256": "4bbf2e5da69296e841f422346b50a8862fbe82d80e672a82c97e31b23ebc0ec7",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatmJAFTsO1AMtfTWZQbOsfdLLMff",
+  "usage": {
+    "completion_tokens": 999,
+    "prompt_tokens": 2266,
+    "total_tokens": 3265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1134,
+      "engine_ttlt_ms": 8496,
+      "pre_inference_ms": 324,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1975,
+      "service_ttlt_ms": 9327,
+      "user_visible_ttft_ms": 1651
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

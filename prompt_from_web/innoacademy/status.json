@@ -1,0 +1,24 @@
+{
+  "updated_at": "2026-10-13T13:32:36.622007+00:00",
+  "site": "https://innoacademy.engg.hku.hk/",
+  "discovered_pages": 668,
+  "fetched_pages": 668,
+  "image_urls": 6584,
+  "download_status": {
+    "downloaded": 4854,
+    "failed": 38,
+    "external_reference": 8,
+    "pending": 1684
+  },
+  "description_status": {
+    "completed_direct_review": 24,
+    "pending": 6549,
+    "not_requested_external": 8,
+    "unsupported_format": 3
+  },
+  "directly_reviewed_unique_images": 24,
+  "unique_downloaded_content": 4806,
+  "failure_count": 38,
+  "run_state": "stopped_by_user",
+  "stop_reason": "The user requested stopping after 24 direct image descriptions."
+}

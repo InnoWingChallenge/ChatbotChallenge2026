@@ -1,0 +1,109 @@
+{
+  "title": "Classroom or lab space with projection screens and seated attendees",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 12 people are visible seated or standing in the photographed scene; some are turned away from the camera and a few are partially obscured by tables (visible minimum count is 12).",
+    "Two large projection screens are visible at the front of the room showing presentation slides (one at centre-left, one at centre-right).",
+    "At least two ceiling-mounted projectors are visible (one roughly centre, one left-of-centre); a dome ceiling camera is visible near the top-right of the image.",
+    "Six high work tables with light-coloured wooden tops and metal frames are clearly visible in the foreground and middle of the room (three near the front row, three in middle/back rows); additional tables extend further back but exact total is not determinable from this crop.",
+    "Numerous high stools are visible around the tables; at least 14 distinct stools can be individually seen, with many others partially obscured so an exact total cannot be determined.",
+    "A freestanding poster/display board on a table at the right-front of the scene is visible with printed panels and images mounted on it.",
+    "Laptop computers are present on at least two tables near the front where presenters or facilitators are seated; additional small electronic devices (phone, chargers, cables) are visible but not precisely countable.",
+    "A small white plastic basket containing components or cables is on the right-front table beneath the poster."
+  ],
+  "visible_text": [
+    "Disclaimer",
+    "BACKGROUND",
+    "FUNCTIONS",
+    "OBJECTIVE",
+    "The University of Hong Kong"
+  ],
+  "spatial_relations": [
+    "Two projection screens are positioned at the front of the room, roughly side-by-side with a narrow gap; presenters or facilitators are seated between and slightly in front of these screens.",
+    "Work tables are arranged in rows facing the front where the screens and presenters are located; people are seated on high stools around these tables, facing the screens.",
+    "Large windows run along the far side wall behind the presenters, providing natural light from that side of the room.",
+    "The ceiling hosts suspended rectangular light panels and exposed ducting; projectors hang down from the ceiling between the light panels.",
+    "A freestanding poster/display board sits on the right-front table near the camera viewpoint and is oriented to face into the room."
+  ],
+  "colours_and_materials": [
+    "Work surfaces have light-coloured (pale wood) tabletops with grey or white metal table frames.",
+    "Flooring is smooth and light grey in colour.",
+    "Ceiling shows exposed metallic ducting and white rectangular recessed or suspended light panels.",
+    "Stools have dark brown or black seats and black metal legs.",
+    "The poster/display board has a white background with coloured panels and images."
+  ],
+  "uncertainties": [
+    "Location is not visible on any sign in the image; therefore the location is unknown from image.",
+    "Exact total counts for stools, tables and people cannot be determined because some are partially obscured, out of frame, or overlapped; a visible minimum is provided where demonstrable.",
+    "Several blocks of small printed text on the presentation slides and on the poster are not legible at this resolution; only headings and a few institutional words could be reliably transcribed.",
+    "The poster title and some labels (for example the top header on the poster) are partially legible; 'Autonomous Chair Parking System' appears plausible but was not transcribed because readability is not certain—only the headings 'BACKGROUND', 'FUNCTIONS', 'OBJECTIVE' and 'The University of Hong Kong' were transcribed as clearly legible.",
+    "Identification of specific equipment models, brands or model numbers on ceiling projectors, laptops or other devices is not possible from this image and was not inferred."
+  ],
+  "visual_facts": [
+    "At least 12 people are visible seated or standing in the photographed scene; some are turned away from the camera and a few are partially obscured by tables (visible minimum count is 12).",
+    "Two large projection screens are visible at the front of the room showing presentation slides (one at centre-left, one at centre-right).",
+    "At least two ceiling-mounted projectors are visible (one roughly centre, one left-of-centre); a dome ceiling camera is visible near the top-right of the image.",
+    "Six high work tables with light-coloured wooden tops and metal frames are clearly visible in the foreground and middle of the room (three near the front row, three in middle/back rows); additional tables extend further back but exact total is not determinable from this crop.",
+    "Numerous high stools are visible around the tables; at least 14 distinct stools can be individually seen, with many others partially obscured so an exact total cannot be determined.",
+    "A freestanding poster/display board on a table at the right-front of the scene is visible with printed panels and images mounted on it.",
+    "Laptop computers are present on at least two tables near the front where presenters or facilitators are seated; additional small electronic devices (phone, chargers, cables) are visible but not precisely countable.",
+    "A small white plastic basket containing components or cables is on the right-front table beneath the poster.",
+    "Work surfaces have light-coloured (pale wood) tabletops with grey or white metal table frames.",
+    "Flooring is smooth and light grey in colour.",
+    "Ceiling shows exposed metallic ducting and white rectangular recessed or suspended light panels.",
+    "Stools have dark brown or black seats and black metal legs.",
+    "The poster/display board has a white background with coloured panels and images."
+  ],
+  "id": "75a53ee57e2a23308cb849d0",
+  "sha256": "9ecd5fda28618a8e240d9e38cf79f3fe8a495134549a99cdd9ff0847a3ff4a94",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:46:37.973065+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "487bf962077820fe0f90b546bcefd84f09ded3d4dc76650ec54597c3acd1f877",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau9rxl8l6sqppGXcTr1YuddfWjTv",
+  "usage": {
+    "completion_tokens": 1160,
+    "prompt_tokens": 2237,
+    "total_tokens": 3397,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1124,
+      "engine_ttlt_ms": 9677,
+      "pre_inference_ms": 389,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2058,
+      "service_ttlt_ms": 10607,
+      "user_visible_ttft_ms": 1670
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

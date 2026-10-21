@@ -1,0 +1,97 @@
+{
+  "title": "Outdoor campus walkway with groups of people walking away from camera",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 10 individually distinguishable people are visible in the photographed scene, all facing away from the camera and walking along the paved path; several are partially cropped at the image edge or obscured by others.",
+    "At least 5 backpacks are visible on different people: one large dark backpack with blue cords on the person slightly left of centre in the foreground, two other dark backpacks on people in the centre, and at least two additional backpacks on people further ahead; some backpacks are partially obscured.",
+    "One grey tote bag with a printed crest or emblem is carried by the person in the centre-right foreground (over their left shoulder); the printed details are not fully legible.",
+    "One person in the centre-right foreground is wearing a white hoodie with a grey/blue camouflage-patterned hood; another person near the right edge is wearing a long black coat or dress and carrying a shoulder bag.",
+    "Built environment objects: one multi-story building with a covered walkway and repeating vertical concrete columns is visible on the left side of the image; two lamp posts with mounted banners are visible along the right side of the path (one lamp post is near centre-right, another further back).",
+    "Landscape features: mown grass areas flank the paved path on both sides; several medium-to-large deciduous trees with green and autumn-coloured foliage are visible on the right and in the background."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A paved pedestrian path runs from the foreground to the background through the centre of the image; people are walking away from the camera along this path.",
+    "On the left side of the path, a multi-story building with a brick facade and a covered overhang supported by vertical concrete columns parallels the walkway; the building occupies the left third of the image.",
+    "To the right of the path is a grassy lawn with trees and scattered lamp posts; banners are attached to the lamp posts between the path and the tree line.",
+    "People are mostly distributed along the centre and right side of the path; the person carrying the grey tote bag is on the centre-right in the foreground, while a person in a white hoodie is immediately to their right.",
+    "Shadows from the people and the building fall onto the paved path, indicating a light source from the upper left to left side of the image (sunlight)."
+  ],
+  "colours_and_materials": [
+    "Building: brick facade on upper stories with light-coloured concrete vertical columns and a concrete covered walkway.",
+    "Ground and landscape: brownish-red paved path, green grass on both sides of the path, and trees with green and orange/amber leaves (autumn coloration).",
+    "Clothing and bags: several dark-coloured backpacks (black or navy), a white hoodie with a grey/blue camouflage-patterned hood, a dark (black) long coat or dress on the right, and a grey tote bag with a printed emblem in white or light colour.",
+    "Lamp posts: light-coloured metal posts with white or light-coloured lamp heads and vertical banners that appear white with dark emblems (banner text/emblem not legible)."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is visible in the image; the precise building or campus location cannot be determined from the photograph alone.",
+    "Exact counts of people and backpacks are limited by partial occlusion and cropping at the image edges; the stated counts are minimum visible totals.",
+    "The printed crest and any text on the grey tote bag and on the banners attached to lamp posts are not legible at this image resolution; specific wording cannot be reliably transcribed.",
+    "Smaller labels, signs or printed text that might be present on individual backpacks, clothing or distant signboards are unreadable; a closer crop would be needed to transcribe any such text.",
+    "Because this is an outdoor scene, the image does not show interior laboratory equipment, nameplates, model numbers or room signage required for facility-level equipment evidence; therefore this image is not suitable as direct equipment/facility evidence for a specific lab or wing."
+  ],
+  "visual_facts": [
+    "At least 10 individually distinguishable people are visible in the photographed scene, all facing away from the camera and walking along the paved path; several are partially cropped at the image edge or obscured by others.",
+    "At least 5 backpacks are visible on different people: one large dark backpack with blue cords on the person slightly left of centre in the foreground, two other dark backpacks on people in the centre, and at least two additional backpacks on people further ahead; some backpacks are partially obscured.",
+    "One grey tote bag with a printed crest or emblem is carried by the person in the centre-right foreground (over their left shoulder); the printed details are not fully legible.",
+    "One person in the centre-right foreground is wearing a white hoodie with a grey/blue camouflage-patterned hood; another person near the right edge is wearing a long black coat or dress and carrying a shoulder bag.",
+    "Built environment objects: one multi-story building with a covered walkway and repeating vertical concrete columns is visible on the left side of the image; two lamp posts with mounted banners are visible along the right side of the path (one lamp post is near centre-right, another further back).",
+    "Landscape features: mown grass areas flank the paved path on both sides; several medium-to-large deciduous trees with green and autumn-coloured foliage are visible on the right and in the background.",
+    "Building: brick facade on upper stories with light-coloured concrete vertical columns and a concrete covered walkway.",
+    "Ground and landscape: brownish-red paved path, green grass on both sides of the path, and trees with green and orange/amber leaves (autumn coloration).",
+    "Clothing and bags: several dark-coloured backpacks (black or navy), a white hoodie with a grey/blue camouflage-patterned hood, a dark (black) long coat or dress on the right, and a grey tote bag with a printed emblem in white or light colour.",
+    "Lamp posts: light-coloured metal posts with white or light-coloured lamp heads and vertical banners that appear white with dark emblems (banner text/emblem not legible)."
+  ],
+  "id": "8e6b8648906f7f0c0de06270",
+  "sha256": "0d1e2936bc39a36eaacb39bf2304579f87acd8773c4f7e5a5430ca3843cd9f69",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:52:42.539195+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "cbc0aa75ced1bedb2e5f6a9c5249a972601ffbda6fdafa49e536d8177fbddde6",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauFjEtnKgIvQ1DHjafdFMMZ4CmcL",
+  "usage": {
+    "completion_tokens": 1222,
+    "prompt_tokens": 2266,
+    "total_tokens": 3488,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 398,
+      "engine_ttlt_ms": 9802,
+      "pre_inference_ms": 409,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 931,
+      "service_ttlt_ms": 10308,
+      "user_visible_ttft_ms": 522
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

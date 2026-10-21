@@ -1,0 +1,106 @@
+{
+  "title": "Group around a large yellow wing-like structure in a workshop space",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Four people are visible and individually distinguishable; all four wear surgical-style face masks. Three faces are near the top and right of the image (one at top-center, one at top-right cropped by the image edge, one at left leaning forward) and one face is in the bottom-right foreground looking up.",
+    "One long yellow structure that resembles a wing or elongated panel occupies the central diagonal of the image from lower-left to upper-right; it has multiple rectangular transparent windows or cutouts revealing internal ribs or frames.",
+    "At least one rectangular table is visible in the upper-left background supporting objects and a folded printed fabric or banner.",
+    "One roll of black tape (or similarly shaped roll) is visible on the table in the upper-left region.",
+    "At least two cardboard boxes are visible stacked on the left side of the table in the upper-left background.",
+    "One freestanding vertical whiteboard or panel is visible toward the upper-right background (positioned near a darker column or partition).",
+    "One wheeled metal rack or trolley with vertical posts is visible near the upper-right background behind the wing.",
+    "One tripod-like stand is visible in the upper-right background near the wheeled rack.",
+    "Multiple chairs or stools are implied by seating posture of people, but individually distinguishable chairs are not clearly countable except for the table surfaces described above."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The yellow wing-like structure lies diagonally across the image from lower-left toward upper-right and occupies the central foreground and midground.",
+    "One person in a white T-shirt stands or kneels behind the wing near the top-center of the image and places hands on the wing's top surface.",
+    "A person in a blue jacket is positioned to the left of the wing, leaning in toward the wing's midsection from image left.",
+    "A person wearing a white cap is at the top-right edge of the image, their face partially cropped by the image boundary and located to the right of the wing.",
+    "One person in the bottom-right foreground is closest to the camera and is looking upward toward the wing and other people; their head overlays the lower-right corner of the wing visually.",
+    "A table is located behind the wing on the left side of the image, with boxes and a rolled object on it; the wheeled rack, tripod and whiteboard/panel are located further back on the right side of the background."
+  ],
+  "colours_and_materials": [
+    "The long central structure is painted glossy yellow with several transparent or translucent rectangular windows that reveal internal light-coloured ribs or frames.",
+    "The floor is a solid green colour with a smooth appearance.",
+    "Walls visible in the background are white.",
+    "People wear surgical-style masks in pale blue or green tones; clothing includes white T-shirts and a blue jacket.",
+    "Cardboard boxes at the left table are brown; a fabric or banner on the left table has light colours and a pattern (appears primarily white with pastel markings)."
+  ],
+  "uncertainties": [
+    "No room name or room number is legible in the image; location cannot be determined from visible signage.",
+    "There are small labels or printed text on boxes and possibly on the wing that are not legible at this resolution; exact wording is unreadable.",
+    "The long yellow object is described visually as a 'wing-like structure' but its exact equipment type or function is not confirmed by any readable label in the image.",
+    "Counts of chairs, stools or smaller tools are uncertain because many are occluded by people or the wing; only the objects explicitly described above were reliably distinguishable.",
+    "Some background objects (for example a wheeled rack, tripod and a panel) are partially obscured and may include additional attached components or labels that cannot be read from this image."
+  ],
+  "visual_facts": [
+    "Four people are visible and individually distinguishable; all four wear surgical-style face masks. Three faces are near the top and right of the image (one at top-center, one at top-right cropped by the image edge, one at left leaning forward) and one face is in the bottom-right foreground looking up.",
+    "One long yellow structure that resembles a wing or elongated panel occupies the central diagonal of the image from lower-left to upper-right; it has multiple rectangular transparent windows or cutouts revealing internal ribs or frames.",
+    "At least one rectangular table is visible in the upper-left background supporting objects and a folded printed fabric or banner.",
+    "One roll of black tape (or similarly shaped roll) is visible on the table in the upper-left region.",
+    "At least two cardboard boxes are visible stacked on the left side of the table in the upper-left background.",
+    "One freestanding vertical whiteboard or panel is visible toward the upper-right background (positioned near a darker column or partition).",
+    "One wheeled metal rack or trolley with vertical posts is visible near the upper-right background behind the wing.",
+    "One tripod-like stand is visible in the upper-right background near the wheeled rack.",
+    "Multiple chairs or stools are implied by seating posture of people, but individually distinguishable chairs are not clearly countable except for the table surfaces described above.",
+    "The long central structure is painted glossy yellow with several transparent or translucent rectangular windows that reveal internal light-coloured ribs or frames.",
+    "The floor is a solid green colour with a smooth appearance.",
+    "Walls visible in the background are white.",
+    "People wear surgical-style masks in pale blue or green tones; clothing includes white T-shirts and a blue jacket.",
+    "Cardboard boxes at the left table are brown; a fabric or banner on the left table has light colours and a pattern (appears primarily white with pastel markings)."
+  ],
+  "id": "a967f065512df2f28b039ca1",
+  "sha256": "adad266ea4907bc24bb21593bb34046672753142dd3f9d320ec41e26a39ccfd6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:57:38.962906+00:00",
+  "input_resolution": [
+    1224,
+    1632
+  ],
+  "input_sha256": "2b2de5e6511444771b4212f7408d6aac2d033bbaae47f1e8cd8c3681269fd04d",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauKURIJc2eTdMgltEYTulU6OomvS",
+  "usage": {
+    "completion_tokens": 1043,
+    "prompt_tokens": 2122,
+    "total_tokens": 3165,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1141,
+      "engine_ttlt_ms": 10505,
+      "pre_inference_ms": 340,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 2565,
+      "service_ttlt_ms": 11923,
+      "user_visible_ttft_ms": 2225
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

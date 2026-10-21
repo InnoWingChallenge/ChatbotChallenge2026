@@ -1,0 +1,101 @@
+{
+  "title": "Three small numbered round flasks and one clear flask in a white perforated circular laboratory vessel",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the image.",
+    "Three small round-bottom glass flasks with narrow necks and glass stoppers are visible on the perforated platform inside the circular vessel; each small flask contains a grey/brown slurry and has a handwritten black number on its body.",
+    "One larger clear glass flask (appears to be an Erlenmeyer- or conical-shaped vessel) containing a clear liquid is present at the right side of the perforated platform inside the same circular vessel; the larger flask has a small handwritten letter 'G' on its side.",
+    "The white circular vessel (a round chamber with a removable perforated tray) is visible, including a black circular seal or O-ring set into its upper rim.",
+    "Supporting bench surface and a vertical metal rod or pipe are visible adjacent to the circular vessel but are not counted as numbered equipment."
+  ],
+  "visible_text": [
+    "2",
+    "3",
+    "5",
+    "G"
+  ],
+  "spatial_relations": [
+    "All four glass vessels sit on a white perforated circular tray placed inside a larger white circular chamber.",
+    "The three small round-bottom flasks form a roughly triangular arrangement toward the left and center of the perforated tray: the flask labeled '2' is at the upper-left region of the tray, the flask labeled '5' is toward the upper-center/back of the tray, and the flask labeled '3' is toward the front-center of the tray.",
+    "The larger clear flask marked 'G' is positioned at the right side of the perforated tray, partly occupying two nearby perforation holes.",
+    "A black rubber-like O-ring runs around the inner rim of the chamber above the perforated tray.",
+    "A vertical metal rod or pipe is visible outside the chamber at the upper-left edge of the image, and the chamber sits on a dark bench surface that runs across the bottom of the image."
+  ],
+  "colours_and_materials": [
+    "The circular chamber and perforated tray are white plastic or polymer (white appearance).",
+    "There is a black circular seal or O-ring visible at the chamber rim (black rubber-like material).",
+    "The three small flasks are clear glass containing a grey/brown slurry; their handwritten numbers are in black marker on the glass bodies.",
+    "The larger flask is clear glass containing a colourless/transparent liquid; a small handwritten 'G' in dark ink is visible on its side.",
+    "The bench surface around the chamber is dark (dark grey or black), and a vertical metal rod or pipe visible at the upper-left is metallic (yellowish-brown, possibly brass or steel with patina)."
+  ],
+  "uncertainties": [
+    "The exact identity or model of the white circular vessel (centrifuge rotor, heating mantle, water bath, or other) cannot be determined from the image.",
+    "Small markings on the stoppers of the three round flasks have faint characters (possible small numerals) that are partly legible but not fully transcribed; only the larger body numbers '2', '3', '5' are clearly readable.",
+    "The handwritten letter on the larger clear flask appears to be 'G' but could be another character if partially obscured.",
+    "No room name, number or signage is visible in the image, so the precise location is unknown from the image."
+  ],
+  "visual_facts": [
+    "No people are visible in the image.",
+    "Three small round-bottom glass flasks with narrow necks and glass stoppers are visible on the perforated platform inside the circular vessel; each small flask contains a grey/brown slurry and has a handwritten black number on its body.",
+    "One larger clear glass flask (appears to be an Erlenmeyer- or conical-shaped vessel) containing a clear liquid is present at the right side of the perforated platform inside the same circular vessel; the larger flask has a small handwritten letter 'G' on its side.",
+    "The white circular vessel (a round chamber with a removable perforated tray) is visible, including a black circular seal or O-ring set into its upper rim.",
+    "Supporting bench surface and a vertical metal rod or pipe are visible adjacent to the circular vessel but are not counted as numbered equipment.",
+    "The circular chamber and perforated tray are white plastic or polymer (white appearance).",
+    "There is a black circular seal or O-ring visible at the chamber rim (black rubber-like material).",
+    "The three small flasks are clear glass containing a grey/brown slurry; their handwritten numbers are in black marker on the glass bodies.",
+    "The larger flask is clear glass containing a colourless/transparent liquid; a small handwritten 'G' in dark ink is visible on its side.",
+    "The bench surface around the chamber is dark (dark grey or black), and a vertical metal rod or pipe visible at the upper-left is metallic (yellowish-brown, possibly brass or steel with patina)."
+  ],
+  "id": "de6ee7450f2c2c7124d41c22",
+  "sha256": "b68bf02fdccc5acb5f8415e46108c36b05bfee325baff0e638cdf70dd2e18eb6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:21:57.328968+00:00",
+  "input_resolution": [
+    1885,
+    1060
+  ],
+  "input_sha256": "a5bf8b650f9b316786204b53d0e26a0b24eafecf0539e774bfce6ae67430ad67",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatlzvS5ipYAxdJN4MacwqBZj27ay",
+  "usage": {
+    "completion_tokens": 956,
+    "prompt_tokens": 2439,
+    "total_tokens": 3395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1184,
+      "engine_ttlt_ms": 8510,
+      "pre_inference_ms": 319,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2026,
+      "service_ttlt_ms": 9347,
+      "user_visible_ttft_ms": 1707
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

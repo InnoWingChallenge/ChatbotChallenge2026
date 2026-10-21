@@ -1,0 +1,106 @@
+{
+  "title": "Students working at a bench with robotic arm and laptop",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two people are clearly visible in the foreground seated/standing at a bench; a third person is partially visible and cropped at the right background.",
+    "One articulated robotic arm or manipulator is mounted on the left side of the workbench (arm and base visible, a yellow tag attached to the arm).",
+    "One open laptop is on the bench in front of the two foreground people; a visible brand label on the laptop lid reads 'Lenovo'.",
+    "One external computer mouse is on the bench in front of the person wearing the green hoodie.",
+    "Numerous power and data cables are visible across the front of the bench and draped around equipment; an inline power strip or multi-socket adapter and at least one power plug are visible on the right front of the bench.",
+    "One ceiling-mounted projector unit is visible toward the upper left of the image.",
+    "At least three rectangular ceiling light panels are visible above the scene.",
+    "One small black rectangular box or module is mounted on the robotic arm base (visible on the left assembly)."
+  ],
+  "visible_text": [
+    "LONDON",
+    "Lenovo",
+    "HKUDB",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The robotic arm assembly is positioned on the left side of the workbench in the midground; its arm extends toward the center of the image and partly overlaps the torso of the person wearing a green hoodie.",
+    "The person in the green hoodie is seated or leaning at center-left of the bench, with hands near the keyboard area; the person in the red-and-white jacket stands or leans immediately to their right (center-right), looking at the laptop screen.",
+    "The black Lenovo laptop is placed in front of the person in the red-and-white jacket, partially obscuring the view of the person behind it; the laptop lid faces the camera at an angle so the brand label is visible on the right edge of the lid.",
+    "Cables, a power strip and plugs occupy the foreground across the bottom third of the image, lying between the camera viewpoint and the bench surface where people and devices are placed.",
+    "A third person is visible in the right background, behind the main bench and partially obscured by the laptop and foreground cables."
+  ],
+  "colours_and_materials": [
+    "The person on the left foreground wears a dark green hoodie with white lettering 'LONDON' and a small Union Jack patch; the person on the right foreground wears a red, white and black jacket.",
+    "The laptop lid is matte black; the workbench surface appears light-coloured (off-white or beige).",
+    "The robotic arm has black structural segments and light grey or white external panels; a yellow tag is attached to the arm.",
+    "Ceiling area shows exposed metallic ductwork and grid with silver/metal finishes and white rectangular light panels."
+  ],
+  "uncertainties": [
+    "No explicit room name or number sign is legible in the image, so the exact location cannot be determined from the photo.",
+    "The small rectangular sticker or label on the front of the bench is read as 'HKUDB' from the visible orientation, but the characters are partially obscured and could be different; this transcription may be inaccurate.",
+    "A yellow tag is attached to the robotic arm with small printed text that is not readable in the image; transcribed here as '[unreadable]'.",
+    "The identity of the robotic arm (brand or model) and the small black module on its base are not legible; no model numbers or brand names beyond 'Lenovo' are readable.",
+    "Exact counts of cables, plugs and small adapters are not provided because many overlap and are partly occluded; counts in objects_and_counts list are limited to clearly distinguishable items."
+  ],
+  "visual_facts": [
+    "Two people are clearly visible in the foreground seated/standing at a bench; a third person is partially visible and cropped at the right background.",
+    "One articulated robotic arm or manipulator is mounted on the left side of the workbench (arm and base visible, a yellow tag attached to the arm).",
+    "One open laptop is on the bench in front of the two foreground people; a visible brand label on the laptop lid reads 'Lenovo'.",
+    "One external computer mouse is on the bench in front of the person wearing the green hoodie.",
+    "Numerous power and data cables are visible across the front of the bench and draped around equipment; an inline power strip or multi-socket adapter and at least one power plug are visible on the right front of the bench.",
+    "One ceiling-mounted projector unit is visible toward the upper left of the image.",
+    "At least three rectangular ceiling light panels are visible above the scene.",
+    "One small black rectangular box or module is mounted on the robotic arm base (visible on the left assembly).",
+    "The person on the left foreground wears a dark green hoodie with white lettering 'LONDON' and a small Union Jack patch; the person on the right foreground wears a red, white and black jacket.",
+    "The laptop lid is matte black; the workbench surface appears light-coloured (off-white or beige).",
+    "The robotic arm has black structural segments and light grey or white external panels; a yellow tag is attached to the arm.",
+    "Ceiling area shows exposed metallic ductwork and grid with silver/metal finishes and white rectangular light panels."
+  ],
+  "id": "be418bebc7b5f032855fc230",
+  "sha256": "0784fb37911fb4ae7e9c4b8136ff8774f03c8e2112e71f27db58330be6f32f31",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:02:41.957541+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "9fe78189b699df36e7f929f602a004be1603ed82aa3cf6c42c97296c1a265233",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauPN89ZvtAtx6v1pIRZHm4bgSW7p",
+  "usage": {
+    "completion_tokens": 1161,
+    "prompt_tokens": 2266,
+    "total_tokens": 3427,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1143,
+      "engine_ttlt_ms": 10866,
+      "pre_inference_ms": 348,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2026,
+      "service_ttlt_ms": 11746,
+      "user_visible_ttft_ms": 1678
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,91 @@
+{
+  "title": "BENDER corporate logo and tagline",
+  "suitable": false,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the image.",
+    "One corporate logo graphic is visible, comprising a left-side symbol and right-side wordmark and tagline. The logo graphic fills the frame horizontally.",
+    "One large wordmark reading 'BENDER' is visible to the right of the symbol.",
+    "One tagline line is visible beneath the wordmark."
+  ],
+  "visible_text": [
+    "BENDER",
+    "The Power in Electrical Safety©"
+  ],
+  "spatial_relations": [
+    "A green-and-yellow abstract symbol is positioned at the left edge of the image.",
+    "The large wordmark 'BENDER' is positioned to the right of the left symbol and occupies the upper-right area of the image.",
+    "The tagline 'The Power in Electrical Safety©' is positioned below the wordmark and aligned roughly under 'BENDER'.",
+    "All elements are presented on a plain white background with the symbol, wordmark and tagline arranged in a single horizontal composition."
+  ],
+  "colours_and_materials": [
+    "The left symbol uses green and a yellow-orange colour against a white background.",
+    "The wordmark 'BENDER' and the tagline are rendered in green.",
+    "Background is white; no textures or physical materials are visible (image appears to be a flat graphic)."
+  ],
+  "uncertainties": [
+    "The image is a standalone corporate logo graphic; no room identifier, equipment, signage, or physical environment is visible, so no facility or equipment evidence can be confirmed from this image.",
+    "There is no readable small label, model number, room sign, or other operational text beyond the visible wordmark and tagline.",
+    "Because the image is a graphic rather than a photograph of a space, counts of physical equipment or layout elements cannot be determined."
+  ],
+  "visual_facts": [
+    "No people are visible in the image.",
+    "One corporate logo graphic is visible, comprising a left-side symbol and right-side wordmark and tagline. The logo graphic fills the frame horizontally.",
+    "One large wordmark reading 'BENDER' is visible to the right of the symbol.",
+    "One tagline line is visible beneath the wordmark.",
+    "The left symbol uses green and a yellow-orange colour against a white background.",
+    "The wordmark 'BENDER' and the tagline are rendered in green.",
+    "Background is white; no textures or physical materials are visible (image appears to be a flat graphic)."
+  ],
+  "id": "9492cf157a7ad1a3e573f611",
+  "sha256": "d0fe85447472de7b38a6521988a6b4b2aea7ef6d55ea5a92d105095d067f58ff",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:16:16.093795+00:00",
+  "input_resolution": [
+    1600,
+    465
+  ],
+  "input_sha256": "ae90c4fc0e5c31362a492b2c0d529e8dd2a3590b0328be473badf44ccddbb744",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatgYi1cAN8oaOltyY5bJ9dpengkd",
+  "usage": {
+    "completion_tokens": 549,
+    "prompt_tokens": 2100,
+    "total_tokens": 2649,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 560,
+      "engine_ttlt_ms": 4456,
+      "pre_inference_ms": 98,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1123,
+      "service_ttlt_ms": 5007,
+      "user_visible_ttft_ms": 1025
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

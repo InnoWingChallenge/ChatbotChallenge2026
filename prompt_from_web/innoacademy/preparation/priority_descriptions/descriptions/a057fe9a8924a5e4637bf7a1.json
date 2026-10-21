@@ -1,0 +1,121 @@
+{
+  "title": "Indoor lab/bench area with netting, blue stools and HKU Engineering barrier tape",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One standing person is visible near the rear left of the scene; the person is partially obscured by netting and turned sideways (only the torso and legs are clearly visible).",
+    "Two blue square/rectangular upholstered stools are visible in the foreground left; both are fully visible and not cropped.",
+    "One small white oval table with three visible wooden-coloured legs is in the foreground right and is fully visible.",
+    "One grey plastic chair with metal legs is visible behind the green belt, approximately mid-image center-right; the chair is fully visible.",
+    "One orange traffic cone is visible on the floor near the mid-right of the image, in front of the beige partition and behind the green belt.",
+    "Multiple tall metal stanchion posts with a green retractable belt are visible; at least three posts are distinguishable (one at mid-right, one at mid-center, one at far right) but some posts are partially obscured by netting and cropping.",
+    "A large white mesh net spans the foreground and upper parts of the image covering much of the scene; the net is continuous and attached at multiple points.",
+    "A shelving or equipment rack unit is visible along the rear left wall containing multiple trays or drawers; parts of the unit are partially obscured by the net.",
+    "Two grey sandbag-style weights or base cushions are visible on the floor anchoring parts of the net/stands: one near the mid-right post and one near the mid-center post.",
+    "A tripod or stand is visible at the far left edge of the image (partially visible and cropped by the image edge).",
+    "Several posters or printed display panels are visible on the left rear area mounted on easels or stands; the content of most posters is partially obscured or not legible."
+  ],
+  "visible_text": [
+    "HKU ENGINEERING",
+    "HKU ENGINEERING",
+    "HKU ENGINEERING"
+  ],
+  "spatial_relations": [
+    "A white mesh net spans from the foreground to the ceiling and runs across the entire image, positioned between the camera and the rear workbench area.",
+    "The two blue stools are placed on the left foreground, with the nearer stool slightly left of center and the second stool directly behind it toward the middle of the image.",
+    "The white oval table is in the right foreground, in front of the green belt and closer to the camera than the grey chair and cone.",
+    "The grey chair is positioned behind the green retractable belt approximately mid-image center-right and sits in front of a beige partition or temporary wall.",
+    "The person stands behind the net and behind the green belt toward the rear left, adjacent to the shelving/equipment rack against the back wall.",
+    "The orange traffic cone sits on the floor between the beige partition and the net, slightly right of the grey chair.",
+    "Stanchion posts holding the green 'HKU ENGINEERING' belt form a low barrier running roughly horizontally across the mid-image, separating the foreground seating area from the rear workspace."
+  ],
+  "colours_and_materials": [
+    "Two stools are upholstered in a solid bright blue fabric.",
+    "The small oval tabletop is white and appears to have wooden-coloured (light yellow-brown) legs.",
+    "The chair visible mid-image is grey plastic with metal legs.",
+    "A green fabric or vinyl retractable belt (with white text) is attached to chrome or metallic stanchion posts.",
+    "The floor is covered with a light-grey carpet with subtle darker linear striping.",
+    "A white mesh/netting covers much of the scene and is made of cord or rope material.",
+    "An orange plastic traffic cone is visible near the rear center-right of the image.",
+    "Rear shelving/equipment rack appears metallic/steel with various items and trays that are grey or silver in colour."
+  ],
+  "uncertainties": [
+    "The exact room name or number is not visible; 'HKU ENGINEERING' appears on the barrier tape but does not constitute a room identifier by itself, so location is listed as unknown from image.",
+    "Text on posters and smaller labels on equipment in the rear left are mostly unreadable at this resolution; only the repeating 'HKU ENGINEERING' on the belt was clearly legible.",
+    "The precise count of stanchion posts is uncertain because some posts are partially obscured by netting and the image edges; at least three are distinguishable but there may be more outside the frame.",
+    "The person is partially obscured by netting and turned sideways; no name or identifying text is visible on the person and facial identification is not attempted.",
+    "Some small labels or nameplates on the shelving unit and equipment are present but not legible; readable fragments were not found after close inspection."
+  ],
+  "visual_facts": [
+    "One standing person is visible near the rear left of the scene; the person is partially obscured by netting and turned sideways (only the torso and legs are clearly visible).",
+    "Two blue square/rectangular upholstered stools are visible in the foreground left; both are fully visible and not cropped.",
+    "One small white oval table with three visible wooden-coloured legs is in the foreground right and is fully visible.",
+    "One grey plastic chair with metal legs is visible behind the green belt, approximately mid-image center-right; the chair is fully visible.",
+    "One orange traffic cone is visible on the floor near the mid-right of the image, in front of the beige partition and behind the green belt.",
+    "Multiple tall metal stanchion posts with a green retractable belt are visible; at least three posts are distinguishable (one at mid-right, one at mid-center, one at far right) but some posts are partially obscured by netting and cropping.",
+    "A large white mesh net spans the foreground and upper parts of the image covering much of the scene; the net is continuous and attached at multiple points.",
+    "A shelving or equipment rack unit is visible along the rear left wall containing multiple trays or drawers; parts of the unit are partially obscured by the net.",
+    "Two grey sandbag-style weights or base cushions are visible on the floor anchoring parts of the net/stands: one near the mid-right post and one near the mid-center post.",
+    "A tripod or stand is visible at the far left edge of the image (partially visible and cropped by the image edge).",
+    "Several posters or printed display panels are visible on the left rear area mounted on easels or stands; the content of most posters is partially obscured or not legible.",
+    "Two stools are upholstered in a solid bright blue fabric.",
+    "The small oval tabletop is white and appears to have wooden-coloured (light yellow-brown) legs.",
+    "The chair visible mid-image is grey plastic with metal legs.",
+    "A green fabric or vinyl retractable belt (with white text) is attached to chrome or metallic stanchion posts.",
+    "The floor is covered with a light-grey carpet with subtle darker linear striping.",
+    "A white mesh/netting covers much of the scene and is made of cord or rope material.",
+    "An orange plastic traffic cone is visible near the rear center-right of the image.",
+    "Rear shelving/equipment rack appears metallic/steel with various items and trays that are grey or silver in colour."
+  ],
+  "id": "a057fe9a8924a5e4637bf7a1",
+  "sha256": "76f4c6dacd38ec508c9c67486d10592dd223f5d0938d402db5b3a8fc7b65c5f1",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:55:21.333167+00:00",
+  "input_resolution": [
+    1920,
+    1088
+  ],
+  "input_sha256": "f798e343a08a5fb5a2ea7c57612cdf290dd3fe772860f0148f3f9d665d6754e4",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauIFH5tLyjudIb9uyrYZPCK5jyBr",
+  "usage": {
+    "completion_tokens": 1431,
+    "prompt_tokens": 2439,
+    "total_tokens": 3870,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1196,
+      "engine_ttlt_ms": 12315,
+      "pre_inference_ms": 449,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2219,
+      "service_ttlt_ms": 13332,
+      "user_visible_ttft_ms": 1769
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

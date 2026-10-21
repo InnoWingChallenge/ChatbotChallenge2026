@@ -1,0 +1,107 @@
+{
+  "title": "Two people holding 'WINNER InnoShow Award' sign in front of event backdrop",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two adult people are visible standing in the photographed scene: one at left (younger-looking, wearing glasses, a dark checked suit and tie) and one at right (older-looking, wearing glasses and a dark suit jacket).",
+    "One large printed hand-held cutout sign is visible and legible in the foreground; it reads 'WINNER' and 'InnoShow Award' (the sign partly obscures the lower torsos of both people).",
+    "One small toy or robot-like object is visible and partially obscured at the chest of the person on the left (clipped or held near the tie); it is not a full assembly view and is partially cropped by the sign.",
+    "One large illuminated backdrop or screen occupies the full background of the image and contains multiple lines of printed text and graphics.",
+    "No additional distinct equipment, furniture, or fixed lab apparatus is clearly visible in the photographed scene; incidental items such as clothing and the sign are reported above."
+  ],
+  "visible_text": [
+    "O SHOW",
+    "TAM WING FAN",
+    "INNOVATION WIN",
+    "ONE, HKU",
+    "2PM-",
+    "WINNER",
+    "InnoShow Award"
+  ],
+  "spatial_relations": [
+    "The person in a dark checked suit and tie stands at image-left and holds the left side of the large winner cutout sign with both hands near waist level.",
+    "The person in a dark suit jacket stands at image-right and holds the right side of the same cutout sign with both hands; their right hand is on the front edge of the sign.",
+    "The small toy/robot-like object is positioned at the chest/tie area of the left person and is partially visible above the top edge of the cutout sign.",
+    "The large backdrop/screen fills the entire background behind both people and the sign; its text lines are arranged in upper and middle bands above the green-blue gradient graphic area.",
+    "The cutout sign with a crown graphic is centered in the lower-middle foreground and overlaps the lower torsos of both people."
+  ],
+  "colours_and_materials": [
+    "The backdrop/screen shows a green-to-blue gradient with white star-like highlights and a white top band containing large dark purple letters.",
+    "The left person's suit is a dark navy or charcoal checked fabric; their tie is dark blue with a lighter emblem visible.",
+    "The right person's suit jacket is dark charcoal or black; their shirt is a light blue woven fabric.",
+    "The hand-held cutout sign has multicoloured text 'WINNER' in rainbow hues, a yellow/gold cartoon crown with orange and green gem shapes, white sign border, and brown text for 'InnoShow Award'.",
+    "The small toy/robot-like object appears to be light brown wood or wood-coloured plastic with darker and lighter accents, but material identification is uncertain."
+  ],
+  "uncertainties": [
+    "The image does not display an explicit room name or number; therefore the precise location is unknown from the image.",
+    "The top large headline text is partially cropped; it appears as 'O SHOW' in the visible portion and may be part of a longer word or phrase (e.g., 'INNO SHOW' or similar) but that full word is not fully legible here.",
+    "The line 'INNOVATION WIN' is partially visible and truncated; the remainder of that line is not legible (likely 'INNOVATION WING' but 'G' is not fully shown).",
+    "The fragment '2PM-' is visible but the ending time or additional characters after the hyphen are not legible.",
+    "The small toy/robot-like object at the left person's chest is partially obscured by the person's jacket and the sign; its exact type, brand, or full form cannot be determined from this view.",
+    "Small text on the left person's tie and any fine print on the backdrop are not legible at this resolution and were not transcribed.",
+    "Counts are limited to items clearly and individually distinguishable in this single view; additional identical objects may exist outside the frame but are not reported."
+  ],
+  "visual_facts": [
+    "Two adult people are visible standing in the photographed scene: one at left (younger-looking, wearing glasses, a dark checked suit and tie) and one at right (older-looking, wearing glasses and a dark suit jacket).",
+    "One large printed hand-held cutout sign is visible and legible in the foreground; it reads 'WINNER' and 'InnoShow Award' (the sign partly obscures the lower torsos of both people).",
+    "One small toy or robot-like object is visible and partially obscured at the chest of the person on the left (clipped or held near the tie); it is not a full assembly view and is partially cropped by the sign.",
+    "One large illuminated backdrop or screen occupies the full background of the image and contains multiple lines of printed text and graphics.",
+    "No additional distinct equipment, furniture, or fixed lab apparatus is clearly visible in the photographed scene; incidental items such as clothing and the sign are reported above.",
+    "The backdrop/screen shows a green-to-blue gradient with white star-like highlights and a white top band containing large dark purple letters.",
+    "The left person's suit is a dark navy or charcoal checked fabric; their tie is dark blue with a lighter emblem visible.",
+    "The right person's suit jacket is dark charcoal or black; their shirt is a light blue woven fabric.",
+    "The hand-held cutout sign has multicoloured text 'WINNER' in rainbow hues, a yellow/gold cartoon crown with orange and green gem shapes, white sign border, and brown text for 'InnoShow Award'.",
+    "The small toy/robot-like object appears to be light brown wood or wood-coloured plastic with darker and lighter accents, but material identification is uncertain."
+  ],
+  "id": "10a2ddb7353ddfbef1ff3ff3",
+  "sha256": "6ecfdc9130a3960d4350a2a33da590b0f11e96adcaed85e053e2f62b114a1a11",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:28:32.346994+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "8baef107caebbc32ac455c05bceefbe863765949f7a843b871762dbe4efb855e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatsKFkyJOhjzPMbU76VLwNxK5TsL",
+  "usage": {
+    "completion_tokens": 1307,
+    "prompt_tokens": 2266,
+    "total_tokens": 3573,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1160,
+      "engine_ttlt_ms": 10572,
+      "pre_inference_ms": 367,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2006,
+      "service_ttlt_ms": 11412,
+      "user_visible_ttft_ms": 1639
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Shelf with labelled covered measuring jugs and supplies",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "At least five clear plastic measuring jugs/pitchers are visible on the top shelf; several are covered with clear cling film or plastic wrap and have handwritten labels on the covers. (These jugs are on the top shelf; some are partially cropped by the image edges.)",
+    "One black rectangular notebook or thin black box is on the top shelf at the front right of the image; it bears a small white barcode/label.",
+    "One roll of multicoloured patterned paper towel (vertical, upright) stands near the rear right of the top shelf.",
+    "One metal two-shelf utility cart (white painted frame) forms the structure holding the items; its handle and part of its side are visible at the right edge of the image.",
+    "On the lower shelf there are at least three large sacks/bags (white and red/white and blue) stacked; one bag shows a printed '20 KG' marking.",
+    "A partially visible cardboard box is at the left edge of the top shelf and obscures part of the scene.",
+    "A yellow pallet or piece of yellow material is visible at the lower right floor area near the cart; a hand truck or trolley handle is visible behind the cart on the right."
+  ],
+  "visible_text": [
+    "Reserved 4/11/2020 ~Pak",
+    "Reserved 4/11/2020 ~Pak",
+    "Reserved 4/11/2020 ~Pak",
+    "[cuba] Reserved 4/11/2020 ~Pak",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The items are arranged on a two-tier white metal cart; the photographed top shelf occupies the central and upper portion of the image and the lower shelf is visible at the bottom of the frame.",
+    "The covered measuring jugs are grouped toward the left and center of the top shelf; several are adjacent to one another and some are partially overlapping when viewed from above.",
+    "The black notebook/box lies flat on the top shelf toward the front right of the top shelf, separated from the jugs by a small clear area of the shelf surface.",
+    "A paper-towel roll stands upright behind and to the right of the jugs, closer to the rear edge of the top shelf.",
+    "Large sacks/bags rest on the lower shelf directly beneath the jugs and occupy most of the visible lower-shelf area; a cardboard box is at the leftmost top-shelf edge and abuts the leftmost jug."
+  ],
+  "colours_and_materials": [
+    "The top shelf surface is white and appears to be painted metal or laminated material.",
+    "The measuring jugs are clear/translucent plastic and are covered with transparent cling film or plastic wrap with handwritten black ink on the wrap.",
+    "The notebook/box on the top shelf is matte black with a small white label or barcode sticker.",
+    "There are white sacks with red and blue printed areas on the lower shelf; one sack shows a prominent blue panel and another shows red printing.",
+    "A cardboard box with brown corrugated texture is visible at the left edge; a portion of a yellow floor pallet or painted floor area is visible at the lower right."
+  ],
+  "uncertainties": [
+    "Exact count of the covered measuring jugs is uncertain due to partial cropping and overlap; at least five distinct jugs are visually identifiable, but more could be present off-frame.",
+    "Some text on small labels, the barcode sticker on the black object, and printing on the cardboard box and sacks is not fully legible in the image and is transcribed here as [unreadable] where appropriate.",
+    "The front-left cover label includes additional characters in brackets that are partly obscured; transcribed here as '[cuba]' but those characters are not fully clear.",
+    "No explicit room name or number is visible in the image; the location cannot be determined from the photograph alone."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "At least five clear plastic measuring jugs/pitchers are visible on the top shelf; several are covered with clear cling film or plastic wrap and have handwritten labels on the covers. (These jugs are on the top shelf; some are partially cropped by the image edges.)",
+    "One black rectangular notebook or thin black box is on the top shelf at the front right of the image; it bears a small white barcode/label.",
+    "One roll of multicoloured patterned paper towel (vertical, upright) stands near the rear right of the top shelf.",
+    "One metal two-shelf utility cart (white painted frame) forms the structure holding the items; its handle and part of its side are visible at the right edge of the image.",
+    "On the lower shelf there are at least three large sacks/bags (white and red/white and blue) stacked; one bag shows a printed '20 KG' marking.",
+    "A partially visible cardboard box is at the left edge of the top shelf and obscures part of the scene.",
+    "A yellow pallet or piece of yellow material is visible at the lower right floor area near the cart; a hand truck or trolley handle is visible behind the cart on the right.",
+    "The top shelf surface is white and appears to be painted metal or laminated material.",
+    "The measuring jugs are clear/translucent plastic and are covered with transparent cling film or plastic wrap with handwritten black ink on the wrap.",
+    "The notebook/box on the top shelf is matte black with a small white label or barcode sticker.",
+    "There are white sacks with red and blue printed areas on the lower shelf; one sack shows a prominent blue panel and another shows red printing.",
+    "A cardboard box with brown corrugated texture is visible at the left edge; a portion of a yellow floor pallet or painted floor area is visible at the lower right."
+  ],
+  "id": "cc93371fd43bb1fd20ad90cf",
+  "sha256": "556e90f539ddccd7c7fa90f6b070cd29a15d9aadc2e7ffededa7578e80bed390",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:20:25.948784+00:00",
+  "input_resolution": [
+    768,
+    1024
+  ],
+  "input_sha256": "8a41960c85273fa33a5f0bd1c70718586bf9c94208c9063e2e6b3174ee33a75a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatkTD0ehs6IE9x5eIYvG0qHGHKxx",
+  "usage": {
+    "completion_tokens": 1326,
+    "prompt_tokens": 2122,
+    "total_tokens": 3448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 731,
+      "engine_ttlt_ms": 10625,
+      "pre_inference_ms": 115,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1381,
+      "service_ttlt_ms": 11270,
+      "user_visible_ttft_ms": 1266
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

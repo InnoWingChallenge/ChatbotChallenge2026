@@ -1,0 +1,116 @@
+{
+  "title": "Interior lab/teaching space with presenter, suspended model airplane and robotics equipment",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One standing adult person holding a handheld microphone, located in the image mid-foreground and facing slightly left of camera; the person's face is visible and not occluded.",
+    "One handheld microphone held by the person (clearly visible).",
+    "At least six freestanding chairs visible: two chairs immediately left of the presenter (one partially cropped), two chairs around the central tables, one chair directly behind the presenter, and one chair at the far right foreground. Some chairs are partially obscured by tables.",
+    "At least four freestanding tables visible: two curved white tables in the foreground (one right foreground, one center-left), and at least two central rectangular/curved tables grouped in the mid-background.",
+    "One small wheeled robot or robotic chassis on the floor directly in front of the presenter (mid-foreground).",
+    "One larger suspended model airplane with red accents hanging in the mid-background above shelving.",
+    "One ceiling-mounted projector suspended above the presenter near the center of the image.",
+    "One computer monitor visible on a desk at the left mid-background against the wall.",
+    "One tall multi-shelf metal storage or rack unit in the mid-background beneath the suspended airplane.",
+    "A stacked set of at least five black-and-yellow storage drawers or bins on the right mid-background next to the stair; drawers/bins are visibly stacked vertically.",
+    "One glass and metal staircase with glass balustrade on the right side of the image leading upward out of frame.",
+    "Multiple overhead rectangular light panels visible in the ceiling (countable at least nine distinct panels across the image)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The presenter stands in the mid-foreground, slightly right of image center, holding the microphone toward his mouth while facing slightly left of the camera.",
+    "A small wheeled robot is on the floor directly in front of the presenter between him and the nearest chair.",
+    "Curved white tables are arranged in the foreground and center-left; chairs are positioned around these tables with some chairs tucked to the sides.",
+    "A suspended model airplane is positioned in the mid-background above a tall metal shelving/rack unit; the shelving unit is along the back wall behind the presenter.",
+    "The glass-and-metal staircase is on the right side of the image and rises from the floor toward the top-right corner; stacked black-and-yellow storage drawers are placed at the base of the stairs.",
+    "A projector unit hangs from the ceiling near the center of the image above the presenter, with a flexible white scissor-style mount extending upward to the ceiling.",
+    "A computer monitor and a desk are positioned against the left rear wall behind the tables and chairs."
+  ],
+  "colours_and_materials": [
+    "Floor covering is a grey striped carpet.",
+    "Tables have white tops with metal legs and perforated metal modesty panels in a grey finish.",
+    "Chairs are light grey plastic or molded material with metal legs.",
+    "The suspended model airplane has red accents on its wings and a predominantly light-coloured fuselage.",
+    "Storage drawers/bins are black with yellow drawers or yellow accents.",
+    "The staircase has transparent glass balustrades with dark metal framing.",
+    "Ceiling light panels are white and rectangular; ceiling structure and ducts are exposed and dark grey."
+  ],
+  "uncertainties": [
+    "No room name, number, or explicit signage text is legible in the image; therefore the exact location is unknown from the image.",
+    "Several small signs and printed labels appear on walls and shelving (left wall near the monitor, on the shelving unit), but their text is not readable at the current resolution.",
+    "Counts of chairs and overhead light panels are minimum visible counts; some chairs and lights are partially obscured or out of frame so a room-wide total cannot be determined from this single view.",
+    "The identity or affiliation of the visible person is not provided by any legible text in the image and must not be inferred."
+  ],
+  "visual_facts": [
+    "One standing adult person holding a handheld microphone, located in the image mid-foreground and facing slightly left of camera; the person's face is visible and not occluded.",
+    "One handheld microphone held by the person (clearly visible).",
+    "At least six freestanding chairs visible: two chairs immediately left of the presenter (one partially cropped), two chairs around the central tables, one chair directly behind the presenter, and one chair at the far right foreground. Some chairs are partially obscured by tables.",
+    "At least four freestanding tables visible: two curved white tables in the foreground (one right foreground, one center-left), and at least two central rectangular/curved tables grouped in the mid-background.",
+    "One small wheeled robot or robotic chassis on the floor directly in front of the presenter (mid-foreground).",
+    "One larger suspended model airplane with red accents hanging in the mid-background above shelving.",
+    "One ceiling-mounted projector suspended above the presenter near the center of the image.",
+    "One computer monitor visible on a desk at the left mid-background against the wall.",
+    "One tall multi-shelf metal storage or rack unit in the mid-background beneath the suspended airplane.",
+    "A stacked set of at least five black-and-yellow storage drawers or bins on the right mid-background next to the stair; drawers/bins are visibly stacked vertically.",
+    "One glass and metal staircase with glass balustrade on the right side of the image leading upward out of frame.",
+    "Multiple overhead rectangular light panels visible in the ceiling (countable at least nine distinct panels across the image).",
+    "Floor covering is a grey striped carpet.",
+    "Tables have white tops with metal legs and perforated metal modesty panels in a grey finish.",
+    "Chairs are light grey plastic or molded material with metal legs.",
+    "The suspended model airplane has red accents on its wings and a predominantly light-coloured fuselage.",
+    "Storage drawers/bins are black with yellow drawers or yellow accents.",
+    "The staircase has transparent glass balustrades with dark metal framing.",
+    "Ceiling light panels are white and rectangular; ceiling structure and ducts are exposed and dark grey."
+  ],
+  "id": "b92883ac9ef8197e9863d7ba",
+  "sha256": "2c6f04a0dc5e05c857456a0acb5a240258cf3f1843bd944bbb6a7e5828059bd4",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:00:38.951004+00:00",
+  "input_resolution": [
+    1620,
+    1080
+  ],
+  "input_sha256": "df3a53fba5a40892d94e353ee95e2c49efbae1d1003435636048078fd8253551",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauNQXUrNFce1nOZL5yNFDvgMIDcG",
+  "usage": {
+    "completion_tokens": 1074,
+    "prompt_tokens": 2237,
+    "total_tokens": 3311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1144,
+      "engine_ttlt_ms": 9506,
+      "pre_inference_ms": 369,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2071,
+      "service_ttlt_ms": 10429,
+      "user_visible_ttft_ms": 1702
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

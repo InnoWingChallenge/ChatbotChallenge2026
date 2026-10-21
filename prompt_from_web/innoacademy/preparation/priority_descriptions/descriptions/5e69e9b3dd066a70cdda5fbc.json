@@ -1,0 +1,115 @@
+{
+  "title": "Glass-fronted room labelled 'Dream Chamber' with shelving, tables and an air purifier",
+  "suitable": true,
+  "location": "Dream Chamber",
+  "objects_and_counts": [
+    "People: no people are visible in the photographed scene.",
+    "Shelving: one large white bookshelf unit is visible directly behind the glass; it has multiple horizontal shelves and vertical dividers and occupies much of the left-to-center background.",
+    "Books: many individual books are visible on the bookshelf across several shelves; an exact count cannot be determined from the image due to partial obstructions and depth.",
+    "Tables: two small round tables are visible in the foreground — one wooden-top table at lower-left and one white-top table at lower-right (the white table is partly cropped by the right image edge).",
+    "Seating: at least two stools/ottomans are visible — one green cylindrical ottoman immediately in front of the wooden table (fully visible) and one grey/blue cylindrical stool partially visible at lower-right beside the white table.",
+    "Hand sanitizer bottles: two standing pump bottles are clearly visible on horizontal surfaces — one on the wooden table at lower-left and one on the white table at lower-right.",
+    "Air purifier (or similar freestanding device): one white upright device with a circular illuminated blue ring is visible on the floor near the right side of the bookshelf; the brand marking 'Philips' is legible on its front panel.",
+    "Chairs and work table: a wooden work table with at least two chairs is visible further inside the room, behind the bookshelf toward the center-right.",
+    "Whiteboard/easel: one freestanding flip-chart or easel with a whiteboard or paper pad is visible in the mid-right background inside the room.",
+    "Additional shelving/cabinet: a smaller white cabinet or shelving unit is visible in the far back corner of the room."
+  ],
+  "visible_text": [
+    "Dream Chamber",
+    "Philips"
+  ],
+  "spatial_relations": [
+    "The text 'Dream Chamber' is printed on the interior face of the glass wall and reads across the top portion of the glass from left toward center-right.",
+    "The large white bookshelf is immediately behind the glass wall and is roughly centered horizontally in the left-to-center part of the image.",
+    "A wooden round table with a hand-sanitizer bottle sits in front of the bookshelf and slightly to the left in the foreground; the green cylindrical ottoman is between that table and the bookshelf.",
+    "The white round table with a hand-sanitizer bottle is located at lower-right in front of the glass and is partially cropped by the right image edge; a grey/blue stool is beside it.",
+    "The white air-purifier device stands on the floor to the right of the bookshelf, closer to the viewer than the back corner shelving and work table.",
+    "Behind and to the right of the bookshelf is a longer wooden work table with at least two chairs facing it; beyond that, a small cabinet or bookshelves occupy the far corner.",
+    "A freestanding easel/whiteboard stands inside the room toward the right side, between the work table area and the glass wall reflection area."
+  ],
+  "colours_and_materials": [
+    "Glass: large transparent glass partition with grey/black lettering for 'Dream Chamber'.",
+    "Shelving and cabinetry: white-painted shelving units and cabinets.",
+    "Tables: one light wood tabletop (wood grain visible) and one white tabletop (smooth surface).",
+    "Seating: a green fabric-covered cylindrical ottoman at lower-left and a grey/blue fabric-covered cylindrical stool at lower-right.",
+    "Flooring: dark grey carpet with lighter grey and yellow-green narrow stripes.",
+    "Air purifier: white plastic body with a blue illuminated circular ring on its top front face."
+  ],
+  "uncertainties": [
+    "Exact count of individual books on the shelf cannot be determined due to partial occlusion and image resolution.",
+    "Small labels or printed notices on the bookshelf and small signs in the background are present but not legible in the photograph; those texts are not transcribed.",
+    "Some reflected and background text visible through the right glass is partially cut off and unreadable; transcription of that reflected text is not possible from this image.",
+    "The function of the white upright device is inferred visually from appearance (and the visible 'Philips' label), but its exact model number or specification is not legible.",
+    "It is unclear whether additional stools or chairs are present outside the frame; counts are limited to items individually distinguishable within this image."
+  ],
+  "visual_facts": [
+    "Visible location text: Dream Chamber",
+    "People: no people are visible in the photographed scene.",
+    "Shelving: one large white bookshelf unit is visible directly behind the glass; it has multiple horizontal shelves and vertical dividers and occupies much of the left-to-center background.",
+    "Books: many individual books are visible on the bookshelf across several shelves; an exact count cannot be determined from the image due to partial obstructions and depth.",
+    "Tables: two small round tables are visible in the foreground — one wooden-top table at lower-left and one white-top table at lower-right (the white table is partly cropped by the right image edge).",
+    "Seating: at least two stools/ottomans are visible — one green cylindrical ottoman immediately in front of the wooden table (fully visible) and one grey/blue cylindrical stool partially visible at lower-right beside the white table.",
+    "Hand sanitizer bottles: two standing pump bottles are clearly visible on horizontal surfaces — one on the wooden table at lower-left and one on the white table at lower-right.",
+    "Air purifier (or similar freestanding device): one white upright device with a circular illuminated blue ring is visible on the floor near the right side of the bookshelf; the brand marking 'Philips' is legible on its front panel.",
+    "Chairs and work table: a wooden work table with at least two chairs is visible further inside the room, behind the bookshelf toward the center-right.",
+    "Whiteboard/easel: one freestanding flip-chart or easel with a whiteboard or paper pad is visible in the mid-right background inside the room.",
+    "Additional shelving/cabinet: a smaller white cabinet or shelving unit is visible in the far back corner of the room.",
+    "Glass: large transparent glass partition with grey/black lettering for 'Dream Chamber'.",
+    "Shelving and cabinetry: white-painted shelving units and cabinets.",
+    "Tables: one light wood tabletop (wood grain visible) and one white tabletop (smooth surface).",
+    "Seating: a green fabric-covered cylindrical ottoman at lower-left and a grey/blue fabric-covered cylindrical stool at lower-right.",
+    "Flooring: dark grey carpet with lighter grey and yellow-green narrow stripes.",
+    "Air purifier: white plastic body with a blue illuminated circular ring on its top front face."
+  ],
+  "id": "5e69e9b3dd066a70cdda5fbc",
+  "sha256": "1291ca24b1c0cc6a9f2bf1de07bc5fc92f051660ecef253a77a10da28df24e3f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:41:39.669579+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "e1b440b77f95f5c3f54e2299aafa62834ee3be684299f06ceafb1e33cb6fcfd0",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau5087q8W4hW2IG96HC0lTcsyk5J",
+  "usage": {
+    "completion_tokens": 1226,
+    "prompt_tokens": 2122,
+    "total_tokens": 3348,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1094,
+      "engine_ttlt_ms": 10953,
+      "pre_inference_ms": 288,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2453,
+      "service_ttlt_ms": 12307,
+      "user_visible_ttft_ms": 2164
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

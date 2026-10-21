@@ -1,0 +1,23 @@
+{
+  "id": "271525f4b68e697cc480723c",
+  "sha256": "209792f216141740b5783658f94f40b728c1c78eec7e9b56700048fbb5bb4452",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Nozzle depositing a yellow-brown material onto a print bed",
+  "visible_text": [],
+  "visual_facts": [
+    "A large gray cylindrical nozzle assembly hangs over a flat dark work surface.",
+    "The nozzle is positioned over a short ridged column made of yellow-brown material.",
+    "Two similar ridged material forms of different heights sit to the left on the same surface."
+  ],
+  "spatial_relations": [
+    "The nozzle is directly above the tallest form, which is at the right.",
+    "The smaller forms are arranged progressively to the left of the nozzle."
+  ],
+  "uncertainties": [
+    "The material and exact type of printer are not identifiable from the image alone."
+  ]
+}

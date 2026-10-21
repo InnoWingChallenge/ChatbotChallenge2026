@@ -1,0 +1,103 @@
+{
+  "title": "Group of students around a tablet in a multi-level interior space",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 14 people are visible in the photographed scene; counts are a visible minimum because some people are partially obscured or cropped. This includes a foreground cluster of at least 7 standing near center (one person holding a tablet), one person with back to camera on the left holding up a phone or camera, one masked person standing slightly left-of-center behind the main cluster, two people seated on the tiered seating at right, one person crouched on the floor at right, and additional partially visible seated or standing individuals in the background.",
+    "One tablet is held by the person slightly left of centre who appears to be showing it to the group; the tablet is held landscape and obscures part of the holder's hands.",
+    "At least two loose sheets of paper are visible being held by students (one clearly in the hands of a student at far right of central group, and one small folded sheet held by another student).",
+    "One rectangular table with a green front strip is visible on the left side of the image; the table is partially obstructed by people.",
+    "One cardboard box with a white Apple logo (bitten apple silhouette) is visible on the floor at the lower right corner of the image; the box is cropped by the image edge.",
+    "One wheeled trash or recycling bin is visible beneath the table on the left.",
+    "Multiple wall-mounted posters or printed boards are visible on the back wall (at least four distinct poster panels can be seen), each attached to vertical/rectangular display panels.",
+    "Tiered bench seating (a stepped platform of at least three levels) is visible on the right side and is occupied by two seated people; additional open bench surfaces are visible behind them.",
+    "Ceiling-mounted rectangular light panels and exposed ceiling ducts/pipework are visible across the top of the image."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A cluster of standing students occupies the central foreground; the student holding the tablet stands slightly left-of-centre within that group and faces the rest of the group.",
+    "The person with their back to the camera and holding a phone/camera stands at the far left foreground, in front of the rectangular table with the green front strip which sits against the left third of the image.",
+    "Tiered bench seating runs along the right side of the image; two people sit on an upper step while one person is crouched on the floor nearer the right image edge.",
+    "Wall-mounted posters and display panels are arranged along the rear wall behind the central group; the posters are fixed to vertical panels and aligned horizontally across the wall.",
+    "Ceiling fixtures (light panels and exposed ducting) run above the central area of the room; the light panels are arranged in a grid-like pattern over the gathering space."
+  ],
+  "colours_and_materials": [
+    "Flooring shows a combination of light grey carpet in the foreground and a pale blue section toward the right, forming a visual separation between areas.",
+    "Tiered seating surfaces and wall panels on the right are finished in pastel shades (pale blue and pale green panels) and appear to be smooth, likely laminate or painted surfaces.",
+    "The tablet has a dark-colored case (appears grey or dark slate) held by the central person; the cardboard box in the lower right is brown with a white Apple logo.",
+    "Ceiling infrastructure (exposed ducts) appears metallic/dark grey, while the rectangular ceiling light panels are white and emit a bright light."
+  ],
+  "uncertainties": [
+    "No exact room name or room number text is clearly legible in the image; therefore location is stated as unknown from the image.",
+    "Several wall posters and small labels are visually present but their printed text is not legible at this image resolution and distance; exact transcriptions were not possible.",
+    "Some people are partially cropped or standing behind others, so the counted total of at least 14 visible people is a conservative visible minimum and may not represent the total persons present in the full room.",
+    "The precise function or model of visible equipment (for example the tablet brand or table manufacturer) cannot be determined from appearance alone and was not inferred.",
+    "A few small text fragments on signage or panel edges may be legible at higher zoom/crop, but they were not readable at the provided view; no legible single-word or phrase could be confidently transcribed."
+  ],
+  "visual_facts": [
+    "At least 14 people are visible in the photographed scene; counts are a visible minimum because some people are partially obscured or cropped. This includes a foreground cluster of at least 7 standing near center (one person holding a tablet), one person with back to camera on the left holding up a phone or camera, one masked person standing slightly left-of-center behind the main cluster, two people seated on the tiered seating at right, one person crouched on the floor at right, and additional partially visible seated or standing individuals in the background.",
+    "One tablet is held by the person slightly left of centre who appears to be showing it to the group; the tablet is held landscape and obscures part of the holder's hands.",
+    "At least two loose sheets of paper are visible being held by students (one clearly in the hands of a student at far right of central group, and one small folded sheet held by another student).",
+    "One rectangular table with a green front strip is visible on the left side of the image; the table is partially obstructed by people.",
+    "One cardboard box with a white Apple logo (bitten apple silhouette) is visible on the floor at the lower right corner of the image; the box is cropped by the image edge.",
+    "One wheeled trash or recycling bin is visible beneath the table on the left.",
+    "Multiple wall-mounted posters or printed boards are visible on the back wall (at least four distinct poster panels can be seen), each attached to vertical/rectangular display panels.",
+    "Tiered bench seating (a stepped platform of at least three levels) is visible on the right side and is occupied by two seated people; additional open bench surfaces are visible behind them.",
+    "Ceiling-mounted rectangular light panels and exposed ceiling ducts/pipework are visible across the top of the image.",
+    "Flooring shows a combination of light grey carpet in the foreground and a pale blue section toward the right, forming a visual separation between areas.",
+    "Tiered seating surfaces and wall panels on the right are finished in pastel shades (pale blue and pale green panels) and appear to be smooth, likely laminate or painted surfaces.",
+    "The tablet has a dark-colored case (appears grey or dark slate) held by the central person; the cardboard box in the lower right is brown with a white Apple logo.",
+    "Ceiling infrastructure (exposed ducts) appears metallic/dark grey, while the rectangular ceiling light panels are white and emit a bright light."
+  ],
+  "id": "fbe0f5bbb62b66a381a8d18a",
+  "sha256": "66056002dd5d501243b7c4aefc4ca1b1f7268e27465504d6292f12dc25c079db",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:24:52.912762+00:00",
+  "input_resolution": [
+    2400,
+    1350
+  ],
+  "input_sha256": "46379e50ad47dfeae3683e7c4d3d9e37ff8449ad557c6b742e58e77c144a0508",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatomeRFg41YtZgmBMoJuwUsr4tSQ",
+  "usage": {
+    "completion_tokens": 1477,
+    "prompt_tokens": 2439,
+    "total_tokens": 3916,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1199,
+      "engine_ttlt_ms": 11286,
+      "pre_inference_ms": 468,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2201,
+      "service_ttlt_ms": 12283,
+      "user_visible_ttft_ms": 1733
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Exterior campus walkway with two pedestrians, barrier gate and signage near a multi-storey building",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two people are visible walking together across the paved foreground, centered in the image; both are mostly unobstructed and fully visible (one walking slightly in front of the other).",
+    "One person (the nearer walker) is carrying a backpack visible on their back; backpack appears to be a single item and is not obscured.",
+    "One handheld object that appears to be a camera or similar device is held by the nearer person (object is visible in their hands but not identified beyond appearance).",
+    "One horizontal barrier arm (red-and-white striped) is visible across the roadway in the middle background; the arm spans from near left-center toward center-right and is partially cropped by background geometry.",
+    "Multiple small sign panels are mounted at the barrier/gate area in the mid-background; at least three small upright sign panels are visible on or immediately behind the barrier (each sign panel shows a circular emblem but their text/content is not legible).",
+    "One tall building with horizontal louvered façade panels occupies the right half of the image; the façade and vertical columns form fixed architectural equipment/features.",
+    "Several plants and trees are present: a large tree with overhanging branches occupies the upper left, a medium shrub/tree with green foliage is near the building at center-right, and additional hedging is visible behind the barrier area.",
+    "One freestanding rectangular signboard (yellow) is visible near the right-middle background adjacent to the building and planting; a smaller blue sign is mounted further right on a vertical post."
+  ],
+  "visible_text": [
+    "[unreadable]",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The two pedestrians are in the foreground, walking from left to right across a tiled walkway that covers the lower half of the image.",
+    "Directly behind the pedestrians, across the middle distance, the roadway is blocked by the horizontal red-and-white barrier arm which runs roughly left-to-right and sits in front of a gated entrance area.",
+    "The multi-storey building with horizontal louvers is at the right side of the image and rises behind the shrubbery; its vertical columns are visible between the louvers and the planted area.",
+    "A yellow rectangular signboard stands near the building at center-right, positioned between the shrub and the louvered façade; a smaller blue sign is further right on a post near the image right edge.",
+    "Dense tree canopy and landscaping occupy the left and background areas behind the barrier and low building, creating a visual backdrop behind the mid-ground roadway and gate."
+  ],
+  "colours_and_materials": [
+    "Paved walkway in the foreground consists of light beige/tan square tiles with visible grout lines.",
+    "The barrier arm is painted red and white in alternating stripes.",
+    "The building façade on the right has grey metallic horizontal louver panels and vertical structural elements that appear grey to silver.",
+    "Vegetation is various shades of green; a tree at upper left displays darker greens while the shrub near the building has mid-green leaves.",
+    "Pedestrians wear dark-coloured clothing (predominantly black or dark blue); the nearer person's backpack is grey/dark grey."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number text is legible in the image; therefore the exact location cannot be determined from the photo.",
+    "Text on multiple signs (including the yellow board, the blue post sign, and the small panels at the barrier) is not legible at this resolution; these have been recorded as [unreadable].",
+    "The object held by the nearer person looks like a camera but the make/model/exact identity is not determinable from the image.",
+    "The count 'at least three' for small sign panels at the barrier is a visible minimum; overlap and distance prevent a precise definitive count of all signage in that cluster.",
+    "Some features at the far left and behind the gate are partially cropped or in shadow, limiting reliable identification of additional equipment or signage."
+  ],
+  "visual_facts": [
+    "Two people are visible walking together across the paved foreground, centered in the image; both are mostly unobstructed and fully visible (one walking slightly in front of the other).",
+    "One person (the nearer walker) is carrying a backpack visible on their back; backpack appears to be a single item and is not obscured.",
+    "One handheld object that appears to be a camera or similar device is held by the nearer person (object is visible in their hands but not identified beyond appearance).",
+    "One horizontal barrier arm (red-and-white striped) is visible across the roadway in the middle background; the arm spans from near left-center toward center-right and is partially cropped by background geometry.",
+    "Multiple small sign panels are mounted at the barrier/gate area in the mid-background; at least three small upright sign panels are visible on or immediately behind the barrier (each sign panel shows a circular emblem but their text/content is not legible).",
+    "One tall building with horizontal louvered façade panels occupies the right half of the image; the façade and vertical columns form fixed architectural equipment/features.",
+    "Several plants and trees are present: a large tree with overhanging branches occupies the upper left, a medium shrub/tree with green foliage is near the building at center-right, and additional hedging is visible behind the barrier area.",
+    "One freestanding rectangular signboard (yellow) is visible near the right-middle background adjacent to the building and planting; a smaller blue sign is mounted further right on a vertical post.",
+    "Paved walkway in the foreground consists of light beige/tan square tiles with visible grout lines.",
+    "The barrier arm is painted red and white in alternating stripes.",
+    "The building façade on the right has grey metallic horizontal louver panels and vertical structural elements that appear grey to silver.",
+    "Vegetation is various shades of green; a tree at upper left displays darker greens while the shrub near the building has mid-green leaves.",
+    "Pedestrians wear dark-coloured clothing (predominantly black or dark blue); the nearer person's backpack is grey/dark grey."
+  ],
+  "id": "6b33cb9130eb2a1c8ce75be4",
+  "sha256": "bfdbd3559f106f49832fd5d52981f23d94a50f4df6953066437b744e0dceb318",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:45:07.819278+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "6107341469638064437593c352d746357d7dabb6a2dc02175151bc04588b17d2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau8Ojko5b0hyQH5EFFf4gL42hzdL",
+  "usage": {
+    "completion_tokens": 1211,
+    "prompt_tokens": 2266,
+    "total_tokens": 3477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1207,
+      "engine_ttlt_ms": 10350,
+      "pre_inference_ms": 372,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2134,
+      "service_ttlt_ms": 11273,
+      "user_visible_ttft_ms": 1762
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

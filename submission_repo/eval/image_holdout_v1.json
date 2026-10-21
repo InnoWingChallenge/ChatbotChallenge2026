@@ -1,0 +1,526 @@
+[
+  {
+    "id": "image_holdout_001",
+    "category": "chinese",
+    "question": "头脑风暴区的活动告示允许哪三种活动？",
+    "expected_answer": "学习、小组讨论、协作学习（Study, group discussion, collaborative learning）。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "\"STUDY\", \"GROUP DISCUSSION\" and \"COLLABORATIVE LEARNING\"",
+          "source_ids": [
+            "image_source/Brainstorm_Space/微信图片_20261013104620_62_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_002",
+    "category": "chinese",
+    "question": "Podcast Studio 门牌上的房间编号是什么？",
+    "expected_answer": "IW-LG10。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Podcast_Studio/prompt.md",
+          "quote": "\"IW-LG10\" and \"Podcast Studio\"",
+          "source_ids": [
+            "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_003",
+    "category": "chinese",
+    "question": "Digital Learning Studio 的白色吊顶投影仪是什么品牌？",
+    "expected_answer": "SONY。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Digital_Learning_Studio/prompt.md",
+          "quote": "white ceiling-mounted projector labeled \"SONY\"",
+          "source_ids": [
+            "image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2657.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2658.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_004",
+    "category": "chinese",
+    "question": "MODO ROBO 海报上标出的电池数量和电池类型分别是什么？",
+    "expected_answer": "4 节 AA 电池。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/33183e35b56a5a75e7346119/prompt.md",
+          "quote": "4X AA batteries power supply",
+          "source_ids": [
+            "webimg_805e6a2b81891f908b9beaa9"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_005",
+    "category": "paraphrase",
+    "question": "Where should someone leave the Brainstorming Area to do practical making, according to its notice?",
+    "expected_answer": "Maker Space A.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "\"PLEASE PROCEED TO MAKER SPACE A\"",
+          "source_ids": [
+            "image_source/Brainstorm_Space/微信图片_20261013104620_62_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_006",
+    "category": "paraphrase",
+    "question": "Which two uses does the orange sign at the Brainstorming Area washbasin allow?",
+    "expected_answer": "Hand-washing and water disposal only.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Brainstorm_Space/prompt.md",
+          "quote": "\"HAND-WASHING ONLY\", \"WATER DISPOSAL ONLY\"",
+          "source_ids": [
+            "image_source/Brainstorm_Space/微信图片_20261013104622_64_35.jpg",
+            "image_source/Brainstorm_Space/微信图片_20261013104622_65_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_007",
+    "category": "paraphrase",
+    "question": "What should a maker place on the work surface to prevent damage, according to the rules sign?",
+    "expected_answer": "A mat.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Makerspace_A/prompt.md",
+          "quote": "\"USE MAT TO PROTECT THE TABLE\"",
+          "source_ids": [
+            "submission_repo/image_hzq/maker_space/sign.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_008",
+    "category": "paraphrase",
+    "question": "Give the voltage and number of drive motors specified by the MODO ROBO poster.",
+    "expected_answer": "Two DC motors, 5V.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/33183e35b56a5a75e7346119/prompt.md",
+          "quote": "twin DC 5V motor",
+          "source_ids": [
+            "webimg_805e6a2b81891f908b9beaa9"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_009",
+    "category": "comparison",
+    "question": "请分别给出 Project Studio A、Project Studio B 和 Podcast Studio 的门牌编号，不要把房间对应关系混淆。",
+    "expected_answer": "Project Studio A: IW-LG05; Project Studio B: IW-LG06; Podcast Studio: IW-LG10。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Project_Studio_A/prompt.md",
+          "quote": "\"IW-LG05\"",
+          "source_ids": [
+            "image_source/Project_Studio_A/微信图片_20261013104633_76_35.jpg"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt/Project_Studio_B/prompt.md",
+          "quote": "\"IW-LG06\"",
+          "source_ids": [
+            "image_source/Project_Studio_B/微信图片_20261013104631_74_35.jpg"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt/Podcast_Studio/prompt.md",
+          "quote": "\"IW-LG10\" and \"Podcast Studio\"",
+          "source_ids": [
+            "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_010",
+    "category": "comparison",
+    "question": "Give the room codes for the Conference Room and Podcast Studio, with each code matched to its room.",
+    "expected_answer": "Conference Room: IW-G02; Podcast Studio: IW-LG10.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "identifies the Conference Room as \"IW-G02\"",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2671.HEIC"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt/Podcast_Studio/prompt.md",
+          "quote": "\"IW-LG10\" and \"Podcast Studio\"",
+          "source_ids": [
+            "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_011",
+    "category": "comparison",
+    "question": "For the two crown graphics, give the course on WINNER BEST PROJECT AWARD and the number of rounded crown points on InnoShow Award.",
+    "expected_answer": "WINNER BEST PROJECT AWARD: COMP3329 Computer Game Design and Programming; InnoShow Award: five rounded points.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/781622580929e8a3ea54b4ab/prompt.md",
+          "quote": "COMP3329 Computer Game Design and Programming",
+          "source_ids": [
+            "webimg_ab74ea26919dc45ba81a7629"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/539f674b6878cc6346c9629a/prompt.md",
+          "quote": "five rounded points",
+          "source_ids": [
+            "webimg_ba74086fd925fd36cf5ca647"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_012",
+    "category": "comparison",
+    "question": "In the Inaugural InnoSharing group portrait, state the number of large projection screens and the sentence displayed on them.",
+    "expected_answer": "Two; InnoTech and Humanities will Re-define the world.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/600480895b60308400f87328/prompt.md",
+          "quote": "Two large projection screens flank the group",
+          "source_ids": [
+            "webimg_b0c6e6d9aeb7600c799e82f3"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/600480895b60308400f87328/prompt.md",
+          "quote": "InnoTech and Humanities will Re-define the world.",
+          "source_ids": [
+            "webimg_b0c6e6d9aeb7600c799e82f3"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_013",
+    "category": "no_filename",
+    "question": "Which date is printed on the Innovation Wing Two opening-ceremony banner shown in the entrance history display?",
+    "expected_answer": "28 December 2021.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Entrance_History_Display/prompt.md",
+          "quote": "\"28th December 2021\"",
+          "source_ids": [
+            "submission_repo/image_hzq/introduction_board/1.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_014",
+    "category": "no_filename",
+    "question": "Name both donors credited in the entrance history display captions for donations supporting Innovation Academy in 2021.",
+    "expected_answer": "Mrs May Tam and Philomathia Foundation.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Entrance_History_Display/prompt.md",
+          "quote": "Donation from Mrs May Tam in support of Innovation Academy, 2021",
+          "source_ids": [
+            "submission_repo/image_hzq/introduction_board/2.jpg"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt/Entrance_History_Display/prompt.md",
+          "quote": "Donation from Philomathia Foundation in support of Innovation Academy, 2021",
+          "source_ids": [
+            "submission_repo/image_hzq/introduction_board/2.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_015",
+    "category": "diagnostic",
+    "question": "Does the Digital Learning Studio close-up establish an RTX 4090 specifically? State what labels are actually supported.",
+    "expected_answer": "No; only INNO3D and GEFORCE RTX are established, not the exact GPU model.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Digital_Learning_Studio/prompt.md",
+          "quote": "does not identify the exact graphics-card model",
+          "source_ids": [
+            "image_source/Pictures_Hzx/Digital studio/IMG_2656.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2657.HEIC",
+            "image_source/Pictures_Hzx/Digital studio/IMG_2658.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_016",
+    "category": "diagnostic",
+    "question": "Explain why the MODO ROBO poster is insufficient evidence that two completed physical robots were together.",
+    "expected_answer": "It shows an exploded design rendering and an assembled example, not two co-present physical robots.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt_from_web/innoacademy/descriptions/33183e35b56a5a75e7346119/prompt.md",
+          "quote": "not evidence that two physical robots were present together",
+          "source_ids": [
+            "webimg_805e6a2b81891f908b9beaa9"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_017",
+    "category": "new_fact",
+    "question": "仅凭 Podcast Studio 的门牌照片，能否确定录音室内有几支麦克风？请说明原因。",
+    "expected_answer": "不能；照片只展示门牌，未展示室内设备。",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Podcast_Studio/prompt.md",
+          "quote": "equipment, seating capacity and interior layout cannot be determined",
+          "source_ids": [
+            "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_018",
+    "category": "new_fact",
+    "question": "On the Podcast Studio plaque, describe the background and lettering colours of the room-code band and the room-name panel.",
+    "expected_answer": "Room code: white lettering on a black band; room name: black lettering on a light-brown wood-grain panel.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Podcast_Studio/prompt.md",
+          "quote": "Its upper black band carries the room identifier in white",
+          "source_ids": [
+            "image_source/Podcast_Studio/微信图片_20261013104639_82_35.jpg"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_019",
+    "category": "new_fact",
+    "question": "What food-and-drink restriction is displayed below the Conference Room plaque, and which room code appears above it?",
+    "expected_answer": "NO FOOD OR DRINK ALLOWED; IW-G02.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "NO FOOD OR DRINK ALLOWED",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2671.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_020",
+    "category": "new_fact",
+    "question": "Is the Conference Room identified by the photographed IW-G02 plaque the same room as LG14 Dream Chamber?",
+    "expected_answer": "No. The G-numbered Conference Room is distinct from LG14 Dream Chamber.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "distinct from LG14 Dream Chamber",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2671.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_021",
+    "category": "new_fact",
+    "question": "Describe the shape and surface appearance of the Conference Room meeting table in the supplied interior photo.",
+    "expected_answer": "A long white marble-patterned table with rounded ends.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "long white, marble-patterned meeting table with rounded ends",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2672.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_022",
+    "category": "new_fact",
+    "question": "Can the Conference Room interior photograph establish its official booking capacity? Explain.",
+    "expected_answer": "No; the view does not establish a complete chair count or official booking capacity.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "does not establish a complete chair count or official booking capacity",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2672.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_023",
+    "category": "new_fact",
+    "question": "What award, recipient and date are printed on the prominent ABU Asia-Pacific Robot Contest certificate in the Conference Room shelf photograph?",
+    "expected_answer": "GRAND PRIX; THE UNIVERSITY OF HONG KONG; 23 August 2026.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "23rd August, 2026",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2674.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  },
+  {
+    "id": "image_holdout_024",
+    "category": "new_fact",
+    "question": "Does the 23 August 2026 date on the Conference Room certificate establish when its photograph was taken? Explain.",
+    "expected_answer": "No. It is a certificate date; the photograph capture date is not established.",
+    "evidence_groups": [
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "23rd August, 2026",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2674.HEIC"
+          ]
+        }
+      ],
+      [
+        {
+          "record_path": "prompt/Conference_Room/prompt.md",
+          "quote": "The dates belong to awards and certificates rather than to the photo capture",
+          "source_ids": [
+            "image_source/Pictures_Hzx/G conference room/IMG_2674.HEIC"
+          ]
+        }
+      ]
+    ],
+    "review_status": "description_grounded; original-photo verification pending",
+    "rubric": "1: all requested facts correct, no unsupported additions; 0.5: correct but incomplete; 0: incorrect, invented or nonresponsive. Equivalent Chinese/English answers accepted; explanations only required when the question asks for them."
+  }
+]

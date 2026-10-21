@@ -1,0 +1,105 @@
+{
+  "title": "Group holding CIC BIM Competition 2019 banner on outdoor pedestrian bridge",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Seven people are standing in a roughly horizontal line in the central foreground of the image; all seven are holding a single long horizontal banner. None of the people are pictured on posters or screens; they are present in the photographed scene.",
+    "One large rectangular banner is held by the group across the lower third of the image; the banner occupies the central foreground and is partially obscured by the hands of the holders.",
+    "A multi-segment metal tubular bridge structure (visible in the mid- and background) spans the right side and extends toward the left background; multiple repeating curved metal tubes and cross-members form its visible framework.",
+    "One metal handrail/guardrail runs horizontally behind the group at waist-to-chest height across the mid-ground.",
+    "Two circular recessed features are visible in the paved ground surface in the foreground: one larger circular grate or plate near the image center and one smaller circular disc to the right of it.",
+    "Several distant buildings are visible in the far-left background; counts are not provided because they are partially occluded and distant.",
+    "One large Ferris-wheel-like structure is visible in the background behind the bridge framework (count = 1)."
+  ],
+  "visible_text": [
+    "TERTIARY STUDENT CATEGORY - CHAMPION",
+    "CIC BIM COMPETITION 2019",
+    "BIM",
+    "2019",
+    "2019建造業議會建築信息模擬比賽",
+    "大專組 - 冠軍"
+  ],
+  "spatial_relations": [
+    "The seven people stand in a row in the central foreground, each holding the banner that stretches horizontally across them.",
+    "The metal handrail runs immediately behind the group, separating the foreground pedestrian area from the bridge structure and water beyond.",
+    "The tubular metal framework of the bridge occupies the right half of the image and rises diagonally from lower right toward the upper left background; the framework overlaps the distant Ferris-wheel-like structure.",
+    "The larger circular ground plate is centered in the foreground in front of the group; the smaller circular disc is to the right of that larger plate on the paved surface.",
+    "Distant buildings are visible left of the bridge framework behind the handrail and the group."
+  ],
+  "colours_and_materials": [
+    "The banner is predominantly dark (black or very dark blue) with yellow and white text and some green and purple logo elements.",
+    "The bridge framework and handrail are metallic and appear silver/grey (metal tubular structure and metal railings).",
+    "The paved ground surface in the foreground is light-to-medium grey with a textured finish.",
+    "Some people wear light-coloured shirts (white or light blue) and darker trousers; one person in the center wears a green scarf or sash."
+  ],
+  "uncertainties": [
+    "Small logos and some smaller caption text on the banner are partly obscured by the holders' hands and are not fully legible; only the larger lines reproduced in visible_text could be read with confidence.",
+    "The exact Chinese text line spacing and any additional small labels or sponsor names on the banner are not fully legible and may be missing from the visible_text transcription.",
+    "The distant buildings and the Ferris-wheel-like structure are visually identifiable as objects but are not labeled in the image; their precise identities or names are not determined from the image alone.",
+    "No room name or numbered location sign is visible in the image; the scene is outdoors on a pedestrian area/bridge so location cannot be confirmed from the image."
+  ],
+  "visual_facts": [
+    "Seven people are standing in a roughly horizontal line in the central foreground of the image; all seven are holding a single long horizontal banner. None of the people are pictured on posters or screens; they are present in the photographed scene.",
+    "One large rectangular banner is held by the group across the lower third of the image; the banner occupies the central foreground and is partially obscured by the hands of the holders.",
+    "A multi-segment metal tubular bridge structure (visible in the mid- and background) spans the right side and extends toward the left background; multiple repeating curved metal tubes and cross-members form its visible framework.",
+    "One metal handrail/guardrail runs horizontally behind the group at waist-to-chest height across the mid-ground.",
+    "Two circular recessed features are visible in the paved ground surface in the foreground: one larger circular grate or plate near the image center and one smaller circular disc to the right of it.",
+    "Several distant buildings are visible in the far-left background; counts are not provided because they are partially occluded and distant.",
+    "One large Ferris-wheel-like structure is visible in the background behind the bridge framework (count = 1).",
+    "The banner is predominantly dark (black or very dark blue) with yellow and white text and some green and purple logo elements.",
+    "The bridge framework and handrail are metallic and appear silver/grey (metal tubular structure and metal railings).",
+    "The paved ground surface in the foreground is light-to-medium grey with a textured finish.",
+    "Some people wear light-coloured shirts (white or light blue) and darker trousers; one person in the center wears a green scarf or sash."
+  ],
+  "id": "25b7b1fc5b89a486b22327f8",
+  "sha256": "5b8be32b73cb16e9a9a2a19778f818f21a6d04ca3509c56e51b79d4d61feaf31",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:32:12.942961+00:00",
+  "input_resolution": [
+    1600,
+    1200
+  ],
+  "input_sha256": "9b87744fe3a135aa4e603d9f54efe1522a05b3f6b37005473499b2d5a281f85b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatvuQKKhWz2d88qFhMFfZcrfAt40",
+  "usage": {
+    "completion_tokens": 1113,
+    "prompt_tokens": 2122,
+    "total_tokens": 3235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1137,
+      "engine_ttlt_ms": 9302,
+      "pre_inference_ms": 322,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2001,
+      "service_ttlt_ms": 10161,
+      "user_visible_ttft_ms": 1679
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

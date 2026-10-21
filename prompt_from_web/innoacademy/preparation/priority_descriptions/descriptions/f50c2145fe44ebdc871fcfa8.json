@@ -1,0 +1,104 @@
+{
+  "title": "Articulated fume/extraction arms over bench with caution sign",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Two articulated extraction or fume-arm assemblies are visible: one mounted at the right on the bench surface with a conical white hood (visible base and at least three articulated joints), and a second arm or arm segment suspended from the ceiling at the upper left of the image. Both assemblies are partially cropped where they meet ceiling or bench.",
+    "One long horizontal silver tubular arm segment runs from near the top-right toward the upper-left quadrant; it is connected into the right-side articulated assembly.",
+    "One vertical rectangular column or duct is visible near the upper-left, attached to the ceiling and supporting the suspended arm segment; it is partially cropped by the top edge of the image.",
+    "One workbench surface is visible across the lower third of the image with a wooden laminated front edge and a pale countertop.",
+    "One small triangular caution sign is visible on the lower right edge of the bench surface; only a portion of the sign is visible and it is partially cropped.",
+    "One overhead linear light fixture is visible at the top-left corner, cropped by the top edge of the image."
+  ],
+  "visible_text": [
+    "CAUTION",
+    "SAFETY GLASSES",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The right-side articulated extraction arm is mounted on the bench surface near the lower-right quadrant; its base and conical hood rest on the bench and the arm rises upward with joints extending toward the top-right and then left.",
+    "A long silver tubular arm segment extends from the right assembly toward the upper-left, connecting visually to a ceiling-mounted rectangular column near the top-left.",
+    "The ceiling-mounted rectangular column is located behind and slightly left of the long silver tube; it appears to anchor the suspended arm segment.",
+    "The workbench runs horizontally across the bottom third of the image; the right-side extraction arm base sits on it and the caution sign is placed on the bench near the right edge.",
+    "A vertical seam or joint in a smooth grey wall panel is visible behind the arms, roughly centered in the image, dividing the background into left and right wall panels."
+  ],
+  "colours_and_materials": [
+    "The articulated arms are predominantly white plastic at the joints and base with silver/metallic tubular sections; the conical hood is white.",
+    "The background wall panels are smooth light grey.",
+    "The ceiling area visible at the top is painted blue adjacent to the long silver arm; the underside of the ceiling near the light is pale green.",
+    "The bench countertop is a pale off-white or cream colour with a laminated wood front edge visible as a darker brown stripe.",
+    "The caution sign uses yellow and black (standard warning colours) and includes a black hazard pictogram on a yellow triangle."
+  ],
+  "uncertainties": [
+    "It is unclear whether the left-side suspended assembly is a complete separate extraction arm or a continuation/segment of the right assembly because portions are cropped at the image edges.",
+    "Small printed text on the caution sign below 'SAFETY GLASSES' is not legible in the image and is represented as '[unreadable]'.",
+    "Any model, brand, or equipment nameplates on the arms or column are not legible from this image; no exact equipment nameplates or labels could be transcribed.",
+    "The exact number of joints per arm assembly beyond those clearly visible cannot be determined because parts are obscured or cropped by the image borders."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Two articulated extraction or fume-arm assemblies are visible: one mounted at the right on the bench surface with a conical white hood (visible base and at least three articulated joints), and a second arm or arm segment suspended from the ceiling at the upper left of the image. Both assemblies are partially cropped where they meet ceiling or bench.",
+    "One long horizontal silver tubular arm segment runs from near the top-right toward the upper-left quadrant; it is connected into the right-side articulated assembly.",
+    "One vertical rectangular column or duct is visible near the upper-left, attached to the ceiling and supporting the suspended arm segment; it is partially cropped by the top edge of the image.",
+    "One workbench surface is visible across the lower third of the image with a wooden laminated front edge and a pale countertop.",
+    "One small triangular caution sign is visible on the lower right edge of the bench surface; only a portion of the sign is visible and it is partially cropped.",
+    "One overhead linear light fixture is visible at the top-left corner, cropped by the top edge of the image.",
+    "The articulated arms are predominantly white plastic at the joints and base with silver/metallic tubular sections; the conical hood is white.",
+    "The background wall panels are smooth light grey.",
+    "The ceiling area visible at the top is painted blue adjacent to the long silver arm; the underside of the ceiling near the light is pale green.",
+    "The bench countertop is a pale off-white or cream colour with a laminated wood front edge visible as a darker brown stripe.",
+    "The caution sign uses yellow and black (standard warning colours) and includes a black hazard pictogram on a yellow triangle."
+  ],
+  "id": "f50c2145fe44ebdc871fcfa8",
+  "sha256": "dca6ebd755ad24e2cc81ed5d0ff06fce7b23e56dbd776713042f0ec6815bbbf6",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:23:18.598393+00:00",
+  "input_resolution": [
+    1800,
+    2400
+  ],
+  "input_sha256": "72d6972adb33984453b160b3a4610919798997e0e059cdea1dcd1ec588eab4f4",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatnI3B3smAvkL1EyPvZ3354XMA49",
+  "usage": {
+    "completion_tokens": 1036,
+    "prompt_tokens": 2122,
+    "total_tokens": 3158,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 940,
+      "engine_ttlt_ms": 9161,
+      "pre_inference_ms": 343,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1745,
+      "service_ttlt_ms": 9960,
+      "user_visible_ttft_ms": 1402
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Tiered seating area with several people, backpacks and a small safety sign",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least seven people are visible in the photographed scene: three seated on the mid-right tier (two males in dark clothing and one person partly obscured behind them), one woman seated on a lower tier facing right, one person wearing a cap and one person with glasses in the upper-left background, and two partially visible heads at the bottom and right edge; several of these are cropped or partially obscured.",
+    "One blue laptop is visible on the lap of the seated man on the mid-right tier; it is open and being held with both hands.",
+    "One large black backpack is visible on the left bench surface, against the riser; a second black bag with a geometric pattern is visible beneath the mid-right seating area.",
+    "One small rectangular sign is affixed to the vertical face of a bench riser at left (near the large black backpack).",
+    "One pair of brown sandals is visible on the feet of the seated man on the mid-right tier.",
+    "Multiple seating tiers/steps (at least three horizontal bench levels) form the fixed seating; a glass panel and a white diagonal balustrade are visible behind the seated people."
+  ],
+  "visible_text": [
+    "SAFETY",
+    "WALK!",
+    "DO NOT RUN",
+    "Do not jump from heights"
+  ],
+  "spatial_relations": [
+    "People are arranged on tiered bench seating: a lower tier at front where a woman in a light jacket sits facing right, a mid tier where two men sit side-by-side facing right, and an upper tier at left where two people are standing or seated near the back.",
+    "A large black backpack rests on the horizontal surface of the left bench, immediately above the small safety sign affixed to the vertical face of that bench riser.",
+    "A white diagonal balustrade runs upward from lower right to upper center-right behind the seated individuals and a glass panel fills the background above and behind the balustrade.",
+    "A patterned black bag is located beneath the mid-right seating level, roughly under the knees of the seated man with the blue laptop.",
+    "Two partially visible heads occupy the lower foreground and lower right edge of the image in front of the lower tier seating."
+  ],
+  "colours_and_materials": [
+    "Bench and riser surfaces appear light grey or pale wood-toned; the vertical riser faces are pale grey.",
+    "A black fabric backpack and a black patterned bag are visible; the blue laptop has a bright blue cover.",
+    "The diagonal balustrade and surrounding trim are white; the large background paneling and walls are a pale grey-green.",
+    "The seated woman's jacket is an off-white or cream textured fabric; one pair of sandals is brown leather or leather-like material."
+  ],
+  "uncertainties": [
+    "Exact total number of people in the scene cannot be determined precisely because some heads are partly cropped or obscured behind others; I report a minimum of seven visible individuals.",
+    "Some text on the small safety sign is partially obscured or low-resolution; the lines transcribed under visible_text include readable fragments and inferred common phrasing — portions of the sign were not fully legible, so other words may be present that are unreadable from this image.",
+    "There may be other personal items (bags, devices) outside the frame or behind visible people; counts are limited to items clearly distinguishable in this crop.",
+    "Material identifications (e.g., 'leather' for sandals, 'fabric' for bags) are visual approximations and not confirmed by labels."
+  ],
+  "visual_facts": [
+    "At least seven people are visible in the photographed scene: three seated on the mid-right tier (two males in dark clothing and one person partly obscured behind them), one woman seated on a lower tier facing right, one person wearing a cap and one person with glasses in the upper-left background, and two partially visible heads at the bottom and right edge; several of these are cropped or partially obscured.",
+    "One blue laptop is visible on the lap of the seated man on the mid-right tier; it is open and being held with both hands.",
+    "One large black backpack is visible on the left bench surface, against the riser; a second black bag with a geometric pattern is visible beneath the mid-right seating area.",
+    "One small rectangular sign is affixed to the vertical face of a bench riser at left (near the large black backpack).",
+    "One pair of brown sandals is visible on the feet of the seated man on the mid-right tier.",
+    "Multiple seating tiers/steps (at least three horizontal bench levels) form the fixed seating; a glass panel and a white diagonal balustrade are visible behind the seated people.",
+    "Bench and riser surfaces appear light grey or pale wood-toned; the vertical riser faces are pale grey.",
+    "A black fabric backpack and a black patterned bag are visible; the blue laptop has a bright blue cover.",
+    "The diagonal balustrade and surrounding trim are white; the large background paneling and walls are a pale grey-green.",
+    "The seated woman's jacket is an off-white or cream textured fabric; one pair of sandals is brown leather or leather-like material."
+  ],
+  "id": "2a3695f8c2aaa7be6a43def8",
+  "sha256": "671ee0b233b29032a4e125431e047ce67daf994676dd2f68622abcb40303f671",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:33:14.372895+00:00",
+  "input_resolution": [
+    1620,
+    1080
+  ],
+  "input_sha256": "af5d3ac3d522c3c1adbebbb9ca755cbecdc82737cca12f91eb706b31ef016f0d",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatwv2GFPJmmJEgQslxEOOaf1PhYv",
+  "usage": {
+    "completion_tokens": 1113,
+    "prompt_tokens": 2237,
+    "total_tokens": 3350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 361,
+      "engine_ttlt_ms": 8048,
+      "pre_inference_ms": 380,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 837,
+      "service_ttlt_ms": 8520,
+      "user_visible_ttft_ms": 457
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

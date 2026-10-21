@@ -1,0 +1,109 @@
+{
+  "title": "Audience in a room with large 'INNOVATION' wall sign and glass meeting room",
+  "suitable": true,
+  "location": "INNOVATION",
+  "objects_and_counts": [
+    "At least 31 people are visible in the photographed scene (seated on tiered benches, seated on modular benches, standing and at least one person speaking at front right); because of partial occlusion and people on multiple levels the exact count cannot be determined from the single image.",
+    "One person at the front right is holding a handheld microphone and addressing the group; the speaker is standing and facing the audience.",
+    "One other person near the right edge (foreground) is holding papers or a clipboard; only the lower body and hands are visible.",
+    "Multiple modular bench seats are visible: at least 8 distinct blue and grey rectangular ottoman/bench modules are visible in the foreground and midground (some are adjacent and partially occluded).",
+    "A tiered stepped seating structure is visible in the mid- and background with multiple people seated across its levels (the stepped seating appears integrated into the room).",
+    "One freestanding display screen or monitor is visible at far right with partial visible text on screen.",
+    "One glass-walled room or meeting pod is visible at the right rear of the space; there are posted papers or signs attached to the glass.",
+    "At least one tripod with a camera or similar equipment is visible at far left behind audience members (partially obscured)."
+  ],
+  "visible_text": [
+    "INNOVATION",
+    "ENGI",
+    "innovation",
+    "THE"
+  ],
+  "spatial_relations": [
+    "The word 'INNOVATION' appears on a large angled wall panel above and behind the tiered seating; a separate angled panel at left shows the partial word 'ENGI' immediately adjacent to the 'INNOVATION' panel.",
+    "Audience seating is arranged along stepped tiers in the midground and on modular benches in the foreground; the stepped seating is behind the foreground modular benches.",
+    "The speaker stands at the front right of the image facing left/toward the audience; the audience faces the speaker.",
+    "A glass-walled room or meeting pod sits at the right rear of the space, adjacent to the stepped seating and behind some of the seated audience.",
+    "A set of pale vertical slats or fins (light green) rise from floor to ceiling just left of the center background, separating the left wall area from the stepped seating area."
+  ],
+  "colours_and_materials": [
+    "Modular bench seating in the foreground is predominantly blue and grey fabric.",
+    "The stepped seating surfaces are light grey and blue tones; walls are mostly white or very pale mint/green.",
+    "Floor covering in the main open area is a light grey carpet with linear texture; a pale blue vinyl or painted floor is visible at the very left edge.",
+    "The glass-walled room uses clear glass panels with visible white paper notices affixed to them.",
+    "A large triangular wall panel behind the steps shows darker blue and medium blue segments with white text."
+  ],
+  "uncertainties": [
+    "Exact total number of people cannot be determined because some people are partly occluded by others or by seating and multiple levels of seating cause overlap.",
+    "The left-hand angled panel shows the partial text 'ENGI' adjacent to 'INNOVATION' but the full word is not completely visible and could be part of a longer word (e.g., 'ENGINEERING'); the visible fragment is transcribed exactly as shown.",
+    "Multiple small posters and notices on the glass room and walls are not legible in the image; their full text cannot be transcribed from this view.",
+    "The text 'THE' visible on the monitor at right may be part of a larger title or phrase that is out of frame; only the visible fragment is transcribed.",
+    "The object on a tripod at the far left appears to be a camera or recording device but the exact equipment type and any model/brand labels are not legible."
+  ],
+  "visual_facts": [
+    "Visible location text: INNOVATION",
+    "At least 31 people are visible in the photographed scene (seated on tiered benches, seated on modular benches, standing and at least one person speaking at front right); because of partial occlusion and people on multiple levels the exact count cannot be determined from the single image.",
+    "One person at the front right is holding a handheld microphone and addressing the group; the speaker is standing and facing the audience.",
+    "One other person near the right edge (foreground) is holding papers or a clipboard; only the lower body and hands are visible.",
+    "Multiple modular bench seats are visible: at least 8 distinct blue and grey rectangular ottoman/bench modules are visible in the foreground and midground (some are adjacent and partially occluded).",
+    "A tiered stepped seating structure is visible in the mid- and background with multiple people seated across its levels (the stepped seating appears integrated into the room).",
+    "One freestanding display screen or monitor is visible at far right with partial visible text on screen.",
+    "One glass-walled room or meeting pod is visible at the right rear of the space; there are posted papers or signs attached to the glass.",
+    "At least one tripod with a camera or similar equipment is visible at far left behind audience members (partially obscured).",
+    "Modular bench seating in the foreground is predominantly blue and grey fabric.",
+    "The stepped seating surfaces are light grey and blue tones; walls are mostly white or very pale mint/green.",
+    "Floor covering in the main open area is a light grey carpet with linear texture; a pale blue vinyl or painted floor is visible at the very left edge.",
+    "The glass-walled room uses clear glass panels with visible white paper notices affixed to them.",
+    "A large triangular wall panel behind the steps shows darker blue and medium blue segments with white text."
+  ],
+  "id": "63fa400ec163a046fa733892",
+  "sha256": "063e014902e95314236b6fc44c449b69e26c956ea8731c19b10e25c20e2ee7d4",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:43:07.264185+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "ba5bd20aae0cf49a811f61a2ff44422bd0e674b2e44ab055346a61ce3d5c26d0",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau6P1HZ761p6oDQY9lvAhRY1hkHQ",
+  "usage": {
+    "completion_tokens": 1567,
+    "prompt_tokens": 2266,
+    "total_tokens": 3833,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 704,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1152,
+      "engine_ttlt_ms": 12222,
+      "pre_inference_ms": 411,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2137,
+      "service_ttlt_ms": 13201,
+      "user_visible_ttft_ms": 1726
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

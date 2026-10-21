@@ -1,0 +1,19 @@
+{
+  "id": "0397d0d90c4a2429d1069b9e",
+  "sha256": "ca2afeab2ffddae8c5f11a45505b5c30237e4f9365857f22d68725aca9a73230",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Small fixed-wing aircraft in flight",
+  "visible_text": [],
+  "visual_facts": [
+    "A single small fixed-wing aircraft is shown in the sky against a cloudy background.",
+    "Its fuselage is blue and its wings and tail surfaces are yellow with dark framing.",
+    "A small propeller is visible at the nose.",
+    "The aircraft is seen from below, with no ground or people in view."
+  ],
+  "spatial_relations": ["The aircraft is near the center of the image, surrounded by open sky."],
+  "uncertainties": ["The aircraft's exact type, model, scale, and location are not established.", "The image does not show the setting or facility from which it is being operated."]
+}

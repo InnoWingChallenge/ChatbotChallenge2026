@@ -1,0 +1,102 @@
+{
+  "title": "Two model aircraft on a striped workshop floor",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two distinct scale model airplanes are visible: one large model and one smaller model.",
+    "The large model airplane has a long yellow top wing and a blue fuselage covered in a translucent blue film; the large model's tailplane and fin are yellow. The large model extends roughly across the central horizontal band of the image.",
+    "The smaller model airplane is positioned below and slightly to the right of the large model's fuselage; its wings and tail surfaces are yellow and orange with a translucent greenish fuselage wrap.",
+    "One red cylinder resembling a fire extinguisher is visible near the bottom center edge of the image; it is partially cropped by the image boundary so the full object is not shown.",
+    "A wooden pallet or stack of wooden boards is visible at the left image edge and is partially cropped.",
+    "Thin electrical wires or small cords are visible running along or attached to the large blue fuselage; they appear as thin dark lines against the film wrap.",
+    "No people are visible in the photographed scene. No screens or posters with people are present in the photographed scene."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The large model's long yellow wing runs roughly from the top edge toward the bottom edge of the image (appearing vertically across the left half of the image), while the large model's blue fuselage runs approximately left-to-right across the center of the image.",
+    "The large model's tail assembly is at the right side of the image, attached to the blue fuselage end.",
+    "The smaller model is located below the central fuselage of the large model and is shifted to the right of the large model's central section; its fuselage is roughly parallel to the large fuselage but shorter.",
+    "The red cylinder (fire extinguisher) sits near the bottom center of the image and is slightly to the left of the smaller model.",
+    "A wooden pallet or stack of boards is along the left image border, adjacent to the large model's left wing root area.",
+    "Yellow diagonal painted lines on the floor create a grid-like pattern beneath and around both models; the painted lines intersect beneath the models."
+  ],
+  "colours_and_materials": [
+    "The large model's wings and tail surfaces are painted or wrapped in a bright yellow material; the wing has rectangular cutouts or ribs visible through the covering.",
+    "The large model's fuselage is covered in a translucent blue film or plastic wrap with a glossy finish.",
+    "The smaller model uses yellow, orange and a translucent greenish film on its fuselage and control surfaces; its wing end panels are orange.",
+    "The floor is a dark grey concrete or similar surface with weathered yellow painted diagonal stripe markings.",
+    "The red cylinder at the bottom appears to be a metal or painted-metal fire extinguisher with a glossy red finish."
+  ],
+  "uncertainties": [
+    "No room name or room number is visible in the image; location cannot be determined from the photograph.",
+    "No legible printed or handwritten text could be reliably transcribed from the image; small labels and markings (for example on the red cylinder and on the smaller model) are present but not readable at this resolution and distance.",
+    "Material identifications (film, paint, plastic, metal) are based on visible sheen and texture but cannot be confirmed from the image alone.",
+    "Parts of the red cylinder and the wooden pallet are cropped by the image edge, so full object counts or details for those items cannot be determined.",
+    "Wires visible on the large fuselage are identified as thin lines only; their function or connection points are not determinable from the image."
+  ],
+  "visual_facts": [
+    "Two distinct scale model airplanes are visible: one large model and one smaller model.",
+    "The large model airplane has a long yellow top wing and a blue fuselage covered in a translucent blue film; the large model's tailplane and fin are yellow. The large model extends roughly across the central horizontal band of the image.",
+    "The smaller model airplane is positioned below and slightly to the right of the large model's fuselage; its wings and tail surfaces are yellow and orange with a translucent greenish fuselage wrap.",
+    "One red cylinder resembling a fire extinguisher is visible near the bottom center edge of the image; it is partially cropped by the image boundary so the full object is not shown.",
+    "A wooden pallet or stack of wooden boards is visible at the left image edge and is partially cropped.",
+    "Thin electrical wires or small cords are visible running along or attached to the large blue fuselage; they appear as thin dark lines against the film wrap.",
+    "No people are visible in the photographed scene. No screens or posters with people are present in the photographed scene.",
+    "The large model's wings and tail surfaces are painted or wrapped in a bright yellow material; the wing has rectangular cutouts or ribs visible through the covering.",
+    "The large model's fuselage is covered in a translucent blue film or plastic wrap with a glossy finish.",
+    "The smaller model uses yellow, orange and a translucent greenish film on its fuselage and control surfaces; its wing end panels are orange.",
+    "The floor is a dark grey concrete or similar surface with weathered yellow painted diagonal stripe markings.",
+    "The red cylinder at the bottom appears to be a metal or painted-metal fire extinguisher with a glossy red finish."
+  ],
+  "id": "6974c7836169530d6dd5cd98",
+  "sha256": "fb21e7eb37e5fb677a26a3dcd550136ba1d4ea32cd40a50089d92870c77e839c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:43:54.343154+00:00",
+  "input_resolution": [
+    1224,
+    1632
+  ],
+  "input_sha256": "76b4a0ac1ed771333c8b2b9cb38e5a9594f29f97bdaf65e59ad99509388267c4",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau7GBJi2GuiQao3e2SUxe5bptsP4",
+  "usage": {
+    "completion_tokens": 1193,
+    "prompt_tokens": 2122,
+    "total_tokens": 3315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 366,
+      "engine_ttlt_ms": 7514,
+      "pre_inference_ms": 385,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 844,
+      "service_ttlt_ms": 7986,
+      "user_visible_ttft_ms": 458
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

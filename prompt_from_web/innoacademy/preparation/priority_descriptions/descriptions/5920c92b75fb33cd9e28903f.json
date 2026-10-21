@@ -1,0 +1,110 @@
+{
+  "title": "Presentation titled 'ClearBot' in a wood-paneled lecture room",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Three people are standing at the front near the lectern: two men in white shirts and dark ties and one woman holding a microphone; these three presenters are fully visible and not cropped.",
+    "One small wheeled robot or robotic platform is on the floor immediately in front of the presenters; the robot is fully visible and not obscured.",
+    "Three large projected panes/screens along the front wall all display the same presentation slide content (each pane shows 'ClearBot').",
+    "At least one lectern/presentation desk with an attached microphone is present at the front center; the woman presenter is standing behind it.",
+    "At least two laptops are visible on desks in the audience area: one silver laptop on the nearer central desk and one laptop at the left-side judges'/panel table.",
+    "Multiple fixed swivel/mid-back black office chairs are visible around the room; individual chairs are clearly distinguishable but the total number in the room cannot be precisely determined from this single view.",
+    "A long wooden curved judges'/panel table is at left front with multiple seated people and microphones on it; microphones and papers are visible on that table.",
+    "One person in the foreground (back of head) is seated facing the presenters; several additional seated audience members are visible around the room, but an exact count for all people in the room cannot be determined from this image."
+  ],
+  "visible_text": [
+    "ClearBot",
+    "ClearBot",
+    "ClearBot",
+    "Decentralized Robot Swarms to Clean our Oceans",
+    "EXIT"
+  ],
+  "spatial_relations": [
+    "The presenters stand at the front of the room behind and beside a wooden lectern/presentation desk; the woman presenter holds a microphone while the two men stand slightly to her left (viewer right to left).",
+    "The small robot sits on the floor directly in front of the presenters and slightly to the presenters' left (viewer right).",
+    "Three projection panes are mounted on the front wall directly behind the lectern, each showing the same slide content 'ClearBot'.",
+    "A long curved wooden judges'/panel desk occupies the left front quadrant of the room (viewer left) with seated panelists facing the presenters.",
+    "Audience seating is arranged in staggered rows rising toward the left-rear and left-side of the image; large windows are along the far-left wall behind the seating.",
+    "Individual desks with laptops and papers are located between the audience seating and the presenters; one nearer desk with a silver laptop sits toward the lower-center of the image."
+  ],
+  "colours_and_materials": [
+    "Extensive warm wood paneling and wooden furniture dominate the front and side walls and presentation desks.",
+    "The projection background behind the presenters is predominantly blue/teal with text in lighter colours.",
+    "Carpet on the floor appears grey.",
+    "Audience and panel chairs are black with leather- or synthetic-leather-like appearance.",
+    "Large windows on the left show bright daylight and white window frames."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is legible in the image; the location is unknown from the image.",
+    "Smaller labels, nameplates and any fine print on the lectern, desks or the judges'/panel table are not legible at this resolution and were not transcribed.",
+    "The full subtitle text on the projection panes is partially legible; 'Decentralized Robot Swarms to Clean our Oceans' is readable on at least one pane but smaller lines of text beneath it are unreadable.",
+    "The total number of people present in the room cannot be precisely determined from this single viewpoint because some heads and seats are occluded or out of frame.",
+    "There may be additional equipment or signage obscured behind people or furniture that is not visible in this view."
+  ],
+  "visual_facts": [
+    "Three people are standing at the front near the lectern: two men in white shirts and dark ties and one woman holding a microphone; these three presenters are fully visible and not cropped.",
+    "One small wheeled robot or robotic platform is on the floor immediately in front of the presenters; the robot is fully visible and not obscured.",
+    "Three large projected panes/screens along the front wall all display the same presentation slide content (each pane shows 'ClearBot').",
+    "At least one lectern/presentation desk with an attached microphone is present at the front center; the woman presenter is standing behind it.",
+    "At least two laptops are visible on desks in the audience area: one silver laptop on the nearer central desk and one laptop at the left-side judges'/panel table.",
+    "Multiple fixed swivel/mid-back black office chairs are visible around the room; individual chairs are clearly distinguishable but the total number in the room cannot be precisely determined from this single view.",
+    "A long wooden curved judges'/panel table is at left front with multiple seated people and microphones on it; microphones and papers are visible on that table.",
+    "One person in the foreground (back of head) is seated facing the presenters; several additional seated audience members are visible around the room, but an exact count for all people in the room cannot be determined from this image.",
+    "Extensive warm wood paneling and wooden furniture dominate the front and side walls and presentation desks.",
+    "The projection background behind the presenters is predominantly blue/teal with text in lighter colours.",
+    "Carpet on the floor appears grey.",
+    "Audience and panel chairs are black with leather- or synthetic-leather-like appearance.",
+    "Large windows on the left show bright daylight and white window frames."
+  ],
+  "id": "5920c92b75fb33cd9e28903f",
+  "sha256": "da05543cbe36c6b34546fcdce1c9e80e77c9b55b8ae5e39b9c8cda620ccc4df4",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:40:13.487538+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "b98b6b5d25cf04af609fb19b9f7bd2ec810aafaec56372f03e63d2187819828e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau3gnxEmskH6rgrOdUlnf3g5TQ4A",
+  "usage": {
+    "completion_tokens": 1229,
+    "prompt_tokens": 2122,
+    "total_tokens": 3351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 342,
+      "engine_ttlt_ms": 8589,
+      "pre_inference_ms": 348,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 780,
+      "service_ttlt_ms": 9019,
+      "user_visible_ttft_ms": 432
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

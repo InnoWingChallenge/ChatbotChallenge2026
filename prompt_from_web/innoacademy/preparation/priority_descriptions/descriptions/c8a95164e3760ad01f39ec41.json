@@ -1,0 +1,109 @@
+{
+  "title": "Tabletop robotic demo with poster and Vote sign",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "People: two people are visible. One person at left foreground is partially visible (only left side of face and hands shown). One person in the mid-left background is fully visible from chest up and wearing a mask.",
+    "Robotic device: one small, wheeled robotic assembly sits on the table in the foreground at image right. The assembly is on a transparent rectangular base with visible wiring, circuit boards and four visible wheel assemblies (one at each corner).",
+    "Vertical posts on the robotic assembly: two upright posts with green flat tops are visible on the robot.",
+    "Motors/actuators: at least four cylindrical motor housings or similar cylindrical components are visible attached to the robot base (two on each long side); the exact component type is not labelled in the image.",
+    "Display materials: one free-standing poster/board is visible behind the robot in the mid-background.",
+    "Vote sign: one printed sign on a small stand in front of the poster reads 'Project 15' above a blue area with a thumbs-up icon and the word 'VOTE'."
+  ],
+  "visible_text": [
+    "Automatic Chair Parking System",
+    "The University of Hong Kong",
+    "Department of Mechanical Engineering",
+    "BACKGROUND",
+    "OBJECTIVE",
+    "FUNCTIONS",
+    "Project 15",
+    "VOTE"
+  ],
+  "spatial_relations": [
+    "The wheeled robotic assembly is on the tabletop in the foreground and nearer the right edge of the image.",
+    "The free-standing poster board is located behind the robot toward the center background; the poster stands upright on the floor or on a support and is taller than the vote sign.",
+    "The 'Project 15 / VOTE' sign sits on a small stand on the table between the robot (foreground right) and the poster (background center).",
+    "Two people are positioned to the left of the robot: one person (partially visible) is in the left foreground reaching or gesturing with their hands, and another masked person stands behind them in the mid-left background.",
+    "The robot's two vertical posts with green tops stand above the robot base; the wheel assemblies are at the base corners beneath the clear platform."
+  ],
+  "colours_and_materials": [
+    "The tabletop surface appears beige or light tan and smooth.",
+    "The robot base is made of a transparent material (likely clear acrylic) with visible metal components and wiring mounted on it.",
+    "The two vertical posts on the robot have green flat tops.",
+    "Wheel housings and cylindrical motor-like components are metallic silver or grey.",
+    "The poster has a dark blue header band and predominantly white background with black text; the small Vote sign has an orange strip at the top reading 'Project 15' and a blue lower area with white 'VOTE' text and a white thumbs-up icon.",
+    "Both visible people wear white face masks."
+  ],
+  "uncertainties": [
+    "Many smaller paragraphs and captions on the poster board are too small or blurred to transcribe; only the large headings and the top title are legible.",
+    "The emblem/logo at the top-right of the poster is visible but its internal text/details are not legible.",
+    "Exact identification of the cylindrical components on the robot (motors, actuators, or other) cannot be determined from the image; counts of internal components, connectors and individual circuit elements are uncertain beyond those clearly visible.",
+    "Some parts of the person at left are cropped (only left face, hand and sleeve visible), so the full number of people present in the room cannot be determined from this image alone."
+  ],
+  "visual_facts": [
+    "People: two people are visible. One person at left foreground is partially visible (only left side of face and hands shown). One person in the mid-left background is fully visible from chest up and wearing a mask.",
+    "Robotic device: one small, wheeled robotic assembly sits on the table in the foreground at image right. The assembly is on a transparent rectangular base with visible wiring, circuit boards and four visible wheel assemblies (one at each corner).",
+    "Vertical posts on the robotic assembly: two upright posts with green flat tops are visible on the robot.",
+    "Motors/actuators: at least four cylindrical motor housings or similar cylindrical components are visible attached to the robot base (two on each long side); the exact component type is not labelled in the image.",
+    "Display materials: one free-standing poster/board is visible behind the robot in the mid-background.",
+    "Vote sign: one printed sign on a small stand in front of the poster reads 'Project 15' above a blue area with a thumbs-up icon and the word 'VOTE'.",
+    "The tabletop surface appears beige or light tan and smooth.",
+    "The robot base is made of a transparent material (likely clear acrylic) with visible metal components and wiring mounted on it.",
+    "The two vertical posts on the robot have green flat tops.",
+    "Wheel housings and cylindrical motor-like components are metallic silver or grey.",
+    "The poster has a dark blue header band and predominantly white background with black text; the small Vote sign has an orange strip at the top reading 'Project 15' and a blue lower area with white 'VOTE' text and a white thumbs-up icon.",
+    "Both visible people wear white face masks."
+  ],
+  "id": "c8a95164e3760ad01f39ec41",
+  "sha256": "7e18106f5f9a50e880b417afaae523e7923360338a6eeff404d66e4d86ffc46a",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:04:07.760219+00:00",
+  "input_resolution": [
+    682,
+    1024
+  ],
+  "input_sha256": "b6b9f9125dd87e8d7df97193467cfdf7a6325c099a07b738d3d38a9955a0edab",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauQoQV02euAqXkbW8Q3Ec1CWA0Cc",
+  "usage": {
+    "completion_tokens": 1122,
+    "prompt_tokens": 2045,
+    "total_tokens": 3167,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 550,
+      "engine_ttlt_ms": 8538,
+      "pre_inference_ms": 94,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1092,
+      "service_ttlt_ms": 9074,
+      "user_visible_ttft_ms": 998
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

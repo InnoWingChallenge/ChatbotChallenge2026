@@ -1,0 +1,349 @@
+{
+  "3024e716705c54d7605f5e98": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/3024e716705c54d7605f5e98/prompt.md",
+    "sha256": "6b7d12b6aeab589cbb6eefd21d35e801a86cd9a5910f5fe30b5867e61a601416",
+    "local_path": "submission_repo/data/web_academy/recovered/6b7d12b6aeab589cbb6eefd21d35e801a86cd9a5910f5fe30b5867e61a601416.png",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/04/01.-Design-Build-and-Fly-Team-2023-Poster.png",
+    "retrieved_at": "2026-10-17T09:09:01.801983+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "poster with aircraft photograph",
+    "location": "unknown",
+    "uncertainties": [
+      "Tiny lettering on aircraft components is not legible; no photograph capture place or date is printed."
+    ]
+  },
+  "f73173354e5f6a8b418c9a70": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/f73173354e5f6a8b418c9a70/prompt.md",
+    "sha256": "f439f9e96baca2cab5d2f599cd74e58534833cc1ec9d01e81daa51bbc5c5015d",
+    "local_path": "submission_repo/data/web_academy/recovered/f439f9e96baca2cab5d2f599cd74e58534833cc1ec9d01e81daa51bbc5c5015d.png",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/04.-Design-and-Build-an-Intraocular-Pressure-Controllable-Gadget-Poster-King-Ting-CHEUNG.png",
+    "retrieved_at": "2026-10-17T09:09:03.986910+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "project poster with photographs",
+    "location": "unknown",
+    "uncertainties": [
+      "The seated person is not identified by the printed group-member list."
+    ]
+  },
+  "3197741a8a0745ab07406f6b": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/3197741a8a0745ab07406f6b/prompt.md",
+    "sha256": "5c31c0287fa689214c4b057dd3e32b4a6c8b33aaf7f9f27df4f4c517158294d1",
+    "local_path": "submission_repo/data/web_academy/recovered/5c31c0287fa689214c4b057dd3e32b4a6c8b33aaf7f9f27df4f4c517158294d1.png",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/11/29.-Robota-A1-Poster.png",
+    "retrieved_at": "2026-10-17T09:09:05.629182+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "event poster",
+    "location": "unknown",
+    "uncertainties": [
+      "The poster prints 11.24 without a year or month name; the source filename is not evidence for those details."
+    ]
+  },
+  "75a2bf1d64da73c23786b0f2": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/75a2bf1d64da73c23786b0f2/prompt.md",
+    "sha256": "6c54392b82f94e5360ecac6ba7092b304f4ecdfb0d24726fe5df813fd6f87012",
+    "local_path": "submission_repo/data/web_academy/recovered/6c54392b82f94e5360ecac6ba7092b304f4ecdfb0d24726fe5df813fd6f87012.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2026/02/Robotarmchallengeposter_v5b.jpg",
+    "retrieved_at": "2026-10-17T09:09:05.739721+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "event poster",
+    "location": "Brainstorming Area, Tam Wing Fan Innovation Wing One",
+    "uncertainties": [
+      "Printed dates do not establish current status."
+    ]
+  },
+  "83865e84cfae48a6dd2c2cd9": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/83865e84cfae48a6dd2c2cd9/prompt.md",
+    "sha256": "1d77d9111d84262d666075aa06a8d4ecaa3f57177671ee7dca945b50c0de2bfd",
+    "local_path": "submission_repo/data/web_academy/recovered/1d77d9111d84262d666075aa06a8d4ecaa3f57177671ee7dca945b50c0de2bfd.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2026/02/robotarmchallenge_workshop_poster.jpg",
+    "retrieved_at": "2026-10-17T09:09:06.494158+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "event poster",
+    "location": "Makerspace A, Tam Wing Fan Innovation Wing One",
+    "uncertainties": [
+      "Stylized Chinese characters are not transcribed with confidence. Printed dates are event claims, not proof of present schedule."
+    ]
+  },
+  "8f4f08ec97bb128ebb2c9448": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/8f4f08ec97bb128ebb2c9448/prompt.md",
+    "sha256": "846ee4ba8c790724d056a68ec7673d9b8e0dcdf34ad08648f85d3ba89d28bf0e",
+    "local_path": "submission_repo/data/web_academy/recovered/846ee4ba8c790724d056a68ec7673d9b8e0dcdf34ad08648f85d3ba89d28bf0e.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/09.-BREED-HKUs-quadruped-robot-DoggiE-Poster-Cheuk-Yin-Bryan-LAM-1.jpg",
+    "retrieved_at": "2026-10-17T09:09:08.923122+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "technical project poster",
+    "location": "unknown",
+    "uncertainties": [
+      "Dense technical paragraphs and small embedded screenshots are not fully transcribed; the poster's specifications are printed claims, not visually measured properties."
+    ]
+  },
+  "dce95cf4211dc0ebcb0bdd96": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/dce95cf4211dc0ebcb0bdd96/prompt.md",
+    "sha256": "6daff5abbb67dece14f0991d692a0837003aba2027c03ee9f192365a458dfd4d",
+    "local_path": "submission_repo/data/web_academy/recovered/6daff5abbb67dece14f0991d692a0837003aba2027c03ee9f192365a458dfd4d.png",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/01/Resized-Poster-for-Unleashing-the-Power-of-AI-and-Robots.png",
+    "retrieved_at": "2026-10-17T09:09:10.685166+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "event poster with illustration",
+    "location": "Brainstorming Area, Tam Wing Fan Innovation Wing One",
+    "uncertainties": [
+      "The printed weekday/date pairing is preserved as printed and not verified against a calendar. The illustration does not document a real room."
+    ]
+  },
+  "1caf4c932d22c001584dcee3": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/1caf4c932d22c001584dcee3/prompt.md",
+    "sha256": "8324a9b2e2c6a45156d989d39acc404e5adff5ec2eb33d33416be0da4f20002b",
+    "local_path": "submission_repo/data/web_academy/recovered/8324a9b2e2c6a45156d989d39acc404e5adff5ec2eb33d33416be0da4f20002b.png",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/03/Poster-of-Inno-Show-Call-for-Project-V2-Resize.png",
+    "retrieved_at": "2026-10-17T09:09:10.887347+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "event poster",
+    "location": "Tam Wing Fan Innovation Wing One",
+    "uncertainties": [
+      "QR targets are not inferred from the graphic; printed dates do not prove current status."
+    ]
+  },
+  "0450fb0141500e55757e98e7": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/0450fb0141500e55757e98e7/prompt.md",
+    "sha256": "fd7890d697b3839d12e6a7343a6908eee31d15648e711cd98540b13323e8d7c5",
+    "local_path": "submission_repo/data/web_academy/recovered/fd7890d697b3839d12e6a7343a6908eee31d15648e711cd98540b13323e8d7c5.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/04/COMP3329_InnoShow_Poster-RACHAIKA-VERMA.jpg",
+    "retrieved_at": "2026-10-17T09:09:13.750728+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "student project poster with game screenshots",
+    "location": "unknown",
+    "uncertainties": [
+      "Screenshot overlay text is partly cropped or too small for complete transcription; student names are not visible."
+    ]
+  },
+  "204f6b406f14c74f78571aac": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/204f6b406f14c74f78571aac/prompt.md",
+    "sha256": "fa4958eca14155469a61ac200144a3b13d1b40915c9886587943fd9e4525d4ce",
+    "local_path": "submission_repo/data/web_academy/recovered/fa4958eca14155469a61ac200144a3b13d1b40915c9886587943fd9e4525d4ce.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/04/POSTER_INNOSHOW-Shoyu-Kaneko-2.jpg",
+    "retrieved_at": "2026-10-17T09:09:14.253626+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "technical project poster",
+    "location": "unknown",
+    "uncertainties": [
+      "Dense body copy, diagrams, comparison table, and tiny device labels cannot be reliably transcribed in full at preview resolution; specifications are printed claims."
+    ]
+  },
+  "92d23cb2026e981d614bec9b": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/92d23cb2026e981d614bec9b/prompt.md",
+    "sha256": "4996c16b9a0e5e5901a72e17498531bc8f37c06b7395d6a95c6eb567524f4a10",
+    "local_path": "submission_repo/data/web_academy/recovered/4996c16b9a0e5e5901a72e17498531bc8f37c06b7395d6a95c6eb567524f4a10.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/App-6_FINAL_POSTER_DESIGN-Christian-Ongkowijono-scaled.jpeg",
+    "retrieved_at": "2026-10-17T09:09:01.396153+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "student engineering project poster",
+    "location": "Unknown from the image; the poster has no room or capture location.",
+    "uncertainties": [
+      "Fine print and small diagram labels are not reliably legible at preview scale.",
+      "The QR code contents are not read."
+    ]
+  },
+  "13f90d178de56d8fd69def8b": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/13f90d178de56d8fd69def8b/prompt.md",
+    "sha256": "e29ba7309e50621fe3e1cb7f0a4ed23b6106a4c27181307726b7c7a2d930553c",
+    "local_path": "submission_repo/data/web_academy/recovered/e29ba7309e50621fe3e1cb7f0a4ed23b6106a4c27181307726b7c7a2d930553c.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/07/playchesswithrobot-poster.jpg",
+    "retrieved_at": "2026-10-17T09:09:04.667237+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "student project poster",
+    "location": "Unknown from the image; the venue or capture room is not stated.",
+    "uncertainties": [
+      "Some small explanatory text, chart labels, and footer text are not legible enough to transcribe exactly.",
+      "The individual chess-piece counts in embedded images are not reliably countable."
+    ]
+  },
+  "64168bb7caa4aa8f41bfe6a0": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/64168bb7caa4aa8f41bfe6a0/prompt.md",
+    "sha256": "3230573d750d6f7aa47662a02cf724100d8b97b5f31ba3faac7b1abff675ecab",
+    "local_path": "submission_repo/data/web_academy/recovered/3230573d750d6f7aa47662a02cf724100d8b97b5f31ba3faac7b1abff675ecab.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/05/19A.-Smart-Soccer-Robot-i-Poster-v2-scaled.jpg",
+    "retrieved_at": "2026-10-17T09:09:05.635160+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "student project poster",
+    "location": "Unknown from the image; this is a poster and it gives no capture location.",
+    "uncertainties": [
+      "No author, date, or capture location is legible in this image.",
+      "QR-code contents are not read."
+    ]
+  },
+  "77cc3e542e8f7f62850a5fa0": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/77cc3e542e8f7f62850a5fa0/prompt.md",
+    "sha256": "3a6da2b9758544ecd1bfdc0e5775cde93fa530b02096f433543c6d78b999795b",
+    "local_path": "submission_repo/data/web_academy/recovered/3a6da2b9758544ecd1bfdc0e5775cde93fa530b02096f433543c6d78b999795b.png",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/07/20240730_Poster-for-Advanced-Level-Firmware-Programming-for-Legged-Robot-Resized.png",
+    "retrieved_at": "2026-10-17T09:09:06.659534+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "workshop announcement poster",
+    "location": "The printed event venue is “Tam Wing Fan Innovation Wing One”; this does not establish where the poster image itself was captured.",
+    "uncertainties": [
+      "The year is not printed next to the July dates in the visible poster.",
+      "QR-code contents are not read."
+    ]
+  },
+  "8e29f45a80d619fda4378a73": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/8e29f45a80d619fda4378a73/prompt.md",
+    "sha256": "70ad99c6b34e18b308b1c07ff73be74617b5ab05ec72250858f292bab02de310",
+    "local_path": "submission_repo/data/web_academy/recovered/70ad99c6b34e18b308b1c07ff73be74617b5ab05ec72250858f292bab02de310.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/10.-3D-printed-robot-dog-walking-on-terrain-for-STEM-education-Poster-Ziyue-Xu-scaled.jpg",
+    "retrieved_at": "2026-10-17T09:09:07.550313+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "student project poster",
+    "location": "Unknown from the image; no room or capture location is stated.",
+    "uncertainties": [
+      "Many small captions and diagram labels are unreadable at preview scale.",
+      "The embedded photographs show separate scenes; they do not establish the current physical state or location of the robot."
+    ]
+  },
+  "dbb08a382bd737cc5a130303": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/dbb08a382bd737cc5a130303/prompt.md",
+    "sha256": "80ba57645ce5b5f7f073e891184c8c7c3be7d31115835421df56b3ca1000e63a",
+    "local_path": "submission_repo/data/web_academy/recovered/80ba57645ce5b5f7f073e891184c8c7c3be7d31115835421df56b3ca1000e63a.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/01/Smart-Soccer-Robot-POSTER.jpg",
+    "retrieved_at": "2026-10-17T09:09:09.766436+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "student project poster",
+    "location": "Unknown from the image; no room or poster capture location is given.",
+    "uncertainties": [
+      "The smaller display digits in the robot photograph are not readable as a specific number.",
+      "No names or date are visible."
+    ]
+  },
+  "0d0d0515f867eafb1711116c": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/0d0d0515f867eafb1711116c/prompt.md",
+    "sha256": "956c2f1817b20e2e2db5faad8b16d548a1ba327c4b6aaabafaa88397921fae9b",
+    "local_path": "submission_repo/data/web_academy/recovered/956c2f1817b20e2e2db5faad8b16d548a1ba327c4b6aaabafaa88397921fae9b.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/04/07.-LEAPSlocal-environment-alliance-project-series-Poster.jpg",
+    "retrieved_at": "2026-10-17T09:09:12.562636+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "research project poster",
+    "location": "Unknown from the image; no physical capture location is given.",
+    "uncertainties": [
+      "Dense paragraph text and small table entries are only partly legible in the preview; no unreadable wording has been reconstructed.",
+      "Printed year “2023” is visible but is not a capture date."
+    ]
+  },
+  "f864753c0f081ab663d281ad": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/f864753c0f081ab663d281ad/prompt.md",
+    "sha256": "c8f9ae61d81350eb82320511407d9116e54d171571952b52f8c7742307e3b48c",
+    "local_path": "submission_repo/data/web_academy/recovered/c8f9ae61d81350eb82320511407d9116e54d171571952b52f8c7742307e3b48c.png",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/03/The-8th-Engineering-Inno-Show-Poster-Call-for-projects.png",
+    "retrieved_at": "2026-10-17T09:09:14.566710+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "event announcement poster",
+    "location": "The poster describes the event venue as “Tam Wing Fan Innovation Wing One”; this does not establish where the image was captured.",
+    "uncertainties": [
+      "The silhouettes are stylized and cannot be counted reliably.",
+      "QR-code contents are not read."
+    ]
+  },
+  "1df53e334bc583f4f50c2f99": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/1df53e334bc583f4f50c2f99/prompt.md",
+    "sha256": "e6e997c3dd327e18a462ea52856eb3ce900b3649ceebe763b620eae6741af209",
+    "local_path": "submission_repo/data/web_academy/recovered/e6e997c3dd327e18a462ea52856eb3ce900b3649ceebe763b620eae6741af209.png",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2019/04/InnoShow-Poster-Datax-2.png",
+    "retrieved_at": "2026-10-17T09:09:13.362544+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "project presentation poster",
+    "location": "Unknown from the image. Logos are displayed, but no capture room or venue is identified.",
+    "uncertainties": [
+      "Text on the phone screen and several small logo wordmarks are too small for reliable transcription.",
+      "Logos are not used to infer a physical location."
+    ]
+  },
+  "25ba36d8165967cdd7141ca9": {
+    "status": "model_described_pending_full_review",
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "description_path": "prompt_from_web/innoacademy/pilot_descriptions/25ba36d8165967cdd7141ca9/prompt.md",
+    "sha256": "b16d3eb0d48ea2236cf1f325fdb5c922e6c4930e713f945b73ea760a3ba680cd",
+    "local_path": "submission_repo/data/web_academy/recovered/b16d3eb0d48ea2236cf1f325fdb5c922e6c4930e713f945b73ea760a3ba680cd.jpg",
+    "url": "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Snake-4D-Poster-01-for-InnoShow.jpg",
+    "retrieved_at": "2026-10-17T09:09:14.552121+00:00",
+    "exported_at": "2026-10-17T09:14:28.210495+00:00",
+    "capture_date": "unknown",
+    "type": "project promotional poster",
+    "location": "Unknown from the image; no room or capture location is stated.",
+    "uncertainties": []
+  }
+}

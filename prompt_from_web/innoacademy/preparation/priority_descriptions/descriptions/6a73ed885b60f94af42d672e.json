@@ -1,0 +1,108 @@
+{
+  "title": "Classroom with projector screen, multiple student monitors and presenter",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "People: At least 8 people are visible: one standing presenter at the front-right of the projected screen, and at least seven seated people visible in the rows (several shown from the back or in profile). Some faces are partially obscured or turned away.",
+    "Projector and screen: One large projected screen is visible on the front wall showing a slide.",
+    "Desktop monitors: At least 8 individual computer monitors are visible in the photographed scene (several in the foreground, a black monitor center-left, multiple monitors along the right row). Some monitors are partially cropped by the image edge.",
+    "Computer tower: One PC tower with purple interior illumination is visible near the center-right of the image behind a seated person.",
+    "Whiteboards: At least two whiteboard panels are visible on the front and side walls (one left of the projector screen, one or more panels on the right wall).",
+    "Tables and chairs: Multiple student desks/tables and chairs are present; individual chairs in foreground include a gray chair and a red chair visible at right.",
+    "Printed signage: A small tent card or sign is visible on the foreground desk with a red arrow graphic; it is physically present on the desk in front of the nearest monitor."
+  ],
+  "visible_text": [
+    "Example: Introducing how deep could ocean be? (for introducing virtual ideas)",
+    "Keywords: Earth surface",
+    "Keywords: Planet",
+    "Keywords: Ocean depth",
+    "Please Sign Your Name",
+    "search.microsoft.com/ [unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The large projected screen occupies the central portion of the front wall; the standing presenter is positioned to the right of the screen and is facing left toward the projection.",
+    "Rows of computer monitors and seated people are between the camera and the projection screen; a bank of monitors runs along the right side wall where several students are seated facing the monitors.",
+    "A whiteboard panel is located on the left side of the front wall adjacent to the projection screen.",
+    "A PC tower with purple illumination sits on a desk slightly right of center in front of the projection and behind seated users.",
+    "A tent card or small sign is on the foreground desk directly in front of the nearest monitor and partially blocks the monitor base from view."
+  ],
+  "colours_and_materials": [
+    "Walls: mostly white with vertical panels in blue and pale green colors on the right-side wall.",
+    "Ceiling: white acoustic ceiling tiles with recessed rectangular lights.",
+    "PC lighting: a computer tower with visible purple interior lighting.",
+    "Chairs: visible chairs include a gray chair in the foreground and a red chair at the far right.",
+    "Desks: light-colored (beige or white) tabletops are visible in the foreground and along the rows."
+  ],
+  "uncertainties": [
+    "Exact counts of people and monitors are limited by partial occlusion and cropping; the phrase 'at least' is used for counts that can be reliably observed.",
+    "Several small handwritten items on the left whiteboard and smaller text on the tent card are partially legible; one whiteboard item is transcribed as 'search.microsoft.com/ [unreadable]' but the remainder of that line is unreadable.",
+    "Some projected slide text is faint and low contrast; the transcription captures the largest, clearest headings but finer print on the slide is unreadable in the image.",
+    "The final entry '[unreadable]' in visible_text reflects additional small text in the scene that could not be confidently read from this view."
+  ],
+  "visual_facts": [
+    "People: At least 8 people are visible: one standing presenter at the front-right of the projected screen, and at least seven seated people visible in the rows (several shown from the back or in profile). Some faces are partially obscured or turned away.",
+    "Projector and screen: One large projected screen is visible on the front wall showing a slide.",
+    "Desktop monitors: At least 8 individual computer monitors are visible in the photographed scene (several in the foreground, a black monitor center-left, multiple monitors along the right row). Some monitors are partially cropped by the image edge.",
+    "Computer tower: One PC tower with purple interior illumination is visible near the center-right of the image behind a seated person.",
+    "Whiteboards: At least two whiteboard panels are visible on the front and side walls (one left of the projector screen, one or more panels on the right wall).",
+    "Tables and chairs: Multiple student desks/tables and chairs are present; individual chairs in foreground include a gray chair and a red chair visible at right.",
+    "Printed signage: A small tent card or sign is visible on the foreground desk with a red arrow graphic; it is physically present on the desk in front of the nearest monitor.",
+    "Walls: mostly white with vertical panels in blue and pale green colors on the right-side wall.",
+    "Ceiling: white acoustic ceiling tiles with recessed rectangular lights.",
+    "PC lighting: a computer tower with visible purple interior lighting.",
+    "Chairs: visible chairs include a gray chair in the foreground and a red chair at the far right.",
+    "Desks: light-colored (beige or white) tabletops are visible in the foreground and along the rows."
+  ],
+  "id": "6a73ed885b60f94af42d672e",
+  "sha256": "4464450d2af1bcd1cf5ab6af74bffd9e8f00e93585c6aaac6be869d625825afa",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:44:31.705031+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "ee6a7b62b0c840910cb0973e93242a81b00fa4e51e24505e383f729b917d5149",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau7pRMqShRXAY0uRnNpav4mZ0PzP",
+  "usage": {
+    "completion_tokens": 1059,
+    "prompt_tokens": 2266,
+    "total_tokens": 3325,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1194,
+      "engine_ttlt_ms": 8611,
+      "pre_inference_ms": 328,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2077,
+      "service_ttlt_ms": 9489,
+      "user_visible_ttft_ms": 1749
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,162 @@
+{
+  "92d23cb2026e981d614bec9b": {
+    "title": "SMART PRODUCT DEVELOPMENT — Automated Guided Vehicle",
+    "type": "student engineering project poster",
+    "location": "Unknown from the image; the poster has no room or capture location.",
+    "paragraphs": [
+      "Location: No room name or room number is visible. The image is a designed poster, not a photograph establishing a capture location.",
+      "Objects and counts: The poster contains one large photograph of a small green, tram-shaped automated guided vehicle (AGV), one hand-drawn concept sketch, several component photographs, a control-flow diagram and CAD renderings including an exploded view. The poster describes the AGV as a miniature guided vehicle modeled after Hong Kong trams. A printed sequence names “3D Printing for the main body,” “Laser Cutting for Acrylic-based part,” and “Water Jet Cutting for Metal-based part.” These are poster illustrations and text, not a count of objects in a photographed room.",
+      "Visible text: The main heading reads “SMART PRODUCT DEVELOPMENT” with “Automated Guided Vehicle” beneath it; the upper right reads “IMSE2121 - Engineering Training.” Other legible headings include “What is Our Product?”, “Objective and Target Audience”, “Design and Manufacturing of Smart AGV”, “Smart Design Feature”, “Smart Sensors and Control”, “Future Design Development”, “The Logic Flow of the AGV's Control Program”, and “This is our AGV's SolidWorks model!” The contact box names “Supervisor: Dr. H.H. Cheung”, “Group Leader: Christian Ongkowijono”, “Email: u3555602@connect.hku.hk”, “Contact: +852 5937 6040”, and group members “Leung Yi Ching”, “Kshitij Arora”, “Wong Chau Yiu”, and “Lee Ka Hei Nicole”. Several small labels and body-text details are too small to transcribe reliably here.",
+      "Spatial relationships: The poster is portrait-oriented. The product photograph occupies the upper right; explanatory text and a sketch run down the left. The manufacturing list and a small feature photograph sit in the middle-left, with sensor illustrations stacked farther down the left. The control logic and CAD views occupy the lower right. A QR code sits near the bottom center beside a prompt to scan it.",
+      "Distinctive colours and materials: The poster background is dark blue with peach and light-blue lettering and orange outlines. The pictured vehicle has a green printed-looking body, dark wheels, and circular sensor openings; the material is not established solely by appearance. The CAD illustrations use green, gray, and blue."
+    ],
+    "uncertainties": ["Fine print and small diagram labels are not reliably legible at preview scale.", "The QR code contents are not read."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "13f90d178de56d8fd69def8b": {
+    "title": "Playing Chess With A Robotic Arm",
+    "type": "student project poster",
+    "location": "Unknown from the image; the venue or capture room is not stated.",
+    "paragraphs": [
+      "Location: No room or capture location is visible on this poster.",
+      "Objects and counts: It is a technical poster with diagrams and small embedded images, rather than a room photograph. It depicts a robotic arm, chessboards, a phone, hardware components, plots, flowcharts and a minimax decision tree. The hardware list visibly includes an Arduino Mega 2560, RAMPS 1.4 Board, A4988 motor drivers, 3 stepper motors, a Bluetooth module, and a servo motor. These are described components; the small illustrations do not establish physical quantities beyond the written list.",
+      "Visible text: The title reads “Playing Chess With A Robotic Arm” The header names “Group: FYP19004”, “Wang Yunhai, William”, “Supervisor: Dr. Chan K P”, and “Co-supervisor: David Lee”. Legible section headings include “1. Introduction”, “2. Interface Overview”, “3. System overview”, “4. Visual Recognition”, “5. Hardware”, “6. MiniMax + α-β Pruning”, “Evaluation”, “Piece Location and Color”, “Board Lines and Corners”, “Model design”, “Move”, and “Limitation and Future Work”. In the evaluation table, the row labels include “AI's difficulty”, “Total rounds”, “Our AI wins”, “Online AI wins”, and “draw”; the three difficulty columns show total rounds 10, 10, 10; Our AI wins 10, 5, 0; Online AI wins 0, 4, 10; and draw 0, 1, 0. Smaller explanatory copy is not fully transcribed.",
+      "Spatial relationships: A wide white poster sits within a dark-blue border. The interface illustration and numbered sequence are on the left; visual recognition and move analysis are in the center; hardware and model design are at upper right. A decision tree and evaluation table fill the middle-right. A horizontal series of blue arrows and image panels runs along the bottom.",
+      "Distinctive colours and materials: The layout uses dark and medium blue title bars, white panels, green numbered circles, and small teal table cells. The poster does not provide dependable material descriptions for the pictured hardware."
+    ],
+    "uncertainties": ["Some small explanatory text, chart labels, and footer text are not legible enough to transcribe exactly.", "The individual chess-piece counts in embedded images are not reliably countable."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "64168bb7caa4aa8f41bfe6a0": {
+    "title": "Smart Soccer Robot",
+    "type": "student project poster",
+    "location": "Unknown from the image; this is a poster and it gives no capture location.",
+    "paragraphs": [
+      "Location: No room name or number is shown.",
+      "Objects and counts: The poster has a photograph across its top showing a digital display with red “30” digits, plus a large exploded CAD illustration of a wheeled robot below. Its labels identify “1 Intelligent chip with bluetooth technology”, “2 Digital tube electronic module”, “3 Battery holder”, “4 Motors”, “5 Remote sensing control module”, and “6 3D-Printed plastic wheels”. These are component labels in a diagram, not a count of parts physically present in a room. Two QR-code graphics appear at the bottom.",
+      "Visible text: The title is “Smart Soccer Robot”. The numbered component labels are as transcribed above. The right-hand heading reads “Briefly Description”. Its readable text says: “The project’s goal is to build a football robot using provided components and parts such as intelligent chips and motors, as well as other available technology such as a 3-D printer and a laser cutter.” It continues that the robots develop capabilities “such as song-playing, light control, self-assembly, programming potential, and power control,” and mentions “individual wheel control.” The lower text says, “You can scan the QR-codes on the left side for more information about our project!”",
+      "Spatial relationships: A diagonal division separates the pale left component area from a textured dark-blue description panel on the right. The exploded robot assembly is centered in the left half with numbered labels around it. The top photo spans the upper area. Two QR codes sit along the bottom, one circular-framed at left and one square-framed nearer the center.",
+      "Distinctive colours and materials: The poster uses pale blue, white, and dark navy with white serif lettering. The CAD components are mostly gray-blue. The upper photo shows a beige surface and a black electronic display with red digits. The poster calls the wheels 3D-printed plastic."
+    ],
+    "uncertainties": ["No author, date, or capture location is legible in this image.", "QR-code contents are not read."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "77cc3e542e8f7f62850a5fa0": {
+    "title": "Advanced Level Firmware Programming for Legged Robot",
+    "type": "workshop announcement poster",
+    "location": "The printed event venue is “Tam Wing Fan Innovation Wing One”; this does not establish where the poster image itself was captured.",
+    "paragraphs": [
+      "Location: The poster prints “Tam Wing Fan Innovation Wing One” as the event venue. No room number is shown, and this printed venue is not evidence of the photograph's capture location.",
+      "Objects and counts: The poster contains a large product image of a gray multi-legged robot with visible wiring and sensor-like circular units on its front. It also contains two QR-code graphics, one labeled “ROBOT DEMO” and the other “REGISTRATION AND DETAILS”. These are designed poster elements; the robot is pictured, not present in a documented photographed room.",
+      "Visible text: The main heading reads “Advanced Level Firmware Programming for LEGGED ROBOT”. The text describes a “two-day workshop”. The schedule shows “Jul 30” — “Robot Building” and “Jul 31” — “Robot Programming”. The body names “inverse kinematics, concurrent control of actuators, and object-oriented approach for robotics”; it says participants can build a legged robot and covers programming, implementation, and control. A red notice reads “Students are required to have knowledge in C/C++ programming, PlatformIO development platform, and Arduino API Framework.” The time is “2:30-5:00PM”. A footer says “The activity is supported by Tam Wing Fan Innovation Fund and Philomathia Foundation Innovation Fund.” The Innovation Academy mark includes “Faculty of Engineering, HKU”.",
+      "Spatial relationships: The event title stretches across the upper half. Two date blocks align down the left, while workshop description fills the upper-right. The robot image spans the lower-left and center. The time and printed venue sit to its right; QR codes are at the bottom corners.",
+      "Distinctive colours and materials: The poster has a dark navy and electric-blue background with cyan circuitry motifs, white title lettering, magenta date badges, and cream schedule bars. The robot appears gray with orange and black wires and red-orange front parts; exact materials are not stated."
+    ],
+    "uncertainties": ["The year is not printed next to the July dates in the visible poster.", "QR-code contents are not read."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "8e29f45a80d619fda4378a73": {
+    "title": "3D Printed Robot Dog Walking on Terrain for STEM Education",
+    "type": "student project poster",
+    "location": "Unknown from the image; no room or capture location is stated.",
+    "paragraphs": [
+      "Location: No physical location appears as a room name or number. The collage includes photos, but none establishes the capture site.",
+      "Objects and counts: The poster is a multi-panel technical collage. It shows diagrams of a quadruped robot, three small example quadruped-robot photographs, board and sensor illustrations, control diagrams, and multiple embedded demonstration photos of a small blue robot dog on a floor. The top-right box names “XU Ziyue” and “BEng(CS) 3035323074”; it lists supervisors “Dr. Chim T W” and “Mr. David Lee”. The image contains many small embedded objects, so no reliable overall count is claimed.",
+      "Visible text: The large heading reads “3D PRINTER ROBOT DOG” and “WALKING ON TERRAIN FOR STEM EDUCATION”; above it is “PROJECT FROM CS DEPARTMENT”. Visible sections include “Quadruped Robot”, “STEM education”, “Project Objective”, “Integration of ESP32 and MPU6050”, “Implementation of self balance function”, “Apply the self balance function to the motion state”, and “STEM education materials”. The objective lines read “1. Implement Self-balance function and enhancing the walking of existing robot dog kit” and “2. Produce the content suitable for STEM education based on the development process”. The poster spells the sensor model “MPU6050” and describes it as a “6-axis inertial measurement unit (IMU)”. Small copy and many labels are too fine to transcribe reliably.",
+      "Spatial relationships: Panels are arranged in a dense grid on a white background with rounded borders. The quadruped introduction and STEM illustrations run across the top. Objectives form a horizontal band below. The ESP32/MPU6050 and self-balance implementation panels occupy the middle-left, while educational-material content is at middle-right. A row of four demo sequences spans the bottom.",
+      "Distinctive colours and materials: Blue handwritten-style headings and black italic body text dominate. Thin cyan, yellow, and magenta accents frame panels. Embedded robot photos show blue and orange robot parts; component images include dark circuit boards. Materials cannot be determined reliably from the collage."
+    ],
+    "uncertainties": ["Many small captions and diagram labels are unreadable at preview scale.", "The embedded photographs show separate scenes; they do not establish the current physical state or location of the robot."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "dbb08a382bd737cc5a130303": {
+    "title": "Smart Soccer Robot",
+    "type": "student project poster",
+    "location": "Unknown from the image; no room or poster capture location is given.",
+    "paragraphs": [
+      "Location: There is no visible room name or number. A central embedded photograph shows a robot on a tabletop, but does not identify where it was photographed.",
+      "Objects and counts: The central photograph depicts one box-shaped wheeled robot with a pale wood-colored body, two visible side wheels, circular openings on its side, and a digital display behind a clear-looking front panel. Decorative cartoon robots and stars are printed around it. The poster's upper-right text reads “ENGG 1320” and “GROUP 1B-3”. The surrounding graphics are illustrations, not additional physical robots in the central photograph.",
+      "Visible text: The curved heading reads “Our Latest Invention!! Smart Soccer Robot”. A starburst says “Best Choice for soccer competition!” Below the robot photograph is “Design Innovated from Modern Vans”. A large lower heading reads “Technical Components featured in our product”, followed by “~ Laser Cutting for Car Body”, “~ 3D Printing for Car Wheels”, and “~ MBot and Arduino Program for Car Controlling”. A green shape says “Support our Product!!!”.",
+      "Spatial relationships: The robot photograph is centered in the upper-middle. The curved script title runs above it; the competition claim is on a yellow star at left. The design phrase appears beneath the photo. The technical-components heading and list fill the bottom-left area, with the green support callout at bottom-right. Cartoon robot artwork is cropped along both side edges.",
+      "Distinctive colours and materials: The poster background is pale cyan with yellow, green, and blue cartoon accents. The photographed robot has tan wood-like panels, dark edging, black wheels, and a clear-looking front window; the apparent body material is not confirmed by appearance alone. The poster explicitly mentions laser cutting and 3D printing."
+    ],
+    "uncertainties": ["The smaller display digits in the robot photograph are not readable as a specific number.", "No names or date are visible."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "0d0d0515f867eafb1711116c": {
+    "title": "LEAPS “LOCAL ENVIRONMENT ALLIANCE” PROJECT SERIES",
+    "type": "research project poster",
+    "location": "Unknown from the image; no physical capture location is given.",
+    "paragraphs": [
+      "Location: The poster refers to Hong Kong and the local Pearl River Delta region in its text, but it does not show a room or establish where the poster image was captured.",
+      "Objects and counts: This is a dense text-and-diagram poster, not a room photograph. It contains two main subproject sections, a plasmid-style circular diagram, process illustrations, a comparison table, reactor schematics, and small biological imagery. The upper band includes HKU and iGEM marks. The bottom includes social and email icons.",
+      "Visible text: The header reads HKU IGEM 2023; the main title is LEAPS and \"LOCAL ENVIRONMENT ALLIANCE\" PROJECT SERIES. The sections read # INTRODUCTION, # FINISHED SUBPROJECT: AMPed, and # UPCOMING SUBPROJECT: B-MAT SYSTEM. The introduction states the project series has two subprojects and continues work on a B-MAT system. The AMPed copy mentions antimicrobial resistance, CecB, and Chlorella vulgaris. The B-MAT text discusses battery recycling and bioleaching. The comparison table headings include method comparison, hydrometallurgy pyrometallurgy, traditional bioleaching, and B-MAT bioleaching; rows include energy/cost, time, ecology effect, and recovery rate (mainly lithium). Footer text reads @HKU.IGEM and IGEMHKU@HKU.HK. Many paragraphs are too small for dependable full transcription.",
+      "Spatial relationships: A cream header strip runs across the top. The dark-green body begins with the large LEAPS title and introduction. The completed AMPed project occupies the upper-middle with diagrams to the left and explanatory copy to the right. The upcoming B-MAT section fills the lower half, with prose at left and comparison table and process figures at right. A cream footer strip spans the bottom.",
+      "Distinctive colours and materials: The poster uses a deep green background, cream panels and lettering, and dark green body copy. Diagrams use muted red, gray, and green. It is a graphic poster; physical materials are not applicable."
+    ],
+    "uncertainties": ["Dense paragraph text and small table entries are only partly legible in the preview; no unreadable wording has been reconstructed.", "Printed year “2023” is visible but is not a capture date."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "f864753c0f081ab663d281ad": {
+    "title": "The 8th Engineering Inno Show — Call for Student Projects",
+    "type": "event announcement poster",
+    "location": "The poster describes the event venue as “Tam Wing Fan Innovation Wing One”; this does not establish where the image was captured.",
+    "paragraphs": [
+      "Location: The lower-right text gives the event venue as “Tam Wing Fan Innovation Wing One”. No room number is shown. This printed venue is not proof of the poster's capture location.",
+      "Objects and counts: The graphic shows a luminous network globe, a row of black human silhouettes along the bottom, two QR-code graphics, a trophy icon, and a lightbulb icon. The people are silhouettes in the poster artwork, not photographed attendees; their exact number is not specified.",
+      "Visible text: The poster reads “The 8th Engineering Inno Show”, “Together, we innovate!”, and “Call for Student Projects”. It gives “Registration Deadline : 12:00 noon, April 19, 2023 (Wed)”. Two benefit statements read “An opportunity to win the Inno Show Award for support to participate in international competitions.” and “Advice and suggestions from peers and academic staff for further development.” A lower-right block headed “About the Engineering Inno Show” says it is “a showcase carnival where undergraduates can illustrate and demonstrate their innovative design projects on April 28, 2023 (Fri) at 2-5pm at Tam Wing Fan Innovation Wing One.” A footer says “The activity is supported by Tam Wing Fan Innovation Fund and Philomathia Foundation Innovation Fund.” The poster also shows “https://innoacademy.engg.hku.hk”.",
+      "Spatial relationships: The headline and call for projects sit across the top over the globe graphic. The deadline is centered below. Two benefit lines cross the middle. Along the bottom, silhouettes span most of the width; the project-registration QR code is at lower left, while the event description and second QR code are at lower right.",
+      "Distinctive colours and materials: The background is dark navy, with a white glowing globe, yellow headline and date text, white information strips, and black silhouettes. Trophy and lightbulb icons are yellow. The image is digitally designed, with no physical material descriptions."
+    ],
+    "uncertainties": ["The silhouettes are stylized and cannot be counted reliably.", "QR-code contents are not read."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "1df53e334bc583f4f50c2f99": {
+    "title": "Datax",
+    "type": "project presentation poster",
+    "location": "Unknown from the image. Logos are displayed, but no capture room or venue is identified.",
+    "paragraphs": [
+      "Location: No room name or room number is visible. The image is a designed poster.",
+      "Objects and counts: The poster includes one smartphone mockup showing a dark interface, a vertical collection/validation flow, four feature panels in a two-by-two arrangement, and a row of institutional or company logos along the bottom. The phone screen contains interface text and a circular yellow record button; it is a graphic rendering, not a photographed phone in a room.",
+      "Visible text: The main brand reads “Datax”. The yellow description reads “Data crowdsourcing platform for Businesses to collect & enrich data Through public contributors”. A list includes “mobile specific data”, “worldwide contributor base”, “fitting global and local researches”, “consensus-based quality control”, “greater data diversity”, “demographic attributes”, and “streamlined validation”. A panel titled “Sample Case” names “Cantonese AI Development”. Its stages are “Collection” and “Validation”; the bullets describe requester-provided texts and instructions, contributors recording and submitting voice recordings, requester review, distribution to other workers, collective verification, and requester acceptance. The panel “Why Datax?” includes “Greater Accent Diversity”, “Better Data Quality”, “Greater Contextual Diversity”, and “Shorter Collection Time”. Other visible feature headings are “Image & Speech Collection”, “Sentiment Evaluation”, and “Classification & Annotation”. The lower-left text says “learn more at datax.io”.",
+      "Spatial relationships: A teal gradient fills the poster. The Datax name and platform description are on the left. The sample-case process and phone mockup occupy the upper-right. The “Why Datax?” panel sits below them, followed by three feature panels in the lower-right. Logos form a strip along the bottom edge.",
+      "Distinctive colours and materials: The poster uses teal and blue-green backgrounds, yellow emphasis text, white type, and gray-blue panels. The phone mockup has a blue casing and black screen. No physical material can be established from this graphic."
+    ],
+    "uncertainties": ["Text on the phone screen and several small logo wordmarks are too small for reliable transcription.", "Logos are not used to infer a physical location."],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  },
+  "25ba36d8165967cdd7141ca9": {
+    "title": "SNAKE 4D",
+    "type": "project promotional poster",
+    "location": "Unknown from the image; no room or capture location is stated.",
+    "paragraphs": [
+      "Location: No physical location is shown.",
+      "Objects and counts: The design depicts two block-like game pieces, one red and one green, on a dark-blue circular field crossed by broad red and green bands. The blocks are rendered graphics rather than physical objects in a photographed room. No people or equipment are shown.",
+      "Visible text: The upper line reads “What if snake was not stuck in 2D?” The large title is “SNAKE 4D”. The copy below says “The classic snake game we all knew and loved” and “Now playable in higher dimensions”. A final line asks “Are you up for the challenge?” The bottom lines read “Available for Android: bit.ly/Snake4D-Android” and “Online Demo for Desktop Browsers: simmer.io/@GJTiquia/snake-4d”.",
+      "Spatial relationships: The question is centered above the large circular game illustration. “SNAKE 4D” sits in a wide pale band across the middle. Two descriptive lines and a challenge question follow below, with the Android and desktop-demo links in a narrow footer band.",
+      "Distinctive colours and materials: The poster uses a warm yellow-orange background, crossing thick green and red diagonal bands, a dark navy circle, and solid red and green blocks. The blocks are simple digital shapes, not evidence of real materials."
+    ],
+    "uncertainties": [],
+    "model": "gpt-6-luna",
+    "reasoning_effort": "low",
+    "viewed": true
+  }
+}

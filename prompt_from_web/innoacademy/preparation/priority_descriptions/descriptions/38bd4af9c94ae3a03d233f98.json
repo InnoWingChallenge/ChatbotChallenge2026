@@ -1,0 +1,103 @@
+{
+  "title": "Three people examining a cable bundle in a room with frosted glass partition",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Three people are visible and individually distinguishable in the photographed scene: one person at left wearing a white polo with horizontal thin stripes and purple collar (standing, facing center), one person in the centre wearing a grey T-shirt (standing, facing the person at left and holding cables), and one person at right wearing a white short-sleeve shirt (standing with arms crossed).",
+    "A bundle of cables or wires is held by the central person and the left person; the bundle is clearly visible in the centre of the image.",
+    "One tall black soft case or bag stands propped against the cabinet at right (appears like a guitar or equipment bag).",
+    "One small tripod or camera support is visible at lower left corner of the image (partially visible).",
+    "One white cabinet or set of drawers is visible at right under the glass partition, with a cardboard box on top of it (the box is partially visible).",
+    "Two plastic bottles are visible on a work surface toward the left: one blue bottle and one orange bottle (both upright and uncropped).",
+    "One dark backpack or soft bag is on a surface near the right-side cabinet (partially visible).",
+    "A glass partition with horizontal frosted stripes spans the background across the width of the image."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The three people form a roughly horizontal grouping across the centre of the image: the striped-shirt person is at left-centre, the grey-shirt person is centered, and the white-shirt person is at right-centre.",
+    "The cable bundle is held between the left-centre and center persons and hangs down toward the lower centre of the image.",
+    "The glass partition with horizontal frosted stripes runs across the entire background behind the people; office ceiling and fixtures are visible above it.",
+    "A work surface or desk is located behind and slightly to the left of the left-most person with two bottles on it, while a white cabinet with a cardboard box on top is behind the right-most person.",
+    "A tall black soft case or bag is propped next to the white cabinet at the right edge of the scene; a partially visible tripod or support is at the lower left foreground."
+  ],
+  "colours_and_materials": [
+    "Glass partition in the background with alternating clear and frosted horizontal stripes.",
+    "Left person wears a white polo with thin horizontal dark stripes and a purple collar; central person wears a grey T-shirt; right person wears a white short-sleeve shirt.",
+    "Two plastic bottles are visible on a surface at left: one blue bottle and one orange bottle.",
+    "A black fabric soft case or bag stands at the right; a dark backpack or bag is also visible on the right work surface.",
+    "Cabinet and surfaces are white or light-coloured; ceiling elements and ducting above are painted white."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number text is legible in the image; location cannot be determined from the photograph.",
+    "Small printed logos or text on the clothing and on the black equipment bag are not legible at the current resolution and were not transcribed.",
+    "The object held by the people is described as a bundle of cables/wires based on appearance; exact cable types, labels or connector counts are not readable.",
+    "The tripod or camera support in the lower left is partially visible and may be occluded; the exact equipment type and count cannot be confirmed beyond the visible portion.",
+    "The cardboard box on the cabinet is partially visible; any text on the box is unreadable from this view."
+  ],
+  "visual_facts": [
+    "Three people are visible and individually distinguishable in the photographed scene: one person at left wearing a white polo with horizontal thin stripes and purple collar (standing, facing center), one person in the centre wearing a grey T-shirt (standing, facing the person at left and holding cables), and one person at right wearing a white short-sleeve shirt (standing with arms crossed).",
+    "A bundle of cables or wires is held by the central person and the left person; the bundle is clearly visible in the centre of the image.",
+    "One tall black soft case or bag stands propped against the cabinet at right (appears like a guitar or equipment bag).",
+    "One small tripod or camera support is visible at lower left corner of the image (partially visible).",
+    "One white cabinet or set of drawers is visible at right under the glass partition, with a cardboard box on top of it (the box is partially visible).",
+    "Two plastic bottles are visible on a work surface toward the left: one blue bottle and one orange bottle (both upright and uncropped).",
+    "One dark backpack or soft bag is on a surface near the right-side cabinet (partially visible).",
+    "A glass partition with horizontal frosted stripes spans the background across the width of the image.",
+    "Glass partition in the background with alternating clear and frosted horizontal stripes.",
+    "Left person wears a white polo with thin horizontal dark stripes and a purple collar; central person wears a grey T-shirt; right person wears a white short-sleeve shirt.",
+    "Two plastic bottles are visible on a surface at left: one blue bottle and one orange bottle.",
+    "A black fabric soft case or bag stands at the right; a dark backpack or bag is also visible on the right work surface.",
+    "Cabinet and surfaces are white or light-coloured; ceiling elements and ducting above are painted white."
+  ],
+  "id": "38bd4af9c94ae3a03d233f98",
+  "sha256": "6af2e053bdd4bfdc24ac4855ccaffc3777409464358258a5ca8d8066c41989ba",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:35:47.382450+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "e40c1c338bb8853e2b71c7992b00b13741a8db62b726c55db7e1db466f804697",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatzM6QXXO6KRKrQBVOUuZetYOz1z",
+  "usage": {
+    "completion_tokens": 1194,
+    "prompt_tokens": 2122,
+    "total_tokens": 3316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1129,
+      "engine_ttlt_ms": 9878,
+      "pre_inference_ms": 404,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2070,
+      "service_ttlt_ms": 10813,
+      "user_visible_ttft_ms": 1666
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

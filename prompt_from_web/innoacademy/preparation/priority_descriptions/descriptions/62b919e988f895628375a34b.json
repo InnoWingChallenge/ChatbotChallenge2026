@@ -1,0 +1,112 @@
+{
+  "title": "Group with InnoShow winner sign and framed certificate in front of InnoShow banners",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Four people are visible standing side-by-side in the photographed scene; all four are wearing face masks (three appear light blue surgical masks and one appears pink), and all are visible from approximately knee to head.",
+    "One person at far left is holding a white skateboard-like object vertically in front of their torso; the skateboard is mostly visible but its top is cropped by the person's hands.",
+    "One person second from left is holding a large cut-out sign that reads WINNER and InnoShow Award; the sign is fully visible and held at waist height in front of that person.",
+    "One person second from right is holding a framed certificate/plaque; the rectangular frame is visible and being presented with assistance from the person at far right.",
+    "Two tall vertical roll-up banners are visible behind the group: a central banner with botanical/green graphic elements and a right-side banner with large vertical text.",
+    "One computer monitor (cropped) and one keyboard are visible on the left side of the counter behind the group; both are partially visible and partly obscured by the person at far left.",
+    "A long countertop or bench with perforated white front panels runs behind the group across the width of the image."
+  ],
+  "visible_text": [
+    "WINNER",
+    "InnoShow Award",
+    "INNOSHOW",
+    "ENGINEERING",
+    "TALENT",
+    "(RE)INVENTION",
+    "RESEARCH",
+    "NARRATIVE",
+    "MULTI-[unreadable]",
+    "KNOWLED[unreadable]",
+    "STIMULAT[unreadable]"
+  ],
+  "spatial_relations": [
+    "From left to right the four people are arranged standing in a near-straight line against the counter: person 1 (far left) holds the skateboard, person 2 holds the WINNER InnoShow Award sign, person 3 holds the framed certificate, and person 4 (far right) helps present or support the framed certificate.",
+    "The two roll-up banners are positioned behind the group: one banner with green botanical graphics is approximately centered behind them and the other banner with large vertical text is slightly to the right behind the group.",
+    "A window is visible behind the banners toward the left and center of the image, and the countertop with perforated white front panels runs horizontally behind the group at roughly waist height.",
+    "The partially visible computer monitor and keyboard are on the countertop to the left of the person at far left; they are partially obscured by that person."
+  ],
+  "colours_and_materials": [
+    "The two roll-up banners are primarily white with green botanical graphics on the central banner and black vertical text on the right banner.",
+    "The skateboard-like object is white with some small darker components near its lower end; it appears to be made of a smooth, possibly painted or composite material.",
+    "The WINNER sign is colorful: the word WINNER appears in multi-coloured letters above a yellow crown graphic and the 'InnoShow Award' text is on a white background with orange/brown lettering.",
+    "Floor is light grey and the countertop front panels are white with a perforated pattern; the window frames are dark (possibly black or dark grey).",
+    "Clothing colours visible include light blue shirt (far left), dark jacket/denim (second from left), black top (second from right), and navy jacket with khaki trousers (far right)."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible; therefore the specific room location cannot be determined from the image.",
+    "Several words on the central banner are partially obscured or low-contrast; fragments transcribed as MULTI-[unreadable], KNOWLED[unreadable] and STIMULAT[unreadable] reflect unreadable portions.",
+    "The exact full wording and line ordering on the central banner and the framed certificate are not fully legible; the framed plaque appears to show a circular logo and multiple lines of text but those lines are unreadable at this resolution.",
+    "The orientation and exact vertical order of the words 'ENGINEERING' and 'INNOSHOW' on the right banner are transcribed as seen but the banner layout could include additional small text that is not legible.",
+    "The computer monitor and keyboard are partially cropped and partly obscured; their exact models, labels or any text on their screens are unreadable."
+  ],
+  "visual_facts": [
+    "Four people are visible standing side-by-side in the photographed scene; all four are wearing face masks (three appear light blue surgical masks and one appears pink), and all are visible from approximately knee to head.",
+    "One person at far left is holding a white skateboard-like object vertically in front of their torso; the skateboard is mostly visible but its top is cropped by the person's hands.",
+    "One person second from left is holding a large cut-out sign that reads WINNER and InnoShow Award; the sign is fully visible and held at waist height in front of that person.",
+    "One person second from right is holding a framed certificate/plaque; the rectangular frame is visible and being presented with assistance from the person at far right.",
+    "Two tall vertical roll-up banners are visible behind the group: a central banner with botanical/green graphic elements and a right-side banner with large vertical text.",
+    "One computer monitor (cropped) and one keyboard are visible on the left side of the counter behind the group; both are partially visible and partly obscured by the person at far left.",
+    "A long countertop or bench with perforated white front panels runs behind the group across the width of the image.",
+    "The two roll-up banners are primarily white with green botanical graphics on the central banner and black vertical text on the right banner.",
+    "The skateboard-like object is white with some small darker components near its lower end; it appears to be made of a smooth, possibly painted or composite material.",
+    "The WINNER sign is colorful: the word WINNER appears in multi-coloured letters above a yellow crown graphic and the 'InnoShow Award' text is on a white background with orange/brown lettering.",
+    "Floor is light grey and the countertop front panels are white with a perforated pattern; the window frames are dark (possibly black or dark grey).",
+    "Clothing colours visible include light blue shirt (far left), dark jacket/denim (second from left), black top (second from right), and navy jacket with khaki trousers (far right)."
+  ],
+  "id": "62b919e988f895628375a34b",
+  "sha256": "9f30aae6709d3617bd242ef9017731e0a26a9d29326911716f2a6289850f43a3",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:11:43.508160+00:00",
+  "input_resolution": [
+    511,
+    768
+  ],
+  "input_sha256": "7a247d2a6f7d0233a6421c1776c72a7d199984b6b8b1e4d91f83c07605bf2bbe",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatc2itYUiicpiOYbeVow0vBYvWM2",
+  "usage": {
+    "completion_tokens": 1490,
+    "prompt_tokens": 1661,
+    "total_tokens": 3151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 485,
+      "engine_ttlt_ms": 11165,
+      "pre_inference_ms": 115,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1701,
+      "service_ttlt_ms": 12343,
+      "user_visible_ttft_ms": 1586
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

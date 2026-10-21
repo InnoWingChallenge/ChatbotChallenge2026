@@ -1,0 +1,99 @@
+{
+  "title": "Close-up of a white motorcycle/street helmet with blue mirrored visor",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One full-face helmet occupies most of the frame; the helmet is photographed in close-up and fills the central and left regions of the image.",
+    "One visor is attached to the helmet; the visor shows a blue mirrored/reflected surface and covers the front-right portion of the helmet.",
+    "Two visible round fastener heads or pivot screws are visible at the visor pivot area on the helmet's left side (near the top-left quadrant of the helmet shell).",
+    "One small round metallic rivet or stud is visible below the visor pivot on the left side of the helmet.",
+    "One small rectangular label or sticker is present on the lower left rear quadrant of the helmet shell.",
+    "No people are visible in the photographed scene; the background is out of focus and contains no identifiable persons or equipment."
+  ],
+  "visible_text": [
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The helmet shell fills the central and left parts of the image; the visor is mounted on the helmet's right-front area (image right) and slopes from upper-left to lower-right across the helmet's face area.",
+    "The two round pivot fasteners are adjacent to one another in the upper-left region of the visor mounting area; a small round metallic stud is positioned below them on the helmet shell.",
+    "A small rectangular label or sticker is located on the lower-left quadrant of the helmet shell, below the visor and closer to the rear edge of the visible shell.",
+    "The background is blurred and lies behind and above the helmet, providing no clear reference points; a narrow horizontal surface or object appears at the very bottom-right foreground beneath the helmet."
+  ],
+  "colours_and_materials": [
+    "The helmet shell is glossy white with reflected highlights indicating a smooth lacquered finish.",
+    "The visor displays a strong blue mirrored/reflected tint, shifting from bright blue at center-left to darker blue/near-black at the right edge.",
+    "The visor pivot area and surrounding trim include black plastic components around the two pivot screws.",
+    "Visible fasteners and the small stud appear metallic (silver/steel colored).",
+    "Background colours are muted and out of focus: pale gray/white upper-right and soft bluish and purple tones in the mid and lower background."
+  ],
+  "uncertainties": [
+    "Text on the small rectangular label/sticker on the lower-left quadrant of the helmet is not legible at the image resolution; the exact wording cannot be reliably transcribed.",
+    "Any small printed logo or brand mark near the label or on the helmet shell is not clearly readable; providing exact brand or model names would be speculative.",
+    "The identification of the visible round items as 'pivot screws' and the small stud as a 'rivet' or 'stud' is based solely on visual appearance; their exact function or material cannot be confirmed from the image.",
+    "No room name, number, or other location identifier is visible in the image; therefore location is unknown from the image."
+  ],
+  "visual_facts": [
+    "One full-face helmet occupies most of the frame; the helmet is photographed in close-up and fills the central and left regions of the image.",
+    "One visor is attached to the helmet; the visor shows a blue mirrored/reflected surface and covers the front-right portion of the helmet.",
+    "Two visible round fastener heads or pivot screws are visible at the visor pivot area on the helmet's left side (near the top-left quadrant of the helmet shell).",
+    "One small round metallic rivet or stud is visible below the visor pivot on the left side of the helmet.",
+    "One small rectangular label or sticker is present on the lower left rear quadrant of the helmet shell.",
+    "No people are visible in the photographed scene; the background is out of focus and contains no identifiable persons or equipment.",
+    "The helmet shell is glossy white with reflected highlights indicating a smooth lacquered finish.",
+    "The visor displays a strong blue mirrored/reflected tint, shifting from bright blue at center-left to darker blue/near-black at the right edge.",
+    "The visor pivot area and surrounding trim include black plastic components around the two pivot screws.",
+    "Visible fasteners and the small stud appear metallic (silver/steel colored).",
+    "Background colours are muted and out of focus: pale gray/white upper-right and soft bluish and purple tones in the mid and lower background."
+  ],
+  "id": "e9fcb1377d7a10581828d0b6",
+  "sha256": "1c6bff1593467e1040b96bfc4ee77ee85996bcb1f06c3e4aeafdd12514b5b791",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:22:38.653368+00:00",
+  "input_resolution": [
+    2000,
+    1126
+  ],
+  "input_sha256": "283be29c4504ae050a83f228eb24df6f274d7f6039efb1b70a51824a18fc0a41",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatmfwM4BG1eV0Z8fp3Tbo0XJ2Em9",
+  "usage": {
+    "completion_tokens": 869,
+    "prompt_tokens": 2439,
+    "total_tokens": 3308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1237,
+      "engine_ttlt_ms": 7290,
+      "pre_inference_ms": 370,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2166,
+      "service_ttlt_ms": 8213,
+      "user_visible_ttft_ms": 1796
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

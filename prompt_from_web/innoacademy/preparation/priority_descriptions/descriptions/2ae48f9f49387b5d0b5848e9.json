@@ -1,0 +1,98 @@
+{
+  "title": "Students using a pipette at a lab bench with a 'no drink' sign",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Three people are visible and individually distinguishable: one person in the left foreground wearing a blue jacket (face partially obscured by hair and a mask), one person in the middle background wearing a white shirt and beige gloves, and one person on the right wearing a white shirt and glasses.",
+    "One handheld adjustable pipette is visible being held by the person in the blue jacket in the left foreground; a single plastic pipette tip with liquid is attached to that pipette.",
+    "Gloves: at least two blue nitrile gloves are worn by the person in the blue jacket (both hands visible); at least one beige/cream disposable glove is worn by the middle person (right hand visible) and a second beige glove is visible on that same person's left hand which is partially obscured behind the person in blue.",
+    "One circular prohibitory sign showing a cup with a straw inside a red circle and diagonal bar is visible on the right wall (cropped at the right edge).",
+    "One mounted wall poster or display panel is visible on the far left wall (content not fully legible)."
+  ],
+  "visible_text": [
+    "ALLOWED"
+  ],
+  "spatial_relations": [
+    "The person in the blue jacket occupies the left foreground and holds the pipette close to the vertical centre of the image.",
+    "The person wearing beige gloves stands behind and slightly to the right of the person in the blue jacket; that person's gloved right hand is raised and pointing near the pipette.",
+    "The person in the white shirt with glasses stands at the right foreground, in front of the prohibitory sign on the right wall.",
+    "A poster or display panel is mounted on the far left wall behind the group and is largely out of focus.",
+    "The prohibitory cup sign is mounted on the right wall behind the rightmost person and is partially cropped by the image edge."
+  ],
+  "colours_and_materials": [
+    "The left person wears a bright royal/medium blue jacket with white piping; the jacket appears to be textile (fabric).",
+    "The two other visible people wear white short-sleeve shirts (likely cotton or similar fabric).",
+    "Disposable gloves are two colours: bright blue nitrile gloves on the left person and beige/cream disposable gloves on the middle person.",
+    "The pipette appears to be metallic and plastic in appearance with a translucent plastic tip that contains pink/red liquid (the tip and liquid visible).",
+    "The prohibitory sign has a red circle and diagonal bar over a black cup-with-straw pictogram on a white background."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is visible; location cannot be determined from the image.",
+    "Small text on the left poster and on the badge/patch on the right person's shirt is not legible at this resolution; any lettering on the badge cannot be reliably transcribed from this image.",
+    "The word 'ALLOWED' is visible under the prohibitory graphic but the beginning of that legend may be cropped or partially hidden; the full phrase (for example 'NOT ALLOWED') cannot be confirmed from the visible portion.",
+    "The pipette brand, model, tip material and the exact nature of the liquid in the tip cannot be determined from the image and are not inferred."
+  ],
+  "visual_facts": [
+    "Three people are visible and individually distinguishable: one person in the left foreground wearing a blue jacket (face partially obscured by hair and a mask), one person in the middle background wearing a white shirt and beige gloves, and one person on the right wearing a white shirt and glasses.",
+    "One handheld adjustable pipette is visible being held by the person in the blue jacket in the left foreground; a single plastic pipette tip with liquid is attached to that pipette.",
+    "Gloves: at least two blue nitrile gloves are worn by the person in the blue jacket (both hands visible); at least one beige/cream disposable glove is worn by the middle person (right hand visible) and a second beige glove is visible on that same person's left hand which is partially obscured behind the person in blue.",
+    "One circular prohibitory sign showing a cup with a straw inside a red circle and diagonal bar is visible on the right wall (cropped at the right edge).",
+    "One mounted wall poster or display panel is visible on the far left wall (content not fully legible).",
+    "The left person wears a bright royal/medium blue jacket with white piping; the jacket appears to be textile (fabric).",
+    "The two other visible people wear white short-sleeve shirts (likely cotton or similar fabric).",
+    "Disposable gloves are two colours: bright blue nitrile gloves on the left person and beige/cream disposable gloves on the middle person.",
+    "The pipette appears to be metallic and plastic in appearance with a translucent plastic tip that contains pink/red liquid (the tip and liquid visible).",
+    "The prohibitory sign has a red circle and diagonal bar over a black cup-with-straw pictogram on a white background."
+  ],
+  "id": "2ae48f9f49387b5d0b5848e9",
+  "sha256": "da5a712e2d3a007349eb174acbb5c1a42c9736a7921e77778bae07f004d997d8",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:33:26.266889+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "95f20d937252a86410dd9d86ef8423e15895db9aaf78b4a3a16f300c45b2b84f",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatx5S99JoFb1WaSZ8QJLhUQydjlM",
+  "usage": {
+    "completion_tokens": 1126,
+    "prompt_tokens": 2237,
+    "total_tokens": 3363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1098,
+      "engine_ttlt_ms": 9330,
+      "pre_inference_ms": 406,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2038,
+      "service_ttlt_ms": 10265,
+      "user_visible_ttft_ms": 1632
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

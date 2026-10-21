@@ -1,0 +1,106 @@
+{
+  "title": "Classroom presentation titled 'What is bioinformatics?' with two projection screens",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 12 people are visible in the photographed scene: three students in white shirts seated with their backs to the camera at the left foreground, one standing presenter at the front near the main screen, at least four seated or standing persons at the right side tables and toward the rear, one person partially visible at the far right edge wearing green, and additional seated people distributed along the right-hand tables. (Counts are regional minimums due to overlap and partial occlusion.)",
+    "Two large projection screens show the same slide content: one prominent screen at front-left and a second smaller projected image or screen further to the right.",
+    "Multiple long rectangular work tables are present: at least two large light-wood tabletop benches on metal frames are visible in the central area.",
+    "Multiple stools are visible: at least 11 individual stools can be seen (many black metal frames with round seats), some partially obscured or cropped by people and tables.",
+    "At least two laptop computers are visible on the front tables (one near the presenter, one on the table to the right), plus a computer monitor visible behind the presenter near the windows.",
+    "An upright microphone on a stand or boom is positioned near the presenter and visible hanging down toward the right of the main screen; a vertical tripod or stand is visible near the presenter area.",
+    "At least two backpacks are visible on or beside the stools/tables (one black backpack on the floor at right foreground, another dark bag at left foreground).",
+    "Ceiling-mounted elements (exposed ducting, piping, suspended lighting and cable trays) and a suspended rectangular acoustic panel are visible overhead; these are fixed facility elements rather than portable equipment."
+  ],
+  "visible_text": [
+    "What is bioinformatics?",
+    "The merger of Biology AND Computing"
+  ],
+  "spatial_relations": [
+    "The main projection screen with the slide 'What is bioinformatics?' occupies the front-left area of the image; a second projected view of the same slide appears to the right of the main screen, slightly recessed.",
+    "Windows run along the left-to-center rear wall behind the presenter, with the presenter standing in front of those windows and between the two screens.",
+    "Long rectangular work tables run lengthwise from front toward rear; stools line both sides of the tables and users sit facing the front screens.",
+    "A tripod or stand with a hanging microphone is positioned between the presenter and the right-side projection, slightly forward of the tables; backpacks sit on the floor next to stools along the right-side table.",
+    "Ceiling fixtures (ducting, cable trays and suspended lights) are above the entire room, aligned with the tables and projection area."
+  ],
+  "colours_and_materials": [
+    "Tabletops are light wood or wood-colour with pale, possibly laminated surfaces and metal table frames painted light grey.",
+    "Many stools have black metal frames and darker round seats; some stools appear to have wooden or dark seats.",
+    "Window frames or surrounds appear turquoise or aqua green in colour.",
+    "Flooring is smooth and light grey, consistent across the visible area.",
+    "Ceiling shows exposed metal ducting and grey cable trays; suspended rectangular acoustic panels are white or off-white."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is visible in the image, so exact location is unknown from image.",
+    "The exact total number of people is uncertain due to partial occlusion, overlap and people cropped at the image edges; the stated count is a visible minimum.",
+    "Many smaller labels and paragraph text on the projected slide and on laptop/monitor screens are not legible at this resolution; only the main slide heading and the subheading phrase 'The merger of Biology AND Computing' are clearly readable.",
+    "Some stools and chairs are partially hidden behind tables or people; stool count is a minimum visible count.",
+    "Equipment labels, brand names, model numbers or small safety signs on ceiling and equipment were not legible and could not be transcribed."
+  ],
+  "visual_facts": [
+    "At least 12 people are visible in the photographed scene: three students in white shirts seated with their backs to the camera at the left foreground, one standing presenter at the front near the main screen, at least four seated or standing persons at the right side tables and toward the rear, one person partially visible at the far right edge wearing green, and additional seated people distributed along the right-hand tables. (Counts are regional minimums due to overlap and partial occlusion.)",
+    "Two large projection screens show the same slide content: one prominent screen at front-left and a second smaller projected image or screen further to the right.",
+    "Multiple long rectangular work tables are present: at least two large light-wood tabletop benches on metal frames are visible in the central area.",
+    "Multiple stools are visible: at least 11 individual stools can be seen (many black metal frames with round seats), some partially obscured or cropped by people and tables.",
+    "At least two laptop computers are visible on the front tables (one near the presenter, one on the table to the right), plus a computer monitor visible behind the presenter near the windows.",
+    "An upright microphone on a stand or boom is positioned near the presenter and visible hanging down toward the right of the main screen; a vertical tripod or stand is visible near the presenter area.",
+    "At least two backpacks are visible on or beside the stools/tables (one black backpack on the floor at right foreground, another dark bag at left foreground).",
+    "Ceiling-mounted elements (exposed ducting, piping, suspended lighting and cable trays) and a suspended rectangular acoustic panel are visible overhead; these are fixed facility elements rather than portable equipment.",
+    "Tabletops are light wood or wood-colour with pale, possibly laminated surfaces and metal table frames painted light grey.",
+    "Many stools have black metal frames and darker round seats; some stools appear to have wooden or dark seats.",
+    "Window frames or surrounds appear turquoise or aqua green in colour.",
+    "Flooring is smooth and light grey, consistent across the visible area.",
+    "Ceiling shows exposed metal ducting and grey cable trays; suspended rectangular acoustic panels are white or off-white."
+  ],
+  "id": "595f8401eb7cf9aff301ade2",
+  "sha256": "de2856db1a301bd15d176c162eeba00d578ecab39f974a2794f0be28c4ef57fc",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:40:25.132156+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "973632006b68283f00d008b81288432e631d129407a85747afc27b491b39b6a1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau3qL5QurGtixYnLgiQyrIbWB8RU",
+  "usage": {
+    "completion_tokens": 1141,
+    "prompt_tokens": 2237,
+    "total_tokens": 3378,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1182,
+      "engine_ttlt_ms": 9032,
+      "pre_inference_ms": 432,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2081,
+      "service_ttlt_ms": 9926,
+      "user_visible_ttft_ms": 1649
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

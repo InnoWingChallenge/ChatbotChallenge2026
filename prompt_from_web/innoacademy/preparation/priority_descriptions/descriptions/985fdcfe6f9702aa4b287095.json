@@ -1,0 +1,112 @@
+{
+  "title": "Workshop room with tables, students in blue uniforms and electronic equipment",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "People: at least 11 people are visible. One adult (left foreground) standing and gesturing; one person in a grey sweater and white shirt standing near the center-left; a line of at least nine students in blue uniforms standing near the right side of the image. One person at the extreme right edge is partly cropped.",
+    "Tables: three long yellow-topped work tables are visible running roughly left-to-right in the foreground and midground.",
+    "Chairs: at least four office chairs with black backs and seats are visible (one near the camera, others around tables).",
+    "Printers/computers: one black printer or multifunction device sits on the near right table; one laptop is open on the rightmost table.",
+    "Electronics/hardware: one white quadcopter or multi-rotor airframe is visible on a mid-left table; multiple electronic components, cables and small boxes are present on tables (individually distinguishable items include at least two plastic storage bins, one blue lid bin in the foreground and one translucent bin under a table).",
+    "Storage and cases: at least two plastic storage boxes (one blue-lidded box on the near table and one translucent container under the table) and one grey plastic crate on a table.",
+    "Ceiling equipment: two rectangular ceiling-mounted air-conditioning or ventilation units are visible.",
+    "Safety equipment: one wall-mounted red fire extinguisher cabinet or assembly is visible on a pillar near the center background."
+  ],
+  "visible_text": [
+    "M Lab",
+    "[unreadable] (whiteboard text, far left)",
+    "[unreadable] (small sign near fire extinguisher)",
+    "[unreadable] (label on near black printer)",
+    "[unreadable] (various small labels on boxes and equipment)"
+  ],
+  "spatial_relations": [
+    "An adult (left foreground) stands to the left of the tables and faces a line of students who are standing to the right of the tables.",
+    "Three yellow-topped work tables run roughly left-to-right across the mid-foreground; chairs are arranged around and under these tables.",
+    "The group of students stands along the right side of the central table area, parallel to the tables and facing the left side of the image where the adult is gesturing.",
+    "A pillar with a red fire extinguisher is located near the center background behind the tables; behind that is a glass partition with horizontal frosted stripes that spans the right background.",
+    "Storage bins and equipment are placed on and under the tables, with a blue-lidded plastic bin on the near table and a translucent container under the left-middle table."
+  ],
+  "colours_and_materials": [
+    "Most students wear light blue uniforms/dresses.",
+    "Work surfaces/tabletops are a yellow or light-wood colour with black metal frames.",
+    "Flooring is a dark blue or grey carpet.",
+    "Chairs have black plastic or upholstered backs and seats.",
+    "The background partition is glass with horizontal frosted white stripes.",
+    "Ceiling is white with exposed white ducts and rectangular white ceiling fixtures; an air-conditioning unit is beige or off-white.",
+    "Various plastic storage bins are blue and translucent; some electronic housings are black or grey."
+  ],
+  "uncertainties": [
+    "Exact people count is uncertain due to partial cropping at the extreme right edge and possible overlap between individuals; the stated minimum of at least 11 visible people reflects what can be reliably distinguished.",
+    "Several small labels and printed items are present but illegible at this resolution; entries marked '[unreadable]' indicate locations where text cannot be transcribed from the image.",
+    "The left-wall text appears as 'M Lab' but parts of surrounding signage and whiteboard writing are too faint to read precisely.",
+    "Some objects (electronic components, boxes, cables) are numerous and overlapping; individual itemization beyond the listed visible containers and major devices is not reliable from this image."
+  ],
+  "visual_facts": [
+    "People: at least 11 people are visible. One adult (left foreground) standing and gesturing; one person in a grey sweater and white shirt standing near the center-left; a line of at least nine students in blue uniforms standing near the right side of the image. One person at the extreme right edge is partly cropped.",
+    "Tables: three long yellow-topped work tables are visible running roughly left-to-right in the foreground and midground.",
+    "Chairs: at least four office chairs with black backs and seats are visible (one near the camera, others around tables).",
+    "Printers/computers: one black printer or multifunction device sits on the near right table; one laptop is open on the rightmost table.",
+    "Electronics/hardware: one white quadcopter or multi-rotor airframe is visible on a mid-left table; multiple electronic components, cables and small boxes are present on tables (individually distinguishable items include at least two plastic storage bins, one blue lid bin in the foreground and one translucent bin under a table).",
+    "Storage and cases: at least two plastic storage boxes (one blue-lidded box on the near table and one translucent container under the table) and one grey plastic crate on a table.",
+    "Ceiling equipment: two rectangular ceiling-mounted air-conditioning or ventilation units are visible.",
+    "Safety equipment: one wall-mounted red fire extinguisher cabinet or assembly is visible on a pillar near the center background.",
+    "Most students wear light blue uniforms/dresses.",
+    "Work surfaces/tabletops are a yellow or light-wood colour with black metal frames.",
+    "Flooring is a dark blue or grey carpet.",
+    "Chairs have black plastic or upholstered backs and seats.",
+    "The background partition is glass with horizontal frosted white stripes.",
+    "Ceiling is white with exposed white ducts and rectangular white ceiling fixtures; an air-conditioning unit is beige or off-white.",
+    "Various plastic storage bins are blue and translucent; some electronic housings are black or grey."
+  ],
+  "id": "985fdcfe6f9702aa4b287095",
+  "sha256": "9ecb525c336976bd283f8a3010fd79f0f02ad12cab23aea2e3d8b0355920623d",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:54:21.816547+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "9e09af6aeae002a1deb4615fa813d467ad012d5da99fb57bb000834209f066a7",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauHIDU0zIqN03CUtUKsCPBDyRF5m",
+  "usage": {
+    "completion_tokens": 1524,
+    "prompt_tokens": 2122,
+    "total_tokens": 3646,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 640,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 340,
+      "engine_ttlt_ms": 12247,
+      "pre_inference_ms": 322,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 754,
+      "service_ttlt_ms": 12657,
+      "user_visible_ttft_ms": 432
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

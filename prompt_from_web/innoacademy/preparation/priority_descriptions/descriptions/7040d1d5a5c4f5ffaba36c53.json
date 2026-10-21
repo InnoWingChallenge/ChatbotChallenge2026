@@ -1,0 +1,132 @@
+{
+  "title": "Stage presentation with large projected slide reading 'Make the world a better place'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "There are six people clearly visible standing across the front of the stage in the photographed scene (from left to right: five people holding large printed placards or posters and two additional people who are not holding placards; one of those two appears to be using a microphone).",
+    "Five large hand-held posters or placards are visible being held by people at stage front; each poster shows a distinct illustration (tree, child, heart, robot and one other).",
+    "One large LED projection screen or video wall fills the entire background of the stage and displays a slide.",
+    "One grand piano (acoustic) is on the right side of the stage with a piano bench in front of it.",
+    "One drum kit (bass drum, snare, and visible cymbal stands) is positioned center-rear of the stage.",
+    "At least two microphone stands are visible at the front and center of the stage; one is being used by a person holding a microphone.",
+    "Several chairs are visible on stage right (three chairs clearly visible to the right of the piano).",
+    "One low stringed percussion instrument or gong-like instrument is visible at stage left on a stand (partially cropped by the image edge).",
+    "One music stand is visible near the drum kit."
+  ],
+  "visible_text": [
+    "Make the world a",
+    "better place",
+    "Lyrics",
+    "There's a place in your heart",
+    "And I know that it is love",
+    "And this place could be much",
+    "Brighter than tomorrow",
+    "And if you really try",
+    "You'll find there's no need to cry",
+    "In this place you'll feel",
+    "There's no hurt or sorrow",
+    "There are ways to get there",
+    "If you care enough for the living",
+    "Make a little space",
+    "Make a better place",
+    "Heal the world",
+    "Make it a better place",
+    "For you and for me",
+    "And the entire human race",
+    "There are people - ying",
+    "If you",
+    "Make",
+    "Attitude",
+    "The m"
+  ],
+  "spatial_relations": [
+    "A large projected slide or LED video wall occupies the full background of the scene, behind all people and instruments.",
+    "The six people are arranged in a loose horizontal line across the front edge of the stage, centered horizontally in front of the drum kit and projection.",
+    "The drum kit is located center-rear on the stage, directly behind the group of people.",
+    "The grand piano is positioned stage right (image right) near the front, with its long side roughly parallel to the front edge of the stage and a bench placed in front of it.",
+    "A gong-like instrument or low percussion instrument is placed stage left (image left), a short distance from the leftmost person holding a poster.",
+    "Microphone stands are positioned near the center front of the stage among the standing people; one microphone is held by a person near the center-right of the group.",
+    "Several chairs are grouped to the right of the piano (image right), separate from the line of people and instruments."
+  ],
+  "colours_and_materials": [
+    "The projection screen background is predominantly dark blue with large white heading text.",
+    "The stage floor is light-coloured wood (pale brown), showing a polished texture.",
+    "The grand piano is black with a matching black bench.",
+    "The hand-held posters are printed in bright colours (green tree, cartoon child with beige/yellow skin tones, red heart, blue robot), each poster on white backing.",
+    "Clothing on stage is mostly dark (black or navy) for several participants; one person wears a light-coloured hijab and beige outer garment."
+  ],
+  "uncertainties": [
+    "Exact room name or number is not visible anywhere in the image; therefore location is unknown from image.",
+    "Some lines of the lyrics on the left of the slide are partially obscured or cut off by image framing; fragments such as 'There are people - ying' and subsequent lines are incomplete and difficult to read exactly.",
+    "The far left edge of the image crops part of the leftmost instrument and possibly one person, so the exact count of any additional people or objects beyond the left crop cannot be determined.",
+    "The exact number of microphone stands and smaller accessories (cables, pedals, small stands) is uncertain because some are obscured by people and instruments; the count above is a conservative visible minimum.",
+    "A short fragment 'The m' and 'For' appear on the right side of the projected image and are incomplete; the full words or phrases are unreadable in the photo."
+  ],
+  "visual_facts": [
+    "There are six people clearly visible standing across the front of the stage in the photographed scene (from left to right: five people holding large printed placards or posters and two additional people who are not holding placards; one of those two appears to be using a microphone).",
+    "Five large hand-held posters or placards are visible being held by people at stage front; each poster shows a distinct illustration (tree, child, heart, robot and one other).",
+    "One large LED projection screen or video wall fills the entire background of the stage and displays a slide.",
+    "One grand piano (acoustic) is on the right side of the stage with a piano bench in front of it.",
+    "One drum kit (bass drum, snare, and visible cymbal stands) is positioned center-rear of the stage.",
+    "At least two microphone stands are visible at the front and center of the stage; one is being used by a person holding a microphone.",
+    "Several chairs are visible on stage right (three chairs clearly visible to the right of the piano).",
+    "One low stringed percussion instrument or gong-like instrument is visible at stage left on a stand (partially cropped by the image edge).",
+    "One music stand is visible near the drum kit.",
+    "The projection screen background is predominantly dark blue with large white heading text.",
+    "The stage floor is light-coloured wood (pale brown), showing a polished texture.",
+    "The grand piano is black with a matching black bench.",
+    "The hand-held posters are printed in bright colours (green tree, cartoon child with beige/yellow skin tones, red heart, blue robot), each poster on white backing.",
+    "Clothing on stage is mostly dark (black or navy) for several participants; one person wears a light-coloured hijab and beige outer garment."
+  ],
+  "id": "7040d1d5a5c4f5ffaba36c53",
+  "sha256": "2d356adcf7954547accd477f49491060680c592b1c46eef716aa043b0964c8bc",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:45:57.568196+00:00",
+  "input_resolution": [
+    1024,
+    628
+  ],
+  "input_sha256": "49ae406b526e2f8549de069389eec743e2d7fdb3dba161aaaa3fdcfeeb30a09d",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau9Aw11CY7VS31f0pygQfmot4xui",
+  "usage": {
+    "completion_tokens": 1487,
+    "prompt_tokens": 1968,
+    "total_tokens": 3455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 738,
+      "engine_ttlt_ms": 11335,
+      "pre_inference_ms": 119,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1403,
+      "service_ttlt_ms": 11996,
+      "user_visible_ttft_ms": 1284
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

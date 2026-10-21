@@ -1,0 +1,104 @@
+{
+  "title": "Two people holding framed artwork in front of a brick engineering building",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Two adult people are clearly visible in the foreground, standing side by side and facing the camera; both are shown from about the waist up and neither is identified by name.",
+    "One rectangular framed artwork or picture is held by the two foreground people; the frame is centered in the lower middle of the image and both persons have hands on it.",
+    "At least three additional people are visible in the midground/background: one person walking on the paved area to the left, one person standing near the building entrance area to the right of the frame, and at least one person visible through the building windows (counted separately because they are inside the building).",
+    "One outdoor bench is visible on the paved plaza area to the right of the image (bench is partially visible and located under the building overhang).",
+    "One freestanding sign or directory is visible near the building entrance to the right of the two foreground people (the sign is upright and mounted on a post but text is mostly not legible).",
+    "One television or monitor screen is visible through the ground-floor window of the building (display is on but the content is not transcribed here).",
+    "Visible architectural features and landscape include a grass lawn in the foreground, a paved plaza to the right, and a multi-story brick building with many windows occupying the right half and center background of the image."
+  ],
+  "visible_text": [
+    "Engineering",
+    "THE UNIVERSITY OF HONG KONG",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The two people stand side by side in the foreground on the edge of a grass lawn; the person wearing a red-and-black check shirt is on the left of the image and the person wearing a grey jacket is on the right of the image.",
+    "The framed artwork is held between them at roughly chest/waist height and is centered horizontally in the image.",
+    "Behind the two foreground people, a brick multi-story building occupies much of the middle and right background; windows of the building show interior spaces and at least one interior monitor.",
+    "A paved plaza area runs to the right of the grass lawn and in front of the building; the bench and freestanding sign are located on that paved area under the building overhang.",
+    "A person is walking on a path or paved area to the left background, separated from the foreground figures by the grass lawn."
+  ],
+  "colours_and_materials": [
+    "The left foreground person's shirt is a red and black checkered patterned fabric.",
+    "The right foreground person wears a grey jacket (textured suit-like material) over a white shirt.",
+    "The framed artwork has a light-coloured (beige or light wood) frame and a pale interior image or paper cutout.",
+    "The building exterior is brown/orange brick with dark window frames and reflective glass; the ground surface at the plaza is light brown or tan paving.",
+    "The foreground ground is a vivid green grass lawn."
+  ],
+  "uncertainties": [
+    "The image does not show a clear room name or number; although the word 'Engineering' is visible on the building façade, no full room identifier (e.g., room number) is visible, so the precise location is unknown from the image.",
+    "Some small text elements are partially obscured or too small to read; the upright sign near the entrance and text on the clothing patch of the left person's chest are not legible — those are reported as [unreadable].",
+    "The inscription at the bottom of the framed artwork appears to read 'THE UNIVERSITY OF HONG KONG' but parts of the plaque text are small and could be partially obscured; this transcription is included because the phrase is visually readable in the image but may omit smaller characters.",
+    "Counts for background people are minimum visible counts; additional people may be present inside the building or outside the frame and cannot be determined from this single image."
+  ],
+  "visual_facts": [
+    "Two adult people are clearly visible in the foreground, standing side by side and facing the camera; both are shown from about the waist up and neither is identified by name.",
+    "One rectangular framed artwork or picture is held by the two foreground people; the frame is centered in the lower middle of the image and both persons have hands on it.",
+    "At least three additional people are visible in the midground/background: one person walking on the paved area to the left, one person standing near the building entrance area to the right of the frame, and at least one person visible through the building windows (counted separately because they are inside the building).",
+    "One outdoor bench is visible on the paved plaza area to the right of the image (bench is partially visible and located under the building overhang).",
+    "One freestanding sign or directory is visible near the building entrance to the right of the two foreground people (the sign is upright and mounted on a post but text is mostly not legible).",
+    "One television or monitor screen is visible through the ground-floor window of the building (display is on but the content is not transcribed here).",
+    "Visible architectural features and landscape include a grass lawn in the foreground, a paved plaza to the right, and a multi-story brick building with many windows occupying the right half and center background of the image.",
+    "The left foreground person's shirt is a red and black checkered patterned fabric.",
+    "The right foreground person wears a grey jacket (textured suit-like material) over a white shirt.",
+    "The framed artwork has a light-coloured (beige or light wood) frame and a pale interior image or paper cutout.",
+    "The building exterior is brown/orange brick with dark window frames and reflective glass; the ground surface at the plaza is light brown or tan paving.",
+    "The foreground ground is a vivid green grass lawn."
+  ],
+  "id": "3644009c7cee932679576288",
+  "sha256": "04c97fac284acfef1ce213a6f80b201de01b5721302052c8de8e88b6ba193417",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:34:56.042445+00:00",
+  "input_resolution": [
+    2048,
+    1536
+  ],
+  "input_sha256": "7b947515f53d6218b709215ccaed473069124da23cadfce10effe6e327d560ae",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatyWkZscolu0ReFFeV0Ve1IcLuK7",
+  "usage": {
+    "completion_tokens": 1315,
+    "prompt_tokens": 2122,
+    "total_tokens": 3437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1159,
+      "engine_ttlt_ms": 10726,
+      "pre_inference_ms": 345,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2067,
+      "service_ttlt_ms": 11628,
+      "user_visible_ttft_ms": 1722
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Close-up of a backlit mechanical keyboard with a hand pressing keys",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One human hand is visible in the left foreground; at least three fingers of that hand are visible (index and middle fingers clearly pressing keys; a third finger is partially visible and cropped by the image edge).",
+    "One keyboard is visible occupying the right and central portion of the image; it appears to be a mechanical-style keyboard with individual keycaps and RGB backlighting.",
+    "One wrist-rest or lower bezel is visible at the bottom edge of the keyboard with a row of five small illuminated dots.",
+    "Multiple individual keycaps are visible across three rows (top row, home row, bottom row) but the image does not show a whole, uncropped set suitable for an exact key count."
+  ],
+  "visible_text": [
+    "CAPS",
+    "CTRL",
+    "A",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "ALT",
+    "..."
+  ],
+  "spatial_relations": [
+    "The hand is on the left side of the image, fingers extending rightward to press keys near the keyboard's left-central area.",
+    "The keyboard fills the central and right portions of the frame, with the top rows of keys toward the upper-right and the wrist-rest along the bottom edge.",
+    "The five illuminated dots are centered on the wrist-rest area at the bottom of the keyboard and align horizontally with the keyboard's lower edge.",
+    "Individual keycaps are arranged in staggered rows typical of a keyboard: a top alphanumeric row above a home row and a lower row, as visible in the picture."
+  ],
+  "colours_and_materials": [
+    "Keycaps and keyboard housing appear black or very dark grey.",
+    "RGB backlighting shows green and blue light under many keys, with some purple/blue tones visible on the right side of the keyboard.",
+    "The wrist-rest or lower bezel appears to be black with illuminated white or blue dots; a silver or metallic strip is visible beneath the keyboard edge, suggesting a metallic or glossy plastic accent."
+  ],
+  "uncertainties": [
+    "The exact room name or number is not visible; location cannot be determined from the image.",
+    "Some small printed key legends and symbols (for example on function keys and some number-row legends) are partially obscured or out of focus and could not be transcribed precisely.",
+    "The transcription 'CTRL' is based on a partially legible key; the image is slightly out of focus there and the label could be a variant such as 'CTL' or similar.",
+    "The row of five dots on the wrist-rest is transcribed here as '...' visually; the actual printed or functional meaning of these dots is unreadable.",
+    "Branding, model numbers, or other equipment nameplates are not visible or legible in the image, so no brand or model identification is possible."
+  ],
+  "visual_facts": [
+    "One human hand is visible in the left foreground; at least three fingers of that hand are visible (index and middle fingers clearly pressing keys; a third finger is partially visible and cropped by the image edge).",
+    "One keyboard is visible occupying the right and central portion of the image; it appears to be a mechanical-style keyboard with individual keycaps and RGB backlighting.",
+    "One wrist-rest or lower bezel is visible at the bottom edge of the keyboard with a row of five small illuminated dots.",
+    "Multiple individual keycaps are visible across three rows (top row, home row, bottom row) but the image does not show a whole, uncropped set suitable for an exact key count.",
+    "Keycaps and keyboard housing appear black or very dark grey.",
+    "RGB backlighting shows green and blue light under many keys, with some purple/blue tones visible on the right side of the keyboard.",
+    "The wrist-rest or lower bezel appears to be black with illuminated white or blue dots; a silver or metallic strip is visible beneath the keyboard edge, suggesting a metallic or glossy plastic accent."
+  ],
+  "id": "fe5f663311c1754176d88ba5",
+  "sha256": "24efe154451625e5d8cf93fe99e9148c81d6ea695e1bf20af843b3a77b803a5c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:25:28.689408+00:00",
+  "input_resolution": [
+    1024,
+    682
+  ],
+  "input_sha256": "78be4cccf076c058d1e3d68fd3ccd612a55fd114b5547158dab0719f04653fec",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatpMl1fMZyCDn6KkyIxg7KwUePj0",
+  "usage": {
+    "completion_tokens": 1174,
+    "prompt_tokens": 2045,
+    "total_tokens": 3219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 558,
+      "engine_ttlt_ms": 10977,
+      "pre_inference_ms": 135,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 1158,
+      "service_ttlt_ms": 11561,
+      "user_visible_ttft_ms": 1022
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

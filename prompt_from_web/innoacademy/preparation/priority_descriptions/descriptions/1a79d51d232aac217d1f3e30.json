@@ -1,0 +1,26 @@
+{
+  "id": "1a79d51d232aac217d1f3e30",
+  "sha256": "8cc7029e59c2b56bdc466ef56c2b3e17e2e7c137568add82b5f3d64a2075eca4",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Close view of a 3D printer printing a gear-shaped part",
+  "visible_text": [
+    "Zmorhp"
+  ],
+  "visual_facts": [
+    "A black and gray 3D printer frame fills most of the image.",
+    "A small nozzle is positioned just above a dark gray gear-shaped printed object on the build plate.",
+    "Horizontal metal guide rods and toothed belts run across the printer frame.",
+    "A clear enclosure panel and a built-in dark display panel are visible on the right."
+  ],
+  "spatial_relations": [
+    "The printed gear rests on the build plate beneath the print head.",
+    "The brand lettering is on the lower right front panel."
+  ],
+  "uncertainties": [
+    "The small brand text is visible but the exact printer model and print material are unclear."
+  ]
+}

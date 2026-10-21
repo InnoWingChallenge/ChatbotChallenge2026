@@ -1,0 +1,132 @@
+{
+  "title": "Stage presentation with large LED backdrop reading 'Make the world a better place'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Six people standing in a row across the front of the stage and holding or presenting items: from left to right a person holding a poster of a tree, a person holding a poster with a child illustration, a person wearing a headscarf holding a heart poster, a person holding a poster with a robot illustration, a person holding a microphone and raising a phone, and a person standing with hands by their side (total visible and distinct in the front row = 6).",
+    "One large LED screen or projection backdrop that occupies the full rear of the stage and displays large text and graphics.",
+    "One grand piano at stage right (one visible glossy black grand piano with matching piano bench).",
+    "One drum kit located roughly center-rear of the stage (bass drum, cymbals and stands visible as an assembled drum set).",
+    "One microphone on a stand near stage front center and at least one handheld microphone in use by a presenter (microphone counts: at least one stand-mounted microphone and one handheld microphone visible).",
+    "One amplifier or speaker cabinet visible on the stage floor near the left-center area behind the presenters.",
+    "At least three chairs visible on stage: one piano bench at the grand piano and two other chairs (one near the piano and one behind the presenters); several other chairs or stool-like seats are partially visible but not fully distinct.",
+    "One instrument on the far left that appears to be a row of wooden percussion instruments or a gamelan-like set (visible left side of stage), partially visible and possibly cropped.",
+    "Several large printed posters being held by presenters (four distinct poster designs are visible: tree, child, heart, robot)."
+  ],
+  "visible_text": [
+    "Make the world a",
+    "better place",
+    "Lyrics",
+    "There's a place in your heart",
+    "And I know that it is love",
+    "And this place could be much",
+    "Brighter than tomorrow",
+    "And if you really try",
+    "You'll find there's no need to cry",
+    "In this place you'll feel",
+    "There's no hurt or sorrow",
+    "There are ways to get there",
+    "If you care enough for the living",
+    "Make a little space",
+    "Make a better place",
+    "Heal the world",
+    "Make it a better place",
+    "For you and for me",
+    "And the entire human race",
+    "There are people dying",
+    "If you care enough for the living",
+    "Make a better place",
+    "For y[o]u",
+    "Attitude",
+    "The m",
+    "comp"
+  ],
+  "spatial_relations": [
+    "A large LED backdrop fills the rear of the stage; presenters stand across the front of the stage in a horizontal line in front of the backdrop.",
+    "From the viewer's left to right on the stage: a partially visible wooden percussion instrument set sits at far left rear; presenters occupy the front-left to center; a drum kit is centered rear behind the presenters; a microphone stand is front-center; the grand piano is stage-right with its bench in front of it and additional chairs to its right.",
+    "The four posters held by presenters are aligned left-to-right roughly in the presenters' hands: tree, child illustration, heart, robot.",
+    "The person holding a microphone and raising a phone stands slightly left of center among the presenters; another person stands to that person's right holding no poster.",
+    "The word 'Attitude' appears on a purple rectangular graphic on the right portion of the LED backdrop, which is positioned above and behind the piano area."
+  ],
+  "colours_and_materials": [
+    "The LED backdrop has a dark navy/blue background with large white heading text and multicolored graphic elements (including a cross-section sphere with red/yellow inner layers and pastel circular shapes).",
+    "The stage floor appears to be light to medium-brown wood (wooden texture visible).",
+    "The grand piano is glossy black with a polished finish; the piano bench is also black.",
+    "The posters held by presenters are predominantly white with colorful printed illustrations (green tree, yellow/orange child, red heart, blue robot).",
+    "Presenters wear a mix of dark and light clothing; one presenter is wearing a light-colored headscarf and light brown coat."
+  ],
+  "uncertainties": [
+    "Location: no visible room name or number appears in the image, so the precise room within any building is unknown from image.",
+    "People count: six distinct presenters are clearly visible in the front row; there may be additional backstage or partially obscured people (for example someone might be partly obscured behind equipment near the drum kit), so a room-wide total cannot be determined from this single view.",
+    "Text transcription: several lyric lines are small and some characters are partially obscured by presenters or by image quality; the line 'For y[o]u' contains an uncertain character 'o' shown in brackets to indicate partial legibility. Two short fragments on the right of the backdrop read 'The m' and 'comp' and appear cropped or partially obscured and therefore are transcribed as shown rather than completed.",
+    "Equipment identification: the left-side wooden instrument is described as 'appears to be' a gamelan-like or wooden percussion set because the image shows wooden slats, but material and exact instrument type cannot be confirmed from appearance alone.",
+    "Some small labels, maker names or equipment model numbers (on amplifiers, microphones or drum hardware) are not legible at this resolution and were not transcribed."
+  ],
+  "visual_facts": [
+    "Six people standing in a row across the front of the stage and holding or presenting items: from left to right a person holding a poster of a tree, a person holding a poster with a child illustration, a person wearing a headscarf holding a heart poster, a person holding a poster with a robot illustration, a person holding a microphone and raising a phone, and a person standing with hands by their side (total visible and distinct in the front row = 6).",
+    "One large LED screen or projection backdrop that occupies the full rear of the stage and displays large text and graphics.",
+    "One grand piano at stage right (one visible glossy black grand piano with matching piano bench).",
+    "One drum kit located roughly center-rear of the stage (bass drum, cymbals and stands visible as an assembled drum set).",
+    "One microphone on a stand near stage front center and at least one handheld microphone in use by a presenter (microphone counts: at least one stand-mounted microphone and one handheld microphone visible).",
+    "One amplifier or speaker cabinet visible on the stage floor near the left-center area behind the presenters.",
+    "At least three chairs visible on stage: one piano bench at the grand piano and two other chairs (one near the piano and one behind the presenters); several other chairs or stool-like seats are partially visible but not fully distinct.",
+    "One instrument on the far left that appears to be a row of wooden percussion instruments or a gamelan-like set (visible left side of stage), partially visible and possibly cropped.",
+    "Several large printed posters being held by presenters (four distinct poster designs are visible: tree, child, heart, robot).",
+    "The LED backdrop has a dark navy/blue background with large white heading text and multicolored graphic elements (including a cross-section sphere with red/yellow inner layers and pastel circular shapes).",
+    "The stage floor appears to be light to medium-brown wood (wooden texture visible).",
+    "The grand piano is glossy black with a polished finish; the piano bench is also black.",
+    "The posters held by presenters are predominantly white with colorful printed illustrations (green tree, yellow/orange child, red heart, blue robot).",
+    "Presenters wear a mix of dark and light clothing; one presenter is wearing a light-colored headscarf and light brown coat."
+  ],
+  "id": "11f915826cef8990ea9b1b84",
+  "sha256": "3498d20a1c9a06c3616dd7ead85917b3068475899f344d3286a0e51aeb340e5e",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:28:46.792795+00:00",
+  "input_resolution": [
+    2238,
+    1373
+  ],
+  "input_sha256": "4c331e55bbb7fecac46f867c864eff8be5713106057c455cbb0713b28c611379",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatsXteJanNOk5Oon7rQ6gKaQD0uU",
+  "usage": {
+    "completion_tokens": 1475,
+    "prompt_tokens": 2352,
+    "total_tokens": 3827,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1192,
+      "engine_ttlt_ms": 11473,
+      "pre_inference_ms": 418,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2135,
+      "service_ttlt_ms": 12410,
+      "user_visible_ttft_ms": 1717
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

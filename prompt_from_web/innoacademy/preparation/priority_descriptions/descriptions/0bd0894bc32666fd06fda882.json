@@ -1,0 +1,107 @@
+{
+  "title": "Desk with podcasting microphones, pop filters, headphones and monitors",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Three microphone assemblies are visible: one microphone on a boom arm with its stand/base in the front-left region of the desk, and two additional microphone assemblies with pop filters mounted on small round bases toward the centre-right of the desk. Some microphone bodies are partly obscured by pop filters.",
+    "Three circular pop filters are visible: one attached in front of the leftmost microphone, and two attached to the centre-right microphone assemblies. All three pop filters are visible; two are partially overlapping each other from this viewpoint.",
+    "Two computer monitors are visible: one large monitor dominates the left and centre of the image and a second, smaller monitor is visible behind the centre-right microphone assembly. The smaller monitor is partly obscured by equipment.",
+    "Two pairs of over-ear headphones are visible: one pair is lying on the desk under the large monitor (front-centre), and another is hanging on or draped over one of the centre/right microphone stands.",
+    "One clear plastic pump bottle of hand sanitizer stands on the desk at the front-left edge.",
+    "Multiple cables and wire bundles are visible: a visible loose cable with a USB-C or similar connector runs across the desk foreground from front-centre toward the bottom edge; additional bundled cables are visible behind the monitors and hanging on the wall.",
+    "One pale, kidney-shaped desk surface supports the equipment; the desk edge and a support leg are visible at the right."
+  ],
+  "visible_text": [
+    "HAND SANITIZER",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The large monitor occupies the left and central background of the image, sitting behind the microphones and partially blocking a section of the perforated wall paneling.",
+    "The leftmost microphone on a boom arm is positioned near the front-left edge of the desk; its base sits on the desk surface and its arm extends toward the centre of the image.",
+    "Two microphone stands with round bases are positioned closer to the centre-right of the desk and are aligned roughly in a row from left-front to right-rear across the desk surface.",
+    "The smaller monitor is placed behind and slightly to the right of the centre microphone stands, partially obscured by pop filters and microphone bodies.",
+    "A pair of headphones sits on the desk beneath the large monitor (front-centre), while another pair is hanging on or draped over a microphone stand near the centre-right.",
+    "The hand sanitizer bottle is at the very front-left corner of the desk, in front of the leftmost microphone base.",
+    "Cables run from the equipment toward the back of the desk and up the perforated wall panels; a loose cable with a connector lies across the desk toward the foreground."
+  ],
+  "colours_and_materials": [
+    "The wall panels behind the equipment are light beige and perforated, appearing to be acoustic panels (material not certain).",
+    "The desk surface is a light off-white or very pale grey laminated material with a smooth texture.",
+    "Most equipment (microphone bodies, pop filters, monitor frames, headphone earcups, mic stands and bases) is black or dark grey metal/plastic.",
+    "The hand sanitizer bottle is clear plastic with a white pump and a mostly white label.",
+    "Visible cables are black or dark grey."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is visible anywhere in the image, so the precise location cannot be determined from the image alone.",
+    "Several text elements on equipment and labels are too small, angled or partially obscured to read clearly; only part of the hand sanitizer label ('HAND SANITIZER') is legible and the remainder of the bottle label is [unreadable].",
+    "Brand names or model markings on microphones, pop filters, monitors and headphones are either out of focus or obscured; any apparent logos are not transcribed because they are not unambiguously legible.",
+    "Some microphone bodies and pop filters overlap and are partially cropped by the image edges, so counts are reliable for visible items only and may exclude equipment just out of frame."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Three microphone assemblies are visible: one microphone on a boom arm with its stand/base in the front-left region of the desk, and two additional microphone assemblies with pop filters mounted on small round bases toward the centre-right of the desk. Some microphone bodies are partly obscured by pop filters.",
+    "Three circular pop filters are visible: one attached in front of the leftmost microphone, and two attached to the centre-right microphone assemblies. All three pop filters are visible; two are partially overlapping each other from this viewpoint.",
+    "Two computer monitors are visible: one large monitor dominates the left and centre of the image and a second, smaller monitor is visible behind the centre-right microphone assembly. The smaller monitor is partly obscured by equipment.",
+    "Two pairs of over-ear headphones are visible: one pair is lying on the desk under the large monitor (front-centre), and another is hanging on or draped over one of the centre/right microphone stands.",
+    "One clear plastic pump bottle of hand sanitizer stands on the desk at the front-left edge.",
+    "Multiple cables and wire bundles are visible: a visible loose cable with a USB-C or similar connector runs across the desk foreground from front-centre toward the bottom edge; additional bundled cables are visible behind the monitors and hanging on the wall.",
+    "One pale, kidney-shaped desk surface supports the equipment; the desk edge and a support leg are visible at the right.",
+    "The wall panels behind the equipment are light beige and perforated, appearing to be acoustic panels (material not certain).",
+    "The desk surface is a light off-white or very pale grey laminated material with a smooth texture.",
+    "Most equipment (microphone bodies, pop filters, monitor frames, headphone earcups, mic stands and bases) is black or dark grey metal/plastic.",
+    "The hand sanitizer bottle is clear plastic with a white pump and a mostly white label.",
+    "Visible cables are black or dark grey."
+  ],
+  "id": "0bd0894bc32666fd06fda882",
+  "sha256": "029ff08557ad1ffa42d36140746090ab5bb97b7d92a65b310888b30ced9b1353",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v2",
+  "prompt_sha256": "cb5d61d139511c0145f38a535795e8addd920085f0b8dc94794a2386890ed28d",
+  "viewed": true,
+  "described_at": "2026-10-20T01:58:54.674531+00:00",
+  "input_resolution": [
+    1800,
+    2400
+  ],
+  "input_sha256": "a3785810aec37d7e6f734d7d47ad7a18c4d071e17da7c3117073b2ecb070c2a7",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatPfsfkx2YGI9VMbBrV1RRSQ5XyL",
+  "usage": {
+    "completion_tokens": 1290,
+    "prompt_tokens": 1600,
+    "total_tokens": 2890,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1100,
+      "engine_ttlt_ms": 10100,
+      "pre_inference_ms": 381,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1916,
+      "service_ttlt_ms": 10907,
+      "user_visible_ttft_ms": 1535
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/cb5d61d139511c0145f38a535795e8addd920085f0b8dc94794a2386890ed28d.txt"
+}

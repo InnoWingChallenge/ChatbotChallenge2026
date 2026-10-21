@@ -1,0 +1,114 @@
+{
+  "title": "Stage group in front of event backdrop reading Global Inclusive Leadership Program 2019",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "A large assembled group of people standing on a stage: at least 55 individual persons are visible in the photographed scene (standing in multiple rows across the center of the stage).",
+    "A line of seated musicians or students at the right edge of the stage: at least 9 seated players with hand-held vertical instruments are visible (they are seated in a row on chairs; some are partially cropped on the far right).",
+    "A grand piano located slightly right of center on the stage (visible keyboard lid and body).",
+    "Two floor microphones on stands placed near the front-center of the stage (one is directly center front, another at right grouped with a tripod-mounted device).",
+    "Two wedge-style stage monitors (one near the center front of the stage, one toward the right-front) visible on the floor.",
+    "A tripod or mic-stand assembly at the right-front area where three people are clustered (appears to hold a microphone or recording device).",
+    "Percussion or traditional ensemble instruments and frames on the left side of the stage: at least two larger frame instruments / gamelan-like stands with instruments and players nearby (some players partially obscured).",
+    "Multiple music stands and chairs distributed across the stage (exact count cannot be determined due to overlap and distance).",
+    "A backdrop screen filling the rear of the stage with printed logos and headings; the backdrop includes multiple graphical logos and decorative visual elements (these are part of the scene, not posters on the wall)."
+  ],
+  "visible_text": [
+    "Global Inclusive Leadership Program 2019 STEM+ Leadership Week",
+    "China & Thailand 2019",
+    "B.GRIMM SINCE 1878",
+    "NSTDA",
+    "[unreadable] (several small logos and circular seals along the top of the backdrop that are not fully legible)",
+    "[unreadable] (small decorative or institutional text toward the top and right of the backdrop)"
+  ],
+  "spatial_relations": [
+    "The large projected backdrop occupies the full rear of the stage and spans horizontally behind the assembled group.",
+    "The group of standing people is centered on the stage in front of the backdrop, arranged in multiple rows from front to back.",
+    "The grand piano is positioned slightly right of center behind the standing group; seated people are both in front of and to the right of the piano.",
+    "The right edge of the stage contains a seated row of musicians with vertical instruments; they are to the right of the piano and right of the main group.",
+    "Percussion or framed instruments and performers are located at the left edge of the stage, to the left of the standing group.",
+    "Two stage monitors are placed near the front edge of the stage — one near center front in front of the group and another toward the right front — with microphones on stands near them.",
+    "A tripod or stand with three people clustered around it is located at the right-front area of the stage, slightly in front of the main standing group."
+  ],
+  "colours_and_materials": [
+    "The stage floor appears to be wood with a light brown finish.",
+    "The backdrop is brightly coloured with warm bokeh-style lights in gold, green and pink hues and darker printed logos and black text.",
+    "Many participants wear dark blue shirts or white shirts; several individuals wear other clothing colours including beige, yellow and patterned garments.",
+    "The grand piano is black with a glossy finish.",
+    "Stage monitors are black; microphone stands appear to be black metal."
+  ],
+  "uncertainties": [
+    "Exact total number of people cannot be precisely determined from the image because some individuals in rear rows are partially obscured; the count given is a visible minimum.",
+    "Multiple small logos and circular seals across the top of the backdrop are partially legible; their full text cannot be reliably transcribed from this image so they are marked as [unreadable].",
+    "Some smaller labels, captions or potential signage on instruments, stands or chairs are too small or blurred to read and were not transcribed.",
+    "The identity of the seated vertical instruments at right and the framed instruments at left are visually suggestive but not specifically identified to avoid inferring instrument types from appearance.",
+    "The printed 'B.GRIMM SINCE 1878' and 'NSTDA' are legible on the backdrop; other top-row textual content and emblems are not fully legible and may include additional organization names that are unreadable here."
+  ],
+  "visual_facts": [
+    "A large assembled group of people standing on a stage: at least 55 individual persons are visible in the photographed scene (standing in multiple rows across the center of the stage).",
+    "A line of seated musicians or students at the right edge of the stage: at least 9 seated players with hand-held vertical instruments are visible (they are seated in a row on chairs; some are partially cropped on the far right).",
+    "A grand piano located slightly right of center on the stage (visible keyboard lid and body).",
+    "Two floor microphones on stands placed near the front-center of the stage (one is directly center front, another at right grouped with a tripod-mounted device).",
+    "Two wedge-style stage monitors (one near the center front of the stage, one toward the right-front) visible on the floor.",
+    "A tripod or mic-stand assembly at the right-front area where three people are clustered (appears to hold a microphone or recording device).",
+    "Percussion or traditional ensemble instruments and frames on the left side of the stage: at least two larger frame instruments / gamelan-like stands with instruments and players nearby (some players partially obscured).",
+    "Multiple music stands and chairs distributed across the stage (exact count cannot be determined due to overlap and distance).",
+    "A backdrop screen filling the rear of the stage with printed logos and headings; the backdrop includes multiple graphical logos and decorative visual elements (these are part of the scene, not posters on the wall).",
+    "The stage floor appears to be wood with a light brown finish.",
+    "The backdrop is brightly coloured with warm bokeh-style lights in gold, green and pink hues and darker printed logos and black text.",
+    "Many participants wear dark blue shirts or white shirts; several individuals wear other clothing colours including beige, yellow and patterned garments.",
+    "The grand piano is black with a glossy finish.",
+    "Stage monitors are black; microphone stands appear to be black metal."
+  ],
+  "id": "a95ebc34986723c2d44c5a3d",
+  "sha256": "aa026a95feaf642e71a1aeba9804edc797c3b8285a556bcb65954c7398db2b03",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:57:25.627366+00:00",
+  "input_resolution": [
+    2400,
+    1355
+  ],
+  "input_sha256": "c07359525786d5241b7974d11012950c0e1d7696858edfbd6890c34709c4ebcf",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauKI1FIqMXxGRSKB4vyqZrKj5Chw",
+  "usage": {
+    "completion_tokens": 1240,
+    "prompt_tokens": 2439,
+    "total_tokens": 3679,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1226,
+      "engine_ttlt_ms": 9276,
+      "pre_inference_ms": 449,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2249,
+      "service_ttlt_ms": 10294,
+      "user_visible_ttft_ms": 1800
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

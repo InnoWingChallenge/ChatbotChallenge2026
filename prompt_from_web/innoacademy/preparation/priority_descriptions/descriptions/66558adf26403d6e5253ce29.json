@@ -1,0 +1,98 @@
+{
+  "title": "Close-up of optical/camera modules on black metal optical breadboard in lab space",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One small black cube-shaped device with a lens mounted on top, located near the center-right of the image on a black metal plate; the lens assembly is visible and the cube is fully in frame.",
+    "One larger black assembly with a visible cylindrical lens element at the left-middle edge of the image; this assembly is partially cropped by the image left border (at least one larger optical module visible, cropped).",
+    "One exposed electronic circuit board with multiple white connector housings and coloured wires (red, yellow, black) in the lower-left foreground; the board is partially visible and partially out of focus.",
+    "Several metal fasteners (screws) visible in the black metal plate where the cube and assemblies are mounted; at least three screw heads are visible on the plate surface in the photographed area.",
+    "A row of tall enclosed cabinets or racks with glass doors is visible in the distant background at the right side of the image; at least three vertical cabinet sections are visible."
+  ],
+  "visible_text": [
+    "M6020",
+    "Class 1 Laser Product"
+  ],
+  "spatial_relations": [
+    "The small black cube-shaped device with lens sits on top of a flat black metal plate toward the center-right of the frame.",
+    "The larger black assembly with a cylindrical lens is positioned to the left of the cube and is partially cropped by the left image edge.",
+    "The exposed circuit board with connectors and colored wires is in the lower-left foreground, in front of and below the plane of the mounted optical assemblies.",
+    "The row of tall glass-doored cabinets is positioned in the background on the right side of the image, behind the mounted plates and devices.",
+    "Multiple screw heads and mounting holes are arranged along and across the black metal plate, forming the mounting surface for the cube and other assemblies."
+  ],
+  "colours_and_materials": [
+    "Black metal mounting plates and black plastic or metal housings for the optical assemblies dominate the foreground.",
+    "The lens elements appear dark/glossy black with reflective surfaces.",
+    "The circuit board in the lower-left foreground has a typical green-brown PCB colour with white plastic connector housings and red/yellow/black insulated wires.",
+    "The floor visible in the background appears light blue and the walls are white; the tall cabinets in the background have glass or transparent doors and a light-coloured frame."
+  ],
+  "uncertainties": [
+    "The small side and panel labels on the black cube and the larger assembly contain additional text that is not legible at the image resolution; only 'Class 1 Laser Product' on a yellow label and 'M6020' are readable.",
+    "The exact device types, brand names (beyond 'M6020' fragment), model numbers and functions cannot be determined from visible appearance alone.",
+    "The larger left optical assembly is partially cropped by the image edge, so the full count and extent of that assembly are uncertain.",
+    "No room name or number is visible anywhere in the image, so the precise location cannot be established from this image.",
+    "The number of cabinets/racks in the full room cannot be determined; at least three vertical sections are visible but the total is unknown."
+  ],
+  "visual_facts": [
+    "One small black cube-shaped device with a lens mounted on top, located near the center-right of the image on a black metal plate; the lens assembly is visible and the cube is fully in frame.",
+    "One larger black assembly with a visible cylindrical lens element at the left-middle edge of the image; this assembly is partially cropped by the image left border (at least one larger optical module visible, cropped).",
+    "One exposed electronic circuit board with multiple white connector housings and coloured wires (red, yellow, black) in the lower-left foreground; the board is partially visible and partially out of focus.",
+    "Several metal fasteners (screws) visible in the black metal plate where the cube and assemblies are mounted; at least three screw heads are visible on the plate surface in the photographed area.",
+    "A row of tall enclosed cabinets or racks with glass doors is visible in the distant background at the right side of the image; at least three vertical cabinet sections are visible.",
+    "Black metal mounting plates and black plastic or metal housings for the optical assemblies dominate the foreground.",
+    "The lens elements appear dark/glossy black with reflective surfaces.",
+    "The circuit board in the lower-left foreground has a typical green-brown PCB colour with white plastic connector housings and red/yellow/black insulated wires.",
+    "The floor visible in the background appears light blue and the walls are white; the tall cabinets in the background have glass or transparent doors and a light-coloured frame."
+  ],
+  "id": "66558adf26403d6e5253ce29",
+  "sha256": "7da2e435d624861678ba910fa1961006b8fb6f95e614b0e9c91f4d4e3fef6131",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:12:06.328778+00:00",
+  "input_resolution": [
+    1440,
+    1080
+  ],
+  "input_sha256": "a52f4d4396b7a323276a9049bcf21b63c24eac75ddb06532226671dfcc493ade",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatcSDppXr3lZrfCtrQvAAeaEUzpI",
+  "usage": {
+    "completion_tokens": 979,
+    "prompt_tokens": 2122,
+    "total_tokens": 3101,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 955,
+      "engine_ttlt_ms": 8327,
+      "pre_inference_ms": 266,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1791,
+      "service_ttlt_ms": 9158,
+      "user_visible_ttft_ms": 1525
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

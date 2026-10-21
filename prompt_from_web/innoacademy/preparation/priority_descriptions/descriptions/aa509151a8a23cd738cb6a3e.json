@@ -1,0 +1,102 @@
+{
+  "title": "Speakers on stage with projection reading Global Inclusive STEM+Leadership Week China & Thailand 2019",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Six adult people are standing in a single row across the stage; all are fully or mostly visible and facing forward.",
+    "One microphone on a single microphone stand is visible at center front, positioned for the central speaker (the microphone and stand are not cropped).",
+    "One floral bouquet is being held by the central person at the microphone.",
+    "One large projection screen is visible behind the speakers showing event text and logos.",
+    "At least one floor monitor or speaker enclosure is visible at the front right edge of the stage and is partially cropped by the image edge.",
+    "Multiple small audience heads are visible as a blurred foreground strip at the bottom edge of the image and are cropped.",
+    "One visible lanyard and identification badge is worn by the second person from the right (white badge on a dark cord)."
+  ],
+  "visible_text": [
+    "Global Inclusive STEM+Leadership Week",
+    "China & Thailand 2019",
+    "Life upon Life + from Success to Significance"
+  ],
+  "spatial_relations": [
+    "The projection screen fills the entire background behind the group and displays the event headings centered on the image.",
+    "Six people form a roughly evenly spaced left-to-right line across the stage in front of the screen.",
+    "From image left to right: person in a dark suit with a yellow tie; a person in a yellow jacket and skirt; the central speaker in a dark blue outfit holding the bouquet and speaking into the microphone; a person wearing a light blue/white shirt with a lanyard and badge; a person in a light yellow/gold jacket; and a person in a dark suit with a yellow tie at the far right.",
+    "The microphone stand is centered in front of the central speaker; the floor monitor/speaker is near the front right edge of the stage (image right) and is partially cropped.",
+    "Audience heads are in the immediate foreground, cropped at the bottom of the image and positioned between camera and stage."
+  ],
+  "colours_and_materials": [
+    "The projection screen background is light grey or pale and displays pale green/yellow heading text.",
+    "Clothing shows distinctive colours: two individuals wear bright yellow garments (one full yellow outfit and one light yellow/gold jacket), two wear dark-colored suits (dark navy or black), one wears a dark blue outfit, and one wears a light blue/white shirt with dark trousers.",
+    "The floral bouquet contains visible light-blue and white flowers with green foliage.",
+    "The microphone stand appears metallic/dark in colour; stage floor is dark (possibly black) with a red frontal skirting visible along the bottom of the stage."
+  ],
+  "uncertainties": [
+    "Small logos and lines of multilingual text along the top and under the main heading on the projection are present but not legible at this resolution; their exact wording cannot be read.",
+    "There may be additional audio equipment or stands at stage left that are partially out of frame or obscured; only the center microphone and one floor monitor at right are clearly visible.",
+    "Names, titles or affiliations of the people on stage are not shown in legible text in the image; visible badges and small lapel pins are present but their text is unreadable.",
+    "The exact number and type of audience members beyond the cropped heads in the foreground cannot be determined from this image."
+  ],
+  "visual_facts": [
+    "Six adult people are standing in a single row across the stage; all are fully or mostly visible and facing forward.",
+    "One microphone on a single microphone stand is visible at center front, positioned for the central speaker (the microphone and stand are not cropped).",
+    "One floral bouquet is being held by the central person at the microphone.",
+    "One large projection screen is visible behind the speakers showing event text and logos.",
+    "At least one floor monitor or speaker enclosure is visible at the front right edge of the stage and is partially cropped by the image edge.",
+    "Multiple small audience heads are visible as a blurred foreground strip at the bottom edge of the image and are cropped.",
+    "One visible lanyard and identification badge is worn by the second person from the right (white badge on a dark cord).",
+    "The projection screen background is light grey or pale and displays pale green/yellow heading text.",
+    "Clothing shows distinctive colours: two individuals wear bright yellow garments (one full yellow outfit and one light yellow/gold jacket), two wear dark-colored suits (dark navy or black), one wears a dark blue outfit, and one wears a light blue/white shirt with dark trousers.",
+    "The floral bouquet contains visible light-blue and white flowers with green foliage.",
+    "The microphone stand appears metallic/dark in colour; stage floor is dark (possibly black) with a red frontal skirting visible along the bottom of the stage."
+  ],
+  "id": "aa509151a8a23cd738cb6a3e",
+  "sha256": "57cafcc82b07f7352fbbff8f64c01b2d7a9b4e6c8ad085e81b4724e6cd28f385",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:58:21.969553+00:00",
+  "input_resolution": [
+    1024,
+    683
+  ],
+  "input_sha256": "85fbd85ef4ab2de16036911eebb4cd1c037ce2a80ecde2dc3963e10a06bd7c37",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauLETzlKvkYBVTw4Pp0iulh8Kgs1",
+  "usage": {
+    "completion_tokens": 1011,
+    "prompt_tokens": 2045,
+    "total_tokens": 3056,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 544,
+      "engine_ttlt_ms": 8315,
+      "pre_inference_ms": 131,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1260,
+      "service_ttlt_ms": 9023,
+      "user_visible_ttft_ms": 1129
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

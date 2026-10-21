@@ -1,0 +1,111 @@
+{
+  "title": "Rooftop experimental frame with reflective collector and small solar panel",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One aluminum extruded-profile frame assembly on four caster wheels is centered in the foreground; the frame is freestanding and supports mounted equipment.",
+    "One reflective parabolic-style collector assembly is mounted on top of the aluminum frame; the collector includes two cylindrical glass-like tubes placed side by side (two tubes visible).",
+    "One small photovoltaic panel is lying flat on the roof surface to the left foreground (one panel visible).",
+    "At least two large rectangular white concrete support blocks are visible supporting a metal rail structure in the mid-right background (minimum two large blocks visible).",
+    "One smaller square/rectangular concrete pad is visible beneath the aluminum frame (one smaller pad visible).",
+    "One wall-mounted electrical junction/control box is visible on the left wall (one box visible).",
+    "A cluster of exterior pipes and valves is visible at the mid-right background; multiple pipe segments and flanges are present (count not individually determined).",
+    "One yellow rectangular sign with text is mounted on a rooftop structure at the upper right (one sign visible).",
+    "Multiple loose cables and wires are visible hanging from or lying around the frame and on the roof surface; an exact count is not determined."
+  ],
+  "visible_text": [
+    "EXIT 出口"
+  ],
+  "spatial_relations": [
+    "The aluminum frame assembly is located centrally in the foreground of the image and occupies the middle third of the picture.",
+    "The reflective collector with two cylindrical tubes is mounted on top of the central frame.",
+    "The small photovoltaic panel lies on the roof surface to the left-front of the aluminum frame, disconnected or not mounted.",
+    "A metal rail platform supported by large rectangular concrete blocks runs behind and slightly to the right of the central frame; the blocks are beneath the rails.",
+    "A cluster of pipes and valves is positioned in the background to the right of the rails and behind the concrete blocks.",
+    "A wall-mounted electrical box is attached to the low parapet wall on the left side of the image, with conduit and cables running along the wall.",
+    "The yellow sign reading 'EXIT 出口' is on a rooftop structure at the upper right, behind the piping cluster."
+  ],
+  "colours_and_materials": [
+    "The frame appears to be silver metallic aluminum extrusions with black caster wheels.",
+    "The collector surface is highly reflective silver metal; the two tubes appear glass or transparent with a reflective coating or inner surface.",
+    "The rooftop surface and concrete blocks are off-white to light grey concrete.",
+    "A parapet wall along the left edge is painted white with a red top edge; a nearby vertical pipe is painted red.",
+    "The metal rails behind the frame are dark grey or black."
+  ],
+  "uncertainties": [
+    "Small labels and text on the frame-mounted electronics or control devices are not legible in this image and therefore not transcribed.",
+    "Exact total count of concrete blocks is ambiguous because some blocks are partially obscured by the frame and rails; a minimum of two large blocks is visible but there may be more out of frame.",
+    "The specific type or model of the collector tubes cannot be determined from appearance alone (described only as cylindrical glass-like tubes).",
+    "The exact number and function of the pipe fittings and valves in the background cannot be individually counted or identified from this view.",
+    "Any small printed labels on the wall-mounted electrical box or on the frame are unreadable at this resolution and distance."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One aluminum extruded-profile frame assembly on four caster wheels is centered in the foreground; the frame is freestanding and supports mounted equipment.",
+    "One reflective parabolic-style collector assembly is mounted on top of the aluminum frame; the collector includes two cylindrical glass-like tubes placed side by side (two tubes visible).",
+    "One small photovoltaic panel is lying flat on the roof surface to the left foreground (one panel visible).",
+    "At least two large rectangular white concrete support blocks are visible supporting a metal rail structure in the mid-right background (minimum two large blocks visible).",
+    "One smaller square/rectangular concrete pad is visible beneath the aluminum frame (one smaller pad visible).",
+    "One wall-mounted electrical junction/control box is visible on the left wall (one box visible).",
+    "A cluster of exterior pipes and valves is visible at the mid-right background; multiple pipe segments and flanges are present (count not individually determined).",
+    "One yellow rectangular sign with text is mounted on a rooftop structure at the upper right (one sign visible).",
+    "Multiple loose cables and wires are visible hanging from or lying around the frame and on the roof surface; an exact count is not determined.",
+    "The frame appears to be silver metallic aluminum extrusions with black caster wheels.",
+    "The collector surface is highly reflective silver metal; the two tubes appear glass or transparent with a reflective coating or inner surface.",
+    "The rooftop surface and concrete blocks are off-white to light grey concrete.",
+    "A parapet wall along the left edge is painted white with a red top edge; a nearby vertical pipe is painted red.",
+    "The metal rails behind the frame are dark grey or black."
+  ],
+  "id": "54a3a2023c74b17751a8d102",
+  "sha256": "e852518bb038633c4960829a77e1b66531a56350d7c5ba5ad7e370fa03c11ed9",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:10:20.360594+00:00",
+  "input_resolution": [
+    2400,
+    1800
+  ],
+  "input_sha256": "a401c921b2d5ca966c6b2567afb6532b94756d714ac78fbf2e8526d9e2dfdded",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatakGGPZ1lNLtI768CE9XESjWH68",
+  "usage": {
+    "completion_tokens": 1105,
+    "prompt_tokens": 2122,
+    "total_tokens": 3227,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1158,
+      "engine_ttlt_ms": 8131,
+      "pre_inference_ms": 339,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 1962,
+      "service_ttlt_ms": 8930,
+      "user_visible_ttft_ms": 1623
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

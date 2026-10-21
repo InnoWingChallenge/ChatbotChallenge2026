@@ -1,0 +1,111 @@
+{
+  "title": "Classroom or lab with two projection screens showing HKUR slide",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least three seated people are visible on the right side of the image; all three are wearing face masks and are seated at the long tables. One of these people is closest to the camera wearing a light green shirt.",
+    "Two large projected screens are visible along the left-to-center and center-right walls showing the same presentation slide.",
+    "Two long work tables run roughly front-to-back in the midline of the room; each table has visible rectangular clear acrylic desk dividers or placemats on their surfaces (two visible on the nearest table).",
+    "At least five stools are visible: one stool partially tucked under the near table in the foreground, one stool occupied by the person in the light green shirt, and at least three additional stools further down the tables on the right side (some are partially obscured).",
+    "A row of locker-style cabinets with perforated/mesh doors is visible beneath the left projection screen; at least twelve distinct locker panels are visible in the photographed section (some panels are partially obscured by table edges).",
+    "One desktop computer monitor and one small sign or card on a stand are on the counter beneath the windows (center-left of image).",
+    "Multiple ceiling-mounted fixtures and exposed ductwork are visible above the room (recessed panels, hanging lights, and metal ducts).",
+    "A backpack is visible on the floor next to the stool of the nearest seated person on the right."
+  ],
+  "visible_text": [
+    "HKUR",
+    "Formula Student Electric",
+    "Special thanks from Yuchen:",
+    "渋谷MIDNIGHT",
+    "TRFFULEBUNNY OFFICIAL",
+    "INDUSTRIAL BANK CO.,LTD."
+  ],
+  "spatial_relations": [
+    "A large projection screen occupies the left wall area; another projection screen is mounted farther back on the right side of that same wall line so two screens face the seating area.",
+    "Long rectangular tables run from the front of the image toward the back; people are seated along the right-hand side of these tables facing the left wall where the projections are displayed.",
+    "Windows are located on the center-left wall between the two projection screens, with a counter and cabinets beneath them; the lockers/cabinets run along the same wall under the leftmost screen.",
+    "Ceiling-mounted ducts, ducts and panels run above and parallel to the tables; hanging light fixtures and other services are suspended from the ceiling above the tables.",
+    "The nearest table has a clear acrylic divider or placemat toward its center; the occupied stools are positioned along the table edge facing the screens."
+  ],
+  "colours_and_materials": [
+    "Tabletops have a light wood-coloured surface with white metal table legs.",
+    "Stools are predominantly black (seats and legs appear black).",
+    "Locker/cabinet fronts beneath the screen appear light grey with a perforated or mesh texture.",
+    "Window frames are green and the walls around the windows are white; projection screens are white with projected coloured slide content.",
+    "Ceiling shows metallic silver ducts and white ceiling panels; floor appears to be a smooth grey material."
+  ],
+  "uncertainties": [
+    "Exact room identifier or room number is not visible anywhere in the image; location is therefore unknown from the image.",
+    "Some small text on the projected slide and on counter signs is too small or partially obscured to fully transcribe; transcriptions provided are only the legible elements.",
+    "The logo/text rendered as 'TRFFULEBUNNY OFFICIAL' is transcribed exactly as visible; it may be a stylized or misspelled rendering and other characters in the logo are not clearly legible.",
+    "The Japanese/Chinese logo line is transcribed as '渋谷MIDNIGHT' based on visible characters, but smaller adjacent text on that logo is not legible.",
+    "The exact count of lockers/panels beneath the screen is approximate ('at least twelve') because some panels are partially obscured by table edges and perspective.",
+    "The count of stools and people is a visible minimum; overlap and occlusion prevent a definitive total for the whole room."
+  ],
+  "visual_facts": [
+    "At least three seated people are visible on the right side of the image; all three are wearing face masks and are seated at the long tables. One of these people is closest to the camera wearing a light green shirt.",
+    "Two large projected screens are visible along the left-to-center and center-right walls showing the same presentation slide.",
+    "Two long work tables run roughly front-to-back in the midline of the room; each table has visible rectangular clear acrylic desk dividers or placemats on their surfaces (two visible on the nearest table).",
+    "At least five stools are visible: one stool partially tucked under the near table in the foreground, one stool occupied by the person in the light green shirt, and at least three additional stools further down the tables on the right side (some are partially obscured).",
+    "A row of locker-style cabinets with perforated/mesh doors is visible beneath the left projection screen; at least twelve distinct locker panels are visible in the photographed section (some panels are partially obscured by table edges).",
+    "One desktop computer monitor and one small sign or card on a stand are on the counter beneath the windows (center-left of image).",
+    "Multiple ceiling-mounted fixtures and exposed ductwork are visible above the room (recessed panels, hanging lights, and metal ducts).",
+    "A backpack is visible on the floor next to the stool of the nearest seated person on the right.",
+    "Tabletops have a light wood-coloured surface with white metal table legs.",
+    "Stools are predominantly black (seats and legs appear black).",
+    "Locker/cabinet fronts beneath the screen appear light grey with a perforated or mesh texture.",
+    "Window frames are green and the walls around the windows are white; projection screens are white with projected coloured slide content.",
+    "Ceiling shows metallic silver ducts and white ceiling panels; floor appears to be a smooth grey material."
+  ],
+  "id": "69cbae77fe418e91022b0426",
+  "sha256": "d9bba889d33f192aad683668083e4a35f3d484bd04a9d542939a6ad7a559cb69",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:44:07.144759+00:00",
+  "input_resolution": [
+    2000,
+    1500
+  ],
+  "input_sha256": "b286f75cea968f2f9002c7a9e27d5519b43e7368c9425904e7b2e8d5f07216f5",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau7QTDxiX8B90Cdt57yziNSdVCf1",
+  "usage": {
+    "completion_tokens": 1301,
+    "prompt_tokens": 2122,
+    "total_tokens": 3423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 978,
+      "engine_ttlt_ms": 9636,
+      "pre_inference_ms": 308,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1751,
+      "service_ttlt_ms": 10404,
+      "user_visible_ttft_ms": 1444
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Person in pool with a single robotic submersible and lane divider",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One adult person is visible at the left side of the image, waist-deep and partially submerged; the person's head and upper torso are visible and the person is facing right.",
+    "One small torpedo-shaped robotic device or submersible is visible partially submerged and traveling to the right in the lane to the right of the person; the device is centered vertically in the image and partially above the water surface where a small splash is visible.",
+    "One swimming lane divider (rope with floats) is visible running horizontally across the top of the image; the rope shows a repeated pattern of blue floats with a short segment of red floats at the right edge.",
+    "One dark continuous lane-mark stripe composed of black tiles is visible on the pool floor under the water, running horizontally across the middle of the image and passing beneath the robotic device.",
+    "One pair of swim goggles is visible on the person's head."
+  ],
+  "visible_text": [
+    "arena"
+  ],
+  "spatial_relations": [
+    "The person is positioned at the left side of the frame and is in the same lane as the robotic device but to the left of it; the person is roughly aligned with the left portion of the black lane-mark stripe on the pool floor.",
+    "The torpedo-shaped robotic device is to the right of the person and is traveling along or above the black lane-mark stripe on the pool floor.",
+    "The floating lane divider runs horizontally near the top edge of the image and lies above the black tile lane-mark when viewed in the frame.",
+    "The black tile lane-mark stripe runs horizontally across the central band of the pool floor under the water and is directly under the robotic device."
+  ],
+  "colours_and_materials": [
+    "Pool water is light blue and shows reflected ripples and some darker blue patches from shadows or depth variation.",
+    "The lane divider floats are predominantly blue with a short section of red floats at the right edge of the frame.",
+    "The lane-mark stripe on the pool floor is black (dark tiles) against the lighter blue pool tiles.",
+    "The person is wearing a predominantly black swim top or wetsuit with white shoulder/side panels.",
+    "The robotic device appears to be a light-coloured (off-white or pale grey) rigid body with darker components; details of materials are not certain but the device looks hard-bodied rather than soft."
+  ],
+  "uncertainties": [
+    "No room name or number is visible in the image; location cannot be determined from the image.",
+    "The robotic device has no fully legible nameplate or label visible in this view; its exact make, model, or label text cannot be read.",
+    "Small text or logos other than 'arena' on the person's garment are not legible from this image.",
+    "The person's lower body is underwater and partly obscured; an exact count of limbs or other carried items cannot be determined.",
+    "It is unclear whether there are additional people outside the frame or in other lanes; the visible counts reflect only what is clearly and individually distinguishable within this image."
+  ],
+  "visual_facts": [
+    "One adult person is visible at the left side of the image, waist-deep and partially submerged; the person's head and upper torso are visible and the person is facing right.",
+    "One small torpedo-shaped robotic device or submersible is visible partially submerged and traveling to the right in the lane to the right of the person; the device is centered vertically in the image and partially above the water surface where a small splash is visible.",
+    "One swimming lane divider (rope with floats) is visible running horizontally across the top of the image; the rope shows a repeated pattern of blue floats with a short segment of red floats at the right edge.",
+    "One dark continuous lane-mark stripe composed of black tiles is visible on the pool floor under the water, running horizontally across the middle of the image and passing beneath the robotic device.",
+    "One pair of swim goggles is visible on the person's head.",
+    "Pool water is light blue and shows reflected ripples and some darker blue patches from shadows or depth variation.",
+    "The lane divider floats are predominantly blue with a short section of red floats at the right edge of the frame.",
+    "The lane-mark stripe on the pool floor is black (dark tiles) against the lighter blue pool tiles.",
+    "The person is wearing a predominantly black swim top or wetsuit with white shoulder/side panels.",
+    "The robotic device appears to be a light-coloured (off-white or pale grey) rigid body with darker components; details of materials are not certain but the device looks hard-bodied rather than soft."
+  ],
+  "id": "fd818bb50a1de37b938262a1",
+  "sha256": "c8fba3ab62782c60c4b30830e58a59842b3bdbe7b8087feb661998117f510a96",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:25:03.792045+00:00",
+  "input_resolution": [
+    2400,
+    1597
+  ],
+  "input_sha256": "51457fa99b17d1490ea2625288aeea98c3ddefd9f0681d7de739ba439433b9ba",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatoz278wPekLumBKfZQBidNzVXZ9",
+  "usage": {
+    "completion_tokens": 944,
+    "prompt_tokens": 2266,
+    "total_tokens": 3210,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1158,
+      "engine_ttlt_ms": 8782,
+      "pre_inference_ms": 316,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1918,
+      "service_ttlt_ms": 9537,
+      "user_visible_ttft_ms": 1602
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

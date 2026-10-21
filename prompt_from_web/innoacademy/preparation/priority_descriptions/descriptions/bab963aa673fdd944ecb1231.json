@@ -1,0 +1,117 @@
+{
+  "title": "Workbench with arranged cylindrical metal samples and lab equipment",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 42 individual cylindrical metal samples are visible on the central work surface; they are arranged in a rectangular grid and appear as discrete, individually distinguishable items (count derived from visible grid; some near the rear edge may be partly obscured).",
+    "Two white plastic squeeze bottles are standing on the left side of the front work surface (both upright and mostly unobscured).",
+    "Two white ceramic or plastic shallow bowls are visible on the left foreground counter (one nearer the edge, one on the rear counter).",
+    "One folded piece of cardboard or a white cardboard lid with handwriting is on the front right of the work surface, partially covering the paper beneath the cylinders.",
+    "One blue plastic tray or bin is visible on the right rear of the main table and contains several long dark rectangular objects (individual items inside the tray are visible but not counted).",
+    "One benchtop analytical balance (white platform inside a clear draft shield) is on the rear counter near the centre of the image.",
+    "One small benchtop pump or vacuum unit with a red '3' sticker is on the rear counter to the left of the balance.",
+    "One power outlet strip or wall socket with visible plug and cable is mounted on the vertical face of the rear work surface near the centre of the image.",
+    "One upright mechanical press or pole clamp assembly with a green base and vertical brown rod is mounted at the rear right of the bench (partly cropped by image top).",
+    "One coiled black cable and other miscellaneous cords are visible near the rear right equipment area.",
+    "Multiple storage shelves and containers (boxes, bins) are visible along the rear wall and left side; individual small items on those shelves are not counted."
+  ],
+  "visible_text": [
+    "3",
+    "Epoxy hardening?",
+    "Donor touch?",
+    "Pick & 2 then",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The cylindrical metal samples are placed on white protective paper that covers the central work surface; the grid of cylinders occupies most of the central foreground and midground of the image.",
+    "The handwritten cardboard note lies on top of the paper at the front-right corner of the cylinder grid, overlapping some paper and partially covering one corner of the arrangement.",
+    "Two white squeeze bottles and a shallow bowl are on the left side of the work surface, positioned forward of the rear counter and left of the cylindrical samples.",
+    "The analytical balance and small pump (stickered '3') sit on the rear counter directly behind the central work surface; the balance is slightly left of the image centre and the pump is further left.",
+    "A blue plastic tray sits to the right rear of the main work surface, behind the cardboard note and near the upright clamp/press assembly on the far right.",
+    "A power socket plate is mounted on the vertical face of the counter directly behind the front edge of the work surface, with a visible plug and cable extending upward toward rear equipment."
+  ],
+  "colours_and_materials": [
+    "The cylindrical samples appear dark green to dark blue on their top faces with metallic grey sides showing smudging or residues.",
+    "The work surface is covered with white paper that has grey splatter/stain patterns.",
+    "Benchtop equipment (balance, pump) is primarily white or light beige plastic/metal.",
+    "The upright clamp/press assembly has green-painted metal parts and a brown vertical rod; the tray on the right is blue plastic.",
+    "Floor visible at the bottom of the image is a stained brown concrete or similar hard material."
+  ],
+  "uncertainties": [
+    "Exact transcription of the handwritten cardboard note is partially unreadable; I have transcribed the most legible fragments as shown but some words may be incorrect or incomplete.",
+    "Smaller printed labels on squeeze bottles, the white bottle at the far right, and other small labels on equipment are not legible in the image and are transcribed as [unreadable].",
+    "The exact count of cylindrical samples may be affected by partial occlusion at the rear edge; the stated count (at least 42) is derived from the visible grid but some items may be cropped or obscured.",
+    "No explicit room name or number is visible in the image; location is therefore listed as unknown from image.",
+    "I did not read any clear brand or model name on the visible equipment; small nameplates or stickers may be present but are not legible at this resolution."
+  ],
+  "visual_facts": [
+    "At least 42 individual cylindrical metal samples are visible on the central work surface; they are arranged in a rectangular grid and appear as discrete, individually distinguishable items (count derived from visible grid; some near the rear edge may be partly obscured).",
+    "Two white plastic squeeze bottles are standing on the left side of the front work surface (both upright and mostly unobscured).",
+    "Two white ceramic or plastic shallow bowls are visible on the left foreground counter (one nearer the edge, one on the rear counter).",
+    "One folded piece of cardboard or a white cardboard lid with handwriting is on the front right of the work surface, partially covering the paper beneath the cylinders.",
+    "One blue plastic tray or bin is visible on the right rear of the main table and contains several long dark rectangular objects (individual items inside the tray are visible but not counted).",
+    "One benchtop analytical balance (white platform inside a clear draft shield) is on the rear counter near the centre of the image.",
+    "One small benchtop pump or vacuum unit with a red '3' sticker is on the rear counter to the left of the balance.",
+    "One power outlet strip or wall socket with visible plug and cable is mounted on the vertical face of the rear work surface near the centre of the image.",
+    "One upright mechanical press or pole clamp assembly with a green base and vertical brown rod is mounted at the rear right of the bench (partly cropped by image top).",
+    "One coiled black cable and other miscellaneous cords are visible near the rear right equipment area.",
+    "Multiple storage shelves and containers (boxes, bins) are visible along the rear wall and left side; individual small items on those shelves are not counted.",
+    "The cylindrical samples appear dark green to dark blue on their top faces with metallic grey sides showing smudging or residues.",
+    "The work surface is covered with white paper that has grey splatter/stain patterns.",
+    "Benchtop equipment (balance, pump) is primarily white or light beige plastic/metal.",
+    "The upright clamp/press assembly has green-painted metal parts and a brown vertical rod; the tray on the right is blue plastic.",
+    "Floor visible at the bottom of the image is a stained brown concrete or similar hard material."
+  ],
+  "id": "bab963aa673fdd944ecb1231",
+  "sha256": "87701a33b6c941bc8fdb1dcf820a4fc9009aba89f541a8ea516d840a1f166c16",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:18:58.507487+00:00",
+  "input_resolution": [
+    1200,
+    1600
+  ],
+  "input_sha256": "fcbf3224994d9d5d43916e56013619938c9ddd75ee8235a732de4377de024ee5",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatj3uLXrX1yV4XqKYXsZLSm8k1hS",
+  "usage": {
+    "completion_tokens": 1442,
+    "prompt_tokens": 2122,
+    "total_tokens": 3564,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1127,
+      "engine_ttlt_ms": 11852,
+      "pre_inference_ms": 368,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1936,
+      "service_ttlt_ms": 12657,
+      "user_visible_ttft_ms": 1569
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

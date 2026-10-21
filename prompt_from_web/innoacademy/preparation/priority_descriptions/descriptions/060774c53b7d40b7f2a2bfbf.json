@@ -1,0 +1,117 @@
+{
+  "title": "Classroom or makerspace session with projected slide and hands-on kits",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "Fourteen visible people are present in the photographed scene; several are partially obscured (counts based on distinct heads/bodies visible across the room).",
+    "Three long light-wood-topped tables are visible: one in the central foreground, one to its right, and one further back near the windows.",
+    "At least fifteen stools or chairs are visible around the tables; several stools are cropped at image edges and some are partially obscured.",
+    "One ceiling-mounted projector is visible and projecting onto a single projection screen at the back-central wall of the room.",
+    "At least two laptops are visible on the tables (one at left being used by a seated person, one near the center back).",
+    "Multiple small white plastic parts or kit components are scattered on the central table in front of many participants; exact count of parts is not determined but many small items are visible.",
+    "At least three desktop 3D printers or similar fabrication devices are visible along the right-back side of the room (on the far-right benches); they are in the photographed scene (not on posters).",
+    "One white disposable cup is visible on the left table near a seated person.",
+    "At least two backpacks or bags are visible on the floor under or beside the tables (one under the central table at the front, one at right).",
+    "One presenter is standing at the left-front area of the room speaking toward the screen; several participants are seated and handling kit components."
+  ],
+  "visible_text": [
+    "UNDERSTANDING YOUR NEEDS",
+    "Before making a robot, you have",
+    "to understand your goal",
+    "what is the application ?",
+    "what features are needed ?"
+  ],
+  "spatial_relations": [
+    "The projection screen is centered on the back wall of the room; people face toward it from tables in the central and right portions of the room.",
+    "The presenter stands at the left-front area of the room near the windows and projects onto the screen behind several seated participants.",
+    "Three rows of work benches/tables run roughly front-to-back; the central table occupies the immediate foreground, a second table is to the right foreground, and another table is farther back toward the windows.",
+    "A bank of large windows runs along the left and back walls, behind the presenter and some seated participants.",
+    "A row of fabrication machines (3D printers or similar) is located along the right-rear wall, behind the rightmost table and participants.",
+    "Stools are arranged around the tables; many participants sit on stools while working on kit components on the table surfaces."
+  ],
+  "colours_and_materials": [
+    "Tabletops are light wood or wood-look with white legs/frames.",
+    "Stool seats appear to be brown wood with black metal legs.",
+    "The floor is a smooth light grey material (likely painted concrete or similar).",
+    "Ceiling shows exposed metal ductwork and metallic reflective surfaces with white rectangular recessed or suspended light panels.",
+    "The projection screen shows a blue and purple slide background with white text.",
+    "Windows reveal green foliage outside, visible through the clear glass panes."
+  ],
+  "uncertainties": [
+    "Location name or room number is not visible in the image; the specific building or wing cannot be determined from visible signage.",
+    "The count of people (fourteen) is approximate because several individuals are partially obscured by others or by furniture; additional people may be present outside the frame.",
+    "Exact counts of small kit components on the tables are not determined; only that many small white parts are present.",
+    "Some lines of smaller slide text are partially legible; the four bullet lines included are transcribed where readable but some slide text remains [unreadable].",
+    "The identification of devices along the right-back wall as '3D printers or similar fabrication devices' is based on visible shape and arrangement but exact device types or models cannot be confirmed from the image.",
+    "If this image is expected to prove presence in a specific named facility (for example Tam Wing Fan Innovation Wing or HKU Innovation Academy), the image does not display explicit facility signage to support that claim; therefore suitability:true refers only to presence of makerspace/facility equipment visible in the photo, not to confirmed building identity."
+  ],
+  "visual_facts": [
+    "Fourteen visible people are present in the photographed scene; several are partially obscured (counts based on distinct heads/bodies visible across the room).",
+    "Three long light-wood-topped tables are visible: one in the central foreground, one to its right, and one further back near the windows.",
+    "At least fifteen stools or chairs are visible around the tables; several stools are cropped at image edges and some are partially obscured.",
+    "One ceiling-mounted projector is visible and projecting onto a single projection screen at the back-central wall of the room.",
+    "At least two laptops are visible on the tables (one at left being used by a seated person, one near the center back).",
+    "Multiple small white plastic parts or kit components are scattered on the central table in front of many participants; exact count of parts is not determined but many small items are visible.",
+    "At least three desktop 3D printers or similar fabrication devices are visible along the right-back side of the room (on the far-right benches); they are in the photographed scene (not on posters).",
+    "One white disposable cup is visible on the left table near a seated person.",
+    "At least two backpacks or bags are visible on the floor under or beside the tables (one under the central table at the front, one at right).",
+    "One presenter is standing at the left-front area of the room speaking toward the screen; several participants are seated and handling kit components.",
+    "Tabletops are light wood or wood-look with white legs/frames.",
+    "Stool seats appear to be brown wood with black metal legs.",
+    "The floor is a smooth light grey material (likely painted concrete or similar).",
+    "Ceiling shows exposed metal ductwork and metallic reflective surfaces with white rectangular recessed or suspended light panels.",
+    "The projection screen shows a blue and purple slide background with white text.",
+    "Windows reveal green foliage outside, visible through the clear glass panes."
+  ],
+  "id": "060774c53b7d40b7f2a2bfbf",
+  "sha256": "2f37265174bc7baece448645ba67babcd707df2a969e5389d9547b0bf2540dfd",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v2",
+  "prompt_sha256": "cb5d61d139511c0145f38a535795e8addd920085f0b8dc94794a2386890ed28d",
+  "viewed": true,
+  "described_at": "2026-10-20T01:58:30.028783+00:00",
+  "input_resolution": [
+    1895,
+    1421
+  ],
+  "input_sha256": "a1b2de132ed82e72e829c3f0b36b1239eeb19e3fca31ea5f622e1186b7f525b1",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatPERhIkeiLCVLyFFVWGxDaxIQ7M",
+  "usage": {
+    "completion_tokens": 1455,
+    "prompt_tokens": 1629,
+    "total_tokens": 3084,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1124,
+      "engine_ttlt_ms": 11249,
+      "pre_inference_ms": 400,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2488,
+      "service_ttlt_ms": 12608,
+      "user_visible_ttft_ms": 2088
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/cb5d61d139511c0145f38a535795e8addd920085f0b8dc94794a2386890ed28d.txt"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3218d7475df9e5b72a632e30",
+  "sha256": "ae3d0cc511d5bee3c617542514b1623f83f4d1d4cd311395100bf535bc334c55",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "3D printer nozzle above a drawn bed outline",
+  "visible_text": [
+    "CAUTION HOT NOZZLE"
+  ],
+  "visual_facts": [
+    "A black printer head assembly with a circular fan housing is suspended above a white flat bed.",
+    "The bed has a hand-drawn oval outline with a rectangular grid and several narrow shapes inside it.",
+    "A segmented black cable chain curves over the printer head and connects to its wiring.",
+    "Yellow plastic guards are visible at the left and right sides of the machine."
+  ],
+  "spatial_relations": [
+    "The print head is over the upper-right part of the drawn design on the bed.",
+    "The flexible cable chain arches above and behind the head."
+  ],
+  "uncertainties": [
+    "The object or design intended for printing is unclear; no printed object is visible."
+  ]
+}

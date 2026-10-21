@@ -1,0 +1,113 @@
+{
+  "title": "Computer lab classroom with presenter and projected slide",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 13 people are visible in the photographed scene: one standing presenter at the front near the projection screen and at least 12 seated attendees distributed across the room. Several seated people are partially obscured by monitors and desks.",
+    "At least 12 individual desktop computer monitors are visible on desks across the room; some monitors are grouped back-to-back on shared tables. A few monitors are seen from the front and others from the rear; some screens are partially cropped by the image edges.",
+    "One ceiling-mounted projector is visible centered near the front of the room projecting onto a large wall screen.",
+    "Multiple office task chairs are visible: at least three red chairs, one orange chair, one blue chair, one grey chair, and several other grey/black rolling chairs (minimum total visible chairs: 11). Several chairs are partially obscured by desks or people.",
+    "Multiple rectangular desks/tables arranged in clusters across the room (at least five distinct desk clusters visible).",
+    "One freestanding lectern or small front table is visible near the presenter (partly obscured by people and monitors).",
+    "A whiteboard is visible on the left-hand wall with handwritten markings.",
+    "One printed circular 'no' sign with a diagonal red line (no symbol) is visible on the right wall above a row of monitors."
+  ],
+  "visible_text": [
+    "What can be expected from this workshop:",
+    "The difference between using videos and slides to present",
+    "The procedure to produce a video",
+    "Planning where to shoot",
+    "Planning how to shoot",
+    "Methods to structure the video",
+    "https://[unreadable]",
+    "[unreadable] micro[unreadable]",
+    "(no smoking symbol sign has no additional legible text in photo)"
+  ],
+  "spatial_relations": [
+    "The presenter is standing at the front of the room in front of a large projected screen; attendees are seated facing the presenter and the screen.",
+    "Desks are arranged in clusters with computer monitors facing inward on some clusters and outward on others; several clusters form rows that run roughly from the foreground toward the back wall.",
+    "The ceiling-mounted projector is centered above and slightly in front of the projection screen; the screen is mounted on the front wall.",
+    "A whiteboard is mounted on the left-hand wall (from the image viewpoint) to the left of the projection screen; the 'no' sign is mounted on the right-hand wall above a row of monitors.",
+    "Chairs are positioned at individual workstations around the desks; some chairs are between clusters and partially block views of monitors behind them."
+  ],
+  "colours_and_materials": [
+    "Walls are white with vertical rectangular acoustic or decorative panels in pale green and blue tones.",
+    "Carpeted floor in a light beige or grey tone.",
+    "Most computer monitors have black frames; monitors sit on white or light-coloured desks.",
+    "Chairs include red, orange, blue and grey plastic or polymer seats with black wheeled bases.",
+    "Projection screen shows a slide with a pale blue-green background and darker blue-green icons and text."
+  ],
+  "uncertainties": [
+    "No explicit room name or room number is legible in the image; location therefore is unknown from the image.",
+    "Exact counts for people, monitors and chairs are limited by partial occlusion and cropping; I report minimum visible counts where distinguishable.",
+    "Some lines of text on the projected slide and on the whiteboard are partially blurred or too small to read precisely; I transcribed the slide heading and the most legible bullet lines and used [unreadable] for fragments that cannot be read.",
+    "Small labels or nameplates on equipment and individual monitors were not legible in the photo; there may be additional printed text not readable at this resolution.",
+    "The circular sign on the right wall is visually identified as a 'no' sign (no graphic legible); no accompanying text could be read."
+  ],
+  "visual_facts": [
+    "At least 13 people are visible in the photographed scene: one standing presenter at the front near the projection screen and at least 12 seated attendees distributed across the room. Several seated people are partially obscured by monitors and desks.",
+    "At least 12 individual desktop computer monitors are visible on desks across the room; some monitors are grouped back-to-back on shared tables. A few monitors are seen from the front and others from the rear; some screens are partially cropped by the image edges.",
+    "One ceiling-mounted projector is visible centered near the front of the room projecting onto a large wall screen.",
+    "Multiple office task chairs are visible: at least three red chairs, one orange chair, one blue chair, one grey chair, and several other grey/black rolling chairs (minimum total visible chairs: 11). Several chairs are partially obscured by desks or people.",
+    "Multiple rectangular desks/tables arranged in clusters across the room (at least five distinct desk clusters visible).",
+    "One freestanding lectern or small front table is visible near the presenter (partly obscured by people and monitors).",
+    "A whiteboard is visible on the left-hand wall with handwritten markings.",
+    "One printed circular 'no' sign with a diagonal red line (no symbol) is visible on the right wall above a row of monitors.",
+    "Walls are white with vertical rectangular acoustic or decorative panels in pale green and blue tones.",
+    "Carpeted floor in a light beige or grey tone.",
+    "Most computer monitors have black frames; monitors sit on white or light-coloured desks.",
+    "Chairs include red, orange, blue and grey plastic or polymer seats with black wheeled bases.",
+    "Projection screen shows a slide with a pale blue-green background and darker blue-green icons and text."
+  ],
+  "id": "36cce416cd4de150cbf02920",
+  "sha256": "e50356bfed3e0f8f273ad996aae227ef410a2ac723ec3a901967b0c1e96acc2d",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:35:34.721359+00:00",
+  "input_resolution": [
+    1976,
+    1482
+  ],
+  "input_sha256": "107c756fb3663e812d35245129eac3f983598b0e96fc1ff26ef200a0a2e38b01",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatz7W7mDE23Oj3uYq8s8Oc4ok3AW",
+  "usage": {
+    "completion_tokens": 1327,
+    "prompt_tokens": 2122,
+    "total_tokens": 3449,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1104,
+      "engine_ttlt_ms": 11518,
+      "pre_inference_ms": 318,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 1874,
+      "service_ttlt_ms": 12283,
+      "user_visible_ttft_ms": 1556
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Outdoor campus plaza with curved multi-storey glass building",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least one large multi-storey curved building with many horizontal window bands is visible on the right side of the image; a rectangular multi-storey building with a beige/brown facade is visible at left.",
+    "At least 6 pedestrians are visible walking or standing across the midground and near the buildings (some are small and partially occluded).",
+    "At least 7 passenger vehicles (cars and vans) are visible on the roadway and parking area in the midground and background; several are partially obscured by trees or other vehicles.",
+    "A cluster of bicycles is parked in the mid-left foreground; at least 6 bicycles are individually distinguishable in that rack area.",
+    "Three tall lamp posts with round light fixtures are visible: one centrally foreground, one slightly left-of-centre, and one more near the mid-left bicycle area (one lamp post nearer centre has a banner attached).",
+    "A paved walkway and a rectangular grass lawn occupy the immediate foreground; low cylindrical bollards or short posts line the walkway edge near the bicycle area (at least 6 visible bollards).",
+    "Multiple trees and planted shrubs are visible across the midground and near the building entrances (more than five trees are visible)."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "A rectangular paved walkway runs along the bottom edge of the image; the lawn sits immediately behind that walkway in the foreground.",
+    "A centrally positioned lamp post stands near the front edge of the lawn and casts a shadow toward the bottom-right of the image.",
+    "The curved multi-storey glass building dominates the right and centre background; the rectangular beige/brown building is at the left background, separated by a roadway and parking/landscaped areas.",
+    "Bicycles and a bicycle rack are located to the left of the central lamp post, close to the beige building; passenger vehicles are parked on the roadway behind the bicycle area and in the background between the two buildings.",
+    "Trees and shrub plantings form a band between the foreground lawn/walkway and the buildings, partially obscuring the lower floors and entrances."
+  ],
+  "colours_and_materials": [
+    "The foreground lawn is green grass; the paved walkway is grey concrete or paving slabs.",
+    "The curved building on the right shows dark grey horizontal bands with extensive light blue-tinted glazing (glass) on each floor and a lighter coloured top band.",
+    "The left building has a beige/brown facade with some metal or concrete elements and a visible external stairwell with metallic railings.",
+    "Lamp posts appear dark grey or brown metal with round light fixtures; bollards are light grey concrete or stone."
+  ],
+  "uncertainties": [
+    "No room name, room number or other explicit location text is legible in the image; location cannot be determined from visible signage.",
+    "Exact counts for people, bicycles, cars and bollards are approximate because several are small in the image or partially occluded; I report only individually distinguishable visible items.",
+    "Small text on banners or signs (for example a banner on the central lamp post) is not legible in the provided image and was not transcribed.",
+    "Some objects near the edges and in the background are partly cropped or distant, so identification and counting beyond the explicitly stated minimums is uncertain."
+  ],
+  "visual_facts": [
+    "At least one large multi-storey curved building with many horizontal window bands is visible on the right side of the image; a rectangular multi-storey building with a beige/brown facade is visible at left.",
+    "At least 6 pedestrians are visible walking or standing across the midground and near the buildings (some are small and partially occluded).",
+    "At least 7 passenger vehicles (cars and vans) are visible on the roadway and parking area in the midground and background; several are partially obscured by trees or other vehicles.",
+    "A cluster of bicycles is parked in the mid-left foreground; at least 6 bicycles are individually distinguishable in that rack area.",
+    "Three tall lamp posts with round light fixtures are visible: one centrally foreground, one slightly left-of-centre, and one more near the mid-left bicycle area (one lamp post nearer centre has a banner attached).",
+    "A paved walkway and a rectangular grass lawn occupy the immediate foreground; low cylindrical bollards or short posts line the walkway edge near the bicycle area (at least 6 visible bollards).",
+    "Multiple trees and planted shrubs are visible across the midground and near the building entrances (more than five trees are visible).",
+    "The foreground lawn is green grass; the paved walkway is grey concrete or paving slabs.",
+    "The curved building on the right shows dark grey horizontal bands with extensive light blue-tinted glazing (glass) on each floor and a lighter coloured top band.",
+    "The left building has a beige/brown facade with some metal or concrete elements and a visible external stairwell with metallic railings.",
+    "Lamp posts appear dark grey or brown metal with round light fixtures; bollards are light grey concrete or stone."
+  ],
+  "id": "25094f11e2f36aa655fa862e",
+  "sha256": "23d6378079add7d7d67c4f7f5fae24df8aec1de5e5414f442e4c631c66173052",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:32:01.577768+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "877f76ce07c6e24ca69cd5740f6ae8f358af4314f3796d3a99604dfe1563730d",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatviqUywoDcKbn27XbdX1XBHn8WQ",
+  "usage": {
+    "completion_tokens": 932,
+    "prompt_tokens": 2266,
+    "total_tokens": 3198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 9,
+      "engine_ttft_ms": 1163,
+      "engine_ttlt_ms": 9393,
+      "pre_inference_ms": 466,
+      "service_tbt_ms": 9,
+      "service_ttft_ms": 2737,
+      "service_ttlt_ms": 10961,
+      "user_visible_ttft_ms": 2271
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

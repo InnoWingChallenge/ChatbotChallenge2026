@@ -1,0 +1,103 @@
+{
+  "title": "Enclosed desktop fabrication machine with green extruder and blue-taped build plate",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "One partially visible person at the left edge of the image; the person is cropped so only a shoulder and part of the face/neck are visible.",
+    "One vertical enclosed fabrication machine (single visible assembly occupying the image centre) with a single visible print head/extruder assembly suspended above the build surface.",
+    "One syringe-style extruder or dispensing tip with a green translucent barrel attached to the print head, visible in the top-centre region and extending downward toward the build plate; the tip and part of the barrel are visible and not fully obscured.",
+    "One rectangular build plate in the centre of the image with blue tape applied around its edges; the build plate is mounted on the machine's horizontal bed.",
+    "One small rectangular green object on the build plate directly beneath the extruder tip; the object is fully visible and distinct from printed material on screens or posters.",
+    "Two vertical LED light strips, one at the left inside edge of the enclosure and one at the right inside edge of the enclosure, visible as rows of points of light.",
+    "One vertical aluminium or metal frame at the right side of the image with a horizontal rack or bracket visible near the top-right inside the enclosure.",
+    "One dark vertical column or gantry structure forming the machine's central support, visible behind the build plate and below the extruder."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The machine occupies the central region of the image; the build plate is horizontal and centred on the machine's lower-middle area.",
+    "The extruder assembly hangs vertically from the machine's upper section and is positioned directly above the small green object on the build plate.",
+    "The partially visible person is at the far left of the image, outside the enclosure, facing toward the machine and slightly in front of the left vertical LED strip.",
+    "The two vertical LED strips run along the left and right interior edges of the enclosure, framing the machine symmetrically.",
+    "A metal vertical frame and a horizontal rack with multiple rectangular cutouts are visible in the upper-right interior of the enclosure and sit to the right of the extruder."
+  ],
+  "colours_and_materials": [
+    "The extruder barrel is green and translucent; the dispensing tip beneath it appears metallic or darker coloured.",
+    "The build plate surface is dark (appears black or dark grey) with blue adhesive tape wrapped around its edges.",
+    "The small object on the build plate is bright green, contrasting with the dark plate.",
+    "The machine frame and gantry are predominantly black and dark grey metal; a vertical right-side frame looks like aluminium (silver/grey).",
+    "Interior lighting has a purple/blue cast, likely from the LED strips which appear white to purple in the photograph."
+  ],
+  "uncertainties": [
+    "No legible textual room name, sign, label, brand or model number is readable in the image; therefore location and specific equipment identifiers cannot be provided from the visible text.",
+    "The partially visible person at left is cropped; their role or number beyond the single visible individual cannot be determined.",
+    "The exact function and type of the green-barrel device (extruder, syringe, dispenser) is not certain from appearance alone; identification is presented as a visual description only.",
+    "Small labels or markings on the machine components (for example near the extruder or on the column) are not legible at this image resolution and could contain additional identifying text.",
+    "It is possible other objects or signage exist outside the visible crop of the image; counts and descriptions are limited to items clearly visible within the photo."
+  ],
+  "visual_facts": [
+    "One partially visible person at the left edge of the image; the person is cropped so only a shoulder and part of the face/neck are visible.",
+    "One vertical enclosed fabrication machine (single visible assembly occupying the image centre) with a single visible print head/extruder assembly suspended above the build surface.",
+    "One syringe-style extruder or dispensing tip with a green translucent barrel attached to the print head, visible in the top-centre region and extending downward toward the build plate; the tip and part of the barrel are visible and not fully obscured.",
+    "One rectangular build plate in the centre of the image with blue tape applied around its edges; the build plate is mounted on the machine's horizontal bed.",
+    "One small rectangular green object on the build plate directly beneath the extruder tip; the object is fully visible and distinct from printed material on screens or posters.",
+    "Two vertical LED light strips, one at the left inside edge of the enclosure and one at the right inside edge of the enclosure, visible as rows of points of light.",
+    "One vertical aluminium or metal frame at the right side of the image with a horizontal rack or bracket visible near the top-right inside the enclosure.",
+    "One dark vertical column or gantry structure forming the machine's central support, visible behind the build plate and below the extruder.",
+    "The extruder barrel is green and translucent; the dispensing tip beneath it appears metallic or darker coloured.",
+    "The build plate surface is dark (appears black or dark grey) with blue adhesive tape wrapped around its edges.",
+    "The small object on the build plate is bright green, contrasting with the dark plate.",
+    "The machine frame and gantry are predominantly black and dark grey metal; a vertical right-side frame looks like aluminium (silver/grey).",
+    "Interior lighting has a purple/blue cast, likely from the LED strips which appear white to purple in the photograph."
+  ],
+  "id": "cdb9cfe04c1936b65ebca6ab",
+  "sha256": "c5c33c6338f982120c56c12c61b6dcd7c6824b4379a1825605fef5c5bd67de89",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:20:35.741462+00:00",
+  "input_resolution": [
+    1656,
+    582
+  ],
+  "input_sha256": "dffb5fccbeccfc09a2376ef1a8be223f6caf97b58a4a054fb171b032a6260c94",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatkgP0XGoM4NVLoR9E2Ll6d5lnhN",
+  "usage": {
+    "completion_tokens": 1060,
+    "prompt_tokens": 2386,
+    "total_tokens": 3446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 766,
+      "engine_ttlt_ms": 8038,
+      "pre_inference_ms": 132,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1351,
+      "service_ttlt_ms": 8619,
+      "user_visible_ttft_ms": 1219
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

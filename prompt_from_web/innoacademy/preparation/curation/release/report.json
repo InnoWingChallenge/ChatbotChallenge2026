@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-10-20T11:30:31.117952+00:00",
+  "curator_model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "curation_version": "image-text-curation-v1",
+  "input_descriptions": 357,
+  "missing_descriptions": 38,
+  "decisions": {
+    "hold": 104,
+    "exclude": 113,
+    "keep": 140
+  },
+  "exported_records": 140,
+  "baseline_records": 228,
+  "merged_records": 368,
+  "needs_review": 104,
+  "description_models": {
+    "gpt-6-luna": 58,
+    "gpt-5-mini": 299
+  },
+  "visual_reverified": false,
+  "database_modified": false,
+  "input_hashes": {
+    "inputs.json": "6547f8574e0e406455ff922320d674dd3a0517ab2f868116b1776edac1df87f9",
+    "baseline_records.json": "6a92e83fcf01ac6bb88ba773f58b25eed9f5525f2dfd5b5f151a0f915de5a90b",
+    "packet-0.json": "d8f8bdf7d9cadffb0ca21ca42d0d4db0fdfebd9d759403dd439a8fb409c961aa",
+    "packet-1.json": "b70d2d24dec0cb2dad1ae629e7135d7edce5c3271f26afb31aabeeb210c99984",
+    "packet-2.json": "186a0854dc6eba417c42786d5efd2b6b7bdc3669d73b8b9ce45d8ff04cc8524a"
+  },
+  "baseline_sources_sha256": "7098c677d735f47de1d5ff049c9a3285935adad590af66de5cc3f0ba020b6792",
+  "review_decision_hashes": {
+    "decisions-0.json": "e20a6a4359b6da4d722d2f8694f3cc83fcb7993c7a00de5f3608008d601d4fca",
+    "decisions-1.json": "eab14c34daae7ec15eb53ca32a6a65a0af3936b6661261a16e55855664dc3937",
+    "decisions-2.json": "d68ba409c5d55cd2f8bf773e5448642006652b45fe0365dac29cdd01830cd2dc"
+  },
+  "validation": "coverage, indices, source hashes, baseline references, output IDs",
+  "files": {
+    "decisions.json": "431c73089d8705b9afdcddda2446e8ed66ac62352650b671a58f0da2854e3997",
+    "merged_records.json": "357509d5647fd3ae55ead6089d8d2bc716f0164f0c98c2da0b4585f16eb43e6d",
+    "merged_sources.json": "4e494e1e4f43dcd383344e40724b251b2015fb4bd4b81b9a7c5f09395095bae9",
+    "needs_review.json": "94b510878025f45a4a68c53396066276d364381e125a60844e5475ebe264a1b8",
+    "records.json": "e6a101866b7bbfaa60f5c48c8cf8ccdf949deae6cab647565ac173546b972333",
+    "sources.json": "3110182dcd1b0124aa540ad9e29708c97c0c5c9304b1b461ec7e25cab44f625b"
+  }
+}

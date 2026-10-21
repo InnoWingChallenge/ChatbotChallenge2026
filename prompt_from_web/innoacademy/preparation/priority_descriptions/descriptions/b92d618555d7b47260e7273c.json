@@ -1,0 +1,101 @@
+{
+  "title": "Group near demonstration banners and electronics bench",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least five individual people are visible and distinguishable: two in the foreground having a conversation (one at left with a backpack, one at center-right wearing glasses), and at least three more people in the mid/background standing near the banners and equipment. The leftmost foreground person is partially cropped at the left edge of the image.",
+    "One grey and black backpack is visible on the back of the person at left (foreground).",
+    "Three vertical banner/panel elements with a repeating green geometric design are visible across the back wall; they appear as separate panels placed side by side.",
+    "At least two orange chairs are visible in the lower-left area; portions of additional similar chairs may be present but are partially obscured.",
+    "A long workbench or counter runs along the right side of the image with multiple electronic boxes, stacked enclosures and visible cables on its surface; at least three distinct electronic enclosures or pieces of boxed equipment are visible along that bench (some partially obscured).",
+    "Miscellaneous small handheld objects are visible: the person at center-right is holding a small object (possibly a phone) in their hands, and the person at left is gesturing with a hand near that object."
+  ],
+  "visible_text": [
+    "ROBOMASTER"
+  ],
+  "spatial_relations": [
+    "Two people are in the foreground: the person with a backpack stands at the left foreground and faces the person wearing glasses at center-right foreground.",
+    "Three green geometric banner/panel elements form a backdrop across the rear of the scene behind the standing people.",
+    "A long bench or counter extends along the right side of the image from foreground to background; electronic equipment and cables are placed on top of this bench.",
+    "Orange chairs are located in the lower-left foreground in front of and slightly left of the conversation between the two foreground people.",
+    "Additional people stand between the foreground pair and the banner backdrop, partially obscured by the foreground figures and each other."
+  ],
+  "colours_and_materials": [
+    "The banners/panels across the back contain a prominent green geometric graphic on a light (off-white) background.",
+    "Several chairs in the lower-left are bright orange plastic or painted metal (appearance: orange).",
+    "The backpack on the left foreground person is grey with black straps.",
+    "The ceiling shows exposed white ducts and white rectangular fluorescent light fixtures.",
+    "The workbench/counter at right has a light-coloured surface (appears pale wood or laminate) with darker electronic enclosures and black cables on top."
+  ],
+  "uncertainties": [
+    "Exact total number of people may be higher than the five individually distinguishable figures due to partial occlusion and cropping at image edges; I report a visible minimum of five.",
+    "Text on the backdrop/panels contains multiple small words and repeating patterns but is not legible enough to transcribe reliably; those texts are unreadable from this image.",
+    "Specific labels, brand names or model numbers on the electronic equipment along the right bench are not legible; I have described only visually distinct enclosures and cables.",
+    "The handheld object(s) the foreground people are holding cannot be confidently identified (phone, badge, or other) from the image.",
+    "The person at left is partially cropped at the image edge; portions of their clothing bear text that are not fully legible."
+  ],
+  "visual_facts": [
+    "At least five individual people are visible and distinguishable: two in the foreground having a conversation (one at left with a backpack, one at center-right wearing glasses), and at least three more people in the mid/background standing near the banners and equipment. The leftmost foreground person is partially cropped at the left edge of the image.",
+    "One grey and black backpack is visible on the back of the person at left (foreground).",
+    "Three vertical banner/panel elements with a repeating green geometric design are visible across the back wall; they appear as separate panels placed side by side.",
+    "At least two orange chairs are visible in the lower-left area; portions of additional similar chairs may be present but are partially obscured.",
+    "A long workbench or counter runs along the right side of the image with multiple electronic boxes, stacked enclosures and visible cables on its surface; at least three distinct electronic enclosures or pieces of boxed equipment are visible along that bench (some partially obscured).",
+    "Miscellaneous small handheld objects are visible: the person at center-right is holding a small object (possibly a phone) in their hands, and the person at left is gesturing with a hand near that object.",
+    "The banners/panels across the back contain a prominent green geometric graphic on a light (off-white) background.",
+    "Several chairs in the lower-left are bright orange plastic or painted metal (appearance: orange).",
+    "The backpack on the left foreground person is grey with black straps.",
+    "The ceiling shows exposed white ducts and white rectangular fluorescent light fixtures.",
+    "The workbench/counter at right has a light-coloured surface (appears pale wood or laminate) with darker electronic enclosures and black cables on top."
+  ],
+  "id": "b92d618555d7b47260e7273c",
+  "sha256": "6e779232212c8ac76cfd802dc3d5f2ae2061402ed8163aec06dd171ed0910ec0",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:00:48.623165+00:00",
+  "input_resolution": [
+    768,
+    576
+  ],
+  "input_sha256": "98f19e93a982f5a066f1e43fa15880c58d2d38f6a85bf1475f7c72441a96fa2a",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauNbj9rm2MG1ECP84N9RNt0FIIUN",
+  "usage": {
+    "completion_tokens": 1068,
+    "prompt_tokens": 1719,
+    "total_tokens": 2787,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 482,
+      "engine_ttlt_ms": 8023,
+      "pre_inference_ms": 103,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 1133,
+      "service_ttlt_ms": 8662,
+      "user_visible_ttft_ms": 1030
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

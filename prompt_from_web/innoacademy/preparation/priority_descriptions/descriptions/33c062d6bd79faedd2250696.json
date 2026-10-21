@@ -1,0 +1,101 @@
+{
+  "title": "Group of masked people standing at a table, one person interacting at foreground",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least four people are visible: one adult male in the right foreground (head and torso visible), one adult male immediately behind him to the left (torso and head visible but slightly out of focus), one partially visible person at far left (only part of the shoulder/arm and mask visible, cropped), and one blurred person in the background at upper right (head and shoulders).",
+    "Three people are wearing disposable white surgical-style face masks (the person in the foreground, the person immediately behind him, and the partially visible person at left). The person in the far background also appears to wear a mask but is blurred, so count is at least three and possibly four.",
+    "Two pairs of eyeglasses are visible on people: one pair on the foreground person and one pair on the person immediately behind him.",
+    "One wrist-worn smartwatch is visible on the foreground person's left wrist (rectangular display, black band).",
+    "A horizontal surface (table or counter) is visible at the bottom of the image where the foreground person's hands rest; only the near edge of the surface is visible and it appears light-colored.",
+    "No large lab equipment, room signs, posters, monitors, or readable instrument nameplates are visible in the photographed scene. No printed materials or labels on equipment are legible."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The main subject is in the right foreground, leaning forward with both forearms resting on the table edge visible at the bottom of the image.",
+    "Immediately behind and slightly to the left of the foreground person stands another adult who is taller in the frame but out of focus; that person is positioned mid-ground left of the foreground subject.",
+    "A cropped person appears at the far left edge of the image; only part of their shoulder/arm and a portion of their masked face are visible.",
+    "A blurred figure appears in the upper right background behind the foreground subject, separated by some depth of field and positioned behind the main pair.",
+    "The table or counter spans the bottom of the image and is directly in front of the foreground person; the relationship suggests people are gathered along one side of the table facing the camera's perspective."
+  ],
+  "colours_and_materials": [
+    "The foreground person wears a blue denim-like long-sleeve shirt with sleeves rolled to forearms and a white undershirt visible at the collar.",
+    "The person immediately behind wears a light purple or lilac button-up shirt with a white placket visible down the front.",
+    "Face masks are white and appear to be the disposable, pleated paper or non-woven type.",
+    "Eyeglass frames are thin and metallic or dark-coloured; the foreground glasses have thin black or dark metal rims.",
+    "The visible table edge is a light wood or light-coloured laminate surface.",
+    "The smartwatch has a black band and a rectangular, light-coloured display area."
+  ],
+  "uncertainties": [
+    "No room name, room number, sign, label or poster is legible in the image; the precise location cannot be determined from visible content.",
+    "Background persons are blurred and partially occluded; exact counts beyond the four described cannot be determined from this image.",
+    "Material identifications (for example 'denim-like' for the blue shirt or 'light wood' for the table) are visual characterizations and may be approximate.",
+    "Small labels, nameplates or instrument text (if present) are not visible or legible in the photographed area; a closer crop might reveal additional text.",
+    "It is unclear whether the partially visible figures at left and in the far background are distinct additional people or repetitions occluded by depth of field; counts are minimum visible counts."
+  ],
+  "visual_facts": [
+    "At least four people are visible: one adult male in the right foreground (head and torso visible), one adult male immediately behind him to the left (torso and head visible but slightly out of focus), one partially visible person at far left (only part of the shoulder/arm and mask visible, cropped), and one blurred person in the background at upper right (head and shoulders).",
+    "Three people are wearing disposable white surgical-style face masks (the person in the foreground, the person immediately behind him, and the partially visible person at left). The person in the far background also appears to wear a mask but is blurred, so count is at least three and possibly four.",
+    "Two pairs of eyeglasses are visible on people: one pair on the foreground person and one pair on the person immediately behind him.",
+    "One wrist-worn smartwatch is visible on the foreground person's left wrist (rectangular display, black band).",
+    "A horizontal surface (table or counter) is visible at the bottom of the image where the foreground person's hands rest; only the near edge of the surface is visible and it appears light-colored.",
+    "No large lab equipment, room signs, posters, monitors, or readable instrument nameplates are visible in the photographed scene. No printed materials or labels on equipment are legible.",
+    "The foreground person wears a blue denim-like long-sleeve shirt with sleeves rolled to forearms and a white undershirt visible at the collar.",
+    "The person immediately behind wears a light purple or lilac button-up shirt with a white placket visible down the front.",
+    "Face masks are white and appear to be the disposable, pleated paper or non-woven type.",
+    "Eyeglass frames are thin and metallic or dark-coloured; the foreground glasses have thin black or dark metal rims.",
+    "The visible table edge is a light wood or light-coloured laminate surface.",
+    "The smartwatch has a black band and a rectangular, light-coloured display area."
+  ],
+  "id": "33c062d6bd79faedd2250696",
+  "sha256": "1fa1d953c02065c10d05896b40ac3511b5148174dc3d24c6efc32cf3c88a3e84",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:08:55.319548+00:00",
+  "input_resolution": [
+    1334,
+    2000
+  ],
+  "input_sha256": "56bafada63494f4341a4fd8bb4fefd3d8cd6a752b2d1568df9ca19593a493816",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatZN6K0umQI3J0KvHy4vt2EqJ7y3",
+  "usage": {
+    "completion_tokens": 1023,
+    "prompt_tokens": 2237,
+    "total_tokens": 3260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1160,
+      "engine_ttlt_ms": 7394,
+      "pre_inference_ms": 348,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2597,
+      "service_ttlt_ms": 8826,
+      "user_visible_ttft_ms": 2249
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

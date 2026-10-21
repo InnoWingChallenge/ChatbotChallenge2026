@@ -1,0 +1,109 @@
+{
+  "title": "Computer lab with multiple desktops, whiteboard and a standing presenter",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least six people are visible and individually distinguishable: one person standing at the right edge of the image, and at least five seated or partially seated at desks toward the centre and left of the room.",
+    "At least seven standalone computer monitors are individually visible in the photographed scene (one large monitor in the foreground, several monitors in rows behind it and at least one at the right-rear).",
+    "At least five desktop PC towers with visible lit internal lighting (blue/green LEDs) are individually visible; several towers are positioned next to or behind monitors.",
+    "One full-size keyboard is visible on the foreground desk directly behind the large monitor.",
+    "One tall reusable water bottle is visible on the foreground desk at the left front of the image.",
+    "One backpack is visible on the floor near the person standing at the right.",
+    "One large wall-mounted whiteboard spans the rear wall of the room and is visible behind the seated people.",
+    "At least one power strip or electrical outlet extension is visible on the floor under/near the foreground desk, and multiple cables are visible around desk legs and computer towers.",
+    "Several office chairs are present and in use by seated people; individual chair count cannot be precisely determined from the image due to occlusion."
+  ],
+  "visible_text": [
+    "See You [unreadable]"
+  ],
+  "spatial_relations": [
+    "A large whiteboard runs across the rear wall; seated workstations are arranged in rows facing away from the whiteboard with monitors between the viewer and the whiteboard.",
+    "A curved or rounded white desk sits in the foreground with a single large monitor, keyboard and water bottle on it; its legs and cable bundles are visible beneath it.",
+    "Desktop PC towers with blue/green internal lighting are positioned beside or behind monitors in the middle and left regions of the room.",
+    "The person who is standing is on the right side of the image near the whiteboard and faces roughly toward the room interior; a backpack is on the floor near their feet.",
+    "Ceiling light panels occupy the upper portion of the image; the camera viewpoint is from slightly above and angled down, capturing most of the room from front to rear."
+  ],
+  "colours_and_materials": [
+    "Desks are white and appear to have a smooth laminate surface.",
+    "Carpeted floor is a medium grey colour.",
+    "Ceiling tiles are white with recessed rectangular fluorescent or LED light panels.",
+    "Several PC towers emit blue or green internal LED lighting visible through dark (likely black) cases.",
+    "Wall panels include teal/green rectangular accent panels on an otherwise white wall.",
+    "Monitors and many computer cases and peripherals are black."
+  ],
+  "uncertainties": [
+    "No explicit room name or number is legible in the image; therefore the location is unknown from image.",
+    "Exact counts of people, chairs, monitors and PC towers are limited by partial occlusion and overlap; I report only individually distinguishable visible items and minimum counts where noted.",
+    "Most printed and small-label text in the scene is not legible at this resolution; the only partially readable whiteboard fragment appears as \"See You [unreadable]\" and other whiteboard writing is unreadable.",
+    "It is unclear whether some dark objects at desk edges are additional monitors, PC cases or reflections; these have not been double-counted.",
+    "The transcribed visible text may be incomplete and other text exists on screens, stickers or labels that is unreadable in this image."
+  ],
+  "visual_facts": [
+    "At least six people are visible and individually distinguishable: one person standing at the right edge of the image, and at least five seated or partially seated at desks toward the centre and left of the room.",
+    "At least seven standalone computer monitors are individually visible in the photographed scene (one large monitor in the foreground, several monitors in rows behind it and at least one at the right-rear).",
+    "At least five desktop PC towers with visible lit internal lighting (blue/green LEDs) are individually visible; several towers are positioned next to or behind monitors.",
+    "One full-size keyboard is visible on the foreground desk directly behind the large monitor.",
+    "One tall reusable water bottle is visible on the foreground desk at the left front of the image.",
+    "One backpack is visible on the floor near the person standing at the right.",
+    "One large wall-mounted whiteboard spans the rear wall of the room and is visible behind the seated people.",
+    "At least one power strip or electrical outlet extension is visible on the floor under/near the foreground desk, and multiple cables are visible around desk legs and computer towers.",
+    "Several office chairs are present and in use by seated people; individual chair count cannot be precisely determined from the image due to occlusion.",
+    "Desks are white and appear to have a smooth laminate surface.",
+    "Carpeted floor is a medium grey colour.",
+    "Ceiling tiles are white with recessed rectangular fluorescent or LED light panels.",
+    "Several PC towers emit blue or green internal LED lighting visible through dark (likely black) cases.",
+    "Wall panels include teal/green rectangular accent panels on an otherwise white wall.",
+    "Monitors and many computer cases and peripherals are black."
+  ],
+  "id": "36be96b7612ca03cf0ce4bc9",
+  "sha256": "7f6b4706ae497f0f5a266d7cfb9c81ee30b9d6f89549a9d74bdcb67693d06992",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:35:20.828570+00:00",
+  "input_resolution": [
+    900,
+    1600
+  ],
+  "input_sha256": "b7b66f257b5f319519714700af9d5c71b3ab6c5c40c10d7e8c4235065bbe335e",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatyvGzoD4UXCUjf6buPS9DVnNPYo",
+  "usage": {
+    "completion_tokens": 1105,
+    "prompt_tokens": 2439,
+    "total_tokens": 3544,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1164,
+      "engine_ttlt_ms": 9962,
+      "pre_inference_ms": 370,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2014,
+      "service_ttlt_ms": 10805,
+      "user_visible_ttft_ms": 1643
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

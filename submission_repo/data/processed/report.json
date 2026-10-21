@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-09-23T06:59:11.970181+00:00",
+  "schema_version": 1,
+  "counts": {
+    "raw_pages": 1080,
+    "documents": 836,
+    "duplicate_pages": 242,
+    "review_documents": 33,
+    "review_records": 277,
+    "raw_image_occurrences": 6772,
+    "unique_images": 3746,
+    "image_queue": 3586,
+    "noise_images": 160
+  },
+  "page_types": {
+    "about": 4,
+    "competition": 32,
+    "course": 3,
+    "event": 176,
+    "facility": 50,
+    "funding": 2,
+    "news": 1,
+    "other": 140,
+    "people": 1,
+    "policy": 5,
+    "project": 422
+  },
+  "sites": {
+    "innoacademy.engg.hku.hk": 588,
+    "innowings.engg.hku.hk": 248
+  },
+  "statuses": {
+    "ready": 803,
+    "review_short": 33
+  },
+  "metadata_completeness": {
+    "documents_with_multiple_sections": 580,
+    "documents_with_year": 210,
+    "documents_with_source_date": 0,
+    "documents_with_kept_images": 765
+  },
+  "image_noise_reasons": {
+    "kept": 3586,
+    "repeated_unlabelled_asset": 9,
+    "site_chrome_or_social": 151
+  }
+}

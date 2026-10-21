@@ -1,0 +1,115 @@
+{
+  "title": "Classroom or workshop space with presenter and projected slide",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least seven people are visible: one person standing at the front holding a microphone and presenting, at least five seated or partially seated people distributed across the central and left tables, and one person standing and leaning over a table at the far left. Exact total count of people cannot be determined from the image because some heads and bodies are partially obscured behind others.",
+    "One large projected screen is visible at the right-rear of the room showing a presentation slide.",
+    "Two ceiling-mounted projectors or projector housings are visible (one roughly above the central table, one nearer the front-right); both are suspended from the ceiling on visible cables or mounts.",
+    "Multiple large rectangular work tables with pale wood tops and white legs are visible: at least four separate table surfaces are visible across the foreground and midground.",
+    "Many stools are visible: four round wooden stools are grouped in the immediate foreground at the bottom-right, and at least a dozen additional stools are visible around other tables and along the back wall; overlap and cropping prevent a precise total count.",
+    "At least two laptop computers are visible on the central tables (one in use by a person in a striped jacket, one near the foreground person), plus a small computer monitor visible at the far right on the back counter.",
+    "One handheld microphone is visible in the right-front presenter's hand.",
+    "One transparent water bottle or flask is visible on the foreground table near the seated person in a black jacket.",
+    "One white multi-socket power strip and a charging cable are visible on the foreground table.",
+    "A whiteboard or flip chart on a stand is visible near the rear left of the room (behind seated participants).",
+    "A projection of a product image (a small rectangular appliance in teal/white) is shown on the slide; the product image is part of the projected slide, not an object physically present in the photographed scene."
+  ],
+  "visible_text": [
+    "1. Clear and Concise Project Title",
+    "• Accurately represents the project",
+    "• Captures the attention of reviewers",
+    "• [unreadable]",
+    "• [unreadable]"
+  ],
+  "spatial_relations": [
+    "The presenter stands front-right of the room near the projection screen; the screen occupies the right-rear wall area.",
+    "Long work tables run roughly left-to-right in the midground and foreground, with stools arranged around them; one large table is centrally placed between the camera and the presenter.",
+    "The ceiling shows exposed ducts and lighting panels with projectors suspended from ceiling mounts; cables hang down near the tables.",
+    "Glass partition walls occupy the far left and rear-left areas, separating this room from adjacent spaces; a whiteboard/flip chart is positioned against the glass partition near the back-left.",
+    "A countertop or bench runs along the back wall under the windows and projection area, with small items and a monitor placed on it."
+  ],
+  "colours_and_materials": [
+    "Table tops have a light wood colour and appear to be laminated or veneered wood; table legs are white metal.",
+    "Stool seats are dark brown wood with black metal legs.",
+    "The ceiling has exposed industrial-style grey metal ducts and conduits; suspended rectangular white light panels are visible.",
+    "The projected slide background is predominantly white with a teal/green product image on the right side of the slide.",
+    "Windows along the back wall show greenery and outdoor light; window frames appear dark (black or dark grey)."
+  ],
+  "uncertainties": [
+    "Exact number of people is uncertain because several individuals are partially obscured behind others and some heads are only partially visible; therefore only a minimum count is reported.",
+    "Many small text lines on the projected slide and on any monitors or printed materials are not legible at this image resolution; only the slide heading and two bullet lines could be read confidently.",
+    "Some stool and table counts are approximate because of overlap and cropping at image edges; a precise inventory of stools and tables in the room cannot be determined from this single view.",
+    "There may be additional devices or small labels on equipment or benches (for example brand or model labels on the projector or monitor) that are not readable in this image.",
+    "Because no explicit room name or number is visible in this photograph, the location cannot be identified from the image alone."
+  ],
+  "visual_facts": [
+    "At least seven people are visible: one person standing at the front holding a microphone and presenting, at least five seated or partially seated people distributed across the central and left tables, and one person standing and leaning over a table at the far left. Exact total count of people cannot be determined from the image because some heads and bodies are partially obscured behind others.",
+    "One large projected screen is visible at the right-rear of the room showing a presentation slide.",
+    "Two ceiling-mounted projectors or projector housings are visible (one roughly above the central table, one nearer the front-right); both are suspended from the ceiling on visible cables or mounts.",
+    "Multiple large rectangular work tables with pale wood tops and white legs are visible: at least four separate table surfaces are visible across the foreground and midground.",
+    "Many stools are visible: four round wooden stools are grouped in the immediate foreground at the bottom-right, and at least a dozen additional stools are visible around other tables and along the back wall; overlap and cropping prevent a precise total count.",
+    "At least two laptop computers are visible on the central tables (one in use by a person in a striped jacket, one near the foreground person), plus a small computer monitor visible at the far right on the back counter.",
+    "One handheld microphone is visible in the right-front presenter's hand.",
+    "One transparent water bottle or flask is visible on the foreground table near the seated person in a black jacket.",
+    "One white multi-socket power strip and a charging cable are visible on the foreground table.",
+    "A whiteboard or flip chart on a stand is visible near the rear left of the room (behind seated participants).",
+    "A projection of a product image (a small rectangular appliance in teal/white) is shown on the slide; the product image is part of the projected slide, not an object physically present in the photographed scene.",
+    "Table tops have a light wood colour and appear to be laminated or veneered wood; table legs are white metal.",
+    "Stool seats are dark brown wood with black metal legs.",
+    "The ceiling has exposed industrial-style grey metal ducts and conduits; suspended rectangular white light panels are visible.",
+    "The projected slide background is predominantly white with a teal/green product image on the right side of the slide.",
+    "Windows along the back wall show greenery and outdoor light; window frames appear dark (black or dark grey)."
+  ],
+  "id": "2c06f235dddbcd0cbf0e16c7",
+  "sha256": "e89e8ccdbf6bb84c2980ea26a4e91bcec706d42fe44739c364b658d764dec7b9",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:33:41.219648+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "6e4fcca72a786ef1c9c2798ab466ff849a1955e43c1825148eac90204ec734ee",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatxHWa7GF6WPLpoYpD5pHxCUrgqc",
+  "usage": {
+    "completion_tokens": 1404,
+    "prompt_tokens": 2266,
+    "total_tokens": 3670,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1141,
+      "engine_ttlt_ms": 11858,
+      "pre_inference_ms": 356,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2588,
+      "service_ttlt_ms": 13300,
+      "user_visible_ttft_ms": 2232
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

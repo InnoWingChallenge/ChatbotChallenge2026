@@ -1,0 +1,127 @@
+{
+  "title": "Simulator rig with racing seat, three curved monitors and camera/lens assembly",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One racing-style bucket seat is visible in the left foreground; the seat shows a fabric cushion and a glossy hard outer shell and is not cropped.",
+    "Three large curved monitors are visible across the top of the image (top-center to top-right); two form a continuous curved bank at the right and one is centered-left. All three monitor faces are visible and mounted on a frame.",
+    "One computer keyboard is visible behind the seat, resting on the rig work surface (top-center area).",
+    "One camera or box-shaped imaging device with a mounted lens is visible on the rig, located center-right on a linear rail/beam; the lens and camera body are not cropped.",
+    "One vertical handbrake-style lever is visible just left of the camera assembly (center-right).",
+    "One short gearstick or joystick with a spherical ball top is visible center-left on a small rectangular base.",
+    "Two stacked flight-case style road cases (aluminium-reinforced) are visible on the right side of the image, one above the other.",
+    "One retail-style cardboard box with red and white graphics is visible behind the seat at left; the box is partially visible (left background) and slightly cropped by the image edge.",
+    "One desktop computer tower or large chassis with visible case fans and internal lighting is visible behind the seat (center-left, slightly obscured by the seat).",
+    "Multiple bundled cables and wiring are visible beneath and around the rig and camera assembly (center and lower center); these are numerous and partly obscured by structural elements.",
+    "One small silver/grey audio or electronic device (rectangular box) is visible on top of the flight cases at right."
+  ],
+  "visible_text": [
+    "CONTENT MANAGER",
+    "WORLD UPDATE : JAPAN",
+    "WORLD UPDATE : USA",
+    "WORLD UPDATE : UNITED KINGDOM & IRELAND",
+    "WORLD UPDATE : FRANCE, BELGIUM, NETHERLANDS & LUXEMBOURG",
+    "WORLD UPDATE : NORDICS",
+    "WORLD UPDATE : GERMANY, AUSTRIA AND SWITZERLAND",
+    "AOC",
+    "AUTO IMAGE",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "The racing seat is positioned in the left foreground facing right/toward the monitors and rig.",
+    "The three curved monitors are mounted together along the top of the rig, spanning from top-center to top-right; the camera/lens assembly sits directly beneath the central/right monitor area.",
+    "The keyboard is located behind the seat on the rig surface, between the seat and the camera assembly (top-center).",
+    "The vertical handbrake lever is mounted to the rig immediately left of the camera assembly (center-right).",
+    "The small gearstick/joystick with the spherical ball top is mounted on a small rectangular base positioned slightly left of the camera assembly (center-left of the rig).",
+    "Two stacked aluminium-reinforced flight cases are placed to the right of the main rig, with a small silver/grey box resting on top of them (right side).",
+    "The red and white retail box is located behind the left side of the seat, against the left background.",
+    "Cables run beneath and around the linear aluminium beams that form the rig; many cables cluster beneath the camera and to the lower center area."
+  ],
+  "colours_and_materials": [
+    "The racing seat has a black fabric cushion and a glossy black rigid outer shell.",
+    "The rig framing appears to be made of black anodized aluminium extrusion (T-slot style) with visible black metal connectors.",
+    "The monitors have black bezels and dark display surfaces; one monitor shows a blue/teal user interface on-screen.",
+    "The flight cases are black with silver aluminium edges and corner reinforcements.",
+    "A retail cardboard box at left has dominant red and white printed graphics.",
+    "The small silver/grey electronic box on the flight cases is metallic or painted in a light silver colour."
+  ],
+  "uncertainties": [
+    "The exact number of monitors could be interpreted differently because two curved panels form a continuous bank at the right and a third is centered to the left; counts above reflect visible distinct screens but mounting could make identification ambiguous.",
+    "The small text on the chair emblem and some smaller labels are partially obscured; 'AUTO IMAGE' is legible but a smaller emblem text adjacent to it is unclear.",
+    "The retail box text and graphics at left are partially cropped by the image edge and some printed words are unreadable; a single [unreadable] placeholder above indicates additional unreadable text.",
+    "Some smaller labels, model numbers or nameplates on the camera body, the silver box on the flight cases, and on cables are not legible in this view.",
+    "The presence or identity of pedals or further control assemblies below the rig cannot be determined from this image because that area is obscured by the seat and wiring."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One racing-style bucket seat is visible in the left foreground; the seat shows a fabric cushion and a glossy hard outer shell and is not cropped.",
+    "Three large curved monitors are visible across the top of the image (top-center to top-right); two form a continuous curved bank at the right and one is centered-left. All three monitor faces are visible and mounted on a frame.",
+    "One computer keyboard is visible behind the seat, resting on the rig work surface (top-center area).",
+    "One camera or box-shaped imaging device with a mounted lens is visible on the rig, located center-right on a linear rail/beam; the lens and camera body are not cropped.",
+    "One vertical handbrake-style lever is visible just left of the camera assembly (center-right).",
+    "One short gearstick or joystick with a spherical ball top is visible center-left on a small rectangular base.",
+    "Two stacked flight-case style road cases (aluminium-reinforced) are visible on the right side of the image, one above the other.",
+    "One retail-style cardboard box with red and white graphics is visible behind the seat at left; the box is partially visible (left background) and slightly cropped by the image edge.",
+    "One desktop computer tower or large chassis with visible case fans and internal lighting is visible behind the seat (center-left, slightly obscured by the seat).",
+    "Multiple bundled cables and wiring are visible beneath and around the rig and camera assembly (center and lower center); these are numerous and partly obscured by structural elements.",
+    "One small silver/grey audio or electronic device (rectangular box) is visible on top of the flight cases at right.",
+    "The racing seat has a black fabric cushion and a glossy black rigid outer shell.",
+    "The rig framing appears to be made of black anodized aluminium extrusion (T-slot style) with visible black metal connectors.",
+    "The monitors have black bezels and dark display surfaces; one monitor shows a blue/teal user interface on-screen.",
+    "The flight cases are black with silver aluminium edges and corner reinforcements.",
+    "A retail cardboard box at left has dominant red and white printed graphics.",
+    "The small silver/grey electronic box on the flight cases is metallic or painted in a light silver colour."
+  ],
+  "id": "b17b624537174c86d0bf8a3c",
+  "sha256": "93062794943c498c2f5db9069d0540dfbd4a9d1da03176626b2f8608e3541d78",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:18:09.654997+00:00",
+  "input_resolution": [
+    2000,
+    1126
+  ],
+  "input_sha256": "17a2456fe243c50d65a0c7ab49b7b15610d17ffee7894cab09ffffa960f00c28",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatiEBLPChO1EWrYMNqdVdMD37baS",
+  "usage": {
+    "completion_tokens": 1613,
+    "prompt_tokens": 2439,
+    "total_tokens": 4052,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1188,
+      "engine_ttlt_ms": 13276,
+      "pre_inference_ms": 460,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2198,
+      "service_ttlt_ms": 14283,
+      "user_visible_ttft_ms": 1738
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

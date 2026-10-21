@@ -1,0 +1,111 @@
+{
+  "title": "Presenter facing large wall screen in a glass-partitioned room",
+  "suitable": true,
+  "location": "Academy",
+  "objects_and_counts": [
+    "Two visible people: one standing near the room center-left holding a handheld microphone and pointing toward the right; one seated to the left in a black chair, holding papers.",
+    "One large wall-mounted display screen (right side of image) showing a slide with the heading 'Implementation'.",
+    "One wall-mounted speaker located above the large display (visible near the top of the screen).",
+    "Two black chairs visible at left: one occupied by the seated person and one empty (the empty chair is partially visible and immediately left of the seated person).",
+    "Three rectangular upholstered bench/ottoman blocks visible behind the glass partition (center background); each block a distinct colour or shade (teal/blue variations).",
+    "One handheld microphone held by the standing person.",
+    "One small wall sign with a red circle and diagonal slash symbol on the glass partition to the left of the standing presenter.",
+    "One wall-mounted floor plan or notice board affixed to the right wall near the display (partially visible)."
+  ],
+  "visible_text": [
+    "Implementation",
+    "Academy",
+    "P U S H",
+    "No smoking",
+    "Our project is an [unreadable] ...catepke with the ...game engine. This game generates emergency scenarios and requires players to [unreadable] in such situations."
+  ],
+  "spatial_relations": [
+    "The large display screen occupies the full right wall and the standing presenter faces it from center-left while pointing toward it.",
+    "The glass partition runs across the background; behind the glass partition are three upholstered bench blocks positioned against the far wall.",
+    "The two black chairs are placed along the left foreground wall; the seated person occupies the chair closer to the glass partition and the empty chair is immediately to that person's left.",
+    "A wall-mounted speaker is positioned above the display, slightly forward of the glass partition plane.",
+    "A small sign with a prohibition symbol is attached to the glass partition to the left of the standing presenter; a vertical 'P U S H' label appears on or near a door handle on the glass."
+  ],
+  "colours_and_materials": [
+    "The floor is covered with grey carpet tiles with a linear striped pattern.",
+    "The glass partition is translucent/frosted in the lower portions and clearer above, with visible reflections.",
+    "The large display has a black bezel; the projected slide uses a light blue background and black heading text.",
+    "The upholstered bench/ottoman blocks behind the glass are teal/blue in colour.",
+    "Chairs are black plastic or composite material; the seated person's clothing includes a pink/red top, the presenter's clothing is black, and the presenter is wearing a white face mask."
+  ],
+  "uncertainties": [
+    "The full room name is only partly visible as 'Academy'; it is unclear whether additional preceding words are present and legible elsewhere.",
+    "The long paragraph of small text on the slide is only partially legible; many words are unreadable in the photograph and have been replaced with [unreadable].",
+    "The prohibition sign shows a red circle with a diagonal slash; the accompanying wording is assumed to be 'No smoking' but smaller words on that sign are not fully legible.",
+    "The vertical letters that appear as 'P U S H' on the glass door/handle area are legible but could represent individual letter stickers or part of a longer word; their exact context is unclear.",
+    "The wall-mounted item to the right of the display appears to be a floor plan or notice but its text is not readable from the image.",
+    "Counts are limited to objects individually distinguishable in this view; additional identical objects may exist outside the photographed area and are not claimed."
+  ],
+  "visual_facts": [
+    "Visible location text: Academy",
+    "Two visible people: one standing near the room center-left holding a handheld microphone and pointing toward the right; one seated to the left in a black chair, holding papers.",
+    "One large wall-mounted display screen (right side of image) showing a slide with the heading 'Implementation'.",
+    "One wall-mounted speaker located above the large display (visible near the top of the screen).",
+    "Two black chairs visible at left: one occupied by the seated person and one empty (the empty chair is partially visible and immediately left of the seated person).",
+    "Three rectangular upholstered bench/ottoman blocks visible behind the glass partition (center background); each block a distinct colour or shade (teal/blue variations).",
+    "One handheld microphone held by the standing person.",
+    "One small wall sign with a red circle and diagonal slash symbol on the glass partition to the left of the standing presenter.",
+    "One wall-mounted floor plan or notice board affixed to the right wall near the display (partially visible).",
+    "The floor is covered with grey carpet tiles with a linear striped pattern.",
+    "The glass partition is translucent/frosted in the lower portions and clearer above, with visible reflections.",
+    "The large display has a black bezel; the projected slide uses a light blue background and black heading text.",
+    "The upholstered bench/ottoman blocks behind the glass are teal/blue in colour.",
+    "Chairs are black plastic or composite material; the seated person's clothing includes a pink/red top, the presenter's clothing is black, and the presenter is wearing a white face mask."
+  ],
+  "id": "81126999d5e44d0b75000428",
+  "sha256": "11bcb4468ffb4b8a0e643aba40468cbc64d23292536f37fe77ac6abb30dd37a0",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:50:46.420537+00:00",
+  "input_resolution": [
+    2000,
+    1334
+  ],
+  "input_sha256": "8be0c1c8d7030d6863bc7141ba2b413dd2fab0955ad526e8dd520ffafedf8128",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauDrRm8qeY07py8IGN2cZwzHet10",
+  "usage": {
+    "completion_tokens": 1408,
+    "prompt_tokens": 2237,
+    "total_tokens": 3645,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 576,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 354,
+      "engine_ttlt_ms": 10361,
+      "pre_inference_ms": 342,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 879,
+      "service_ttlt_ms": 10881,
+      "user_visible_ttft_ms": 537
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Group in front of DREAMLab sign with laboratory table and equipment",
+  "suitable": true,
+  "location": "DREAMLab",
+  "objects_and_counts": [
+    "18 people are visible in the photographed scene (a front row of mostly students and a back row of adults/students); some individuals are partially obscured by others but 18 distinct heads are countable.",
+    "At least 4 identical blue drawstring bags are visible being held by people in the front row (one front-left, one center, one front-right, and one at far right); the bag at far right is partly cropped by the image edge.",
+    "One large work table is visible in the right foreground with multiple components or assemblies laid on it, including a multi-coloured assembly with red and white parts; the table surface is yellow/orange.",
+    "One grey office chair (partly visible) is at the near-right foreground beside the table.",
+    "One metal mesh object or basket is visible in the lower-left foreground (partly cropped).",
+    "Two framed certificates or plaques are mounted on the wall behind the group (near the centre), one to the left of a small sign with a red circle/shield.",
+    "At least one desktop computer monitor or screen is visible behind the group, showing content but the screen text/content is not legible from the image.",
+    "A large wall sign reading 'DREAMLab' is mounted on the rear wall above the group."
+  ],
+  "visible_text": [
+    "DREAMLab",
+    "UNIVERSITY OF HONG KONG",
+    "LOGOS",
+    "Think Big. Think HKU",
+    "FIRST A[unreadable]"
+  ],
+  "spatial_relations": [
+    "The DREAMLab sign is mounted on the rear wall centered behind the group of people; the group stands in a roughly single dense row across the middle of the image.",
+    "The framed certificates or plaques are on the wall beneath and slightly left of the DREAMLab sign.",
+    "The large work table is in the right foreground, extending from the right image edge toward the centre, with assemblies on top; a grey office chair is beside that table at the near-right edge.",
+    "The metal mesh object is in the lower-left foreground, partially cropped by the image edge and positioned forward of the group.",
+    "People are standing in front of the wall and partially in front of the work surfaces and equipment; some people in the back row are partially obscured by those in front."
+  ],
+  "colours_and_materials": [
+    "The rear wall is a pale green colour with a darker green band behind the DREAMLab sign.",
+    "Many students wear light blue school dresses; several male students wear white shirts and dark trousers.",
+    "The drawstring bags are a teal/bright blue colour with white printed text and a crest.",
+    "The work table surface is yellow or orange; visible equipment on the table includes red and white plastic components.",
+    "Flooring appears to be a dark grey carpet; the metal mesh object in the lower-left appears metallic and silver-coloured."
+  ],
+  "uncertainties": [
+    "Some small printed signs and labels behind the group are not fully legible at this resolution (for example, a small sign with a red circular symbol to the right of the framed certificates).",
+    "The text on the blue drawstring bags is partially legible; 'Think Big. Think HKU' appears on at least one bag but smaller lines of text on the bags are not fully readable.",
+    "The partial text 'FIRST A[unreadable]' on a red sign at the far right is cropped and cannot be fully transcribed.",
+    "The precise nature and function of the assemblies on the work table cannot be determined from appearance alone and no equipment model or brand names are legible on them.",
+    "While 18 heads are countable in this image, some people are partially obscured behind others so the total number present in the room beyond the photographed scene cannot be determined from this image alone."
+  ],
+  "visual_facts": [
+    "Visible location text: DREAMLab",
+    "18 people are visible in the photographed scene (a front row of mostly students and a back row of adults/students); some individuals are partially obscured by others but 18 distinct heads are countable.",
+    "At least 4 identical blue drawstring bags are visible being held by people in the front row (one front-left, one center, one front-right, and one at far right); the bag at far right is partly cropped by the image edge.",
+    "One large work table is visible in the right foreground with multiple components or assemblies laid on it, including a multi-coloured assembly with red and white parts; the table surface is yellow/orange.",
+    "One grey office chair (partly visible) is at the near-right foreground beside the table.",
+    "One metal mesh object or basket is visible in the lower-left foreground (partly cropped).",
+    "Two framed certificates or plaques are mounted on the wall behind the group (near the centre), one to the left of a small sign with a red circle/shield.",
+    "At least one desktop computer monitor or screen is visible behind the group, showing content but the screen text/content is not legible from the image.",
+    "A large wall sign reading 'DREAMLab' is mounted on the rear wall above the group.",
+    "The rear wall is a pale green colour with a darker green band behind the DREAMLab sign.",
+    "Many students wear light blue school dresses; several male students wear white shirts and dark trousers.",
+    "The drawstring bags are a teal/bright blue colour with white printed text and a crest.",
+    "The work table surface is yellow or orange; visible equipment on the table includes red and white plastic components.",
+    "Flooring appears to be a dark grey carpet; the metal mesh object in the lower-left appears metallic and silver-coloured."
+  ],
+  "id": "bd618abe377e21474db1b35b",
+  "sha256": "7148c99982eb988b8e26d5dab889909f3537bdb2ba3057ce794b34412bcef58f",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:02:12.741822+00:00",
+  "input_resolution": [
+    2400,
+    1526
+  ],
+  "input_sha256": "29e717ab4f02e243b7df5ec859ba143aa84ebc463c6f0a6ea52a9b0ae1082061",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauOwO4UPryj8WNlSyfuY02mBsn7Y",
+  "usage": {
+    "completion_tokens": 1175,
+    "prompt_tokens": 2295,
+    "total_tokens": 3470,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 371,
+      "engine_ttlt_ms": 9211,
+      "pre_inference_ms": 372,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 826,
+      "service_ttlt_ms": 9661,
+      "user_visible_ttft_ms": 454
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

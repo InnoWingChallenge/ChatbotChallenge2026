@@ -1,0 +1,26 @@
+{
+  "id": "0d336cf090bf442f5cfdc3dc",
+  "sha256": "f5296d09f72fbe310bf6c3088ca48554358720f31ce5a3389586a9b04fc2fcb3",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-v1",
+  "viewed": true,
+  "suitable": true,
+  "title": "Optical components mounted on a perforated breadboard",
+  "visible_text": [],
+  "visual_facts": [
+    "A large black rectangular optical breadboard with a regular grid of mounting holes sits on a light-colored table.",
+    "Several small optical elements are held by adjustable metal mounts across the board.",
+    "A laptop is open behind the board, with its screen dark.",
+    "A black electronic instrument with knobs and connected cables sits at the right.",
+    "A yellow-and-white labeled rectangular component is mounted near the right edge of the breadboard."
+  ],
+  "spatial_relations": [
+    "The laptop is behind the breadboard.",
+    "The instrument is to the right of the breadboard and connected to the setup by cables.",
+    "Mounted optical elements are distributed across the breadboard surface."
+  ],
+  "uncertainties": [
+    "Small labels on the equipment are too blurred to read, so the specific optical components and instrument models are uncertain."
+  ]
+}

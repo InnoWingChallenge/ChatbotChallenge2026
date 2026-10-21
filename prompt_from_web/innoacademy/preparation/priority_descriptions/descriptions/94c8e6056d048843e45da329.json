@@ -1,0 +1,113 @@
+{
+  "title": "Group around large curved display and simulator controls",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least 11 people are visible in the photographed scene; most are standing in front of the large display or seated on benches/stools. One person at far left is partly turned and may be seated on a chair; one person is seated on a bench in the foreground; others form a standing cluster directly facing the display. (No attempt made to identify individuals.)",
+    "One very large curved multi-panel wall display occupies the right side of the image and shows a cockpit/simulator view.",
+    "One smaller vertically-oriented monitor is positioned in front of and slightly to the right of the large curved display.",
+    "One table with visible controls or computer hardware sits in front of the displays; a person appears to be operating controls or a joystick at that table.",
+    "Modular bench seating composed of at least six upholstered panels is visible in the foreground (different blue/teal shades).",
+    "At least four backpacks or bags are visible: one foreground center (black), one on the left bench (grey/black), one left near a water bottle with pink strap, and at least one more near the right-side standing person. Several are partially obscured.",
+    "One small round table with yellow legs is visible to the right of the operator table; a single clear plastic water bottle sits on that small round table.",
+    "Multiple cable runs are visible on the floor near the right-side displays and tables.",
+    "Two printed papers or signs are attached to the glass partition/wall at the rear left of the image (count = 2).",
+    "At least two stools or high chairs are visible near the group; one stool has a person seated on it."
+  ],
+  "visible_text": [
+    "BRAVO 11",
+    "[unreadable]",
+    "[unreadable]"
+  ],
+  "spatial_relations": [
+    "A large curved multi-panel display fills the right-hand wall of the image and faces into the room; people are gathered directly in front of it, forming a roughly semi-circular group.",
+    "A smaller vertical monitor is positioned between the large curved display and the standing cluster, slightly offset to the right of center.",
+    "A table with controls/computer hardware is placed in front of the displays; the operator-facing side of that table is toward the group of people.",
+    "Modular upholstered seating panels occupy the foreground left and run left-to-right parallel to the lower image edge; backpacks rest on and beside these benches.",
+    "A glass partition with two printed signs is at the rear left of the image, behind several standing people; the glass reflects parts of the large display.",
+    "A small round table with yellow legs is to the right of the control table and partially between the control table and the large display."
+  ],
+  "colours_and_materials": [
+    "The floor appears covered with light grey carpet.",
+    "Modular bench seating panels in the foreground are upholstered in varying shades of blue and teal.",
+    "The large display has a dark bezel and shows a predominantly blue/grey cockpit scene.",
+    "The small round table has yellow-painted legs and a white tabletop; the water bottle on it is clear plastic with a blue label.",
+    "Glass partition/wall at the rear left is transparent with printed white paper signs affixed to it."
+  ],
+  "uncertainties": [
+    "Exact people count is based on visually distinguishable figures; some people are partially obscured so the true count may be higher.",
+    "Text readable on the displays and small screens is largely obscured by image scale and reflections; only 'BRAVO 11' could be transcribed with confidence. Other UI text visible at screen edges is unreadable and transcribed as [unreadable].",
+    "Printed signs on the glass partition contain legible marks but the detailed wording is not readable at this image resolution; they are reported only as two distinct printed sheets.",
+    "The apparent controls/hardware on the table are described as 'controls or computer hardware' because exact device names, brands or model numbers are not legible.",
+    "Any jacket lettering, logos on clothing, or small labels on equipment could not be transcribed reliably and therefore were not included except where clearly legible; there may be additional text not readable in this image.",
+    "Because no explicit room name or number is legible in the photograph, the location field is set to 'unknown from image'."
+  ],
+  "visual_facts": [
+    "At least 11 people are visible in the photographed scene; most are standing in front of the large display or seated on benches/stools. One person at far left is partly turned and may be seated on a chair; one person is seated on a bench in the foreground; others form a standing cluster directly facing the display. (No attempt made to identify individuals.)",
+    "One very large curved multi-panel wall display occupies the right side of the image and shows a cockpit/simulator view.",
+    "One smaller vertically-oriented monitor is positioned in front of and slightly to the right of the large curved display.",
+    "One table with visible controls or computer hardware sits in front of the displays; a person appears to be operating controls or a joystick at that table.",
+    "Modular bench seating composed of at least six upholstered panels is visible in the foreground (different blue/teal shades).",
+    "At least four backpacks or bags are visible: one foreground center (black), one on the left bench (grey/black), one left near a water bottle with pink strap, and at least one more near the right-side standing person. Several are partially obscured.",
+    "One small round table with yellow legs is visible to the right of the operator table; a single clear plastic water bottle sits on that small round table.",
+    "Multiple cable runs are visible on the floor near the right-side displays and tables.",
+    "Two printed papers or signs are attached to the glass partition/wall at the rear left of the image (count = 2).",
+    "At least two stools or high chairs are visible near the group; one stool has a person seated on it.",
+    "The floor appears covered with light grey carpet.",
+    "Modular bench seating panels in the foreground are upholstered in varying shades of blue and teal.",
+    "The large display has a dark bezel and shows a predominantly blue/grey cockpit scene.",
+    "The small round table has yellow-painted legs and a white tabletop; the water bottle on it is clear plastic with a blue label.",
+    "Glass partition/wall at the rear left is transparent with printed white paper signs affixed to it."
+  ],
+  "id": "94c8e6056d048843e45da329",
+  "sha256": "c1591073f53f2c46dd82a6ed1d090bec4e218f16e9db3623fc47377e02bae2f3",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:53:43.758136+00:00",
+  "input_resolution": [
+    2400,
+    1600
+  ],
+  "input_sha256": "006c92d1927365571aefbc636e5ba2dc5048f30302d3c2bc5ed5c21a7a01d867",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauGfkOxx0e3J9LXC8eOGdJzt9jx5",
+  "usage": {
+    "completion_tokens": 1467,
+    "prompt_tokens": 2266,
+    "total_tokens": 3733,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1285,
+      "engine_ttlt_ms": 12937,
+      "pre_inference_ms": 435,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2198,
+      "service_ttlt_ms": 13845,
+      "user_visible_ttft_ms": 1763
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,73 @@
+{
+  "prepared_at": "2026-10-20T11:16:47.245658+00:00",
+  "requested_curator": "gpt-6-luna",
+  "curator_resolution": "user_confirmed",
+  "completed_descriptions": 357,
+  "description_models": {
+    "gpt-6-luna": 58,
+    "gpt-5-mini": 299
+  },
+  "categories": {
+    "equipment_facility": 165,
+    "space_layout": 192
+  },
+  "with_exact_page_text": 116,
+  "missing_description_ids": [
+    "d016bc38eda3fc6e4b236ef2",
+    "d05ec70f3f5380d850b326d0",
+    "d07dcdd853f801fcc7cf2780",
+    "d0825f76877401ea5cb64525",
+    "d1981205345659e58fdab3b5",
+    "d1de97eeaa6182e3bf5fdcf1",
+    "d4485f6a116882c76d2dbe45",
+    "d4897a3fcbf10d900d168097",
+    "d7d182b79d950dcc6fb911c5",
+    "d9e1a64b744d1c693f1e20fe",
+    "de7bc913814f51fb72293eba",
+    "dea74f3282769beca025f11a",
+    "df0f9c2b3f39dfb03df23afb",
+    "df8a8df4695eeaa110e62b73",
+    "dfe31439e8a828defd15172e",
+    "e23d188a28b41d7ee2ef2ddd",
+    "e24ec592bd0ce6bc46e9a0b6",
+    "e6834fd15b03c00da92f7d59",
+    "e7979de357727ace41c4d015",
+    "e8a4b8162ec7e39eeb946848",
+    "e971b00dfa81ad599a94c7b8",
+    "eb733ef3b015f34c5a6a3b57",
+    "ec2634f96469ac54f7cceffe",
+    "edee8fe8b0e775218c58f854",
+    "f1e0ddef2340ce8f409e8da1",
+    "f2e2d0812a22c94c337b6173",
+    "f2fc3cf8fb8a0044426620ab",
+    "f3575fcf48b44e1bed68b3e8",
+    "f35fbd297440aa42a1e08344",
+    "f47907c24843e42c48296ad5",
+    "f47c8ba3a17ec7a736c028be",
+    "f4e4f8efd7e34151a5c1336a",
+    "f7409809a415b70fac5311e4",
+    "f99e1a86c9d10f649073bf32",
+    "fa5677d3e97a541969fc8fb7",
+    "fad8662b633ae6c99ebf5398",
+    "fc4c865a747be15dd384a181",
+    "fda88d1d61da3587141673b0"
+  ],
+  "invalid": [],
+  "comparison_corpora": [
+    {
+      "path": "submission_repo/data/pages.json",
+      "sha256": "1d18b7b8779332cf94bfb0bde82d2c8598dd9b68efd41a689a34a9c1273b0c05"
+    },
+    {
+      "path": "prompt_from_web/innoacademy/pages.json",
+      "sha256": "7ee9f5878ee43e61ffaddf0b684544cc7230d3e5cebcfcf55d4973a45382a1bb"
+    },
+    {
+      "path": "submission_repo/data/image_evidence/records.json",
+      "sha256": "6a92e83fcf01ac6bb88ba773f58b25eed9f5525f2dfd5b5f151a0f915de5a90b"
+    }
+  ],
+  "curation_performed": false,
+  "database_modified": false,
+  "curator_reasoning_effort": "low"
+}

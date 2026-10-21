@@ -1,0 +1,106 @@
+{
+  "title": "Exterior and interior renderings showing Tam Wing Fan Innovation Wing and Hui Oi Chow Science Building signage and internal red stair feature",
+  "suitable": true,
+  "location": "Tam Wing Fan Innovation Wing",
+  "objects_and_counts": [
+    "Top exterior region: a glass entrance facade with visible signage and at least 8 human silhouettes distributed across the forecourt and just inside the glass; several of these silhouettes are partially cropped or shown as semi-transparent render figures.",
+    "Top exterior region: brick building exterior behind the glass facade; planted shrubs and a low planting bed visible at right.",
+    "Lower-left interior panel: one prominent red perforated vertical/diagonal architectural stair enclosure and an adjacent stair, one illuminated wall sign reading 'FACULTY OF ENGINEERING' (neon-like), and at least 2 human render figures (one standing near the stair and one at upper level).",
+    "Lower-center interior panel: one red suspended stair element/structure, one open stair with black treads, at least 4 human render figures (two near the lower landing, two on the upper level), and a wall with a repeated dot-pattern mesh surface.",
+    "Lower-right interior panel: an open teaching/lounge area with multiple chairs and seating: at least 4 seated people visible, at least 4 round ottomans or low stools, and a bank of computer monitors and desks along the rear wall (the exact monitor count is not determinable from the image crop).",
+    "Repeated objects: the red architectural element (appearing at least in the three lower panels as a design motif), multiple glass doors/entrances in the top exterior region, and multiple ceiling light ribbons in the lower panels."
+  ],
+  "visible_text": [
+    "Tam Wing Fan Innovation Wing",
+    "FACULTY OF ENGINEERING",
+    "HUI OI CHOW SCIENCE BUILDING",
+    "Design Goal: Creativity, Openness, Vibrancy",
+    "FACULTY OF ENGINEERING",
+    "BANNER",
+    "TEACHINGSTUDIO"
+  ],
+  "spatial_relations": [
+    "Top exterior region: the 'Tam Wing Fan Innovation Wing' sign is mounted on the glass canopy immediately above the main entrance; to the right of that entrance, 'HUI OI CHOW SCIENCE BUILDING' is mounted on the brick facade above another glass entrance.",
+    "Top exterior region: glass doors and transparent wall sections form a continuous glazed frontage below the signage; pedestrian silhouettes are distributed along a paved plaza directly in front of the glazed entrance.",
+    "Lower-left panel: the red perforated stair enclosure rises from a lower floor to an upper level, with the stair treads extending from left foreground to the upper right of that panel; the 'FACULTY OF ENGINEERING' illuminated sign is on the vertical surface to the left of the red element.",
+    "Lower-center panel: the open black-tread stair ascends beneath a suspended red rectangular stair volume; people stand on the landing area beneath and adjacent to a dotted-pattern wall (where 'TEACHINGSTUDIO' is visible).",
+    "Lower-right panel: the seating/lounge area occupies the foreground and midground with clustered seating (round ottomans and bench seating) and a row of desks/computers along the rear wall; people are seated on the floor and on raised bench seating at right."
+  ],
+  "colours_and_materials": [
+    "Exterior: red-brown brick facade above a largely glass and metal framed ground-floor frontage; the paved plaza in front is an orange-brown brick or tile.",
+    "Interior: striking red painted or coated metal perforated stair enclosure and suspended red stair volume used as an accent in the lower panels.",
+    "Interior finishes: grey patterned carpet or floor tiles in lower panels, white ceilings with linear light elements, and glass partitions in several locations.",
+    "Furnishings: dark or black stair treads in the lower panels and neutral-coloured seating (grey and muted tones) in the lounge/teaching area."
+  ],
+  "uncertainties": [
+    "The vertical Chinese text to the right of 'HUI OI CHOW SCIENCE BUILDING' on the brick facade is not fully legible in the image; transcription omitted for that line.",
+    "Counts of small repeated items (individual computer monitors, exact number of chairs/desks) cannot be precisely determined from the image crop and overlapping elements; only minimum visible counts are reported where reliable.",
+    "The lower-center wall text appears as 'TEACHINGSTUDIO' without a visible space; the exact spacing or punctuation as intended in the original cannot be confirmed from this image.",
+    "Some human figures are semi-transparent render silhouettes or partially cropped; exact counts of distinct people are minimum visible integers rather than a definitive room population.",
+    "Material identifications (for example, whether red elements are metal mesh or perforated metal) are visually inferred from appearance but not confirmed by any visible label."
+  ],
+  "visual_facts": [
+    "Visible location text: Tam Wing Fan Innovation Wing",
+    "Top exterior region: a glass entrance facade with visible signage and at least 8 human silhouettes distributed across the forecourt and just inside the glass; several of these silhouettes are partially cropped or shown as semi-transparent render figures.",
+    "Top exterior region: brick building exterior behind the glass facade; planted shrubs and a low planting bed visible at right.",
+    "Lower-left interior panel: one prominent red perforated vertical/diagonal architectural stair enclosure and an adjacent stair, one illuminated wall sign reading 'FACULTY OF ENGINEERING' (neon-like), and at least 2 human render figures (one standing near the stair and one at upper level).",
+    "Lower-center interior panel: one red suspended stair element/structure, one open stair with black treads, at least 4 human render figures (two near the lower landing, two on the upper level), and a wall with a repeated dot-pattern mesh surface.",
+    "Lower-right interior panel: an open teaching/lounge area with multiple chairs and seating: at least 4 seated people visible, at least 4 round ottomans or low stools, and a bank of computer monitors and desks along the rear wall (the exact monitor count is not determinable from the image crop).",
+    "Repeated objects: the red architectural element (appearing at least in the three lower panels as a design motif), multiple glass doors/entrances in the top exterior region, and multiple ceiling light ribbons in the lower panels.",
+    "Exterior: red-brown brick facade above a largely glass and metal framed ground-floor frontage; the paved plaza in front is an orange-brown brick or tile.",
+    "Interior: striking red painted or coated metal perforated stair enclosure and suspended red stair volume used as an accent in the lower panels.",
+    "Interior finishes: grey patterned carpet or floor tiles in lower panels, white ceilings with linear light elements, and glass partitions in several locations.",
+    "Furnishings: dark or black stair treads in the lower panels and neutral-coloured seating (grey and muted tones) in the lounge/teaching area."
+  ],
+  "id": "ccbe0a09e27f4e8e8c11c9f4",
+  "sha256": "e0b36a1606ad952187a736fc615b53ba135e63cce9dc3428709bfe9064b47035",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T03:04:56.600670+00:00",
+  "input_resolution": [
+    1280,
+    720
+  ],
+  "input_sha256": "4860638831788941e19c3483e4ec98eba3b1820e7fe02c0b2452bd97c575e392",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauRWy1VGO687PzxHp7B1CI81O0BS",
+  "usage": {
+    "completion_tokens": 1744,
+    "prompt_tokens": 2304,
+    "total_tokens": 4048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 704,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 300,
+      "engine_ttlt_ms": 13389,
+      "pre_inference_ms": 169,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 619,
+      "service_ttlt_ms": 13686,
+      "user_visible_ttft_ms": 450
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

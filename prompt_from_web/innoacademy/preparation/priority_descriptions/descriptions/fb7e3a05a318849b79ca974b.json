@@ -1,0 +1,107 @@
+{
+  "title": "Prototype robotic platform beside presentation panel titled 'Automatic Chair Parking System'",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One mobile prototype/robotic platform is visible on the left half of the image; it occupies the foreground floor area and is photographed in full or nearly full view.",
+    "Two vertical posts (uprights) are mounted on the platform and extend upward; each post has a T-shaped top piece — the left T-top is green and the right T-top is white.",
+    "At least two wheels are visible at the base of the platform: one omnidirectional-style wheel is visible at the front-right corner (partially cropped) and at least one similar wheel is visible toward the front-left corner; additional wheels are present but their exact count cannot be determined from occlusion and cropping.",
+    "Multiple electronic components and assemblies are visible on the platform, including at least two stacked clear acrylic plates forming the chassis, one circular black component mounted on the upper plate, at least one small green terminal block or PCB with visible screw terminals, and numerous wires and cables (red, black, white, orange) routed across the chassis.",
+    "At least two small black rectangular components that appear to be motor housings or actuators are visible at the platform corners (one on the left front corner and one on the right front corner), though exact identification is not made from appearance.",
+    "A dark teal vertical presentation panel occupies the right half of the image; it carries the title and descriptive paragraph text.",
+    "A thin horizontal decorative line (rule) is visible beneath the main title on the presentation panel."
+  ],
+  "visible_text": [
+    "Automatic Chair",
+    "Parking System",
+    "The system aims to provide a smart solution in moving and arranging chairs in large venues such as classrooms while reducing the risk of occupational and ergonomic injuries."
+  ],
+  "spatial_relations": [
+    "The prototype robotic platform is positioned on the left side of the image, resting on the floor close to a wall running horizontally in the background.",
+    "The dark teal presentation panel fills the entire right half of the image and is adjacent to the platform at the image midline; the panel's title and paragraph are centered vertically within that right area.",
+    "The two vertical posts rise from the platform base; the green T-shaped top is on the left post and the white T-shaped top is on the right post, so the tops are next to each other across the central area of the platform.",
+    "Electronic assemblies (stacked clear acrylic plates and a circular black component) are mounted centrally on the platform base, with wiring routed outward toward the platform edges and wheels.",
+    "Wheels are located at the platform's corners; at least one front corner wheel is partially cropped by the lower image edge."
+  ],
+  "colours_and_materials": [
+    "Floor is grey with a speckled terrazzo-like appearance.",
+    "The presentation panel background is dark teal with light cream or off-white text.",
+    "The two T-shaped tops are colored green (left) and white (right).",
+    "Platform structural plates appear to be clear or transparent acrylic; uprights are metallic silver in colour.",
+    "Wires visible on the platform are red, black, white and orange; a circular component on the upper plate is black."
+  ],
+  "uncertainties": [
+    "No room name or room number is visible in the image; location cannot be determined from the photograph.",
+    "Exact total number of wheels on the platform cannot be determined because some wheels are partially occluded or cropped at the image edge.",
+    "Several small labels or text on PCBs, connectors and components are present but are not legible at this image resolution; those label texts are unreadable.",
+    "The circular black component's function and the exact types of the small black rectangular components cannot be determined from visual appearance alone.",
+    "The decorative horizontal rule under the title is visible, but any small caption or copyright text that might appear elsewhere on the panel is not legible."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One mobile prototype/robotic platform is visible on the left half of the image; it occupies the foreground floor area and is photographed in full or nearly full view.",
+    "Two vertical posts (uprights) are mounted on the platform and extend upward; each post has a T-shaped top piece — the left T-top is green and the right T-top is white.",
+    "At least two wheels are visible at the base of the platform: one omnidirectional-style wheel is visible at the front-right corner (partially cropped) and at least one similar wheel is visible toward the front-left corner; additional wheels are present but their exact count cannot be determined from occlusion and cropping.",
+    "Multiple electronic components and assemblies are visible on the platform, including at least two stacked clear acrylic plates forming the chassis, one circular black component mounted on the upper plate, at least one small green terminal block or PCB with visible screw terminals, and numerous wires and cables (red, black, white, orange) routed across the chassis.",
+    "At least two small black rectangular components that appear to be motor housings or actuators are visible at the platform corners (one on the left front corner and one on the right front corner), though exact identification is not made from appearance.",
+    "A dark teal vertical presentation panel occupies the right half of the image; it carries the title and descriptive paragraph text.",
+    "A thin horizontal decorative line (rule) is visible beneath the main title on the presentation panel.",
+    "Floor is grey with a speckled terrazzo-like appearance.",
+    "The presentation panel background is dark teal with light cream or off-white text.",
+    "The two T-shaped tops are colored green (left) and white (right).",
+    "Platform structural plates appear to be clear or transparent acrylic; uprights are metallic silver in colour.",
+    "Wires visible on the platform are red, black, white and orange; a circular component on the upper plate is black."
+  ],
+  "id": "fb7e3a05a318849b79ca974b",
+  "sha256": "677e088c2025dcd51a8938246a0f92ebe01b280a52d135fe5ae358ab4e8b9161",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:24:39.098230+00:00",
+  "input_resolution": [
+    2363,
+    1338
+  ],
+  "input_sha256": "74b76eaeedbdc739d59056cff2c8ea2520158c783b7199af2c48a24e2efc55fb",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eatoaxk3XA1Mffp6zsgwNvUFOGrK3",
+  "usage": {
+    "completion_tokens": 1188,
+    "prompt_tokens": 2439,
+    "total_tokens": 3627,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1154,
+      "engine_ttlt_ms": 9360,
+      "pre_inference_ms": 295,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2038,
+      "service_ttlt_ms": 10239,
+      "user_visible_ttft_ms": 1743
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Workshop bay with open‑wheeled vehicle chassis and tools",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One partially assembled open‑wheeled vehicle (race car chassis/body) occupies the right and central foreground; the bodywork has a pointed nose and a raised roll hoop at the rear of the cockpit area.",
+    "One exposed wheel mounted on the vehicle visible at the left side of the chassis (left front/center area of image).",
+    "One spare wheel and tire wrapped in plastic on the floor in front of the vehicle (foreground, slightly right of centre).",
+    "Two red jack stands visible underneath the vehicle (one near the rear area visible on the right side, one forward near center under chassis).",
+    "Three tall stools visible: one with a purple seat near centre-left beside the chassis, one brown stool to the right of the vehicle nose, and one partially visible stool at the extreme left edge of the image.",
+    "One metal shelving unit with multiple shelves and storage boxes on the left background.",
+    "One vertical teardrop banner/flag on a stand at left foreground.",
+    "One red multi-drawer tool chest/cabinet against the left wall (behind the shelving unit).",
+    "One large cardboard box on the floor in the foreground left of centre.",
+    "A stack of product/retail boxes on a small wheeled cart at far left (multiple boxes stacked; at least three distinct box faces are visible).",
+    "One clear or translucent plastic wheeled container/drawer unit on the lower shelf of the shelving unit (left background).",
+    "One long white cylindrical tube or roll (white tube) lying on the middle shelf of the shelving unit, protruding to the right.",
+    "Overhead suspended cable or cord visible running from the ceiling toward the centre top of the image."
+  ],
+  "visible_text": [
+    "HOOSIER"
+  ],
+  "spatial_relations": [
+    "The open‑wheeled vehicle is positioned across the right and central foreground, facing to the right with its pointed nose near the right edge of the image and the cockpit/roll hoop nearer the centre.",
+    "The wrapped spare wheel sits on the floor directly in front of the vehicle nose and slightly right of centre, with a brown stool to its immediate right and the purple stool slightly behind and to the left of the wrapped wheel.",
+    "Two red jack stands are located under the vehicle: one visible toward the right/rear under the body and one nearer the centre/front under the chassis.",
+    "A shelving unit is located behind the left side of the vehicle (left background), with a red multi-drawer tool chest immediately to the right of that shelving unit against the left wall.",
+    "A vertical green teardrop banner stands in front of the shelving unit toward the left foreground, partially obscuring the lower shelves and stacked boxes behind it.",
+    "A large cardboard box is on the floor in the foreground left of centre, in front of the stacked boxes and wheeled cart at the far left."
+  ],
+  "colours_and_materials": [
+    "The vehicle body appears to be a dark grey/black composite or painted surface with a green stripe or green painted panel on the top midsection and a white section behind the roll hoop.",
+    "The teardrop banner is green with white lettering or graphics (text not fully legible).",
+    "The jack stands are red; the multi-drawer tool chest is red.",
+    "The spare wheel is black with visible yellow/white lettering on the tire tread ('HOOSIER').",
+    "Shelving unit appears to be metallic (grey frame) with plastic storage boxes (clear/translucent) on lower shelves.",
+    "The floor has two visually distinct surfaces: a grey smooth floor (left foreground) and a tan/brown carpeted rug directly under and around the vehicle area."
+  ],
+  "uncertainties": [
+    "Exact room name or number is not visible; therefore location is unknown from image.",
+    "Text on the green teardrop banner is partially legible but not certain; only the banner colour is reliably observed. The full banner wording is unreadable from this view.",
+    "Many smaller labels, box brand names and printed text on shelving contents and stacked boxes are not legible at this image resolution and have not been transcribed.",
+    "Count of stacked boxes on the left wheeled cart is given as at least three visible faces; occlusion prevents a definitive total count of boxes in that stack.",
+    "Some stool legs and one stool at the extreme left edge are partially cropped, so the count of three tall stools is the visible count; further stools may be outside the frame.",
+    "Material identifications (for example, composite bodywork vs painted metal) are descriptive impressions based on appearance and may be uncertain."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One partially assembled open‑wheeled vehicle (race car chassis/body) occupies the right and central foreground; the bodywork has a pointed nose and a raised roll hoop at the rear of the cockpit area.",
+    "One exposed wheel mounted on the vehicle visible at the left side of the chassis (left front/center area of image).",
+    "One spare wheel and tire wrapped in plastic on the floor in front of the vehicle (foreground, slightly right of centre).",
+    "Two red jack stands visible underneath the vehicle (one near the rear area visible on the right side, one forward near center under chassis).",
+    "Three tall stools visible: one with a purple seat near centre-left beside the chassis, one brown stool to the right of the vehicle nose, and one partially visible stool at the extreme left edge of the image.",
+    "One metal shelving unit with multiple shelves and storage boxes on the left background.",
+    "One vertical teardrop banner/flag on a stand at left foreground.",
+    "One red multi-drawer tool chest/cabinet against the left wall (behind the shelving unit).",
+    "One large cardboard box on the floor in the foreground left of centre.",
+    "A stack of product/retail boxes on a small wheeled cart at far left (multiple boxes stacked; at least three distinct box faces are visible).",
+    "One clear or translucent plastic wheeled container/drawer unit on the lower shelf of the shelving unit (left background).",
+    "One long white cylindrical tube or roll (white tube) lying on the middle shelf of the shelving unit, protruding to the right.",
+    "Overhead suspended cable or cord visible running from the ceiling toward the centre top of the image.",
+    "The vehicle body appears to be a dark grey/black composite or painted surface with a green stripe or green painted panel on the top midsection and a white section behind the roll hoop.",
+    "The teardrop banner is green with white lettering or graphics (text not fully legible).",
+    "The jack stands are red; the multi-drawer tool chest is red.",
+    "The spare wheel is black with visible yellow/white lettering on the tire tread ('HOOSIER').",
+    "Shelving unit appears to be metallic (grey frame) with plastic storage boxes (clear/translucent) on lower shelves.",
+    "The floor has two visually distinct surfaces: a grey smooth floor (left foreground) and a tan/brown carpeted rug directly under and around the vehicle area."
+  ],
+  "id": "8f5f00819fb47b667323c514",
+  "sha256": "369309fc6d64d6d077457878d22f346cf619477442e9a53d51555183320345b2",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:52:57.224382+00:00",
+  "input_resolution": [
+    2400,
+    1795
+  ],
+  "input_sha256": "b4d71025e7d00980d888265635196e981dbd945fc5789e5cfce950a7a4ba79a2",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EauFvWkNGAA2OpZLwlYTUKoSV3hPW",
+  "usage": {
+    "completion_tokens": 1357,
+    "prompt_tokens": 2151,
+    "total_tokens": 3508,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 8,
+      "engine_ttft_ms": 1187,
+      "engine_ttlt_ms": 12275,
+      "pre_inference_ms": 344,
+      "service_tbt_ms": 8,
+      "service_ttft_ms": 2069,
+      "service_ttlt_ms": 13152,
+      "user_visible_ttft_ms": 1725
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

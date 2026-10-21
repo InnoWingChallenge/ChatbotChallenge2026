@@ -1,0 +1,103 @@
+{
+  "title": "Row of vertical tubular level/flow assemblies with valves",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "Five vertical tubular assemblies are visible across the image; each assembly consists of a top flange, multiple long vertical metal support rods, a clear vertical sight tube or gauge inside the rods, and a bottom flange. The assemblies are cropped at the top and bottom edges in places.",
+    "Four red handwheel valve handles are visible along the lower front edge; they are mounted on valves or valves with short connecting pipes. The valves are distributed roughly under the second through fifth assemblies from the left (count based on visible portion).",
+    "At least three flexible braided metal hoses or braided connectors are visible at the bottom connecting to the lower flanges/valves; some hoses are partially obscured behind other fittings.",
+    "Multiple round metal flange bolts and nuts are present on each top and bottom flange; each visible flange shows at least four large hexagonal nuts/bolts.",
+    "A horizontal perforated orange metal rack or shelving upright is visible at left and running along the bottom; the tubular assemblies are mounted above or in front of it.",
+    "A short length of white insulated cable or conduit runs horizontally behind the assemblies, visible near mid-height of the image."
+  ],
+  "visible_text": [],
+  "spatial_relations": [
+    "The tubular assemblies are arranged in a horizontal row from left to right and appear mounted to a horizontal support or beam near their top flanges.",
+    "Each assembly has multiple long vertical metal support rods surrounding a central clear sight tube; the rods connect the top flange to the bottom flange making each assembly a vertical column.",
+    "The red handwheel valves are located below the bottom flanges and are connected to the lower piping; the braided hoses connect between those lower flange regions and a lower horizontal manifold or piping.",
+    "A perforated orange vertical rack/member is visible at the far left and supports or frames the lower piping area; a gray panel or sheet is behind the assemblies forming a vertical background.",
+    "Clear sight tubes run inside the rod assemblies and are parallel to each other; some sight tubes show internal scale markings but these are not legible."
+  ],
+  "colours_and_materials": [
+    "Support rods and flange hardware appear grey/blue painted metal with some visible rust and corrosion at joints.",
+    "Top flange faces are metallic silver/bright metal; some top flanges have a brass-colored fitting or connector on top.",
+    "Sight tubes are transparent (glass or clear plastic) allowing internal view; some tubes contain a narrow internal float or internal rod with discoloured residue.",
+    "Valve handwheels are red-painted metal, distinct from surrounding hardware.",
+    "Braided hoses are metallic silver with woven texture; some short pipe sections and fittings are brass-coloured.",
+    "The floor or lower surface visible at the bottom is blue."
+  ],
+  "uncertainties": [
+    "Exact count of assemblies could be affected by cropping at left and right edges; I report five visible across the image but additional assemblies may extend beyond the frame.",
+    "Some braided hoses and fittings are partially obscured behind other parts so the count of hoses (reported as at least three) is a visible minimum not necessarily the full set present.",
+    "No legible textual labels, room names or equipment nameplates could be read in the image; small stickers or markings (including green circular stickers) are visible but contain no readable text at this resolution.",
+    "The precise type or function of these assemblies (e.g., level gauge, flowmeter) is not determined from appearance and is not inferred here.",
+    "Positions described (e.g., 'second through fifth assemblies from the left') are relative to the visible portion of the image and may shift if cropped differently."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "Five vertical tubular assemblies are visible across the image; each assembly consists of a top flange, multiple long vertical metal support rods, a clear vertical sight tube or gauge inside the rods, and a bottom flange. The assemblies are cropped at the top and bottom edges in places.",
+    "Four red handwheel valve handles are visible along the lower front edge; they are mounted on valves or valves with short connecting pipes. The valves are distributed roughly under the second through fifth assemblies from the left (count based on visible portion).",
+    "At least three flexible braided metal hoses or braided connectors are visible at the bottom connecting to the lower flanges/valves; some hoses are partially obscured behind other fittings.",
+    "Multiple round metal flange bolts and nuts are present on each top and bottom flange; each visible flange shows at least four large hexagonal nuts/bolts.",
+    "A horizontal perforated orange metal rack or shelving upright is visible at left and running along the bottom; the tubular assemblies are mounted above or in front of it.",
+    "A short length of white insulated cable or conduit runs horizontally behind the assemblies, visible near mid-height of the image.",
+    "Support rods and flange hardware appear grey/blue painted metal with some visible rust and corrosion at joints.",
+    "Top flange faces are metallic silver/bright metal; some top flanges have a brass-colored fitting or connector on top.",
+    "Sight tubes are transparent (glass or clear plastic) allowing internal view; some tubes contain a narrow internal float or internal rod with discoloured residue.",
+    "Valve handwheels are red-painted metal, distinct from surrounding hardware.",
+    "Braided hoses are metallic silver with woven texture; some short pipe sections and fittings are brass-coloured.",
+    "The floor or lower surface visible at the bottom is blue."
+  ],
+  "id": "545fa1e40fd5f2e751310417",
+  "sha256": "99addbedbd3acb0b7c47d618e20f955f2c5483fe0b6babf567cf05fdc9b15e6c",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:39:26.646525+00:00",
+  "input_resolution": [
+    2048,
+    1536
+  ],
+  "input_sha256": "8dfccfc6e94c3651c6d6e861abe49e16bcbceeeed1463f64390bd7de253faf35",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eau2vnjLVbMnu0LWvmS0BEMkniaqr",
+  "usage": {
+    "completion_tokens": 1072,
+    "prompt_tokens": 2122,
+    "total_tokens": 3194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1162,
+      "engine_ttlt_ms": 7663,
+      "pre_inference_ms": 395,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2675,
+      "service_ttlt_ms": 9172,
+      "user_visible_ttft_ms": 2280
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

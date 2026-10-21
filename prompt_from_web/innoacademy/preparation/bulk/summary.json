@@ -1,0 +1,33 @@
+{
+  "completed_at": "2026-10-18T12:22:34.070141+00:00",
+  "url_records": 6584,
+  "unattempted_url_records": 0,
+  "download_status": {
+    "recovered": 6520,
+    "external_reference": 8,
+    "failed": 52,
+    "non_image": 4
+  },
+  "unique_downloaded_hashes": 6287,
+  "unique_downloaded_bytes": 4621762889,
+  "local_photos_checked": 119,
+  "screening": {
+    "existing_local_photo": 119,
+    "near_duplicate_review_needed": 1532,
+    "ready_for_description": 3328,
+    "version_review_needed": 1232,
+    "low_priority_candidate": 135,
+    "already_reviewed": 20,
+    "format_or_size_review_needed": 4,
+    "animated_image_review_needed": 16,
+    "pilot_described": 20
+  },
+  "exact_duplicate_groups": 157,
+  "raw_near_duplicate_candidates": 1533,
+  "visually_rejected_pairs": 1,
+  "near_duplicate_pairs": 1532,
+  "cross_source_near_pairs": 0,
+  "near_duplicate_candidate_groups": 805,
+  "new_descriptions_generated": 0,
+  "database_modified": false
+}

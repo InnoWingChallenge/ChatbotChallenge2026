@@ -1,0 +1,104 @@
+{
+  "title": "People assembling laser-cut wooden panels with a glue gun at a table",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "At least five people are visible: two people are centrally framed (both facing the work), one person is partially visible at the far left edge (cropped), one person stands at the far right background (visible from torso up), and one more person is visible behind the central pair near the left background (partially obscured).",
+    "One handheld hot-melt glue gun is visible in the hands of the left central person; its nozzle and cord are visible and the device is held over the workpiece.",
+    "A set of laser-cut flat wooden or light-brown plywood panels (two main interlocking pieces) are being held and assembled by the central pair; the panels show tab-and-slot edges and dashed cut markings.",
+    "One thin black cable (likely the glue gun power cord) runs across the foreground from the glue gun toward the bottom edge of the image.",
+    "One small lavalier microphone with clip is attached to the jacket of the left-central person (visible on the shoulder area).",
+    "One tall vertical microphone or light stand (black pole) is visible at the right edge of the image, extending out of frame at top and bottom.",
+    "One table surface (white or light-coloured) is visible in the foreground supporting the work; a second table or stool is partly visible behind the right background person."
+  ],
+  "visible_text": [
+    "NY",
+    "S"
+  ],
+  "spatial_relations": [
+    "Two central people occupy the foreground working together: the person on the left is leaning forward and holding the glue gun, while the person on the right holds the laser-cut panels between both hands.",
+    "A cropped person appears at the far left edge of the frame and is partially out of view behind the central left person.",
+    "A person in white shirt stands in the mid-right background near a high table or stool; a vertical black stand is between this person and the central pair.",
+    "Glass partitions or clear interior glazing form the background behind the central pair, with reflections and interior lighting visible through them.",
+    "The white or light-coloured tabletop runs across the bottom of the image and supports the assembly; the glue gun cord runs from the central left area toward the bottom edge of the frame."
+  ],
+  "colours_and_materials": [
+    "Two baseball caps are visible: one white cap with a black \"NY\" logo (worn by the right-central person) and one light blue cap with a white stylized \"S\" logo (worn by the left-central person).",
+    "The laser-cut panels are a light tan / beige colour consistent with thin plywood or card material; edges show darker burn marks from cutting.",
+    "The glue gun is dark grey or black plastic with a visible black power cord.",
+    "The left-central person wears a semi-transparent white/light jacket with perforated texture; the right-central person wears a pale blue striped shirt.",
+    "Background glazing and interior surfaces are predominantly glass and white-painted or light-coloured finishes, with some red structural or decorative banding visible near the top background."
+  ],
+  "uncertainties": [
+    "Exact number of people in the scene is ambiguous because some figures are partially cropped or obscured; I reported only clearly visible individuals and did not infer additional people.",
+    "The material identification of the light-brown panels is uncertain (they appear to be laser-cut plywood or thick cardboard) and is reported as probable, not confirmed.",
+    "Small printed or poster text in the background is unreadable at this resolution and was not transcribed.",
+    "The single-letter transcriptions \"NY\" and \"S\" are taken from visible cap logos; no additional surrounding text is legible to provide fuller names or brands.",
+    "The tall black stand at right could be a microphone stand, light stand, or similar support; its exact type is not determinable from the image alone."
+  ],
+  "visual_facts": [
+    "At least five people are visible: two people are centrally framed (both facing the work), one person is partially visible at the far left edge (cropped), one person stands at the far right background (visible from torso up), and one more person is visible behind the central pair near the left background (partially obscured).",
+    "One handheld hot-melt glue gun is visible in the hands of the left central person; its nozzle and cord are visible and the device is held over the workpiece.",
+    "A set of laser-cut flat wooden or light-brown plywood panels (two main interlocking pieces) are being held and assembled by the central pair; the panels show tab-and-slot edges and dashed cut markings.",
+    "One thin black cable (likely the glue gun power cord) runs across the foreground from the glue gun toward the bottom edge of the image.",
+    "One small lavalier microphone with clip is attached to the jacket of the left-central person (visible on the shoulder area).",
+    "One tall vertical microphone or light stand (black pole) is visible at the right edge of the image, extending out of frame at top and bottom.",
+    "One table surface (white or light-coloured) is visible in the foreground supporting the work; a second table or stool is partly visible behind the right background person.",
+    "Two baseball caps are visible: one white cap with a black \"NY\" logo (worn by the right-central person) and one light blue cap with a white stylized \"S\" logo (worn by the left-central person).",
+    "The laser-cut panels are a light tan / beige colour consistent with thin plywood or card material; edges show darker burn marks from cutting.",
+    "The glue gun is dark grey or black plastic with a visible black power cord.",
+    "The left-central person wears a semi-transparent white/light jacket with perforated texture; the right-central person wears a pale blue striped shirt.",
+    "Background glazing and interior surfaces are predominantly glass and white-painted or light-coloured finishes, with some red structural or decorative banding visible near the top background."
+  ],
+  "id": "bd92122210acf4a7fc1e008c",
+  "sha256": "bbba034b27276504163374f39972a151692decbd6a703982b55477beacc4b01d",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:19:09.083786+00:00",
+  "input_resolution": [
+    2040,
+    1360
+  ],
+  "input_sha256": "b23c235cc0de0447428af72ff967edfb1419698b44be680b29ccd04633029a2c",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-EatjHzCWg43RG1Zry60JRNbaTh22y",
+  "usage": {
+    "completion_tokens": 1048,
+    "prompt_tokens": 2237,
+    "total_tokens": 3285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 192,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 7,
+      "engine_ttft_ms": 1178,
+      "engine_ttlt_ms": 8456,
+      "pre_inference_ms": 361,
+      "service_tbt_ms": 7,
+      "service_ttft_ms": 2004,
+      "service_ttlt_ms": 9276,
+      "user_visible_ttft_ms": 1643
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}

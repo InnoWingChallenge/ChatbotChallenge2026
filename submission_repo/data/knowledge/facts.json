@@ -1,0 +1,105 @@
+[
+  {
+    "fact_id": "fact_additive_manufacturing_alias",
+    "subject_id": "term_additive_manufacturing",
+    "predicate": "also_known_as",
+    "value": "3D printing",
+    "statement": "3D printing is also known as additive manufacturing.",
+    "keywords": [
+      "3D printing",
+      "additive manufacturing",
+      "also known as",
+      "aka"
+    ],
+    "provenance": [
+      {
+        "source_type": "web_text",
+        "source_url": "https://innoacademy.engg.hku.hk/cad_competition-2025/",
+        "document_id": "doc_9f9bb43acdd8f546",
+        "evidence": "Allow for better knowledge in additive manufacturing (aka 3D printing)",
+        "retrieved_at": "2026-09-23"
+      }
+    ],
+    "confidence": 1.0,
+    "verified": true
+  },
+  {
+    "fact_id": "fact_innovation_wing_faculty",
+    "subject_id": "org_tam_wing_fan_innovation_wing",
+    "predicate": "managed_by",
+    "object_id": "org_hku_faculty_of_engineering",
+    "statement": "The Tam Wing Fan Innovation Wing is managed by the HKU Faculty of Engineering.",
+    "keywords": [
+      "Innovation Wing",
+      "faculty",
+      "Faculty of Engineering",
+      "engineering innovation centre"
+    ],
+    "provenance": [
+      {
+        "source_type": "web_text",
+        "source_url": "https://innowings.engg.hku.hk/kit/",
+        "document_id": "doc_05a79a2fbf182270",
+        "evidence": "The Innovation Wing is managed by the Faculty of Engineering",
+        "retrieved_at": "2026-09-23"
+      }
+    ],
+    "confidence": 1.0,
+    "verified": true
+  },
+  {
+    "fact_id": "fact_funding_2025_26_second_round_deadline",
+    "subject_id": "funding_scheme_2025_26_second_round",
+    "predicate": "application_deadline",
+    "value": "2026-02-27",
+    "display_value": "27 February 2026",
+    "statement": "The application deadline for the second round of the Funding Scheme in 2025-26 was 27 February 2026.",
+    "keywords": [
+      "Funding Scheme",
+      "2025-26",
+      "second round",
+      "deadline",
+      "February 27 2026"
+    ],
+    "provenance": [
+      {
+        "source_type": "web_text",
+        "source_url": "https://innoacademy.engg.hku.hk/funding-scheme/",
+        "document_id": "doc_85fe1c4246dd0609",
+        "evidence": "Applicants should arrange for the following materials to reach the Innovation Academy by February 27 2026 (Friday)",
+        "retrieved_at": "2026-09-23"
+      }
+    ],
+    "confidence": 1.0,
+    "verified": true
+  },
+  {
+    "fact_id": "fact_laser_cutter_prohibited_materials_web",
+    "subject_id": "equipment_acrylic_laser_cutter",
+    "predicate": "must_not_laser",
+    "object_ids": [
+      "material_pvc",
+      "material_teflon"
+    ],
+    "statement": "The acrylic laser cutter instructions say not to laser PVC or Teflon because they may generate toxic fumes.",
+    "keywords": [
+      "laser cutter",
+      "banned materials",
+      "prohibited materials",
+      "PVC",
+      "Teflon",
+      "toxic fumes"
+    ],
+    "provenance": [
+      {
+        "source_type": "web_text",
+        "source_url": "https://innowings.engg.hku.hk/acrylic/",
+        "document_id": "doc_d9f5e54f1376d013",
+        "evidence": "Do not laser heat-sensitive surfaces or materials that may generate toxic fumes, such as PVC and Teflon.",
+        "retrieved_at": "2026-09-23"
+      }
+    ],
+    "confidence": 1.0,
+    "verified": true
+  }
+]

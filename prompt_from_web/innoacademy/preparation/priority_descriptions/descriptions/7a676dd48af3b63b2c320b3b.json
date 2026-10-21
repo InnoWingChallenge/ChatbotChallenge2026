@@ -1,0 +1,131 @@
+{
+  "title": "Open-frame race chassis with workshops tools and monitors",
+  "suitable": true,
+  "location": "unknown from image",
+  "objects_and_counts": [
+    "No people are visible in the photographed scene.",
+    "One open-frame formula-style race car chassis is visible occupying the central image area; the chassis is a tubular black metal frame with a single black molded seat installed.",
+    "One segmented blue foam nose cone is attached to the front-left area of the chassis (front of image) and is visible in full.",
+    "At least one Hoosier-branded racing slick tyre is clearly visible on the right side of the chassis (closest to the image right). Another wheel/tire assembly is partially visible behind the chassis on the left-rear area but is partially obscured.",
+    "One black racing bucket seat is mounted in the chassis (center-right area of the chassis).",
+    "Two large curved monitors are mounted together on a single stand behind the chassis (background, center-left).",
+    "One black high-back gaming/office chair with visible cutouts is located behind the chassis left of the monitors (background, left).",
+    "One tall red metal tool chest with multiple drawers is visible at the background right.",
+    "Two small battery packs and one battery charger or docking station are placed on top of the red tool chest (top-right).",
+    "One orange and grey wet/dry vacuum cleaner is positioned on the right foreground next to the chassis rear right wheel.",
+    "Three round wooden-top stools with black metal legs are visible: one left foreground, one right foreground, and one near the tool chest (countable individual stools in image).",
+    "One white shopping bag with a printed label sits on the floor beneath the front of the chassis (front-center underneath nose).",
+    "One tall narrow carbon-fiber-looking rectangular panel or cover stands vertically behind the front-left area of the chassis (left of center).",
+    "One boxed product with a large letter 'F' on its front face is visible behind the left-side chair (background, left).",
+    "Multiple small hand tools and loose small parts are visible on and inside the chassis front subframe area (front-center), but individual items are partially obscured and not all are countable."
+  ],
+  "visible_text": [
+    "Hoosier",
+    "MARKS & SPENCER",
+    "F",
+    "FORMULA & GT FOLDABLE CO[unreadable]",
+    "CONTENT MANAGER",
+    "EB"
+  ],
+  "spatial_relations": [
+    "The open-frame chassis occupies the central area of the image with its nose pointing toward the left foreground and its rear toward the right background.",
+    "The blue foam nose cone is attached to the left-front corner of the chassis and is closest to the left foreground stool.",
+    "The dual curved monitors are mounted behind the front-left part of the chassis (background, center-left); a black high-back chair sits to the left of those monitors.",
+    "The red tool chest is positioned in the background at the image right, behind the chassis rear; the orange/grey vacuum cleaner is placed in front of that tool chest and adjacent to the chassis right rear wheel.",
+    "Three round stools are distributed around the chassis: one left foreground near the nose, one right foreground near the vacuum, and one nearer the right background beside the tool chest.",
+    "A tall narrow dark panel (carbon-fiber appearance) stands vertically between the chassis front subframe and the monitors behind it.",
+    "A white shopping bag is directly under the chassis front area, between the nose cone and the camera viewpoint."
+  ],
+  "colours_and_materials": [
+    "The chassis tubing is black metal with a matte finish.",
+    "The nose cone is bright light blue foam, visibly segmented.",
+    "The large tool chest is red painted metal with silver drawer handles.",
+    "The vacuum cleaner is orange and grey plastic with a black hose.",
+    "The racing tyre has black rubber with white painted lettering 'Hoosier'.",
+    "The visible seat in the chassis is black textile or composite material with a small yellow label attached.",
+    "The monitors have dark bezels and display bluish screen content; the gaming chair is black with some red accents."
+  ],
+  "uncertainties": [
+    "No room name or room number is legible in the image; location cannot be determined from the image alone.",
+    "Several small labels and logos are partially obscured or too small to read—examples include the small yellow label on the seat (transcription not attempted) and text on the top of the red tool chest that is not fully legible.",
+    "The boxed product behind the chair shows partial text 'FORMULA & GT FOLDABLE CO[unreadable]'—the remainder of the wording is unreadable.",
+    "The white shopping bag text is legible as 'MARKS & SPENCER'; other small printed matter on the floor and tools contains unreadable fragments.",
+    "The number of small hand tools and loose parts on the chassis front cannot be precisely counted due to overlap and partial occlusion.",
+    "At least one wheel is clearly visible; another wheel assembly is partially visible but its completeness and exact count cannot be determined from this view alone."
+  ],
+  "visual_facts": [
+    "No people are visible in the photographed scene.",
+    "One open-frame formula-style race car chassis is visible occupying the central image area; the chassis is a tubular black metal frame with a single black molded seat installed.",
+    "One segmented blue foam nose cone is attached to the front-left area of the chassis (front of image) and is visible in full.",
+    "At least one Hoosier-branded racing slick tyre is clearly visible on the right side of the chassis (closest to the image right). Another wheel/tire assembly is partially visible behind the chassis on the left-rear area but is partially obscured.",
+    "One black racing bucket seat is mounted in the chassis (center-right area of the chassis).",
+    "Two large curved monitors are mounted together on a single stand behind the chassis (background, center-left).",
+    "One black high-back gaming/office chair with visible cutouts is located behind the chassis left of the monitors (background, left).",
+    "One tall red metal tool chest with multiple drawers is visible at the background right.",
+    "Two small battery packs and one battery charger or docking station are placed on top of the red tool chest (top-right).",
+    "One orange and grey wet/dry vacuum cleaner is positioned on the right foreground next to the chassis rear right wheel.",
+    "Three round wooden-top stools with black metal legs are visible: one left foreground, one right foreground, and one near the tool chest (countable individual stools in image).",
+    "One white shopping bag with a printed label sits on the floor beneath the front of the chassis (front-center underneath nose).",
+    "One tall narrow carbon-fiber-looking rectangular panel or cover stands vertically behind the front-left area of the chassis (left of center).",
+    "One boxed product with a large letter 'F' on its front face is visible behind the left-side chair (background, left).",
+    "Multiple small hand tools and loose small parts are visible on and inside the chassis front subframe area (front-center), but individual items are partially obscured and not all are countable.",
+    "The chassis tubing is black metal with a matte finish.",
+    "The nose cone is bright light blue foam, visibly segmented.",
+    "The large tool chest is red painted metal with silver drawer handles.",
+    "The vacuum cleaner is orange and grey plastic with a black hose.",
+    "The racing tyre has black rubber with white painted lettering 'Hoosier'.",
+    "The visible seat in the chassis is black textile or composite material with a small yellow label attached.",
+    "The monitors have dark bezels and display bluish screen content; the gaming chair is black with some red accents."
+  ],
+  "id": "7a676dd48af3b63b2c320b3b",
+  "sha256": "68cd40e6586dedcb9c1f923a56ea79d1c20ff3dceef766a8acfea454bee296f8",
+  "model": "gpt-5-mini",
+  "response_model": "gpt-5-mini-2025-08-07",
+  "generator": "azure_vision_api",
+  "reasoning_effort": "low",
+  "prompt_version": "equipment-space-api-v3",
+  "prompt_sha256": "0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1",
+  "viewed": true,
+  "described_at": "2026-10-20T02:13:51.824089+00:00",
+  "input_resolution": [
+    2000,
+    1126
+  ],
+  "input_sha256": "b22717308170146111ab11eecd75bc6230f0b4782910f9f0821c979576b9a37b",
+  "image_detail": "high",
+  "finish_reason": "stop",
+  "response_id": "chatcmpl-Eate6bhPbMUuRhQK43fnaSmyp1SXT",
+  "usage": {
+    "completion_tokens": 1551,
+    "prompt_tokens": 2439,
+    "total_tokens": 3990,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 448,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1152,
+      "image_tokens": null,
+      "text_tokens": null
+    },
+    "latency_checkpoint": {
+      "engine_tbt_ms": 6,
+      "engine_ttft_ms": 1283,
+      "engine_ttlt_ms": 11249,
+      "pre_inference_ms": 543,
+      "service_tbt_ms": 6,
+      "service_ttft_ms": 2965,
+      "service_ttlt_ms": 12925,
+      "user_visible_ttft_ms": 2422
+    }
+  },
+  "max_completion_tokens": 6000,
+  "review_status": "needs_sample_review",
+  "base_prompt_sha256": "ebacda0073383eae66031f2cab541fd8b510350d9573aa62c3d9196c6f2ece00",
+  "prompt_path": "prompt_from_web/innoacademy/preparation/priority_descriptions/prompts/0f12cea59b950af590893823864b0452729e2dc8190fc801cde6485cff724aa1.txt"
+}
